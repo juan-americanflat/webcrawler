@@ -8,7 +8,7 @@ on:
 jobs:
   check-rankings:
     runs-on: ubuntu-latest
-
+    permissions: write-all
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
@@ -37,6 +37,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/juan-americanflat/webcrawler.git
           git add results_latest.csv
           git diff --staged --quiet || git commit -m "Weekly rank results $(date +'%Y-%m-%d')"
           git push
