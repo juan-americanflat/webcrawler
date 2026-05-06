@@ -1,43 +1,56 @@
-name: Weekly SEO Rank Checker
+name: SEO Rank Checker
 
 on:
   schedule:
-    - cron: '0 13 * * 1'  # Every Monday at 8am EST (1pm UTC)
-  workflow_dispatch:        # Allow manual runs from GitHub Actions tab
+    # Every Monday at 8:00 AM EST (13:00 UTC)
+    - cron: "0 13 * * 1"
+  workflow_dispatch: {}
 
 jobs:
   check-rankings:
     runs-on: ubuntu-latest
-    permissions: write-all
+    permissions:
+      contents: write
+
     steps:
-      - name: Checkout repo
+      - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install requests gspread google-auth python-dotenv
+        run: |
+          pip install --upgrade pip
+          pip install requests gspread google-auth python-dotenv
 
       - name: Run rank checker
         env:
           VALUESERP_KEY: ${{ secrets.VALUESERP_KEY }}
-        run: python rank_checker.py --keywords keywords.csv --output results_latest.csv
-
-      - name: Upload results to Google Sheets
-        continue-on-error: true
-        env:
-          GOOGLE_SERVICE_ACCOUNT_JSON: ${{ secrets.GOOGLE_SERVICE_ACCOUNT_JSON }}
-          GOOGLE_SHEET_ID: ${{ secrets.GOOGLE_SHEET_ID }}
-        run: python sheets_writer.py --input results_latest.csv
-
-      - name: Commit results CSV to repo
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
-          git remote set-url origin https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/juan-americanflat/webcrawler.git
-          git add results_latest.csv
-          git diff --staged --quiet || git commit -m "Weekly rank results $(date +'%Y-%m-%d')"
-          git push
+          python rank_checker.py --keywords keywords.csv --output results_latest.csv
+
+      - name: Save dated snapshot to results_history
+        run: |
+          mkdir -p results_history
+          DATE=$(date -u +"%Y-%m-%d")
+          cp results_latest.csv "results_history/results_${DATE}.csv"
+          echo "Saved snapshot: results_history/results_${DATE}.csv"
+
+      - name: Commit results back to repo
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add results_latest.csv results_history/
+          # Only commit if there are changes
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            DATE=$(date -u +"%Y-%m-%d")
+            git commit -m "chore: update SEO rankings ${DATE} [skip ci]"
+            git push origin main
+          fi
