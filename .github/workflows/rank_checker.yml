@@ -1,10 +1,47 @@
 name: SEO Rank Checker
 
+# Tiered cron schedule — keeps us under the SERP plan's 10k searches/month
+# budget while running high-priority keywords daily for fast signal on
+# revenue-driving terms. With 147 high / 179 medium / 33 low keywords:
+#
+#   high   daily  →    147 × 30   ≈ 4,410 / month
+#   medium 3×/wk  →    179 × 13   ≈ 2,327 / month
+#   low    weekly →     33 × 4.33 ≈   143 / month
+#   total                          ≈ 6,880 / month  (≈ 69 % of plan,
+#                                                    leaves ~3,100 buffer
+#                                                    for manual reruns
+#                                                    and new keywords)
+#
+# Cron times are staggered by minute so `github.event.schedule` is
+# unambiguous on Monday (when all three crons fire) and the runs queue
+# instead of racing on `git push` (see `concurrency:` below).
+
 on:
   schedule:
-    # Every Monday at 8:00 AM EST (13:00 UTC)
-    - cron: "0 13 * * 1"
-  workflow_dispatch: {}
+    # High priority — every day at 13:00 UTC (8 AM EST / 9 AM EDT)
+    - cron: "0 13 * * *"
+    # Medium priority — Mon / Wed / Fri at 13:15 UTC
+    - cron: "15 13 * * 1,3,5"
+    # Low priority — Mondays at 13:30 UTC
+    - cron: "30 13 * * 1"
+  workflow_dispatch:
+    inputs:
+      priority:
+        description: "Priority tier to check (manual run)"
+        type: choice
+        options:
+          - all
+          - high
+          - medium
+          - low
+        default: all
+
+# Serialise all runs of this workflow. On Mondays all three crons fire
+# within 30 minutes; without this they'd race on `git push origin main`
+# and the later runs would fail. Queue them instead.
+concurrency:
+  group: rank-checker
+  cancel-in-progress: false
 
 jobs:
   check-rankings:
@@ -18,6 +55,30 @@ jobs:
         with:
           fetch-depth: 0
 
+      - name: Determine priority tier
+        id: tier
+        # Manual dispatches pass `inputs.priority` explicitly. Scheduled
+        # runs detect the tier from the cron expression that fired —
+        # `github.event.schedule` contains the exact string from the
+        # cron: list above. Falling through to "all" is defensive: if
+        # someone edits the cron entries above without updating this
+        # case, the run still does something useful.
+        run: |
+          if [ -n "${{ inputs.priority }}" ]; then
+            PRIORITY="${{ inputs.priority }}"
+            SOURCE="manual"
+          else
+            case "${{ github.event.schedule }}" in
+              "0 13 * * *")       PRIORITY="high";   SOURCE="cron-daily"   ;;
+              "15 13 * * 1,3,5")  PRIORITY="medium"; SOURCE="cron-mwf"     ;;
+              "30 13 * * 1")      PRIORITY="low";    SOURCE="cron-weekly"  ;;
+              *)                  PRIORITY="all";    SOURCE="cron-unknown" ;;
+            esac
+          fi
+          echo "priority=${PRIORITY}" >> "$GITHUB_OUTPUT"
+          echo "source=${SOURCE}"     >> "$GITHUB_OUTPUT"
+          echo "::notice title=Tier::Running priority=${PRIORITY} (${SOURCE})"
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
@@ -28,29 +89,101 @@ jobs:
           pip install --upgrade pip
           pip install requests gspread google-auth python-dotenv
 
-      - name: Run rank checker
+      - name: Run rank checker (tier=${{ steps.tier.outputs.priority }})
         env:
           VALUESERP_KEY: ${{ secrets.VALUESERP_KEY }}
         run: |
-          python rank_checker.py --keywords keywords.csv --output results_latest.csv
+          python rank_checker.py \
+            --keywords keywords.csv \
+            --output tier_results.csv \
+            --priority "${{ steps.tier.outputs.priority }}"
 
-      - name: Save dated snapshot to results_history
+      - name: Merge tier results into results_latest.csv + dated snapshot
+        # Two writes, one Python invocation. We intentionally keep
+        # results_latest.csv full (all 359 keywords always present —
+        # untouched-tier rows hold their previous values) so the
+        # Streamlit page's table never goes blank between tier runs.
+        # In contrast the dated snapshot under results_history/ only
+        # contains the rows that were actually re-checked today. That
+        # way the per-keyword history chart shows genuine measurement
+        # points instead of repeated stale positions.
         run: |
-          mkdir -p results_history
-          DATE=$(date -u +"%Y-%m-%d")
-          cp results_latest.csv "results_history/results_${DATE}.csv"
-          echo "Saved snapshot: results_history/results_${DATE}.csv"
+          python - <<'PY'
+          import csv
+          from datetime import datetime, timezone
+          from pathlib import Path
+
+          tier_file = Path("tier_results.csv")
+          latest    = Path("results_latest.csv")
+          history   = Path("results_history")
+          history.mkdir(exist_ok=True)
+          snapshot  = history / f"results_{datetime.now(timezone.utc):%Y-%m-%d}.csv"
+
+          tier_rows = list(csv.DictReader(open(tier_file)))
+          if not tier_rows:
+              print("No tier results to merge; exiting cleanly.")
+              raise SystemExit(0)
+
+          # ── 1. Upsert tier rows into results_latest.csv ──────────────
+          existing = list(csv.DictReader(open(latest))) if latest.exists() else []
+          by_kw = {r["keyword"]: r for r in existing}
+          for r in tier_rows:
+              by_kw[r["keyword"]] = r
+
+          # Preserve keywords.csv order so the table column order in the
+          # Streamlit page is stable run-to-run.
+          kw_order = [r["keyword"].strip() for r in csv.DictReader(open("keywords.csv"))]
+          ordered  = [by_kw[k] for k in kw_order if k in by_kw]
+          # Append any orphans (keyword in merged but not in keywords.csv).
+          # Defensive: shouldn't happen unless someone edits keywords.csv
+          # mid-flight, but better to keep the data than drop it.
+          for k, r in by_kw.items():
+              if k not in kw_order:
+                  ordered.append(r)
+
+          fieldnames = list(ordered[0].keys())
+          with open(latest, "w", newline="") as f:
+              w = csv.DictWriter(f, fieldnames=fieldnames)
+              w.writeheader()
+              w.writerows(ordered)
+          print(f"results_latest.csv: merged {len(tier_rows)} tier rows "
+                f"(total {len(ordered)} rows in file)")
+
+          # ── 2. Merge tier rows into today's snapshot ────────────────
+          # If another tier ran earlier today (e.g. on a Monday when
+          # high → medium → low all fire), the file already exists; we
+          # add this tier's rows to it. The result is one snapshot per
+          # day with only the keywords that were actually checked that
+          # day across any tier.
+          snap_existing = list(csv.DictReader(open(snapshot))) if snapshot.exists() else []
+          snap_by_kw    = {r["keyword"]: r for r in snap_existing}
+          for r in tier_rows:
+              snap_by_kw[r["keyword"]] = r
+          snap_out = list(snap_by_kw.values())
+
+          with open(snapshot, "w", newline="") as f:
+              w = csv.DictWriter(f, fieldnames=fieldnames)
+              w.writeheader()
+              w.writerows(snap_out)
+          print(f"{snapshot}: {len(snap_out)} rows "
+                f"(added {len(tier_rows)} from this tier)")
+          PY
 
       - name: Commit results back to repo
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
+          # tier_results.csv is intermediate — never commit it.
+          rm -f tier_results.csv
           git add results_latest.csv results_history/
-          # Only commit if there are changes
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
             DATE=$(date -u +"%Y-%m-%d")
-            git commit -m "chore: update SEO rankings ${DATE} [skip ci]"
-            git push origin main
+            TIER="${{ steps.tier.outputs.priority }}"
+            git commit -m "chore: update SEO rankings (${TIER}) ${DATE} [skip ci]"
+            # Retry once on push conflict — concurrency:group serialises
+            # us against other rank_checker runs but unrelated commits
+            # (manual edits, other workflows) can still race.
+            git push origin main || (git pull --rebase origin main && git push origin main)
           fi

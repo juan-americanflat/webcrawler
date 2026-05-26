@@ -40,6 +40,15 @@ python rank_checker.py --domain americanflat.com
 python rank_checker.py --top 50
 ```
 
+### Only run a single priority tier
+```bash
+python rank_checker.py --priority high     # 147 keywords
+python rank_checker.py --priority medium   # 179 keywords
+python rank_checker.py --priority low      # 33 keywords
+```
+The GitHub Action uses this on a tiered schedule (see below) to stay
+under the SERP plan's 10 k searches/month budget.
+
 ### Test the pipeline without using API credits
 ```bash
 python rank_checker.py --dry-run
@@ -51,8 +60,36 @@ python rank_checker.py \
   --domain americanflat.com \
   --keywords keywords.csv \
   --output results_may2026.csv \
+  --priority high \
   --top 100
 ```
+
+---
+
+## Scheduled runs (GitHub Actions)
+
+`.github/workflows/rank_checker.yml` runs the checker on a tiered cron:
+
+| Tier   | Cron (UTC)       | Days       | Keywords | Searches/mo |
+|--------|------------------|------------|---------:|------------:|
+| high   | `0 13 * * *`     | daily      |      147 |      ~4,410 |
+| medium | `15 13 * * 1,3,5`| Mon/Wed/Fri |     179 |      ~2,327 |
+| low    | `30 13 * * 1`    | Mondays    |       33 |        ~143 |
+|        |                  | **total**  |      359 |  **~6,880** |
+
+Times are staggered by minute so `github.event.schedule` is
+unambiguous on Monday (when all three crons fire) and the runs queue
+via `concurrency: rank-checker` instead of racing on `git push`.
+
+Each run writes to two places:
+- `results_latest.csv` — full 359-row table (untouched tiers keep
+  their previous values, so the Streamlit dashboard never goes blank).
+- `results_history/results_YYYY-MM-DD.csv` — only the keywords
+  actually re-checked that day, so the per-keyword chart shows
+  honest measurement points.
+
+**Manual rerun:** Actions tab → "SEO Rank Checker" → Run workflow →
+choose a priority tier (or `all`).
 
 ---
 

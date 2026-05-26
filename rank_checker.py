@@ -110,7 +110,7 @@ def position_label(pos: int | None) -> str:
     return f"#{pos}"
 
 
-def run(domain: str, keywords_file: str, output: str, top: int | None, dry_run: bool):
+def run(domain: str, keywords_file: str, output: str, top: int | None, dry_run: bool, priority: str = "all"):
     output_file = output
     if not VALUESERP_KEY and not dry_run:
         print("\n❌  VALUESERP_KEY not set. Add it to a .env file or set as environment variable.")
@@ -118,6 +118,18 @@ def run(domain: str, keywords_file: str, output: str, top: int | None, dry_run: 
         return
 
     keywords = load_keywords(keywords_file)
+    # --priority filters the keyword list BEFORE --top is applied. The
+    # GitHub Action uses this to run only one tier per cron schedule so
+    # we stay under the SERP plan's monthly search budget. Passing
+    # "all" (the default) preserves the original behaviour.
+    if priority and priority.lower() != "all":
+        wanted = priority.lower()
+        before = len(keywords)
+        keywords = [k for k in keywords if k["priority"].lower() == wanted]
+        print(f"  Priority filter '{wanted}': {before} → {len(keywords)} keywords")
+        if not keywords:
+            print(f"\n⚠️  No keywords match priority='{wanted}'. Nothing to do.")
+            return
     if top:
         # prioritize: high → medium → low
         order = {"high": 0, "medium": 1, "low": 2}
@@ -125,6 +137,7 @@ def run(domain: str, keywords_file: str, output: str, top: int | None, dry_run: 
 
     print(f"\n{'='*60}")
     print(f"  Domain   : {domain}")
+    print(f"  Priority : {priority}")
     print(f"  Keywords : {len(keywords)}")
     print(f"  Output   : {output_file}")
     print(f"  Dry run  : {dry_run}")
@@ -199,6 +212,10 @@ if __name__ == "__main__":
     parser.add_argument("--keywords", default=DEFAULT_KEYWORDS, help="Keywords CSV file (default: keywords.csv)")
     parser.add_argument("--output",   default=DEFAULT_OUTPUT,   help="Output CSV file")
     parser.add_argument("--top",      type=int, default=None,   help="Only check top N keywords by priority")
+    parser.add_argument("--priority", default="all",
+                        choices=["all", "high", "medium", "low"],
+                        help="Only check keywords with this priority tier (default: all). "
+                             "Used by the GitHub Action to run tiers on different schedules.")
     parser.add_argument("--dry-run",  action="store_true",      help="Skip API calls, just test the pipeline")
     args = parser.parse_args()
 
@@ -208,4 +225,5 @@ if __name__ == "__main__":
         output=args.output,
         top=args.top,
         dry_run=args.dry_run,
+        priority=args.priority,
     )
