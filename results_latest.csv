@@ -33,20 +33,20 @@ multi photo frame,core - brand,high,,Not ranked,,False,196,,2026-06-10T16:38:28.
 16x20 photo frame,size - standard,high,,Not ranked,,False,233,,2026-06-10T16:40:36.814588
 18x24 photo frame,size - standard,high,1,#1 🏆 Top 3,https://americanflat.com/collections/18x24-frames?srsltid=AfmBOoqR3AFiMBcq4djQJRGSDdCva9ohqkbdoh4VC4o51_c-f66Gwtk6,False,239,,2026-06-10T16:40:42.829392
 24x36 photo frame,size - standard,high,,Not ranked,,False,248,,2026-06-10T16:40:48.480758
-2x2 picture frame,size - small,medium,,Not ranked,,False,236,,2026-06-05T16:18:33.202601
-2x3 picture frame,size - small,medium,,Not ranked,,False,258,,2026-06-05T16:18:42.696144
-3x3 picture frame,size - small,medium,,Not ranked,,False,239,,2026-06-05T16:18:52.882803
-3x5 picture frame,size - small,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-05T16:19:09.374228
-4x4 picture frame,size - small,medium,,Not ranked,,False,233,,2026-06-05T16:19:16.178102
-4x5 picture frame,size - small,medium,,Not ranked,,False,253,,2026-06-05T16:19:20.831063
-4x12 picture frame,size - small,medium,,Not ranked,,False,234,,2026-06-05T16:19:26.065566
-5x5 picture frame,size - small,medium,,Not ranked,,False,221,,2026-06-05T16:19:33.117588
-5x15 picture frame,size - small,medium,,Not ranked,,False,226,,2026-06-05T16:19:38.427700
-6x6 picture frame,size - small,medium,3,#3 🏆 Top 3,https://americanflat.com/collections/6x6-frames?srsltid=AfmBOorqsxL57x41qdAmYlWh7T_SXvjPJUMWyYDs0NZdnhRiu1PvJYtU,False,243,,2026-06-05T16:19:43.927628
-6x8 picture frame,size - small,medium,,Not ranked,,False,232,,2026-06-05T16:19:54.858162
-6x9 picture frame,size - small,medium,,Not ranked,,False,248,,2026-06-05T16:19:59.735538
-3x4 picture frame,size - small,medium,,Not ranked,,False,242,,2026-06-05T16:20:15.483622
-wallet size picture frame,size - small,medium,,Not ranked,,False,253,,2026-06-05T16:20:22.178709
+2x2 picture frame,size - small,medium,,Not ranked,,False,225,,2026-06-10T17:00:47.328728
+2x3 picture frame,size - small,medium,,Not ranked,,False,258,,2026-06-10T17:00:56.083608
+3x3 picture frame,size - small,medium,,Not ranked,,False,242,,2026-06-10T17:01:03.963364
+3x5 picture frame,size - small,medium,,Not ranked,,False,253,,2026-06-10T17:01:18.310494
+4x4 picture frame,size - small,medium,,Not ranked,,False,223,,2026-06-10T17:01:27.932072
+4x5 picture frame,size - small,medium,,Not ranked,,False,249,,2026-06-10T17:01:37.713955
+4x12 picture frame,size - small,medium,,Not ranked,,False,238,,2026-06-10T17:01:43.508573
+5x5 picture frame,size - small,medium,,Not ranked,,False,224,,2026-06-10T17:01:59.722703
+5x15 picture frame,size - small,medium,,Not ranked,,False,218,,2026-06-10T17:02:07.381698
+6x6 picture frame,size - small,medium,,Not ranked,,False,238,,2026-06-10T17:02:13.440805
+6x8 picture frame,size - small,medium,,Not ranked,,False,236,,2026-06-10T17:02:19.339270
+6x9 picture frame,size - small,medium,,Not ranked,,False,251,,2026-06-10T17:02:24.367243
+3x4 picture frame,size - small,medium,,Not ranked,,False,242,,2026-06-10T17:02:35.860151
+wallet size picture frame,size - small,medium,,Not ranked,,False,232,,2026-06-10T17:02:40.489959
 1x2 picture frame,size - small,low,,Not ranked,,False,237,,2026-06-08T17:15:59.808164
 2x6 picture frame,size - small,low,,Not ranked,,False,243,,2026-06-08T17:16:14.116283
 3x7 picture frame,size - small,low,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-08T17:16:30.603999
@@ -57,50 +57,50 @@ wallet size picture frame,size - small,medium,,Not ranked,,False,253,,2026-06-05
 7x5 picture frame,size - small,low,,Not ranked,,False,218,,2026-06-08T17:17:14.963500
 10x10 picture frame,size - square/medium,high,,Not ranked,,False,234,,2026-06-10T16:40:54.092986
 12x12 picture frame,size - square/medium,high,,Not ranked,,False,233,,2026-06-10T16:41:00.612494
-8x8 picture frame,size - square/medium,medium,2,#2 🏆 Top 3,https://americanflat.com/collections/8x8-frames?srsltid=AfmBOooMfk2geScPFZGtCXySL8W4lZ6Ca3rp7_bEZJy4lKP_W_YN0qyH,False,239,,2026-06-05T16:20:28.806638
-9x9 picture frame,size - square/medium,medium,,Not ranked,,False,235,,2026-06-05T16:20:38.596580
-6x6 photo frame,size - square/medium,medium,,Not ranked,,False,236,,2026-06-05T16:20:45.165245
-10x12 picture frame,size - square/medium,medium,,Not ranked,,False,237,,2026-06-05T16:20:53.367129
-9x12 picture frame,size - square/medium,medium,2,#2 🏆 Top 3,https://americanflat.com/collections/9x12-frames?srsltid=AfmBOorV1igMNuOgPgu3xoj7j9R3PjpKwnPw20Bb6q0Ie-m4H_QdFDUs,False,242,,2026-06-05T16:21:03.308577
-10x13 picture frame,size - square/medium,medium,,Not ranked,,False,247,,2026-06-05T16:21:08.928200
-8x12 picture frame,size - square/medium,medium,,Not ranked,,False,233,,2026-06-05T16:21:15.341478
-9x11 picture frame,size - square/medium,medium,2,#2 🏆 Top 3,https://americanflat.com/collections/9x11-frames?srsltid=AfmBOoqprZXWHSGpSiA_TIf4ySredfcEeJKGqpVjgWUY3K_b1ye2Z-0x,False,246,,2026-06-05T16:21:21.705729
+8x8 picture frame,size - square/medium,medium,2,#2 🏆 Top 3,https://americanflat.com/collections/8x8-frames?srsltid=AfmBOoosSJuMdWCcPajtN4-ZvkOb0W5AwYEh_5G0XK3moRDKc8uWY7-e,False,239,,2026-06-10T17:02:54.729461
+9x9 picture frame,size - square/medium,medium,,Not ranked,,False,229,,2026-06-10T17:03:04.294233
+6x6 photo frame,size - square/medium,medium,,Not ranked,,False,238,,2026-06-10T17:03:12.462973
+10x12 picture frame,size - square/medium,medium,,Not ranked,,False,247,,2026-06-10T17:03:22.142374
+9x12 picture frame,size - square/medium,medium,,Not ranked,,False,240,,2026-06-10T17:03:34.420339
+10x13 picture frame,size - square/medium,medium,,Not ranked,,False,245,,2026-06-10T17:03:41.601974
+8x12 picture frame,size - square/medium,medium,,Not ranked,,False,235,,2026-06-10T17:03:47.031143
+9x11 picture frame,size - square/medium,medium,2,#2 🏆 Top 3,https://americanflat.com/collections/9x11-frames?srsltid=AfmBOorVMJCisec-_ofyhPP8ZLyutDe7pcKl7gysX7vsr8BnyymQ6aPJ,False,248,,2026-06-10T17:03:57.051164
 12x16 picture frame,size - large,high,,Not ranked,,False,239,,2026-06-10T16:41:07.548681
 12x18 picture frame,size - large,high,,Not ranked,,False,235,,2026-06-10T16:41:23.140674
 14x18 picture frame,size - large,high,,Not ranked,,False,237,,2026-06-10T16:41:28.424580
 16x24 picture frame,size - large,high,,Not ranked,,False,242,,2026-06-10T16:41:34.729041
 20x24 picture frame,size - large,high,,Not ranked,,False,224,,2026-06-10T16:41:41.371610
 20x30 picture frame,size - large,high,,Not ranked,,False,233,,2026-06-10T16:41:53.682013
-22x28 picture frame,size - large,medium,3,#3 🏆 Top 3,https://americanflat.com/collections/22x28-frames?srsltid=AfmBOor-jbsIh1MxucNRifOjHaYbt3uqtsI627L8-dkyLGWYZxoL0Xks,False,233,,2026-06-05T16:21:28.319066
-24x24 picture frame,size - large,medium,5,#5 ✅ Page 1,https://americanflat.com/collections/24x24-frames?srsltid=AfmBOorO7nRUtkR4zQQ-KZUyiEkRBjtTTdQb2vGZHLoJ96iTztbF7k4L,False,231,,2026-06-05T16:21:35.156557
-24x30 picture frame,size - large,medium,,Not ranked,,False,243,,2026-06-05T16:21:43.589674
-24x32 picture frame,size - large,medium,,Not ranked,,False,231,,2026-06-05T16:21:48.184097
-16x16 picture frame,size - large,medium,6,#6 ✅ Page 1,https://americanflat.com/collections/16x16-frames?srsltid=AfmBOoqcjHfjZPtE8bypZ0q9ufghpBq49hrnquVc17u7t8sjax0belqo,False,234,,2026-06-05T16:21:55.217484
-18x18 picture frame,size - large,medium,,Not ranked,,False,223,,2026-06-05T16:22:00.080222
-18x20 picture frame,size - large,medium,,Not ranked,,False,244,,2026-06-05T16:22:06.091924
-20x20 picture frame,size - large,medium,8,#8 ✅ Page 1,https://americanflat.com/collections/20x20-frames?srsltid=AfmBOooUAWeUyk1zEnlqDdi8qGD5fhvu9skPOD8SF1Qm7NAJzRjmhG15,False,228,,2026-06-05T16:22:12.237379
-14x14 picture frame,size - large,medium,,Not ranked,,False,258,,2026-06-05T16:22:20.168088
-14x17 picture frame,size - large,medium,,Not ranked,,False,201,,2026-06-05T16:22:32.027378
+22x28 picture frame,size - large,medium,2,#2 🏆 Top 3,https://americanflat.com/collections/22x28-frames?srsltid=AfmBOooMZSyb1gbHauKNwN2UhLuFbHCrgm2hR7jd7A6dDj1-7OmMHKrl,False,238,,2026-06-10T17:04:05.316677
+24x24 picture frame,size - large,medium,5,#5 ✅ Page 1,https://americanflat.com/collections/24x24-frames?srsltid=AfmBOopo43u0B7IoF2V7Txa9Q4msly_-UX4S8zeJ5CtOPFB7m3851eD9,False,231,,2026-06-10T17:04:18.220047
+24x30 picture frame,size - large,medium,,Not ranked,,False,251,,2026-06-10T17:04:27.476657
+24x32 picture frame,size - large,medium,,Not ranked,,False,231,,2026-06-10T17:04:32.545952
+16x16 picture frame,size - large,medium,1,#1 🏆 Top 3,https://americanflat.com/collections/16x16-frames?srsltid=AfmBOopT9W5Xa0cS_DmGmqNbHByygx6RuG_0rh_J_d1FNAuIlFE2vxta,False,234,,2026-06-10T17:04:41.939056
+18x18 picture frame,size - large,medium,,Not ranked,,False,222,,2026-06-10T17:04:51.257719
+18x20 picture frame,size - large,medium,,Not ranked,,False,246,,2026-06-10T17:04:55.841662
+20x20 picture frame,size - large,medium,7,#7 ✅ Page 1,https://americanflat.com/collections/20x20-frames?srsltid=AfmBOoqk9nw82gehU3hZVgK-7_YxNfJSh9NAuiLS0PH0BFdTZKXEhFHU,False,244,,2026-06-10T17:05:05.967170
+14x14 picture frame,size - large,medium,,Not ranked,,False,248,,2026-06-10T17:05:12.153861
+14x17 picture frame,size - large,medium,,Not ranked,,False,201,,2026-06-10T17:05:18.055246
 30x40 picture frame,size - extra large,high,,Not ranked,,False,241,,2026-06-10T16:41:58.722087
 27x40 picture frame,size - extra large,high,,Not ranked,,False,235,,2026-06-10T16:42:12.026618
 24x36 poster frame,size - extra large,high,,Not ranked,,False,262,,2026-06-10T16:42:22.404264
-36x48 picture frame,size - extra large,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-05T16:22:48.448781
-40x40 picture frame,size - extra large,medium,,Not ranked,,False,247,,2026-06-05T16:22:53.263077
-28x40 picture frame,size - extra large,medium,,Not ranked,,False,225,,2026-06-05T16:22:59.185533
-32x40 picture frame,size - extra large,medium,,Not ranked,,False,198,,2026-06-05T16:23:05.861469
-18x24 poster frame,size - extra large,medium,2,#2 🏆 Top 3,https://americanflat.com/collections/18x24-frames?srsltid=AfmBOorD4PYfyQpPWcVDiLOXRN69jem1hsGsncKdu4HNq-QC3-NsuDb1,False,261,,2026-06-05T16:23:11.614383
-20x28 picture frame,size - extra large,medium,,Not ranked,,False,242,,2026-06-05T16:23:17.336117
+36x48 picture frame,size - extra large,medium,,Not ranked,,False,238,,2026-06-10T17:05:25.677782
+40x40 picture frame,size - extra large,medium,,Not ranked,,False,259,,2026-06-10T17:05:32.684195
+28x40 picture frame,size - extra large,medium,,Not ranked,,False,245,,2026-06-10T17:05:38.177258
+32x40 picture frame,size - extra large,medium,,Not ranked,,False,203,,2026-06-10T17:05:47.984336
+18x24 poster frame,size - extra large,medium,4,#4 ✅ Page 1,https://americanflat.com/collections/18x24-frames?srsltid=AfmBOopa0lP3gR7YbzEb8HR-RYGjtZ_VlYpd0YBRQKRO7LwUNb0wcDz3,False,234,,2026-06-10T17:05:56.378278
+20x28 picture frame,size - extra large,medium,,Not ranked,,False,239,,2026-06-10T17:06:02.098444
 36x36 picture frame,size - extra large,low,,Not ranked,,False,231,,2026-06-08T17:17:27.507812
 30x30 picture frame,size - extra large,low,,Not ranked,,False,260,,2026-06-08T17:17:37.677632
 36x24 picture frame,size - extra large,low,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-08T17:17:54.098022
 48x36 picture frame,size - extra large,low,,Not ranked,,False,190,,2026-06-08T17:17:58.454503
-odd size picture frames,size - odd/custom,medium,,Not ranked,,False,214,,2026-06-05T16:23:21.950548
-unusual size picture frames,size - odd/custom,medium,,Not ranked,,False,208,,2026-06-05T16:23:28.017078
-non standard picture frames,size - odd/custom,medium,,Not ranked,,False,197,,2026-06-05T16:23:32.334977
-custom size picture frame,size - odd/custom,medium,,Not ranked,,False,198,,2026-06-05T16:23:39.561241
-odd shaped picture frames,size - odd/custom,medium,,Not ranked,,False,211,,2026-06-05T16:23:48.231407
-picture frame sizes chart,size - odd/custom,medium,,Not ranked,,False,189,,2026-06-05T16:23:56.182324
-7x9 picture frame,size - odd/custom,medium,,Not ranked,,False,248,,2026-06-05T16:24:01.381082
+odd size picture frames,size - odd/custom,medium,,Not ranked,,False,205,,2026-06-10T17:06:06.656449
+unusual size picture frames,size - odd/custom,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T17:06:23.220179
+non standard picture frames,size - odd/custom,medium,,Not ranked,,False,192,,2026-06-10T17:06:29.490530
+custom size picture frame,size - odd/custom,medium,,Not ranked,,False,247000000,,2026-06-10T17:06:36.480524
+odd shaped picture frames,size - odd/custom,medium,,Not ranked,,False,222,,2026-06-10T17:06:42.795573
+picture frame sizes chart,size - odd/custom,medium,,Not ranked,,False,187,,2026-06-10T17:06:50.246221
+7x9 picture frame,size - odd/custom,medium,,Not ranked,,False,256,,2026-06-10T17:07:01.602474
 6x7 picture frame,size - odd/custom,low,,Not ranked,,False,252,,2026-06-08T17:18:10.159113
 7x10 picture frame,size - odd/custom,low,,Not ranked,,False,244,,2026-06-08T17:18:18.164974
 8x9 picture frame,size - odd/custom,low,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-08T17:18:34.686574
@@ -124,24 +124,24 @@ black wall frame,color/style,high,,Not ranked,,False,201,,2026-06-10T16:43:26.80
 white wall frame,color/style,high,,Not ranked,,False,191,,2026-06-10T16:43:34.604681
 wood picture frame,color/style,high,,Not ranked,,False,204,,2026-06-10T16:43:40.874462
 wooden picture frame,color/style,high,,Not ranked,,False,197,,2026-06-10T16:43:55.824658
-natural wood picture frame,color/style,medium,,Not ranked,,False,206,,2026-06-05T16:24:14.279299
-dark wood picture frame,color/style,medium,,Not ranked,,False,236,,2026-06-05T16:24:24.017454
-rustic picture frame,color/style,medium,,Not ranked,,False,194,,2026-06-05T16:24:35.192345
-walnut picture frame,color/style,medium,,Not ranked,,False,181,,2026-06-05T16:24:41.271499
-oak picture frame,color/style,medium,,Not ranked,,False,209,,2026-06-05T16:24:46.802373
-bamboo picture frame,color/style,medium,,Not ranked,,False,186,,2026-06-05T16:25:01.653789
-mahogany picture frame,color/style,medium,,Not ranked,,False,225,,2026-06-05T16:25:08.069024
-brown picture frame,color/style,medium,,Not ranked,,False,195,,2026-06-05T16:25:18.477836
-rose gold picture frame,color/style,medium,,Not ranked,,False,236,,2026-06-05T16:25:24.545071
-copper picture frame,color/style,medium,,Not ranked,,False,174,,2026-06-05T16:25:36.067679
-antique gold picture frame,color/style,medium,,Not ranked,,False,196,,2026-06-05T16:25:44.390506
-brushed gold picture frame,color/style,medium,6,#6 ✅ Page 1,https://americanflat.com/collections/gold-picture-frames?srsltid=AfmBOorXHlpen3f20AgahqzvP_XyocKXgeTLoK4t_OGCrgYlzmD5dzL7,False,193,,2026-06-05T16:26:00.095073
-matte black picture frame,color/style,medium,,Not ranked,,False,199,,2026-06-05T16:26:05.858137
+natural wood picture frame,color/style,medium,,Not ranked,,False,204,,2026-06-10T17:07:09.307129
+dark wood picture frame,color/style,medium,,Not ranked,,False,238,,2026-06-10T17:07:21.285124
+rustic picture frame,color/style,medium,,Not ranked,,False,195,,2026-06-10T17:07:28.022915
+walnut picture frame,color/style,medium,,Not ranked,,False,171,,2026-06-10T17:07:38.070462
+oak picture frame,color/style,medium,,Not ranked,,False,206,,2026-06-10T17:07:42.660546
+bamboo picture frame,color/style,medium,,Not ranked,,False,188,,2026-06-10T17:07:50.482655
+mahogany picture frame,color/style,medium,,Not ranked,,False,233,,2026-06-10T17:07:57.474968
+brown picture frame,color/style,medium,,Not ranked,,False,198,,2026-06-10T17:08:05.832504
+rose gold picture frame,color/style,medium,,Not ranked,,False,227,,2026-06-10T17:08:20.824962
+copper picture frame,color/style,medium,,Not ranked,,False,176,,2026-06-10T17:08:25.574603
+antique gold picture frame,color/style,medium,,Not ranked,,False,217,,2026-06-10T17:08:38.016812
+brushed gold picture frame,color/style,medium,,Not ranked,,False,204,,2026-06-10T17:08:46.859095
+matte black picture frame,color/style,medium,,Not ranked,,False,205,,2026-06-10T17:09:01.484940
 glossy picture frame,color/style,low,,Not ranked,,False,209,,2026-06-08T17:19:45.344577
 acrylic picture frame,material,high,,Not ranked,,False,195,,2026-06-10T16:44:02.913392
-plastic picture frame,material,medium,,Not ranked,,False,223,,2026-06-05T16:26:11.722445
-metal picture frame,material,medium,,Not ranked,,False,194,,2026-06-05T16:26:24.956767
-aluminum picture frame,material,medium,,Not ranked,,False,194,,2026-06-05T16:26:32.058617
+plastic picture frame,material,medium,,Not ranked,,False,222,,2026-06-10T17:09:10.119103
+metal picture frame,material,medium,,Not ranked,,False,194,,2026-06-10T17:09:17.179105
+aluminum picture frame,material,medium,,Not ranked,,False,194,,2026-06-10T17:09:23.590953
 lucite picture frame,material,low,,Not ranked,,False,218,,2026-06-08T17:19:50.159434
 resin picture frame,material,low,,Not ranked,,False,223,,2026-06-08T17:19:58.219156
 leather picture frame,material,low,,Not ranked,,False,176,,2026-06-08T17:20:05.250308
@@ -158,19 +158,19 @@ gallery wall frame sizes,gallery wall,high,1,#1 🏆 Top 3,https://americanflat.
 gallery wall black frames,gallery wall,high,,Not ranked,,False,205,,2026-06-10T16:45:10.927051
 gallery wall white frames,gallery wall,high,,Not ranked,,False,193,,2026-06-10T16:45:16.572508
 gallery wall mixed frames,gallery wall,high,,Not ranked,,False,207,,2026-06-10T16:45:23.225770
-gallery wall bedroom,gallery wall,medium,,Not ranked,,False,190,,2026-06-05T16:26:47.386233
-gallery wall living room,gallery wall,medium,,Not ranked,,False,176,,2026-06-05T16:26:53.977473
-gallery wall staircase,gallery wall,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-05T16:27:10.453594
-gallery wall above couch,gallery wall,medium,,Not ranked,,False,193,,2026-06-05T16:27:18.605366
-gallery wall above bed,gallery wall,medium,,Not ranked,,False,199,,2026-06-05T16:27:32.063572
-gallery wall office,gallery wall,medium,,Not ranked,,False,195,,2026-06-05T16:27:36.814450
-symmetrical gallery wall,gallery wall,medium,,Not ranked,,False,186,,2026-06-05T16:27:41.631208
-eclectic gallery wall,gallery wall,medium,,Not ranked,,False,189,,2026-06-05T16:27:51.826323
-minimalist gallery wall,gallery wall,medium,,Not ranked,,False,193,,2026-06-05T16:27:56.849340
-gallery wall 4 frames,gallery wall,medium,,Not ranked,,False,203,,2026-06-05T16:28:02.317957
-gallery wall 6 frames,gallery wall,medium,2,#2 🏆 Top 3,https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOooze6HmwT79q0UlcoJhS6b54uot_VtYAFfLgZzIzfINa27rz0EF,False,198,,2026-06-05T16:28:08.128118
-gallery wall 8 frames,gallery wall,medium,,Not ranked,,False,201,,2026-06-05T16:28:13.474507
-gallery wall 10 frames,gallery wall,medium,1,#1 🏆 Top 3,https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOoqdadlFLTMUs_XW0_QkltkTCG5F26qjBJ1_Z1xLcI9zHJrU7UYw,False,213,,2026-06-05T16:28:23.061828
+gallery wall bedroom,gallery wall,medium,,Not ranked,,False,188,,2026-06-10T17:09:29.442632
+gallery wall living room,gallery wall,medium,,Not ranked,,False,171,,2026-06-10T17:09:41.849151
+gallery wall staircase,gallery wall,medium,,Not ranked,,False,187,,2026-06-10T17:09:48.105612
+gallery wall above couch,gallery wall,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T17:10:04.620951
+gallery wall above bed,gallery wall,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T17:10:21.164434
+gallery wall office,gallery wall,medium,,Not ranked,,False,187,,2026-06-10T17:10:30.290327
+symmetrical gallery wall,gallery wall,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T17:10:46.833101
+eclectic gallery wall,gallery wall,medium,,Not ranked,,False,189,,2026-06-10T17:10:51.818043
+minimalist gallery wall,gallery wall,medium,,Not ranked,,False,183,,2026-06-10T17:11:03.164412
+gallery wall 4 frames,gallery wall,medium,,Not ranked,,False,203,,2026-06-10T17:11:09.546917
+gallery wall 6 frames,gallery wall,medium,2,#2 🏆 Top 3,https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOoqvqUoyXqRI7aNGFIlZH0eAU3kU0C6MgWEc4ssFiVZHrtBHLwfC,False,200,,2026-06-10T17:11:15.775016
+gallery wall 8 frames,gallery wall,medium,,Not ranked,,False,210,,2026-06-10T17:11:25.221595
+gallery wall 10 frames,gallery wall,medium,1,#1 🏆 Top 3,https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOops32UL98g7zIJfrk6L5fNJArLV1ZepFe47vLRZQ0M_zizp0_aV,False,209,,2026-06-10T17:11:31.553577
 buy wall art frames,gallery wall,low,5,#5 ✅ Page 1,https://americanflat.com/collections/picture-frames?srsltid=AfmBOopDF3vNzkyj1_EXVmCyFOwM3wPq6CIsFykEYQFF91Zk4ElQU_76,False,212,,2026-06-08T17:20:18.721166
 picture frame set of 3,multi-pack/sets,high,,Not ranked,,False,282,,2026-06-10T16:45:29.766909
 picture frame set of 4,multi-pack/sets,high,,Not ranked,,False,273,,2026-06-10T16:45:37.490710
@@ -182,11 +182,11 @@ picture frames 4 pack,multi-pack/sets,high,,Not ranked,,False,229,,2026-06-10T16
 picture frames 5 pack,multi-pack/sets,high,,Not ranked,,False,241,,2026-06-10T16:46:42.220417
 picture frames 6 pack,multi-pack/sets,high,,Not ranked,,False,231,,2026-06-10T16:46:56.651032
 picture frames bulk pack,multi-pack/sets,high,,Not ranked,,False,192,,2026-06-10T16:47:10.934114
-matching picture frames set,multi-pack/sets,medium,,Not ranked,,False,199,,2026-06-05T16:28:37.393664
-coordinating picture frames,multi-pack/sets,medium,,Not ranked,,False,8890000,,2026-06-05T16:28:45.018586
-same size picture frames set,multi-pack/sets,medium,,Not ranked,,False,223,,2026-06-05T16:28:51.032275
-mixed size picture frames set,multi-pack/sets,medium,,Not ranked,,False,231,,2026-06-05T16:29:02.906678
-picture frame bundle,multi-pack/sets,medium,,Not ranked,,False,252,,2026-06-05T16:29:19.407568
+matching picture frames set,multi-pack/sets,medium,,Not ranked,,False,199,,2026-06-10T17:11:38.521161
+coordinating picture frames,multi-pack/sets,medium,,Not ranked,,False,200,,2026-06-10T17:11:47.455690
+same size picture frames set,multi-pack/sets,medium,,Not ranked,,False,252,,2026-06-10T17:11:55.541034
+mixed size picture frames set,multi-pack/sets,medium,,Not ranked,,False,231,,2026-06-10T17:12:02.449058
+picture frame bundle,multi-pack/sets,medium,,Not ranked,,False,247,,2026-06-10T17:12:07.835532
 poster frame,poster frames,high,,Not ranked,,False,237,,2026-06-10T16:47:19.107845
 poster frames,poster frames,high,,Not ranked,,False,204,,2026-06-10T16:47:27.727918
 movie poster frame,poster frames,high,,Not ranked,,False,197,,2026-06-10T16:47:41.394858
@@ -194,12 +194,12 @@ large poster frame,poster frames,high,,Not ranked,,False,203,,2026-06-10T16:47:5
 24x36 poster frame black,poster frames,high,,Not ranked,,False,273,,2026-06-10T16:48:06.041982
 27x40 movie poster frame,poster frames,high,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T16:48:22.472704
 one sheet movie poster frame,poster frames,high,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T16:48:38.906380
-poster frame with mat,poster frames,medium,,Not ranked,,False,220,,2026-06-05T16:29:26.694890
-poster frame without glass,poster frames,medium,,Not ranked,,False,243,,2026-06-05T16:29:36.566065
-poster frame acrylic,poster frames,medium,,Not ranked,,False,210,,2026-06-05T16:29:48.121678
-vintage poster frame,poster frames,medium,,Not ranked,,False,219,,2026-06-05T16:29:55.263802
-art poster frame,poster frames,medium,,Not ranked,,False,209,,2026-06-05T16:30:05.978249
-floating poster frame,poster frames,medium,,Not ranked,,False,196,,2026-06-05T16:30:13.343613
+poster frame with mat,poster frames,medium,,Not ranked,,False,216,,2026-06-10T17:12:13.724501
+poster frame without glass,poster frames,medium,,Not ranked,,False,225,,2026-06-10T17:12:18.651166
+poster frame acrylic,poster frames,medium,,Not ranked,,False,213,,2026-06-10T17:12:23.999180
+vintage poster frame,poster frames,medium,,Not ranked,,False,230,,2026-06-10T17:12:36.040962
+art poster frame,poster frames,medium,,Not ranked,,False,219,,2026-06-10T17:12:42.749055
+floating poster frame,poster frames,medium,,Not ranked,,False,33400000,,2026-06-10T17:12:50.559411
 diploma frame,specialty frames,high,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T16:48:55.337077
 certificate frame,specialty frames,high,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T16:49:11.773576
 document frame,specialty frames,high,,Not ranked,,False,229,,2026-06-10T16:49:23.848292
@@ -207,20 +207,20 @@ diploma frame 8.5x11,specialty frames,high,,Not ranked,,False,,"HTTPSConnectionP
 diploma frame 11x14,specialty frames,high,4,#4 ✅ Page 1,https://americanflat.com/collections/diploma-frames?srsltid=AfmBOopshbLsRjhC8h1hirYNq3t5ejWTejrFSHXhEPI7mDDBNyVJmRtD,False,230,,2026-06-10T16:49:45.692215
 certificate frame 8.5x11,specialty frames,high,,Not ranked,,False,581000,,2026-06-10T16:49:51.432530
 certificate frame 11x14,specialty frames,high,3,#3 🏆 Top 3,https://americanflat.com/products/11x14-diploma-frame-set-of-2-shatter-resistant-glass-and-hanging-hardware-included?srsltid=AfmBOorStR5yJzlp9NkeI-TTio2Vzfrs-Xq7cvaU1W9bVLfCs4ANGLE3,False,205,,2026-06-10T16:49:56.163046
-graduation diploma frame,specialty frames,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-05T16:30:29.836080
-university diploma frame,specialty frames,medium,,Not ranked,,False,208,,2026-06-05T16:30:37.462412
-award certificate frame,specialty frames,medium,,Not ranked,,False,195,,2026-06-05T16:30:42.573134
-jersey frame,specialty frames,medium,,Not ranked,,False,201,,2026-06-05T16:30:47.566240
-shadow box frame,specialty frames,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-05T16:31:04.041227
-shadow box picture frame,specialty frames,medium,,Not ranked,,False,213,,2026-06-05T16:31:08.910230
-deep shadow box frame,specialty frames,medium,,Not ranked,,False,231,,2026-06-05T16:31:16.392603
+graduation diploma frame,specialty frames,medium,,Not ranked,,False,200,,2026-06-10T17:12:57.729288
+university diploma frame,specialty frames,medium,,Not ranked,,False,200,,2026-06-10T17:13:05.308708
+award certificate frame,specialty frames,medium,,Not ranked,,False,195,,2026-06-10T17:13:11.070735
+jersey frame,specialty frames,medium,,Not ranked,,False,193,,2026-06-10T17:13:20.063975
+shadow box frame,specialty frames,medium,,Not ranked,,False,243,,2026-06-10T17:13:29.503080
+shadow box picture frame,specialty frames,medium,,Not ranked,,False,233,,2026-06-10T17:13:35.136913
+deep shadow box frame,specialty frames,medium,,Not ranked,,False,209,,2026-06-10T17:13:40.718629
 floating frame,specialty frames,high,,Not ranked,,False,188,,2026-06-10T16:50:06.370858
 floating picture frame,specialty frames,high,,Not ranked,,False,206,,2026-06-10T16:50:12.800680
 floating photo frame,specialty frames,high,,Not ranked,,False,192,,2026-06-10T16:50:24.538760
 float frame,specialty frames,high,,Not ranked,,False,196,,2026-06-10T16:50:36.820688
-frameless picture frame,specialty frames,medium,,Not ranked,,False,231,,2026-06-05T16:31:26.047024
-panoramic picture frame,specialty frames,medium,,Not ranked,,False,209,,2026-06-05T16:31:36.807779
-panoramic photo frame,specialty frames,medium,,Not ranked,,False,207,,2026-06-05T16:31:46.936480
+frameless picture frame,specialty frames,medium,,Not ranked,,False,229,,2026-06-10T17:13:45.882324
+panoramic picture frame,specialty frames,medium,,Not ranked,,False,197,,2026-06-10T17:13:55.222498
+panoramic photo frame,specialty frames,medium,,Not ranked,,False,206,,2026-06-10T17:14:03.604283
 4x6 set of 3 picture frames,long tail - sets,high,,Not ranked,,False,209,,2026-06-10T16:50:49.376103
 5x7 set of 4 picture frames,long tail - sets,high,,Not ranked,,False,234,,2026-06-10T16:50:56.826999
 8x10 set of 3 picture frames,long tail - sets,high,,Not ranked,,False,236,,2026-06-10T16:51:07.834914
@@ -232,98 +232,98 @@ panoramic photo frame,specialty frames,medium,,Not ranked,,False,207,,2026-06-05
 5x7 white picture frame set,long tail - sets,high,,Not ranked,,False,226,,2026-06-10T16:52:04.264648
 4x6 black picture frame set,long tail - sets,high,,Not ranked,,False,227,,2026-06-10T16:52:16.197266
 4x6 white picture frame set,long tail - sets,high,,Not ranked,,False,217,,2026-06-10T16:52:23.840410
-gallery wall kit black frames,long tail - sets,medium,3,#3 🏆 Top 3,https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOorrLbIYeiIiTSyCaeeoX7URoL0R3JHSQr0e65pyYjFTx-ITSq3X,False,203,,2026-06-05T16:31:51.937907
-gallery wall kit white frames,long tail - sets,medium,,Not ranked,,False,184,,2026-06-05T16:32:02.806182
-gallery wall mixed sizes black,long tail - sets,medium,,Not ranked,,False,202,,2026-06-05T16:32:07.600678
-gallery wall mixed sizes white,long tail - sets,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-05T16:32:24.055593
+gallery wall kit black frames,long tail - sets,medium,1,#1 🏆 Top 3,https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOooWdZOwEBqAJDkrHS94VXYdxZxsd_8fep6hNi64aKy5v59q6QG0,False,199,,2026-06-10T17:14:11.270950
+gallery wall kit white frames,long tail - sets,medium,7,#7 ✅ Page 1,https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOoq3wMJSDCBdP879SYk5q8JsrseXaBCmg9Ao3l8cbWO2KhH3qqa9,False,181,,2026-06-10T17:14:20.541294
+gallery wall mixed sizes black,long tail - sets,medium,,Not ranked,,False,198,,2026-06-10T17:14:26.531252
+gallery wall mixed sizes white,long tail - sets,medium,,Not ranked,,False,197,,2026-06-10T17:14:32.947169
 picture frames for living room wall,long tail - room/use,high,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T16:52:40.263744
 picture frames for bedroom wall,long tail - room/use,high,,Not ranked,,False,202,,2026-06-10T16:52:45.486643
 large picture frames for wall,long tail - room/use,high,,Not ranked,,False,215,,2026-06-10T16:52:54.425169
 oversized picture frames,long tail - room/use,high,,Not ranked,,False,200,,2026-06-10T16:53:02.318425
 big picture frames for wall,long tail - room/use,high,,Not ranked,,False,222,,2026-06-10T16:53:13.171395
-picture frames for office,long tail - room/use,medium,,Not ranked,,False,175,,2026-06-05T16:32:33.277742
-picture frames for hallway,long tail - room/use,medium,,Not ranked,,False,205,,2026-06-05T16:32:40.812480
-picture frames for nursery,long tail - room/use,medium,,Not ranked,,False,235,,2026-06-05T16:32:46.967682
-picture frames for bathroom,long tail - room/use,medium,,Not ranked,,False,225,,2026-06-05T16:32:54.340713
-picture frames for staircase wall,long tail - room/use,medium,,Not ranked,,False,211,,2026-06-05T16:33:00.306217
+picture frames for office,long tail - room/use,medium,,Not ranked,,False,188,,2026-06-10T17:14:39.332966
+picture frames for hallway,long tail - room/use,medium,,Not ranked,,False,199,,2026-06-10T17:14:45.146169
+picture frames for nursery,long tail - room/use,medium,,Not ranked,,False,226,,2026-06-10T17:14:57.057786
+picture frames for bathroom,long tail - room/use,medium,,Not ranked,,False,220,,2026-06-10T17:15:02.990336
+picture frames for staircase wall,long tail - room/use,medium,,Not ranked,,False,224,,2026-06-10T17:15:16.147272
 modern picture frames,long tail - style/decor,high,,Not ranked,,False,194,,2026-06-10T16:53:22.981579
 contemporary picture frames,long tail - style/decor,high,,Not ranked,,False,198,,2026-06-10T16:53:35.403614
-minimalist picture frame,long tail - style/decor,medium,,Not ranked,,False,197,,2026-06-05T16:33:07.538378
-scandinavian picture frame,long tail - style/decor,medium,,Not ranked,,False,228,,2026-06-05T16:33:17.806395
-bohemian picture frame,long tail - style/decor,medium,,Not ranked,,False,202,,2026-06-05T16:33:23.640750
-farmhouse picture frame,long tail - style/decor,medium,,Not ranked,,False,205,,2026-06-05T16:33:28.406832
-industrial picture frame,long tail - style/decor,medium,,Not ranked,,False,211,,2026-06-05T16:33:40.319936
-mid century modern picture frame,long tail - style/decor,medium,,Not ranked,,False,202,,2026-06-05T16:33:48.305524
-classic picture frame,long tail - style/decor,medium,,Not ranked,,False,201,,2026-06-05T16:33:56.776526
-ornate picture frame,long tail - style/decor,medium,,Not ranked,,False,223,,2026-06-05T16:34:03.331762
-traditional picture frame,long tail - style/decor,medium,,Not ranked,,False,197,,2026-06-05T16:34:08.187225
-slim picture frame,long tail - style/decor,medium,,Not ranked,,False,219,,2026-06-05T16:34:16.567221
-thin border picture frame,long tail - style/decor,medium,5,#5 ✅ Page 1,https://americanflat.com/products/thin-border-picture-frame-shatter-resistant-plexiglass-wall-art-display?srsltid=AfmBOoo49uiKb-LI3HN0766L-BWNrZLusI3Ip9QAtUtX8QvqeC2O2WfA,False,197,,2026-06-05T16:34:21.169090
-wide border picture frame,long tail - style/decor,medium,,Not ranked,,False,200,,2026-06-05T16:34:26.026251
-borderless picture frame,long tail - style/decor,medium,,Not ranked,,False,241,,2026-06-05T16:34:33.678292
+minimalist picture frame,long tail - style/decor,medium,,Not ranked,,False,197,,2026-06-10T17:15:22.622941
+scandinavian picture frame,long tail - style/decor,medium,,Not ranked,,False,225,,2026-06-10T17:15:29.719249
+bohemian picture frame,long tail - style/decor,medium,,Not ranked,,False,214,,2026-06-10T17:15:38.034115
+farmhouse picture frame,long tail - style/decor,medium,,Not ranked,,False,210,,2026-06-10T17:15:45.064727
+industrial picture frame,long tail - style/decor,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T17:16:01.578722
+mid century modern picture frame,long tail - style/decor,medium,,Not ranked,,False,202,,2026-06-10T17:16:11.378680
+classic picture frame,long tail - style/decor,medium,,Not ranked,,False,199,,2026-06-10T17:16:25.995855
+ornate picture frame,long tail - style/decor,medium,,Not ranked,,False,191,,2026-06-10T17:16:31.130561
+traditional picture frame,long tail - style/decor,medium,,Not ranked,,False,193,,2026-06-10T17:16:36.617957
+slim picture frame,long tail - style/decor,medium,,Not ranked,,False,218,,2026-06-10T17:16:47.838687
+thin border picture frame,long tail - style/decor,medium,3,#3 🏆 Top 3,https://americanflat.com/products/thin-border-picture-frame-shatter-resistant-plexiglass-wall-art-display?srsltid=AfmBOoogBrQYVk4yTKEH_sU7uqlNQeHeC-W_5EHhhyFiWx2WHhO-9em4,False,194,,2026-06-10T17:16:58.920617
+wide border picture frame,long tail - style/decor,medium,,Not ranked,,False,194,,2026-06-10T17:17:04.923380
+borderless picture frame,long tail - style/decor,medium,,Not ranked,,False,242,,2026-06-10T17:17:11.485558
 picture frames with mat,features,high,,Not ranked,,False,187,,2026-06-10T16:53:45.421912
 picture frames without mat,features,high,6,#6 ✅ Page 1,https://americanflat.com/products/black-picture-frame-without-mat-glass-front?srsltid=AfmBOoqkTL-fnqK0_xzLGaMwRrSAiJ1gxWt_lxzBJqPbtpBXY9RfqQEz,False,176,,2026-06-10T16:53:51.558245
 picture frame with matting,features,high,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T16:54:07.974225
 picture frame mat board,features,high,,Not ranked,,False,196,,2026-06-10T16:54:19.411747
 picture frames with glass,features,high,,Not ranked,,False,196,,2026-06-10T16:54:34.115127
 picture frames without glass,features,high,,Not ranked,,False,223,,2026-06-10T16:54:41.382128
-picture frame plexiglass,features,medium,,Not ranked,,False,192,,2026-06-05T16:34:38.611285
-picture frame acrylic front,features,medium,,Not ranked,,False,29100000,,2026-06-05T16:34:44.604676
-shatter resistant picture frame,features,medium,5,#5 ✅ Page 1,https://americanflat.com/products/thin-border-picture-frame-shatter-resistant-plexiglass-wall-art-display?srsltid=AfmBOooeEqhHWdxnh2i-nBXqrzl5qPy6ktHqvK5zzv1sPTaHHvqE74lw,False,215,,2026-06-05T16:34:49.463349
-uv protection picture frame,features,medium,,Not ranked,,False,207,,2026-06-05T16:34:58.433688
-anti glare picture frame,features,medium,,Not ranked,,False,210,,2026-06-05T16:35:06.299021
-non glare glass picture frame,features,medium,,Not ranked,,False,196,,2026-06-05T16:35:14.040196
-magnetic picture frame,features,medium,,Not ranked,,False,231,,2026-06-05T16:35:19.351868
-reversible picture frame,features,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-05T16:35:35.763031
-hinged picture frame,features,medium,3,#3 🏆 Top 3,https://americanflat.com/products/americanflat-hinged-picture-frame-with-shatter-resistant-glass-metal-picture-frame-displays-two-photos?srsltid=AfmBOoocFWGItbZAOt4rZFTMQba2se5zakXZ6iGu7aVON2EhPwYrGuE5,False,212,,2026-06-05T16:35:45.118916
-tabletop picture frame,features,medium,,Not ranked,,False,189,,2026-06-05T16:35:59.078067
-easel back picture frame,features,medium,,Not ranked,,False,242,,2026-06-05T16:36:06.197340
+picture frame plexiglass,features,medium,,Not ranked,,False,195,,2026-06-10T17:17:17.871172
+picture frame acrylic front,features,medium,,Not ranked,,False,199,,2026-06-10T17:17:23.188289
+shatter resistant picture frame,features,medium,6,#6 ✅ Page 1,https://americanflat.com/products/thin-border-picture-frame-shatter-resistant-plexiglass-wall-art-display?srsltid=AfmBOor8dU9i2wBHMU3FprUZD_hLZIuk52LerG9kui2zPmuY38q1wHOX,False,205,,2026-06-10T17:17:32.050684
+uv protection picture frame,features,medium,,Not ranked,,False,193,,2026-06-10T17:17:36.796648
+anti glare picture frame,features,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T17:17:53.335386
+non glare glass picture frame,features,medium,,Not ranked,,False,193,,2026-06-10T17:17:59.986464
+magnetic picture frame,features,medium,,Not ranked,,False,241,,2026-06-10T17:18:07.123964
+reversible picture frame,features,medium,,Not ranked,,False,239,,2026-06-10T17:18:19.186055
+hinged picture frame,features,medium,4,#4 ✅ Page 1,https://americanflat.com/products/americanflat-hinged-picture-frame-with-shatter-resistant-glass-metal-picture-frame-displays-two-photos?srsltid=AfmBOoqy2CIpkZn967wZYiBdI_H53seau5YAcrsTm1y-TVC8zC7crw-w,False,214,,2026-06-10T17:18:24.315148
+tabletop picture frame,features,medium,,Not ranked,,False,184,,2026-06-10T17:18:31.499778
+easel back picture frame,features,medium,,Not ranked,,False,231,,2026-06-10T17:18:37.880653
 hanging picture frame,features,high,,Not ranked,,False,226,,2026-06-10T16:54:49.504056
 wall mount picture frame,features,high,,Not ranked,,False,221,,2026-06-10T16:54:57.073340
-picture frame wire hanger,features,medium,,Not ranked,,False,199,,2026-06-05T16:36:14.708559
-picture frame sawtooth hanger,features,medium,,Not ranked,,False,188,,2026-06-05T16:36:20.226355
-picture frames that open from the front,features,medium,,Not ranked,,False,287,,2026-06-05T16:36:28.658033
-front loading picture frame,features,medium,,Not ranked,,False,230,,2026-06-05T16:36:34.548696
-swappable picture frame,features,medium,,Not ranked,,False,193,,2026-06-05T16:36:39.065660
+picture frame wire hanger,features,medium,,Not ranked,,False,205,,2026-06-10T17:18:49.261846
+picture frame sawtooth hanger,features,medium,,Not ranked,,False,204,,2026-06-10T17:18:56.008755
+picture frames that open from the front,features,medium,,Not ranked,,False,295,,2026-06-10T17:19:06.283804
+front loading picture frame,features,medium,,Not ranked,,False,244,,2026-06-10T17:19:11.729313
+swappable picture frame,features,medium,,Not ranked,,False,187,,2026-06-10T17:19:20.946125
 picture frame art prints,use case - art,high,,Not ranked,,False,211,,2026-06-10T16:55:07.742247
 art print frames,use case - art,high,,Not ranked,,False,202,,2026-06-10T16:55:13.589174
-fine art frames,use case - art,medium,,Not ranked,,False,212,,2026-06-05T16:36:44.656467
-canvas art frame,use case - art,medium,,Not ranked,,False,193,,2026-06-05T16:36:55.643032
-photography frame,use case - art,medium,,Not ranked,,False,200,,2026-06-05T16:37:03.079732
-print frame,use case - art,medium,,Not ranked,,False,204,,2026-06-05T16:37:09.055394
-digital art frame,use case - art,medium,,Not ranked,,False,208,,2026-06-05T16:37:15.755541
+fine art frames,use case - art,medium,,Not ranked,,False,210,,2026-06-10T17:19:28.604460
+canvas art frame,use case - art,medium,,Not ranked,,False,193,,2026-06-10T17:19:34.361106
+photography frame,use case - art,medium,,Not ranked,,False,200,,2026-06-10T17:19:42.265302
+print frame,use case - art,medium,,Not ranked,,False,175,,2026-06-10T17:19:48.004954
+digital art frame,use case - art,medium,,Not ranked,,False,211,,2026-06-10T17:19:54.224689
 kids artwork frame,use case - family/kids,high,1,#1 🏆 Top 3,https://americanflat.com/collections/kids-art-frames?srsltid=AfmBOoroi28BCTr7J23AkjK644Z68P3vDSVrrrZsCwxmEflWfA5BlAz-,False,255,,2026-06-10T16:55:22.850255
 children's art frame,use case - family/kids,high,2,#2 🏆 Top 3,https://americanflat.com/collections/kids-art-frames?srsltid=AfmBOoraHr5nVMkSMPy7d8fs86RRIlHG7rVMJ2LAB_Wva93D1IvGgTHr,False,241,,2026-06-10T16:55:31.343014
 kids drawing frame,use case - family/kids,high,3,#3 🏆 Top 3,https://americanflat.com/collections/kids-art-frames?srsltid=AfmBOoov2MhVGxfhpImPfgNNyUhLvuJWoJUrWZlPtGoF2rNe3B0pYdOw,False,233,,2026-06-10T16:55:36.993809
 baby photo frame,use case - family/kids,high,,Not ranked,,False,202,,2026-06-10T16:55:42.191455
 newborn photo frame,use case - family/kids,high,,Not ranked,,False,208,,2026-06-10T16:55:48.251396
-baby shower picture frame,use case - family/kids,medium,,Not ranked,,False,216,,2026-06-05T16:37:21.521320
-birth announcement frame,use case - family/kids,medium,,Not ranked,,False,204,,2026-06-05T16:37:27.292515
-1st birthday picture frame,use case - family/kids,medium,,Not ranked,,False,249,,2026-06-05T16:37:32.854188
+baby shower picture frame,use case - family/kids,medium,,Not ranked,,False,222,,2026-06-10T17:20:04.423767
+birth announcement frame,use case - family/kids,medium,,Not ranked,,False,210,,2026-06-10T17:20:18.290105
+1st birthday picture frame,use case - family/kids,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T17:20:34.813324
 family photo frame,use case - family/kids,high,,Not ranked,,False,204,,2026-06-10T16:55:53.380020
 family picture frame set,use case - family/kids,high,,Not ranked,,False,243,,2026-06-10T16:56:03.513331
-collage family frame,use case - family/kids,medium,,Not ranked,,False,203,,2026-06-05T16:37:40.572621
+collage family frame,use case - family/kids,medium,,Not ranked,,False,192,,2026-06-10T17:20:41.148486
 wedding picture frame,use case - occasions,high,,Not ranked,,False,160,,2026-06-10T16:56:14.668459
 wedding photo frame,use case - occasions,high,,Not ranked,,False,196,,2026-06-10T16:56:21.163124
-engagement photo frame,use case - occasions,medium,,Not ranked,,False,199,,2026-06-05T16:37:48.493751
-anniversary picture frame,use case - occasions,medium,,Not ranked,,False,220,,2026-06-05T16:37:56.189818
-graduation picture frame,use case - occasions,medium,,Not ranked,,False,198,,2026-06-05T16:38:12.438088
-graduation photo frame,use case - occasions,medium,,Not ranked,,False,200,,2026-06-05T16:38:17.528716
-christmas picture frame,use case - occasions,medium,,Not ranked,,False,200,,2026-06-05T16:38:22.950836
-holiday picture frame,use case - occasions,medium,,Not ranked,,False,193,,2026-06-05T16:38:33.890533
-mother's day picture frame,use case - occasions,medium,,Not ranked,,False,193,,2026-06-05T16:38:40.464650
-father's day picture frame,use case - occasions,medium,,Not ranked,,False,219,,2026-06-05T16:38:47.243656
+engagement photo frame,use case - occasions,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T17:20:57.690619
+anniversary picture frame,use case - occasions,medium,,Not ranked,,False,205,,2026-06-10T17:21:12.622109
+graduation picture frame,use case - occasions,medium,,Not ranked,,False,193,,2026-06-10T17:21:21.927140
+graduation photo frame,use case - occasions,medium,,Not ranked,,False,193,,2026-06-10T17:21:28.835227
+christmas picture frame,use case - occasions,medium,,Not ranked,,False,216,,2026-06-10T17:21:36.033492
+holiday picture frame,use case - occasions,medium,,Not ranked,,False,192,,2026-06-10T17:21:42.135535
+mother's day picture frame,use case - occasions,medium,,Not ranked,,False,195,,2026-06-10T17:21:52.937118
+father's day picture frame,use case - occasions,medium,,Not ranked,,False,215,,2026-06-10T17:22:01.961605
 gift picture frame,use case - gifting,high,,Not ranked,,False,197,,2026-06-10T16:56:29.995937
 picture frame gift set,use case - gifting,high,,Not ranked,,False,277000000,,2026-06-10T16:56:44.425060
-picture frame housewarming gift,use case - gifting,medium,,Not ranked,,False,207,,2026-06-05T16:38:55.759462
-picture frame for new home,use case - gifting,medium,,Not ranked,,False,163,,2026-06-05T16:39:05.817099
-gifts for new homeowners frames,use case - gifting,medium,,Not ranked,,False,217,,2026-06-05T16:39:13.506571
-sports picture frame,use case - sports,medium,,Not ranked,,False,204,,2026-06-05T16:39:20.667285
-sports jersey display frame,use case - sports,medium,,Not ranked,,False,202,,2026-06-05T16:39:26.331989
-baseball card frame,use case - sports,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-05T16:39:42.820570
-sports memorabilia frame,use case - sports,medium,,Not ranked,,False,197,,2026-06-05T16:39:48.739920
-jersey shadow box,use case - sports,medium,,Not ranked,,False,198,,2026-06-05T16:39:56.448397
-sports photo frame,use case - sports,medium,,Not ranked,,False,191,,2026-06-05T16:40:05.308282
+picture frame housewarming gift,use case - gifting,medium,,Not ranked,,False,204,,2026-06-10T17:22:09.913503
+picture frame for new home,use case - gifting,medium,,Not ranked,,False,171,,2026-06-10T17:22:17.813188
+gifts for new homeowners frames,use case - gifting,medium,,Not ranked,,False,211,,2026-06-10T17:22:24.679776
+sports picture frame,use case - sports,medium,,Not ranked,,False,206,,2026-06-10T17:22:34.355120
+sports jersey display frame,use case - sports,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T17:22:50.883422
+baseball card frame,use case - sports,medium,,Not ranked,,False,208,,2026-06-10T17:22:58.995648
+sports memorabilia frame,use case - sports,medium,,Not ranked,,False,191,,2026-06-10T17:23:06.281137
+jersey shadow box,use case - sports,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-10T17:23:22.802148
+sports photo frame,use case - sports,medium,,Not ranked,,False,202,,2026-06-10T17:23:34.157384
 where to buy picture frames,buying intent,high,,Not ranked,,False,207,,2026-06-10T16:56:53.273678
 picture frames amazon,buying intent,high,,Not ranked,,False,196,,2026-06-10T16:56:58.699132
 picture frames walmart,buying intent,high,,Not ranked,,False,191,,2026-06-10T16:57:05.099485
@@ -331,31 +331,31 @@ picture frames target,buying intent,high,,Not ranked,,False,186,,2026-06-10T16:5
 picture frames wayfair,buying intent,high,,Not ranked,,False,183,,2026-06-10T16:57:21.428391
 best picture frames,buying intent,high,,Not ranked,,False,185,,2026-06-10T16:57:28.671574
 top rated picture frames,buying intent,high,,Not ranked,,False,185,,2026-06-10T16:57:33.761141
-picture frames free shipping,buying intent,medium,,Not ranked,,False,169,,2026-06-05T16:40:10.729884
-picture frames on sale,buying intent,medium,,Not ranked,,False,198,,2026-06-05T16:40:17.062896
-cheap picture frames bulk,buying intent,medium,,Not ranked,,False,220,,2026-06-05T16:40:25.284727
-discount picture frames,buying intent,medium,,Not ranked,,False,199,,2026-06-05T16:40:38.156551
-affordable gallery wall frames,buying intent,medium,,Not ranked,,False,201,,2026-06-05T16:40:50.204021
-best gallery wall frames,buying intent,medium,3,#3 🏆 Top 3,https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOoospDX0owR07VaycfyKQe1zNCs0BTEyZJXHlmx2_c7nba6PufZ2,False,181,,2026-06-05T16:40:56.877518
-best poster frames,buying intent,medium,,Not ranked,,False,194,,2026-06-05T16:41:02.506084
-best diploma frames,buying intent,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-05T16:41:18.922614
-picture frames under 10,buying intent,medium,,Not ranked,,False,206,,2026-06-05T16:41:24.697435
-picture frames under 20,buying intent,medium,,Not ranked,,False,219,,2026-06-05T16:41:32.971125
-how to hang picture frames,educational,medium,,Not ranked,,False,163,,2026-06-05T16:41:37.380654
-how to arrange picture frames on wall,educational,medium,,Not ranked,,False,145,,2026-06-05T16:41:43.347019
-how to measure for picture frame,educational,medium,,Not ranked,,False,140,,2026-06-05T16:41:47.995547
-picture frame sizes guide,educational,medium,,Not ranked,,False,190,,2026-06-05T16:41:53.963479
+picture frames free shipping,buying intent,medium,,Not ranked,,False,164,,2026-06-10T17:23:39.615170
+picture frames on sale,buying intent,medium,,Not ranked,,False,171,,2026-06-10T17:23:53.206229
+cheap picture frames bulk,buying intent,medium,,Not ranked,,False,217,,2026-06-10T17:24:05.847666
+discount picture frames,buying intent,medium,,Not ranked,,False,188,,2026-06-10T17:24:10.140546
+affordable gallery wall frames,buying intent,medium,,Not ranked,,False,193,,2026-06-10T17:24:18.049749
+best gallery wall frames,buying intent,medium,,Not ranked,,False,177,,2026-06-10T17:24:25.118001
+best poster frames,buying intent,medium,,Not ranked,,False,210,,2026-06-10T17:24:40.984309
+best diploma frames,buying intent,medium,,Not ranked,,False,194,,2026-06-10T17:24:51.073551
+picture frames under 10,buying intent,medium,,Not ranked,,False,198,,2026-06-10T17:24:57.361132
+picture frames under 20,buying intent,medium,,Not ranked,,False,220,,2026-06-10T17:25:07.883358
+how to hang picture frames,educational,medium,,Not ranked,,False,167,,2026-06-10T17:25:20.272634
+how to arrange picture frames on wall,educational,medium,,Not ranked,,False,148,,2026-06-10T17:25:24.472814
+how to measure for picture frame,educational,medium,,Not ranked,,False,140,,2026-06-10T17:25:29.960438
+picture frame sizes guide,educational,medium,,Not ranked,,False,186,,2026-06-10T17:25:39.110441
 standard photo frame sizes,educational,high,,Not ranked,,False,194,,2026-06-10T16:57:40.107050
 standard picture frame sizes,educational,high,,Not ranked,,False,186,,2026-06-10T16:57:44.093606
 what size frame for 8x10 print,educational,high,,Not ranked,,False,155,,2026-06-10T16:57:48.534970
 what size frame for 11x14 print,educational,high,,Not ranked,,False,132,,2026-06-10T16:57:55.794771
-picture frame mat sizes,educational,medium,,Not ranked,,False,195,,2026-06-05T16:41:58.275876
-how to choose picture frame,educational,medium,,Not ranked,,False,174,,2026-06-05T16:42:03.221397
+picture frame mat sizes,educational,medium,,Not ranked,,False,189,,2026-06-10T17:25:48.335267
+how to choose picture frame,educational,medium,,Not ranked,,False,176,,2026-06-10T17:25:55.861847
 frame vs no frame wall art,educational,low,,Not ranked,,False,140,,2026-06-08T17:20:32.367735
-how to style gallery wall,educational,medium,,Not ranked,,False,174,,2026-06-05T16:42:10.049269
-gallery wall ideas for living room,educational,medium,,Not ranked,,False,145,,2026-06-05T16:42:15.863351
-gallery wall ideas for bedroom,educational,medium,,Not ranked,,False,160,,2026-06-05T16:42:23.582946
-how to hang frames without nails,educational,medium,,Not ranked,,False,101,,2026-06-05T16:42:29.670420
+how to style gallery wall,educational,medium,,Not ranked,,False,179,,2026-06-10T17:26:02.790009
+gallery wall ideas for living room,educational,medium,,Not ranked,,False,153,,2026-06-10T17:26:12.709486
+gallery wall ideas for bedroom,educational,medium,,Not ranked,,False,159,,2026-06-10T17:26:20.916777
+how to hang frames without nails,educational,medium,,Not ranked,,False,105,,2026-06-10T17:26:28.548085
 picture frame spacing guide,educational,low,,Not ranked,,False,193,,2026-06-08T17:20:47.518809
 picture frame mounting hardware,educational,low,,Not ranked,,False,191,,2026-06-08T17:20:57.507313
 4x6 frame,size - standard,high,,Not ranked,,False,233,,2026-06-10T16:58:01.717711
@@ -380,45 +380,45 @@ picture frame mounting hardware,educational,low,,Not ranked,,False,191,,2026-06-
 16x20 picture frame black,size - standard,high,4,#4 ✅ Page 1,https://americanflat.com/collections/16x20-picture-frames?srsltid=AfmBOopwJH_4KDMi8n5_dUAHnYI7-l-ANq468qMKlTth6CHmTerz4pPg,False,248,,2026-06-10T16:59:59.878959
 16x20 picture frame white,size - standard,high,6,#6 ✅ Page 1,https://americanflat.com/collections/16x20-picture-frames?srsltid=AfmBOoq7P-oGzXhXXGRHDNIXrY7gIbV7bFoByDhjkI9W0UarzlvkE_BW,False,209,,2026-06-10T17:00:12.833903
 16x20 picture frame gold,size - standard,high,,Not ranked,,False,195,,2026-06-10T17:00:24.806424
-8x10 picture frame with mat,size - standard,medium,,Not ranked,,False,255,,2026-06-05T16:42:34.601628
-11x14 picture frame with mat,size - standard,medium,2,#2 🏆 Top 3,https://americanflat.com/collections/11x14-frames?srsltid=AfmBOoqLEmwEHrqOOOau3AlhYmzt_MlGJ1gzg2D9V4O6kai29-AyMwdl,False,263,,2026-06-05T16:42:41.269565
-16x20 picture frame with mat,size - standard,medium,,Not ranked,,False,285,,2026-06-05T16:42:47.064835
-18x24 picture frame with mat,size - standard,medium,,Not ranked,,False,281,,2026-06-05T16:42:52.184101
-24x36 picture frame with mat,size - standard,medium,,Not ranked,,False,268,,2026-06-05T16:42:59.865862
-8.5x11 picture frame,size - standard,medium,,Not ranked,,False,2030000,,2026-06-05T16:43:07.710524
-8.5x11 frame,size - standard,medium,,Not ranked,,False,14900000,,2026-06-05T16:43:12.658645
-11x17 picture frame,size - standard,medium,,Not ranked,,False,524,,2026-06-05T16:43:18.414823
-11x17 frame,size - standard,medium,,Not ranked,,False,225,,2026-06-05T16:43:22.988269
-22x34 picture frame,size - standard,medium,,Not ranked,,False,237,,2026-06-05T16:43:32.445194
-17x22 picture frame,size - standard,medium,1,#1 🏆 Top 3,https://americanflat.com/collections/17x22-frames?srsltid=AfmBOoqzHnYKrbZK1QpFUr9z75yOJft3-HqDTz-jZEmGlGQfK6ft046C,False,234,,2026-06-05T16:43:38.579252
-8x10 walnut picture frame,size - standard,medium,,Not ranked,,False,196,,2026-06-05T16:43:46.026550
-11x14 walnut picture frame,size - standard,medium,,Not ranked,,False,187,,2026-06-05T16:43:53.192250
-16x20 walnut picture frame,size - standard,medium,,Not ranked,,False,198,,2026-06-05T16:43:59.394126
-8x10 oak picture frame,size - standard,medium,,Not ranked,,False,223,,2026-06-05T16:44:04.406017
-11x14 oak picture frame,size - standard,medium,,Not ranked,,False,208,,2026-06-05T16:44:14.419373
-16x20 oak picture frame,size - standard,medium,,Not ranked,,False,199,,2026-06-05T16:44:19.494734
-8x10 natural oak picture frame,size - standard,medium,,Not ranked,,False,237,,2026-06-05T16:44:29.446470
-11x14 natural oak picture frame,size - standard,medium,,Not ranked,,False,226,,2026-06-05T16:44:35.264557
-16x20 natural oak picture frame,size - standard,medium,,Not ranked,,False,227,,2026-06-05T16:44:41.863532
-8x10 light wood picture frame,size - standard,medium,,Not ranked,,False,221,,2026-06-05T16:44:47.983218
-11x14 light wood picture frame,size - standard,medium,,Not ranked,,False,215,,2026-06-05T16:44:52.979185
-16x20 light wood picture frame,size - standard,medium,,Not ranked,,False,221,,2026-06-05T16:44:58.030228
+8x10 picture frame with mat,size - standard,medium,,Not ranked,,False,261,,2026-06-10T17:26:33.648720
+11x14 picture frame with mat,size - standard,medium,2,#2 🏆 Top 3,https://americanflat.com/collections/11x14-frames?srsltid=AfmBOooGNWXmIsn-apGq2krjbawxwND5jg12XYzDLEQ1uuaxNfRQcW9q,False,268,,2026-06-10T17:26:40.065370
+16x20 picture frame with mat,size - standard,medium,,Not ranked,,False,286,,2026-06-10T17:26:46.012110
+18x24 picture frame with mat,size - standard,medium,,Not ranked,,False,277,,2026-06-10T17:26:53.355160
+24x36 picture frame with mat,size - standard,medium,,Not ranked,,False,277,,2026-06-10T17:26:58.256032
+8.5x11 picture frame,size - standard,medium,,Not ranked,,False,2100000,,2026-06-10T17:27:03.001678
+8.5x11 frame,size - standard,medium,,Not ranked,,False,15300000,,2026-06-10T17:27:07.717535
+11x17 picture frame,size - standard,medium,,Not ranked,,False,233,,2026-06-10T17:27:19.730367
+11x17 frame,size - standard,medium,,Not ranked,,False,226,,2026-06-10T17:27:31.790808
+22x34 picture frame,size - standard,medium,,Not ranked,,False,237,,2026-06-10T17:27:38.547990
+17x22 picture frame,size - standard,medium,1,#1 🏆 Top 3,https://americanflat.com/collections/17x22-frames?srsltid=AfmBOoqnkJwupYApTAiHaNrWntsduiSS6Sc7_K8gZvsYrwA4Vc1WNXc-,False,235,,2026-06-10T17:27:45.960297
+8x10 walnut picture frame,size - standard,medium,,Not ranked,,False,217,,2026-06-10T17:27:52.986134
+11x14 walnut picture frame,size - standard,medium,,Not ranked,,False,190,,2026-06-10T17:28:03.171167
+16x20 walnut picture frame,size - standard,medium,,Not ranked,,False,197,,2026-06-10T17:28:09.100777
+8x10 oak picture frame,size - standard,medium,,Not ranked,,False,225,,2026-06-10T17:28:15.308363
+11x14 oak picture frame,size - standard,medium,,Not ranked,,False,224,,2026-06-10T17:28:24.130778
+16x20 oak picture frame,size - standard,medium,,Not ranked,,False,197,,2026-06-10T17:28:30.371691
+8x10 natural oak picture frame,size - standard,medium,,Not ranked,,False,244,,2026-06-10T17:28:39.024864
+11x14 natural oak picture frame,size - standard,medium,,Not ranked,,False,226,,2026-06-10T17:28:45.156447
+16x20 natural oak picture frame,size - standard,medium,,Not ranked,,False,236,,2026-06-10T17:28:50.852397
+8x10 light wood picture frame,size - standard,medium,,Not ranked,,False,208,,2026-06-10T17:29:02.455764
+11x14 light wood picture frame,size - standard,medium,,Not ranked,,False,220,,2026-06-10T17:29:10.434182
+16x20 light wood picture frame,size - standard,medium,,Not ranked,,False,219,,2026-06-10T17:29:22.653301
 panoramic frame,size - odd/custom,low,,Not ranked,,False,221,,2026-06-08T17:21:06.824126
 vertical 8x10 frame,size - odd/custom,low,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-08T17:21:23.234657
-A4 picture frame,size - metric,medium,,Not ranked,,False,196,,2026-06-05T16:45:03.261981
-A4 frame,size - metric,medium,,Not ranked,,False,207,,2026-06-05T16:45:10.147343
-A3 picture frame,size - metric,medium,,Not ranked,,False,215,,2026-06-05T16:45:15.244205
-A3 frame,size - metric,medium,,Not ranked,,False,229,,2026-06-05T16:45:20.131357
-A2 picture frame,size - metric,medium,,Not ranked,,False,251,,2026-06-05T16:45:30.201279
-4x6 picture frame set,multi-pack/sets,medium,,Not ranked,,False,229,,2026-06-05T16:45:36.729555
-5x7 picture frame set,multi-pack/sets,medium,,Not ranked,,False,203,,2026-06-05T16:45:43.128629
-8x10 picture frame set,multi-pack/sets,medium,,Not ranked,,False,226,,2026-06-05T16:45:53.038343
-11x14 picture frame set,multi-pack/sets,medium,,Not ranked,,False,191,,2026-06-05T16:45:58.963300
-set of 4x6 frames,multi-pack/sets,medium,,Not ranked,,False,224,,2026-06-05T16:46:06.533253
-set of 5x7 frames,multi-pack/sets,medium,,Not ranked,,False,217,,2026-06-05T16:46:15.341372
-set of 8x10 frames,multi-pack/sets,medium,,Not ranked,,False,215,,2026-06-05T16:46:22.760050
-8x10 picture frames bulk,multi-pack/sets,medium,,Not ranked,,False,229,,2026-06-05T16:46:29.508197
-natural oak picture frame,color/style,medium,,Not ranked,,False,,"HTTPSConnectionPool(host='api.valueserp.com', port=443): Read timed out. (read timeout=15)",2026-06-05T16:46:45.924619
-light wood picture frame,color/style,medium,,Not ranked,,False,210,,2026-06-05T16:46:51.310573
-graduation frame,specialty frames,medium,,Not ranked,,False,201,,2026-06-05T16:46:59.108349
-graduation gift frame,specialty frames,medium,,Not ranked,,False,207,,2026-06-05T16:47:05.326487
+A4 picture frame,size - metric,medium,,Not ranked,,False,196,,2026-06-10T17:29:27.833476
+A4 frame,size - metric,medium,,Not ranked,,False,207,,2026-06-10T17:29:34.286142
+A3 picture frame,size - metric,medium,,Not ranked,,False,212,,2026-06-10T17:29:41.560963
+A3 frame,size - metric,medium,,Not ranked,,False,228,,2026-06-10T17:29:55.738792
+A2 picture frame,size - metric,medium,,Not ranked,,False,231,,2026-06-10T17:30:04.020856
+4x6 picture frame set,multi-pack/sets,medium,,Not ranked,,False,255,,2026-06-10T17:30:12.736686
+5x7 picture frame set,multi-pack/sets,medium,,Not ranked,,False,203,,2026-06-10T17:30:21.948571
+8x10 picture frame set,multi-pack/sets,medium,,Not ranked,,False,236,,2026-06-10T17:30:29.917503
+11x14 picture frame set,multi-pack/sets,medium,,Not ranked,,False,191,,2026-06-10T17:30:36.096261
+set of 4x6 frames,multi-pack/sets,medium,,Not ranked,,False,219,,2026-06-10T17:30:42.395155
+set of 5x7 frames,multi-pack/sets,medium,,Not ranked,,False,219,,2026-06-10T17:30:48.012473
+set of 8x10 frames,multi-pack/sets,medium,,Not ranked,,False,218,,2026-06-10T17:30:55.322911
+8x10 picture frames bulk,multi-pack/sets,medium,,Not ranked,,False,232,,2026-06-10T17:31:06.308457
+natural oak picture frame,color/style,medium,,Not ranked,,False,219,,2026-06-10T17:31:21.904078
+light wood picture frame,color/style,medium,,Not ranked,,False,203,,2026-06-10T17:31:28.687121
+graduation frame,specialty frames,medium,,Not ranked,,False,199,,2026-06-10T17:31:33.919486
+graduation gift frame,specialty frames,medium,,Not ranked,,False,213,,2026-06-10T17:31:39.265008
