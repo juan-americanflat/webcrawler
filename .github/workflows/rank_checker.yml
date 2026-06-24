@@ -149,13 +149,52 @@ jobs:
               print("No tier results to merge; exiting cleanly.")
               raise SystemExit(0)
 
-          # Upsert tier rows into results_latest.csv. We always start
-          # from the on-disk file (which after `reset --hard` is the
-          # latest from origin/main, possibly including a sibling
-          # tier's commit), so this naturally composes.
+          # ── Safeguard against a dead API key (e.g. ValueSerp 402
+          # Payment Required when credits run out). An errored row has a
+          # non-empty `error` column; a legitimately-unranked keyword has
+          # an EMPTY error with a blank position. That distinction lets us
+          # cleanly separate "the API broke" from "we just don't rank for
+          # this term". Two protections:
+          #   (a) Never merge errored rows. Otherwise a dead key
+          #       overwrites good positions with blanks — the silent
+          #       "everything shows Not ranked" failure we hit on
+          #       2026-06-19..24.
+          #   (b) If the WHOLE run errored, fail the Action loudly (red X
+          #       in the Actions tab) instead of committing a blank
+          #       snapshot, so the next credit exhaustion is impossible to
+          #       miss while auto-top-up stays off.
+          valid   = [r for r in tier_rows if not (r.get("error") or "").strip()]
+          errored = [r for r in tier_rows if (r.get("error") or "").strip()]
+          err_rate = len(errored) / len(tier_rows)
+          print(f"tier run: {len(valid)} ok, {len(errored)} errored "
+                f"({err_rate:.0%} error rate)")
+
+          if not valid:
+              sample = (errored[0].get("error") or "")[:160] if errored else "unknown"
+              print("::error title=Rank checker run failed::"
+                    f"0/{len(tier_rows)} keywords returned data — not "
+                    f"committing a blank snapshot. First error: {sample}")
+              print("Check the ValueSerp balance: "
+                    "https://api.valueserp.com/account?api_key=...")
+              raise SystemExit(1)
+
+          if err_rate >= 0.25:
+              print("::warning title=Partial rank checker failure::"
+                    f"{len(errored)}/{len(tier_rows)} keywords errored. "
+                    "Committing only the rows that succeeded — check "
+                    "ValueSerp credits soon.")
+
+          # From here only VALID rows are merged. Errored keywords keep
+          # their last-known-good values in results_latest.csv and
+          # contribute no misleading null point to today's snapshot.
+          #
+          # Upsert into results_latest.csv. We always start from the
+          # on-disk file (which after `reset --hard` is the latest from
+          # origin/main, possibly including a sibling tier's commit), so
+          # this naturally composes.
           existing = list(csv.DictReader(open(latest))) if latest.exists() else []
           by_kw = {r["keyword"]: r for r in existing}
-          for r in tier_rows:
+          for r in valid:
               by_kw[r["keyword"]] = r
 
           # Preserve keywords.csv ordering for the Streamlit table.
@@ -170,15 +209,15 @@ jobs:
               w = csv.DictWriter(f, fieldnames=fieldnames)
               w.writeheader()
               w.writerows(ordered)
-          print(f"results_latest.csv: merged {len(tier_rows)} tier rows "
+          print(f"results_latest.csv: merged {len(valid)} valid rows "
                 f"(total {len(ordered)} rows in file)")
 
-          # Merge tier rows into today's snapshot — also against the
+          # Merge valid rows into today's snapshot — also against the
           # just-pulled state, so a sibling tier's contribution to
           # today's file is preserved.
           snap_existing = list(csv.DictReader(open(snapshot))) if snapshot.exists() else []
           snap_by_kw    = {r["keyword"]: r for r in snap_existing}
-          for r in tier_rows:
+          for r in valid:
               snap_by_kw[r["keyword"]] = r
           snap_out = list(snap_by_kw.values())
           with open(snapshot, "w", newline="") as f:
@@ -186,7 +225,7 @@ jobs:
               w.writeheader()
               w.writerows(snap_out)
           print(f"{snapshot}: {len(snap_out)} rows "
-                f"(added {len(tier_rows)} from this tier)")
+                f"(added {len(valid)} valid from this tier)")
           PY
 
             # 3. Stage. If nothing changed (the snapshot is identical
