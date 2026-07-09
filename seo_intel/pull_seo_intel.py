@@ -230,6 +230,124 @@ def pull_competitors(limit: int) -> list[dict]:
     return rows
 
 
+import re
+
+_SIZE_RE = re.compile(r"(\d{1,2})\s*[x×]\s*(\d{1,2})")
+# Non-size page topics: canonical key -> substrings that signal it.
+_CATEGORY_TOPICS = {
+    "gallery wall": ["gallery wall", "gallery-wall"],
+    "diploma/certificate": ["diploma", "certificate", "document frame"],
+    "poster": ["poster"],
+    "movie poster": ["movie poster", "one sheet", "one-sheet"],
+    "shadow box": ["shadow box", "shadowbox"],
+    "collage": ["collage"],
+    "floating": ["floating", "float frame"],
+    "canvas": ["canvas"],
+    "matted / with mat": ["with mat", "matted", "matboard", "mat board"],
+    "wood": ["wood", "oak", "walnut", "bamboo", "mahogany"],
+    "metal": ["metal", "aluminum", "aluminium"],
+    "digital": ["digital frame", "digital picture"],
+}
+
+
+def _topic_keys(text: str) -> set[str]:
+    """Normalize a page URL (or keyword) into topic keys: canonical frame
+    sizes (e.g. '8x10') plus category topics. Used to compare which page
+    topics a competitor covers vs. us."""
+    s = (text or "").lower().replace("_", " ").replace("-", " ")
+    keys = set()
+    for m in _SIZE_RE.finditer(s):
+        keys.add(f"{int(m.group(1))}x{int(m.group(2))}")
+    for canon, toks in _CATEGORY_TOPICS.items():
+        if any(t in s for t in toks):
+            keys.add(canon)
+    return keys
+
+
+def pull_relevant_pages(domain: str, limit: int) -> list[dict]:
+    """Top landing pages of a domain by organic traffic estimate."""
+    res = _post("relevant_pages/live", [{
+        "target": domain,
+        "location_code": LOCATION_CODE,
+        "language_code": LANGUAGE_CODE,
+        "limit": limit,
+        "order_by": ["metrics.organic.etv,desc"],
+    }])
+    rows = []
+    for it in (res.get("items") or []):
+        m = (it.get("metrics") or {}).get("organic") or {}
+        url = it.get("page_address") or ""
+        rows.append({
+            "url": url,
+            "keywords": m.get("count") or 0,
+            "traffic_estimate": round(m.get("etv") or 0),
+            "topics": sorted(_topic_keys(url)),
+        })
+    return rows
+
+
+def build_page_gaps(our_pages: list[dict], comp_pages: dict[str, list[dict]]) -> dict:
+    """Topics a competitor has a ranking page for that we have no page for.
+
+    Aggregates by topic key: which competitors cover it, the best (max)
+    competitor page traffic for it, and an example competitor URL. Sorted
+    by that traffic so the biggest missing pages surface first.
+    """
+    # Everything we already have a page for (order-sensitive keys).
+    ours = set()
+    for p in our_pages:
+        ours.update(p["topics"])
+    # Order-independent size set — "18x24" and "24x18" collapse to "18x24" —
+    # so we can tell a truly-novel size from a landscape/portrait variant of
+    # one we already cover.
+    def _canon_size(key):
+        m = _SIZE_RE.fullmatch(key.replace(" ", ""))
+        if not m:
+            return None
+        a, b = int(m.group(1)), int(m.group(2))
+        return f"{min(a, b)}x{max(a, b)}"
+    our_canon_sizes = {c for c in (_canon_size(k) for k in ours) if c}
+
+    gaps: dict[str, dict] = {}
+    for comp, pages in comp_pages.items():
+        for p in pages:
+            for topic in p["topics"]:
+                if topic in ours:
+                    continue
+                canon = _canon_size(topic)
+                # Classify: is this a novel topic, or just the other
+                # orientation of a size we already have a page for?
+                if canon and canon in our_canon_sizes:
+                    kind = "orientation-variant"   # we have this size, other orientation
+                elif canon:
+                    kind = "novel-size"            # we have no page for this size at all
+                else:
+                    kind = "novel-topic"           # non-size topic (category)
+                g = gaps.setdefault(topic, {
+                    "topic": topic, "kind": kind, "competitors": set(),
+                    "best_traffic": 0, "example_url": "", "example_competitor": "",
+                })
+                g["competitors"].add(comp)
+                if p["traffic_estimate"] > g["best_traffic"]:
+                    g["best_traffic"] = p["traffic_estimate"]
+                    g["example_url"] = p["url"]
+                    g["example_competitor"] = comp
+
+    out = []
+    for g in gaps.values():
+        g["competitors"] = sorted(g["competitors"])
+        out.append(g)
+    out.sort(key=lambda g: g["best_traffic"], reverse=True)
+    # Persist raw page lists too, so the gap model can be reprocessed
+    # without re-hitting the API.
+    return {
+        "our_page_count": len(our_pages),
+        "gaps": out,
+        "_our_pages": our_pages,
+        "_competitor_pages": comp_pages,
+    }
+
+
 def pull_keyword_gap(competitor: str, limit: int) -> list[dict]:
     """Keywords `competitor` ranks top-20 for where americanflat ranks worse
     or not at all. Uses Domain Intersection with intersecting_domains toggled
@@ -328,7 +446,7 @@ def main() -> None:
     ap.add_argument("--serp-limit", type=int, default=50,
                     help="How many curated keywords to pre-pull live SERPs for.")
     ap.add_argument("--only", default="",
-                    help="Comma list: overview,ranked,opportunities,competitors,gap,serp")
+                    help="Comma list: overview,ranked,opportunities,competitors,gap,pagegaps,serp")
     args = ap.parse_args()
 
     if not LOGIN or not PASSWORD:
@@ -374,6 +492,19 @@ def main() -> None:
             print(f"- keyword gap vs {c['domain']}…")
             gap[c["domain"]] = pull_keyword_gap(c["domain"], args.gap_limit)
         write("keyword_gap", gap)
+
+    if want("pagegaps"):
+        # Which page topics do peer competitors rank with that we lack?
+        if not competitors:
+            competitors = pull_competitors(args.competitors_limit)
+        PEER_CEILING = 10_000_000
+        comp = [c for c in competitors if c["type"] == "competitor"]
+        peers = [c for c in comp if (c["their_traffic"] or 0) < PEER_CEILING]
+        targets = (peers or comp)[:args.gap_competitors]
+        print(f"- page gaps vs {', '.join(c['domain'] for c in targets)}…")
+        our_pages = pull_relevant_pages(TARGET, 700)
+        comp_pages = {c["domain"]: pull_relevant_pages(c["domain"], 150) for c in targets}
+        write("page_gaps", build_page_gaps(our_pages, comp_pages))
 
     if want("serp"):
         # Curated set = top opportunities (where we're close and want to see

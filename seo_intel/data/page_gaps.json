@@ -1,0 +1,6071 @@
+{
+  "our_page_count": 200,
+  "gaps": [
+    {
+      "topic": "36x24",
+      "kind": "orientation-variant",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 26161,
+      "example_url": "https://www.arttoframe.com/36x24_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "40x60",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com",
+        "pictureframes.com"
+      ],
+      "best_traffic": 8044,
+      "example_url": "https://www.pictureframes.com/custom-framing/40x60-picture-frames",
+      "example_competitor": "pictureframes.com"
+    },
+    {
+      "topic": "24x16",
+      "kind": "orientation-variant",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 6769,
+      "example_url": "https://www.arttoframe.com/24x16_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "14x14",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 6056,
+      "example_url": "https://www.arttoframe.com/14x14_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "17x11",
+      "kind": "orientation-variant",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 5437,
+      "example_url": "https://www.arttoframe.com/17x11_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "10x8",
+      "kind": "orientation-variant",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 5345,
+      "example_url": "https://www.arttoframe.com/10x8_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "40x40",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 3821,
+      "example_url": "https://www.arttoframe.com/40x40_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "12x24",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 3629,
+      "example_url": "https://www.arttoframe.com/12x24_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "40x50",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 3378,
+      "example_url": "https://www.arttoframe.com/40x50_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "36x48",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 3210,
+      "example_url": "https://www.arttoframe.com/36x48_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "15x20",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 2778,
+      "example_url": "https://www.arttoframe.com/15x20_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "50x50",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 2777,
+      "example_url": "https://www.arttoframe.com/50x50_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "9x24",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 2729,
+      "example_url": "https://www.arttoframe.com/9x24_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "40x30",
+      "kind": "orientation-variant",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 2624,
+      "example_url": "https://www.arttoframe.com/40x30_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "50x30",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 2406,
+      "example_url": "https://www.arttoframe.com/50x30_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "8x24",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 2190,
+      "example_url": "https://www.arttoframe.com/8x24_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "18x20",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 2005,
+      "example_url": "https://www.arttoframe.com/18x20_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "24x18",
+      "kind": "orientation-variant",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 1951,
+      "example_url": "https://www.arttoframe.com/24x18_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "35x35",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 1878,
+      "example_url": "https://www.arttoframe.com/35x35_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "3x5",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1853,
+      "example_url": "https://www.arttoframe.com/3x5_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "25x25",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 1651,
+      "example_url": "https://www.arttoframe.com/25x25_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "30x45",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1634,
+      "example_url": "https://www.arttoframe.com/30x45_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "36x36",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1497,
+      "example_url": "https://www.arttoframe.com/36x36_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "8x20",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1431,
+      "example_url": "https://www.arttoframe.com/8x20_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "3x3",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 1347,
+      "example_url": "https://www.arttoframe.com/24-3x3-Openings-Collage-Picture-Frame",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "12x14",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 1343,
+      "example_url": "https://www.arttoframe.com/12x14_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "6x9",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1327,
+      "example_url": "https://www.arttoframe.com/6x9_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "28x28",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1323,
+      "example_url": "https://www.arttoframe.com/28x28_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "14x20",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1305,
+      "example_url": "https://www.arttoframe.com/14x20_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "24x32",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 1293,
+      "example_url": "https://www.arttoframe.com/24x32_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "12x36",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1226,
+      "example_url": "https://www.arttoframe.com/12x36_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "15x40",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1194,
+      "example_url": "https://www.arttoframe.com/15x40_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "24x48",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1152,
+      "example_url": "https://www.arttoframe.com/24x48_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "15x12",
+      "kind": "orientation-variant",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 1144,
+      "example_url": "https://www.arttoframe.com/15x12_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "9x14",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1143,
+      "example_url": "https://www.arttoframe.com/9x14_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "21x30",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1135,
+      "example_url": "https://www.arttoframe.com/21x30_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "24x6",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1116,
+      "example_url": "https://www.arttoframe.com/24x6_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "45x45",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1109,
+      "example_url": "https://www.arttoframe.com/45x45_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "11x18",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 1056,
+      "example_url": "https://www.arttoframe.com/11x18_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "14x17",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 1032,
+      "example_url": "https://www.arttoframe.com/14x17.5_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "40x20",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1025,
+      "example_url": "https://www.arttoframe.com/40x20_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "20x60",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 1006,
+      "example_url": "https://www.arttoframe.com/20x60_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "8x9",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 995,
+      "example_url": "https://www.arttoframe.com/8x9_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "12x9",
+      "kind": "orientation-variant",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 986,
+      "example_url": "https://www.arttoframe.com/12x9_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "5x14",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 965,
+      "example_url": "https://www.arttoframe.com/8.5x14_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "25x35",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 952,
+      "example_url": "https://www.arttoframe.com/25x35_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "40x52",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 944,
+      "example_url": "https://www.arttoframe.com/40x52_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "15x30",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 919,
+      "example_url": "https://www.arttoframe.com/15x30_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "14x24",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 884,
+      "example_url": "https://www.arttoframe.com/14x24_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "4x5",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 855,
+      "example_url": "https://www.arttoframe.com/4x5_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "5x8",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 853,
+      "example_url": "https://www.arttoframe.com/5x8_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "24x60",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 846,
+      "example_url": "https://www.arttoframe.com/24x60_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "15x18",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 838,
+      "example_url": "https://www.arttoframe.com/15x18_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "30x12",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 826,
+      "example_url": "https://www.arttoframe.com/30x12_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "28x40",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 812,
+      "example_url": "https://www.arttoframe.com/28x40-Satin-Black-picture-frame/FRBW26079",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "35x40",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 806,
+      "example_url": "https://www.arttoframe.com/35x40_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "32x40",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 798,
+      "example_url": "https://www.arttoframe.com/32x40_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "12x30",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 793,
+      "example_url": "https://www.arttoframe.com/12x30_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "23x35",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 754,
+      "example_url": "https://www.arttoframe.com/23x35_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "22x15",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 739,
+      "example_url": "https://www.arttoframe.com/22x15_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "32x24",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 738,
+      "example_url": "https://www.arttoframe.com/32x24_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "13x24",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 721,
+      "example_url": "https://www.arttoframe.com/13x24_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "14x11",
+      "kind": "orientation-variant",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 720,
+      "example_url": "https://www.arttoframe.com/14x11_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "13x25",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 714,
+      "example_url": "https://www.arttoframe.com/13x25_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "11x15",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 713,
+      "example_url": "https://www.arttoframe.com/11x15-Ruby-mat/custom-dm-11x15",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "17x13",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 708,
+      "example_url": "https://www.arttoframe.com/17x13_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "25x30",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com",
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 703,
+      "example_url": "https://www.arttoframe.com/25x30_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "30x70",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 698,
+      "example_url": "https://www.arttoframe.com/30x70_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "25x17",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 695,
+      "example_url": "https://www.arttoframe.com/25x17_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "17x14",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 692,
+      "example_url": "https://www.arttoframe.com/17x14_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "12x34",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 691,
+      "example_url": "https://www.arttoframe.com/12x34_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "9x27",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 691,
+      "example_url": "https://www.arttoframe.com/9x27_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
+      "topic": "50x70",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 651,
+      "example_url": "https://www.modernmemorydesign.com/products/50-x-70cm-frame-gold-wood-picture-frame-50x70-cm-poster-frame-50-x-70-cm",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "28x48",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 557,
+      "example_url": "https://www.modernmemorydesign.com/collections/28x40-frame-28x48-poster-frames",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "32x48",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 441,
+      "example_url": "https://www.modernmemorydesign.com/products/simple-flat-matte-white-wood-picture-frame-32x48-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "8x6",
+      "kind": "orientation-variant",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 390,
+      "example_url": "https://www.modernmemorydesign.com/products/8x6-picture-frame-black-8x6-frame-8-x-6-poster-frames-8-x-6",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "70x10",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 305,
+      "example_url": "https://www.modernmemorydesign.com/products/70x100-cm-poster-frame-27x40-black-wood-frame-with-plexiglass",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "20x40",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 298,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-20x40-picture-frames-wood-for-20x40-photo-20-x-40-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "10x15",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 285,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-10x15-picture-frames-wood-for-10x15-photo-10-x-15-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "26x38",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 261,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-26x38-picture-frames-wood-for-26x38-photo-26-x-38-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "14x16",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 242,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-14x16-picture-frames-wood-for-14x16-photo-14-x-16-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "19x28",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 209,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-19x28-picture-frames-wood-for-19x28-photo-19-x-28-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "5x24",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 204,
+      "example_url": "https://www.modernmemorydesign.com/products/wood-16-5x24-picture-frame-black-16-5-x-24-frame-inch-poster-1",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "4x11",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 197,
+      "example_url": "https://www.modernmemorydesign.com/products/4x11-picture-frames-white-wood-4x11-frame-4-x-11-poster-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "28x32",
+      "kind": "novel-size",
+      "competitors": [
+        "pictureframes.com"
+      ],
+      "best_traffic": 190,
+      "example_url": "https://www.pictureframes.com/custom-framing/28x32-picture-frames",
+      "example_competitor": "pictureframes.com"
+    },
+    {
+      "topic": "26x36",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 187,
+      "example_url": "https://www.modernmemorydesign.com/products/26x36-picture-frame-black-26x36-frame-26-x-36-poster-frames-26-x-36",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "40x9",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 185,
+      "example_url": "https://www.modernmemorydesign.com/products/40x9-picture-frames-brown-wood-40x9-frame-40-x-9-frames",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "9x34",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 183,
+      "example_url": "https://www.modernmemorydesign.com/products/9x34-picture-frame-black-9x34-frame-9-x-34-poster-frames-9-x-34",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "15x23",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 180,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-15x23-picture-frames-wood-for-15x23-photo-15-x-23-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "24x35",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 175,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-24x35-picture-frames-wood-for-24x35-photo-24-x-35-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "23x23",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 174,
+      "example_url": "https://www.modernmemorydesign.com/products/23x23-picture-frame-black-23x23-frame-23-x-23-photo-frames-23-x-23-square",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "10x7",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 162,
+      "example_url": "https://www.modernmemorydesign.com/products/10x7-picture-frame-black-10x7-frame-10-x-7-inch-poster-frames-10-x-7",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "25x18",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 154,
+      "example_url": "https://www.modernmemorydesign.com/products/25x18-picture-frame-black-25x18-frame-25-x-18-inch-poster-frames-25-x-18",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "4x3",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 145,
+      "example_url": "https://www.modernmemorydesign.com/products/4x3-picture-frame-black-4x3-frame-4-x-3-inch-poster-frames-4-x-3",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "24x26",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 144,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-24x26-picture-frames-wood-for-24x26-photo-24-x-26-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "35x6",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 136,
+      "example_url": "https://www.modernmemorydesign.com/products/35x6-picture-frame-black-35x6-frame-35-x-6-poster-frames-35-x-6",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "40x32",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 133,
+      "example_url": "https://www.modernmemorydesign.com/products/40x32-shadow-box-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "48x32",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 126,
+      "example_url": "https://www.modernmemorydesign.com/products/48x32-picture-frame-wood-black-silver-gold-bronze",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "24x34",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 124,
+      "example_url": "https://www.modernmemorydesign.com/products/24x34-picture-frames-brown-wood-24x34-frame-24-x-34-frames",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "23x16",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 122,
+      "example_url": "https://www.modernmemorydesign.com/products/23x16-picture-frame-black-23x16-frame-23-x-16-poster-frames-23-x-16",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "11x30",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 114,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-11x30-picture-frames-wood-for-11x30-photo-11-x-30-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "16x13",
+      "kind": "orientation-variant",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 114,
+      "example_url": "https://www.modernmemorydesign.com/products/16x13-picture-frame-black-16x13-frame-16-x-13-poster-frames-16-x-13",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "7x10",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 111,
+      "example_url": "https://www.modernmemorydesign.com/products/7x10-picture-frame-black-wood-7x10-frame-7-x-10-poster-frames-7-by-10",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "17x20",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 110,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-17x20-picture-frames-wood-for-17x20-photo-17-x-20-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "45x30",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 110,
+      "example_url": "https://www.modernmemorydesign.com/products/45x30-picture-frames-brown-wood-45x30-frame-45-x-30-frames",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "16x18",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 109,
+      "example_url": "https://www.modernmemorydesign.com/products/16x18-picture-frame-black-16x18-frame-16-x-18-poster-frames-16-x-18",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "36x28",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 106,
+      "example_url": "https://www.modernmemorydesign.com/products/36x28-picture-frame-black-36x28-frame-36-x-28-poster-frames-36-x-28-1",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "13x17",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 106,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-13x17-picture-frames-wood-for-13x17-photo-13-x-17-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "22x24",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 104,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-22x24-picture-frames-wood-for-22x24-photo-22-x-24-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "12x19",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 103,
+      "example_url": "https://www.modernmemorydesign.com/products/12x19-picture-frame-black-12x19-frame-12-x-19-inch-poster-frames-12-x-19",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "21x21",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 102,
+      "example_url": "https://www.modernmemorydesign.com/collections/modern-21x21-picture-frames-wood-for-21x21-photo-21-x-21-frame",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "12x8",
+      "kind": "orientation-variant",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 102,
+      "example_url": "https://www.modernmemorydesign.com/products/12x8-picture-frame-black-12x8-frame-12-x-8-poster-frames-12-x-8",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "26x34",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 99,
+      "example_url": "https://www.modernmemorydesign.com/products/26x34-picture-frame-black-26x34-frame-26-x-34-poster-frames-26-x-34",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "45x20",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 99,
+      "example_url": "https://www.modernmemorydesign.com/products/45x20-picture-frame-black-45x20-frame-45-x-20-poster-frames-45-x-20",
+      "example_competitor": "modernmemorydesign.com"
+    }
+  ],
+  "_our_pages": [
+    {
+      "url": "https://americanflat.com/collections/18x24-frames",
+      "keywords": 274,
+      "traffic_estimate": 46987,
+      "topics": [
+        "18x24"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/11x14-frames",
+      "keywords": 307,
+      "traffic_estimate": 15133,
+      "topics": [
+        "11x14"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/12x18-frames",
+      "keywords": 275,
+      "traffic_estimate": 8376,
+      "topics": [
+        "12x18"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/gallery-wall-frame-set",
+      "keywords": 109,
+      "traffic_estimate": 8036,
+      "topics": [
+        "gallery wall"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/picture-frames",
+      "keywords": 1178,
+      "traffic_estimate": 6265,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/gallery-wall-frame-sets-oversized-mat-displays",
+      "keywords": 224,
+      "traffic_estimate": 5869,
+      "topics": [
+        "gallery wall"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/shadowbox-picture-frames",
+      "keywords": 287,
+      "traffic_estimate": 5843,
+      "topics": [
+        "shadow box"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/11x17-frames",
+      "keywords": 112,
+      "traffic_estimate": 5792,
+      "topics": [
+        "11x17"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/16x16-frames",
+      "keywords": 67,
+      "traffic_estimate": 5139,
+      "topics": [
+        "16x16"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/9x12-frames",
+      "keywords": 18,
+      "traffic_estimate": 3971,
+      "topics": [
+        "9x12"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/8x11-frames",
+      "keywords": 37,
+      "traffic_estimate": 3545,
+      "topics": [
+        "8x11"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/12x16-frames",
+      "keywords": 206,
+      "traffic_estimate": 3298,
+      "topics": [
+        "12x16"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/20x30-frames",
+      "keywords": 130,
+      "traffic_estimate": 3222,
+      "topics": [
+        "20x30"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/8-5x11-frames",
+      "keywords": 61,
+      "traffic_estimate": 3216,
+      "topics": [
+        "5x11"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/16x20-picture-frames",
+      "keywords": 94,
+      "traffic_estimate": 2828,
+      "topics": [
+        "16x20"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/framing-101-understanding-standard-frame-sizes-and-how-to-measure-them",
+      "keywords": 277,
+      "traffic_estimate": 2495,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/30x40-frames",
+      "keywords": 76,
+      "traffic_estimate": 2476,
+      "topics": [
+        "30x40"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/8x8-frames",
+      "keywords": 96,
+      "traffic_estimate": 2319,
+      "topics": [
+        "8x8"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/vintage-frames",
+      "keywords": 212,
+      "traffic_estimate": 1491,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/silver-picture-frames",
+      "keywords": 201,
+      "traffic_estimate": 1438,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/22x28-frames",
+      "keywords": 52,
+      "traffic_estimate": 1413,
+      "topics": [
+        "22x28"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/16x24-frames",
+      "keywords": 98,
+      "traffic_estimate": 1254,
+      "topics": [
+        "16x24"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/5-x-7-picture-frames",
+      "keywords": 262,
+      "traffic_estimate": 1247,
+      "topics": [
+        "5x7"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/gold-picture-frames",
+      "keywords": 280,
+      "traffic_estimate": 1223,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/black-adjustable-tabletop-easel-stand-for-frames",
+      "keywords": 37,
+      "traffic_estimate": 1142,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/12x15-frames",
+      "keywords": 23,
+      "traffic_estimate": 1129,
+      "topics": [
+        "12x15"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/14-x-22-picture-frames",
+      "keywords": 28,
+      "traffic_estimate": 1098,
+      "topics": [
+        "14x22"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/27x40-frames",
+      "keywords": 47,
+      "traffic_estimate": 1047,
+      "topics": [
+        "27x40"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/17x22-frames",
+      "keywords": 40,
+      "traffic_estimate": 929,
+      "topics": [
+        "17x22"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-11x22-frame-assorted-media-cover-frame-hanging-hardware-included-fits-11x22-inch-newspapers",
+      "keywords": 20,
+      "traffic_estimate": 913,
+      "topics": [
+        "11x22"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/embodiment-by-pi-creative-art-shower-curtain",
+      "keywords": 21,
+      "traffic_estimate": 907,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/20x24-frames",
+      "keywords": 10,
+      "traffic_estimate": 891,
+      "topics": [
+        "20x24"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/8x12-frames",
+      "keywords": 95,
+      "traffic_estimate": 850,
+      "topics": [
+        "8x12"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/abstract",
+      "keywords": 41,
+      "traffic_estimate": 755,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/9x11-frames",
+      "keywords": 24,
+      "traffic_estimate": 754,
+      "topics": [
+        "9x11"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/",
+      "keywords": 25,
+      "traffic_estimate": 699,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/13x19-frames",
+      "keywords": 116,
+      "traffic_estimate": 698,
+      "topics": [
+        "13x19"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/11x14-diploma-frame-set-of-2-shatter-resistant-glass-and-hanging-hardware-included",
+      "keywords": 16,
+      "traffic_estimate": 697,
+      "topics": [
+        "11x14",
+        "diploma/certificate"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-20x20-picture-frame-with-mat-set-of-3-black-slim-molding",
+      "keywords": 101,
+      "traffic_estimate": 652,
+      "topics": [
+        "20x20",
+        "matted / with mat"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/art-sets",
+      "keywords": 103,
+      "traffic_estimate": 454,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/the-importance-of-picture-frame-wire-how-to-tie-and-hang",
+      "keywords": 113,
+      "traffic_estimate": 438,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/10x13-frames",
+      "keywords": 31,
+      "traffic_estimate": 410,
+      "topics": [
+        "10x13"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/4-x-6-picture-frames",
+      "keywords": 88,
+      "traffic_estimate": 409,
+      "topics": [
+        "4x6"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/18x18-frames",
+      "keywords": 59,
+      "traffic_estimate": 401,
+      "topics": [
+        "18x18"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/6x8-frames",
+      "keywords": 17,
+      "traffic_estimate": 377,
+      "topics": [
+        "6x8"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/11x16",
+      "keywords": 13,
+      "traffic_estimate": 373,
+      "topics": [
+        "11x16"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/24x24-frames",
+      "keywords": 64,
+      "traffic_estimate": 352,
+      "topics": [
+        "24x24"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/best-selling-shower-curtains",
+      "keywords": 6,
+      "traffic_estimate": 308,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/kids-artwork-picture-frame-with-lead-free-shatter-resistant-glass",
+      "keywords": 1,
+      "traffic_estimate": 290,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/20x20-frames",
+      "keywords": 26,
+      "traffic_estimate": 287,
+      "topics": [
+        "20x20"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/13x16-frames",
+      "keywords": 12,
+      "traffic_estimate": 286,
+      "topics": [
+        "13x16"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/step-by-step-guide-to-framing-jerseys-and-t-shirts",
+      "keywords": 93,
+      "traffic_estimate": 276,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/poster-frame-22x34-without-mat-thin-border",
+      "keywords": 56,
+      "traffic_estimate": 229,
+      "topics": [
+        "22x34",
+        "poster"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/canvas-floating-frame-without-mat",
+      "keywords": 58,
+      "traffic_estimate": 217,
+      "topics": [
+        "canvas",
+        "floating"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/14x18-frames",
+      "keywords": 27,
+      "traffic_estimate": 214,
+      "topics": [
+        "14x18"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/newspaper-frame-11x22-polished-plexiglass-without-mat",
+      "keywords": 6,
+      "traffic_estimate": 197,
+      "topics": [
+        "11x22"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/12x12-frames",
+      "keywords": 34,
+      "traffic_estimate": 161,
+      "topics": [
+        "12x12"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/ornate-diploma-frame-8-5x11-without-mat",
+      "keywords": 2,
+      "traffic_estimate": 149,
+      "topics": [
+        "5x11",
+        "diploma/certificate"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/black-matted-frames",
+      "keywords": 40,
+      "traffic_estimate": 148,
+      "topics": [
+        "matted / with mat"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-20x20-poster-frame-set-of-3-use-as-8x10-frame-with-mat-or-20x20-frame-without-mat-black",
+      "keywords": 9,
+      "traffic_estimate": 133,
+      "topics": [
+        "20x20",
+        "8x10",
+        "matted / with mat",
+        "poster"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/10-x-12-picture-frames",
+      "keywords": 41,
+      "traffic_estimate": 131,
+      "topics": [
+        "10x12"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-kids-art-frame-holds-100-photos-modern-premium-quality",
+      "keywords": 11,
+      "traffic_estimate": 120,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/24x30-frames",
+      "keywords": 3,
+      "traffic_estimate": 110,
+      "topics": [
+        "24x30"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/71-x74-shower-curtains",
+      "keywords": 11,
+      "traffic_estimate": 109,
+      "topics": [
+        "71x74"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/10x14-frames",
+      "keywords": 3,
+      "traffic_estimate": 108,
+      "topics": [
+        "10x14"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-fusion-float-frame-floating-slide-in-with-mat-acrylic",
+      "keywords": 10,
+      "traffic_estimate": 103,
+      "topics": [
+        "floating",
+        "matted / with mat"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/kids-art-frames",
+      "keywords": 16,
+      "traffic_estimate": 88,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/floating-shelf-lipped-ledge-engineered-wood-wall-mount",
+      "keywords": 3,
+      "traffic_estimate": 80,
+      "topics": [
+        "floating",
+        "wood"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/13x18-frames",
+      "keywords": 11,
+      "traffic_estimate": 76,
+      "topics": [
+        "13x18"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/floating-picture-frame-without-mat",
+      "keywords": 13,
+      "traffic_estimate": 70,
+      "topics": [
+        "floating"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/picture-frame-mat-3pack-matted",
+      "keywords": 16,
+      "traffic_estimate": 68,
+      "topics": [
+        "matted / with mat"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/6x6-frames",
+      "keywords": 4,
+      "traffic_estimate": 66,
+      "topics": [
+        "6x6"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/magnetic-picture-frames-for-fridge-and-locker",
+      "keywords": 25,
+      "traffic_estimate": 63,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/what-is-maximalism-get-to-know-this-home-decor-trend",
+      "keywords": 3,
+      "traffic_estimate": 62,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/diy-family-handprint-kit-personalized-keepsake-frame-complete-set-with-paints-americanflat",
+      "keywords": 11,
+      "traffic_estimate": 62,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/how-to-frame-watercolor-art-and-paintings-framing-guide",
+      "keywords": 29,
+      "traffic_estimate": 57,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/black-gallery-wall-frames-set-of-3-wide-mat",
+      "keywords": 9,
+      "traffic_estimate": 56,
+      "topics": [
+        "gallery wall"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/12x17-frames",
+      "keywords": 11,
+      "traffic_estimate": 54,
+      "topics": [
+        "12x17"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-hinged-picture-frame-with-shatter-resistant-glass-metal-picture-frame-displays-two-photos",
+      "keywords": 6,
+      "traffic_estimate": 52,
+      "topics": [
+        "metal"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/picture-frames-by-style",
+      "keywords": 7,
+      "traffic_estimate": 48,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/all-shower-curtains",
+      "keywords": 4,
+      "traffic_estimate": 44,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/2-pack-12x16-picture-frame-in-black-displays-8x12-with-mat-or-12x16-without-mat-composite-wood-with-shatter-resistant-glass-horizontal-and-vertical-formats-for-wall",
+      "keywords": 13,
+      "traffic_estimate": 43,
+      "topics": [
+        "12x16",
+        "8x12",
+        "matted / with mat",
+        "wood"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/10x10-frames",
+      "keywords": 24,
+      "traffic_estimate": 41,
+      "topics": [
+        "10x10"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/diploma-frames",
+      "keywords": 32,
+      "traffic_estimate": 35,
+      "topics": [
+        "diploma/certificate"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/wall-art",
+      "keywords": 17,
+      "traffic_estimate": 31,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/20x28-frames",
+      "keywords": 2,
+      "traffic_estimate": 29,
+      "topics": [
+        "20x28"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/71-x-74-shower-curtain-three-sea-turtles-by-suren-nersisyan_shower-curtain",
+      "keywords": 12,
+      "traffic_estimate": 24,
+      "topics": [
+        "71x74"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/poster-frames-polished-plexiglass",
+      "keywords": 1,
+      "traffic_estimate": 18,
+      "topics": [
+        "poster"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-double-picture-frame-two-4x6-8x10-shatter-resistant-mdf",
+      "keywords": 6,
+      "traffic_estimate": 14,
+      "topics": [
+        "4x6",
+        "8x10"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/floating-shelves-set-of-3-14-in-lipped-ledge",
+      "keywords": 4,
+      "traffic_estimate": 14,
+      "topics": [
+        "floating"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/set-of-3-sports-ball-display-stands-baseball-basketball-football-or-tennis-all-star-collection",
+      "keywords": 4,
+      "traffic_estimate": 14,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/newspaper-frame-2-pack-protective-wall-display-plexiglass-front",
+      "keywords": 1,
+      "traffic_estimate": 13,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/shadow-box-frame-shatter-resistant-glass",
+      "keywords": 15,
+      "traffic_estimate": 12,
+      "topics": [
+        "shadow box"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-72x75-hookless-shower-curtain-water-resistant-abstract-shower-curtain-with-sheer-panel-snap-in-liner-and-grommets",
+      "keywords": 2,
+      "traffic_estimate": 11,
+      "topics": [
+        "72x75"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/71-x-74-shower-curtain-watercolor-blueberry-by-new-york-botanical-garden_shower-curtain",
+      "keywords": 2,
+      "traffic_estimate": 11,
+      "topics": [
+        "71x74"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/floral",
+      "keywords": 1,
+      "traffic_estimate": 11,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/picture-frame",
+      "keywords": 9,
+      "traffic_estimate": 11,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-picture-frame-gold-bamboo-frame-with-faux-bamboo-design-with-easel-stand-and-shatter-resistant-glass",
+      "keywords": 3,
+      "traffic_estimate": 11,
+      "topics": [
+        "wood"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/picture-frame-set-of-4-engineered-wood-with-shatter-resistant-glass-horizontal-and-vertical-formats",
+      "keywords": 3,
+      "traffic_estimate": 10,
+      "topics": [
+        "wood"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/collage-picture-frame-displays-four-4x6-or-4x4-pictures-engineered-wood-shatter-resistant-glass",
+      "keywords": 5,
+      "traffic_estimate": 9,
+      "topics": [
+        "4x4",
+        "4x6",
+        "collage",
+        "wood"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/how-to-hang-wall-art",
+      "keywords": 16,
+      "traffic_estimate": 9,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/50x60-cotton-throw-blanket-soft-and-breathable-americanflat",
+      "keywords": 2,
+      "traffic_estimate": 8,
+      "topics": [
+        "50x60"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/diploma-frame-2-pack-professional-document-display-shatter-resistant-glass",
+      "keywords": 4,
+      "traffic_estimate": 7,
+      "topics": [
+        "diploma/certificate"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/rhythmics-i-by-pi-creative-art-shower-curtain",
+      "keywords": 3,
+      "traffic_estimate": 7,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/gallery-wrapped-canvas",
+      "keywords": 2,
+      "traffic_estimate": 7,
+      "topics": [
+        "canvas"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/floating-picture-frame-two-sided-glass-display-for-photos-and-pressed-flowers",
+      "keywords": 5,
+      "traffic_estimate": 7,
+      "topics": [
+        "floating"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/thin-border-picture-frame-shatter-resistant-plexiglass-wall-art-display",
+      "keywords": 2,
+      "traffic_estimate": 7,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/picture-frame-with-oval-mat-engineered-wood-photo-frame-with-shatter-resistant-glass-cover",
+      "keywords": 4,
+      "traffic_estimate": 6,
+      "topics": [
+        "wood"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/mixing-traditional-and-modern-wall-art",
+      "keywords": 8,
+      "traffic_estimate": 6,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/24x36-picture-frames",
+      "keywords": 2,
+      "traffic_estimate": 6,
+      "topics": [
+        "24x36"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/championship-ring-display-case-holds-3-9-or-20-rings-all-star-collection",
+      "keywords": 4,
+      "traffic_estimate": 5,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/hinged-double-picture-frame-without-mat",
+      "keywords": 3,
+      "traffic_estimate": 5,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/71-x-74-shower-curtain-no-borders-iv-by-pi-creative-art_shower-curtain",
+      "keywords": 1,
+      "traffic_estimate": 5,
+      "topics": [
+        "71x74"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-signature-double-frame-two-4x6-shatter-resistant",
+      "keywords": 7,
+      "traffic_estimate": 4,
+      "topics": [
+        "4x6"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/black-picture-frame-without-mat-glass-front",
+      "keywords": 2,
+      "traffic_estimate": 4,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/3-piece-sets",
+      "keywords": 19,
+      "traffic_estimate": 4,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/is-16x20-a-standard-frame-size",
+      "keywords": 4,
+      "traffic_estimate": 4,
+      "topics": [
+        "16x20"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-60x80-fleece-throw-blanket-soft-and-breathable-throw-blanket-for-couch-bed-chair-roomy-fleece-blankets-perfect-for-home-bedroom-or-outdoor-use-green",
+      "keywords": 1,
+      "traffic_estimate": 4,
+      "topics": [
+        "60x80"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/the-art-of-picture-frame-molding-enhancing-your-artwork",
+      "keywords": 10,
+      "traffic_estimate": 4,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/shadow-box-frame-front-loading-with-door-display-case-with-hanging-hardware-for-wall-and-tabletop",
+      "keywords": 7,
+      "traffic_estimate": 4,
+      "topics": [
+        "shadow box"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/where-the-passion-flower-grows-i-by-pi-creative",
+      "keywords": 7,
+      "traffic_estimate": 4,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/canvas",
+      "keywords": 9,
+      "traffic_estimate": 4,
+      "topics": [
+        "canvas"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/vintage-picture-frame-without-mat",
+      "keywords": 1,
+      "traffic_estimate": 3,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/black-seagrass-shapes-by-modern-tropical-shower-curtain-americanflat",
+      "keywords": 4,
+      "traffic_estimate": 3,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-digital-picture-frame",
+      "keywords": 3,
+      "traffic_estimate": 3,
+      "topics": [
+        "digital"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-floating-collage-frame-display-two-4x6-photos-9x12",
+      "keywords": 5,
+      "traffic_estimate": 3,
+      "topics": [
+        "4x6",
+        "9x12",
+        "collage",
+        "floating"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/stands",
+      "keywords": 4,
+      "traffic_estimate": 3,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/8-5x11-diploma-frame-set-of-2-use-as-diploma-frame-or-certificate-frame-with-shatter-resistant-glass-for-wall-and-tabletop",
+      "keywords": 1,
+      "traffic_estimate": 2,
+      "topics": [
+        "5x11",
+        "diploma/certificate"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/dopamine-decor-5-ways-to-decorate-a-home-to-make-you-happy",
+      "keywords": 4,
+      "traffic_estimate": 2,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/concealment-poster-frame-hinged-hardware-hidden-wall-safe-storage-cover",
+      "keywords": 3,
+      "traffic_estimate": 2,
+      "topics": [
+        "poster"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/gallery-wall-picture-frames-set-of-6",
+      "keywords": 1,
+      "traffic_estimate": 2,
+      "topics": [
+        "gallery wall"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/boho",
+      "keywords": 3,
+      "traffic_estimate": 2,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/framed-art",
+      "keywords": 4,
+      "traffic_estimate": 2,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/abstract-seaweed-by-artprink-shower-curtain-americanflat",
+      "keywords": 1,
+      "traffic_estimate": 2,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-brooklyn-record-album-frame-with-mat-shatter-resistant",
+      "keywords": 1,
+      "traffic_estimate": 2,
+      "topics": [
+        "matted / with mat"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/vinyl-album-frame-2-pack-record-cover-display-protective-wall-decor-frame",
+      "keywords": 3,
+      "traffic_estimate": 2,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/picture-frame-6-pack-front-loading-display-wall-decor-protective-cover",
+      "keywords": 3,
+      "traffic_estimate": 2,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-silver-picture-frame-with-beaded-style-detailing-and-shatter-resistant-glass-gallery-style-frames-for-tabletop-or-wall-display",
+      "keywords": 3,
+      "traffic_estimate": 1,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/16x20-picture-frames?page=2",
+      "keywords": 2,
+      "traffic_estimate": 1,
+      "topics": [
+        "16x20"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/modern-farmhouse-wall-art",
+      "keywords": 1,
+      "traffic_estimate": 1,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/4-x-6-picture-frames?page=2",
+      "keywords": 1,
+      "traffic_estimate": 1,
+      "topics": [
+        "4x6"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/71-x-74-shower-curtain-moody-roses-by-chaos-wonder-design_shower-curtain",
+      "keywords": 2,
+      "traffic_estimate": 1,
+      "topics": [
+        "71x74"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/16x20-with-11x14-mat-classic-gallery-style-picture-frame-veranda-collection",
+      "keywords": 1,
+      "traffic_estimate": 1,
+      "topics": [
+        "11x14",
+        "16x20"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/artist-spotlight-sabina-fenn",
+      "keywords": 2,
+      "traffic_estimate": 1,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/black-tshirt-frame-without-mat-folding-insert",
+      "keywords": 5,
+      "traffic_estimate": 1,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-picture-frame-with-mat-gold-bamboo-frame-with-faux-bamboo-design-with-easel-stand-and-shatter-resistant-glass",
+      "keywords": 4,
+      "traffic_estimate": 1,
+      "topics": [
+        "matted / with mat",
+        "wood"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/jersey-display-case",
+      "keywords": 1,
+      "traffic_estimate": 1,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-20x26-puzzle-frame-with-mat-for-18x24-puzzle-display-peel-and-stick-board-included-composite-wood-puzzle-poster-frame-with-plexiglass",
+      "keywords": 1,
+      "traffic_estimate": 1,
+      "topics": [
+        "18x24",
+        "20x26",
+        "matted / with mat",
+        "poster",
+        "wood"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/black-picture-frame-displays-5x7-photos-with-mat-or-11x14-photos-without-mat",
+      "keywords": 1,
+      "traffic_estimate": 1,
+      "topics": [
+        "11x14",
+        "5x7",
+        "matted / with mat"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-set-of-3-picture-frames-gallery-wall-frame-set-with-one-14x18-frame-with-5x7-mat-one-8x10-frame-with-3-5x5-mat-and-one-11x14-frame-with-4x6-mat-black",
+      "keywords": 2,
+      "traffic_estimate": 1,
+      "topics": [
+        "11x14",
+        "14x18",
+        "4x6",
+        "5x5",
+        "5x7",
+        "8x10",
+        "gallery wall"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/flag-display-case-memorial-service-veteran-burial-commemorative-shadow-box",
+      "keywords": 4,
+      "traffic_estimate": 1,
+      "topics": [
+        "shadow box"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-16x20-collage-picture-frame-fits-one-6x8-four-5x7-and-four-4x4-photos-or-one-16x20-photo",
+      "keywords": 3,
+      "traffic_estimate": 1,
+      "topics": [
+        "16x20",
+        "4x4",
+        "5x7",
+        "6x8",
+        "collage"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/lightwood-frames",
+      "keywords": 2,
+      "traffic_estimate": 1,
+      "topics": [
+        "wood"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/shower-curtains-with-liners",
+      "keywords": 2,
+      "traffic_estimate": 1,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-acrylic-picture-frame",
+      "keywords": 3,
+      "traffic_estimate": 1,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/30x30-frames",
+      "keywords": 2,
+      "traffic_estimate": 0,
+      "topics": [
+        "30x30"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-galleria-picture-frames-set-of-5-with-mat-acrylic",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "matted / with mat"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-7-pack-gallery-wall-set-includes-1-11x14-frame-2-8x10-frames-and-4-5x7-frames",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "11x14",
+        "5x7",
+        "8x10",
+        "gallery wall"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/frame-mat-guide-selecting-sizing-and-styling",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/display-cases",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/the-best-southwest-designs",
+      "keywords": 3,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/pin-display-case-shatter-resistant-glass-enamel-pin-holder-wall-art-display",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/8-5x11-diploma-frame-use-as-diploma-frame-or-certificate-frame-with-shatter-resistant-glass-for-wall-and-tabletop",
+      "keywords": 3,
+      "traffic_estimate": 0,
+      "topics": [
+        "5x11",
+        "diploma/certificate"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/pages/wholesale",
+      "keywords": 2,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/pages/picture-frames",
+      "keywords": 2,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-signature-double-frame-two-5x7-shatter-resistant",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "5x7"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/5x7-double-collage-picture-frame-11x14-picture-frame-without-mat-or-two-5x7-frames-with-mat",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "11x14",
+        "5x7",
+        "collage",
+        "matted / with mat"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-picture-frame-with-decorative-inner-mat-accent-with-shatter-resistant-glass",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/hanging-picture-frames-in-black-with-adjustable-ribbon-tassels",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/great-gift-ideas-for-the-men-in-your-life",
+      "keywords": 2,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/8-5x11-picture-frames",
+      "keywords": 2,
+      "traffic_estimate": 0,
+      "topics": [
+        "5x11"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/wall-calendars",
+      "keywords": 2,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/snap-on-liner",
+      "keywords": 2,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/south-dakota-wall-art",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/gallery-picture-frame",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/gallery-wall-art-sets",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "gallery wall"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/signature-collection",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/tropical-leaves-by-elena-oneill-shower-curtain-a248p064show7174",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://support.americanflat.com/hc/en-us/articles/360059784812-Are-the-mats-in-your-picture-frames-removable",
+      "keywords": 2,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/13x13-graduation-frame-in-black-with-2-opening-mats-use-as-8x10-picture-frame-and-tassel-holder",
+      "keywords": 2,
+      "traffic_estimate": 0,
+      "topics": [
+        "13x13",
+        "8x10"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/t-shirt-display-frame-shatter-resistant-glass-folding-board-insert",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/all",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-milestone-collage-frame-13-openings-shatter-resistant",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "collage"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/throw-blankets",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/lockable-jersey-display-case-with-hanger-for-adults-and-kids-all-star-collection",
+      "keywords": 2,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/bed-bath",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/experience-timeless-wall-art-with-americanflat-s-vintage-collection",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/collage-picture-frame-multi-photo-wall-decor-protective-glass-front",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "collage"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-18x24-poster-frame-set-of-3-use-as-8x10-frame-with-mat-or-18x24-frame-without-mat-black",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "18x24",
+        "8x10",
+        "matted / with mat",
+        "poster"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/metallic",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "metal"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/abs-plexiglass-picture-frames",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/baseball-memorabilia-display-cases-bat-display-baseball-display-all-star-collection",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/snap-in-poster-frame-without-mat",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "poster"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/gallery-wall-frame-set-antique-style-collage-wall-decor-protective-glass",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "collage",
+        "gallery wall"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/cheerfulness-i-by-pi-creative-art-shower-curtain",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://support.americanflat.com/hc/en-us/articles/360059784872-What-are-your-frames-made-of",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/four-featured-styles-in-our-gallery-wall-assembly-guide",
+      "keywords": 1,
+      "traffic_estimate": 0,
+      "topics": [
+        "gallery wall"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/large-matted-modern-wall-hanging-picture-frame-for-horizontal-or-vertical-photo-display-formats",
+      "keywords": 0,
+      "traffic_estimate": 0,
+      "topics": [
+        "matted / with mat"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/aluminum-floating-frame-shatter-resistant-without-mat-metal-molding-gallery-look",
+      "keywords": 0,
+      "traffic_estimate": 0,
+      "topics": [
+        "floating",
+        "metal"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/thin-border-picture-frame-set-of-2-sleek-design-contemporary-slim-molding",
+      "keywords": 0,
+      "traffic_estimate": 0,
+      "topics": []
+    }
+  ],
+  "_competitor_pages": {
+    "arttoframe.com": [
+      {
+        "url": "https://www.arttoframe.com/8x10_picture_frames",
+        "keywords": 588,
+        "traffic_estimate": 82588,
+        "topics": [
+          "8x10"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/16x20_picture_frames",
+        "keywords": 311,
+        "traffic_estimate": 72724,
+        "topics": [
+          "16x20"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/",
+        "keywords": 2612,
+        "traffic_estimate": 68302,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/picture-frames",
+        "keywords": 597,
+        "traffic_estimate": 51643,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/24x36_picture_frames",
+        "keywords": 225,
+        "traffic_estimate": 46556,
+        "topics": [
+          "24x36"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/18x24_picture_frames",
+        "keywords": 221,
+        "traffic_estimate": 31212,
+        "topics": [
+          "18x24"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/16x24_picture_frames",
+        "keywords": 131,
+        "traffic_estimate": 26482,
+        "topics": [
+          "16x24"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/36x24_picture_frames",
+        "keywords": 20,
+        "traffic_estimate": 26161,
+        "topics": [
+          "36x24"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/16x16_picture_frames",
+        "keywords": 68,
+        "traffic_estimate": 26065,
+        "topics": [
+          "16x16"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/12x18_picture_frames",
+        "keywords": 189,
+        "traffic_estimate": 25981,
+        "topics": [
+          "12x18"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/20x30_picture_frames",
+        "keywords": 171,
+        "traffic_estimate": 25679,
+        "topics": [
+          "20x30"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/8x12_picture_frames",
+        "keywords": 139,
+        "traffic_estimate": 23511,
+        "topics": [
+          "8x12"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/11x14_picture_frames",
+        "keywords": 375,
+        "traffic_estimate": 19756,
+        "topics": [
+          "11x14"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/8.5x11_picture_frames",
+        "keywords": 88,
+        "traffic_estimate": 17515,
+        "topics": [
+          "5x11"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/11x17_picture_frames",
+        "keywords": 105,
+        "traffic_estimate": 16713,
+        "topics": [
+          "11x17"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/20x24_picture_frames",
+        "keywords": 111,
+        "traffic_estimate": 16269,
+        "topics": [
+          "20x24"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/shadowbox-frames",
+        "keywords": 339,
+        "traffic_estimate": 16076,
+        "topics": [
+          "shadow box"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/6x8_picture_frames",
+        "keywords": 103,
+        "traffic_estimate": 12545,
+        "topics": [
+          "6x8"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/collage-frames",
+        "keywords": 387,
+        "traffic_estimate": 10150,
+        "topics": [
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/12x16_picture_frames",
+        "keywords": 205,
+        "traffic_estimate": 10107,
+        "topics": [
+          "12x16"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/Black-Picture-Frames",
+        "keywords": 303,
+        "traffic_estimate": 9252,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/5x5_picture_frames",
+        "keywords": 57,
+        "traffic_estimate": 8762,
+        "topics": [
+          "5x5"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/9x12_picture_frames",
+        "keywords": 71,
+        "traffic_estimate": 8502,
+        "topics": [
+          "9x12"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/27x40_picture_frames",
+        "keywords": 72,
+        "traffic_estimate": 7657,
+        "topics": [
+          "27x40"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/Gold-Picture-Frames",
+        "keywords": 555,
+        "traffic_estimate": 7591,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/search/picture-frames-with-mats",
+        "keywords": 117,
+        "traffic_estimate": 7574,
+        "topics": [
+          "matted / with mat"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/20x20_picture_frames",
+        "keywords": 97,
+        "traffic_estimate": 7216,
+        "topics": [
+          "20x20"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/24x16_picture_frames",
+        "keywords": 14,
+        "traffic_estimate": 6769,
+        "topics": [
+          "24x16"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/8x8_picture_frames",
+        "keywords": 73,
+        "traffic_estimate": 6740,
+        "topics": [
+          "8x8"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/20x28_picture_frames",
+        "keywords": 63,
+        "traffic_estimate": 6702,
+        "topics": [
+          "20x28"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/3-Openings-Collage-Picture-Frame",
+        "keywords": 140,
+        "traffic_estimate": 6602,
+        "topics": [
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/22x28_picture_frames",
+        "keywords": 81,
+        "traffic_estimate": 6073,
+        "topics": [
+          "22x28"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/14x14_picture_frames",
+        "keywords": 27,
+        "traffic_estimate": 6056,
+        "topics": [
+          "14x14"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/13x19_picture_frames",
+        "keywords": 89,
+        "traffic_estimate": 5875,
+        "topics": [
+          "13x19"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/17x11_picture_frames",
+        "keywords": 11,
+        "traffic_estimate": 5437,
+        "topics": [
+          "17x11"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/10x8_picture_frames",
+        "keywords": 7,
+        "traffic_estimate": 5345,
+        "topics": [
+          "10x8"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/glass-only/Regular-Glass",
+        "keywords": 162,
+        "traffic_estimate": 4977,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/30x40_picture_frames",
+        "keywords": 190,
+        "traffic_estimate": 4777,
+        "topics": [
+          "30x40"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/24x30_picture_frames",
+        "keywords": 48,
+        "traffic_estimate": 4733,
+        "topics": [
+          "24x30"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/8x11_picture_frames",
+        "keywords": 17,
+        "traffic_estimate": 4585,
+        "topics": [
+          "8x11"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/40x40_picture_frames",
+        "keywords": 59,
+        "traffic_estimate": 3821,
+        "topics": [
+          "40x40"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/50-4x6-Openings-Collage-Picture-Frame",
+        "keywords": 39,
+        "traffic_estimate": 3807,
+        "topics": [
+          "4x6",
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/12x24_picture_frames",
+        "keywords": 45,
+        "traffic_estimate": 3629,
+        "topics": [
+          "12x24"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/24x24_picture_frames",
+        "keywords": 70,
+        "traffic_estimate": 3622,
+        "topics": [
+          "24x24"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/5x7_picture_frames",
+        "keywords": 185,
+        "traffic_estimate": 3511,
+        "topics": [
+          "5x7"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/40x50_picture_frames",
+        "keywords": 78,
+        "traffic_estimate": 3378,
+        "topics": [
+          "40x50"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/36x48_picture_frames",
+        "keywords": 71,
+        "traffic_estimate": 3210,
+        "topics": [
+          "36x48"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/15x20_picture_frames",
+        "keywords": 23,
+        "traffic_estimate": 2778,
+        "topics": [
+          "15x20"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/50x50_picture_frames",
+        "keywords": 54,
+        "traffic_estimate": 2777,
+        "topics": [
+          "50x50"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/40x60_picture_frames",
+        "keywords": 141,
+        "traffic_estimate": 2731,
+        "topics": [
+          "40x60"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/9x24_picture_frames",
+        "keywords": 13,
+        "traffic_estimate": 2729,
+        "topics": [
+          "9x24"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/A4_picture_frames",
+        "keywords": 68,
+        "traffic_estimate": 2702,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/40x30_picture_frames",
+        "keywords": 19,
+        "traffic_estimate": 2624,
+        "topics": [
+          "40x30"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/12x12_picture_frames",
+        "keywords": 106,
+        "traffic_estimate": 2569,
+        "topics": [
+          "12x12"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/4-Openings-Collage-Picture-Frame",
+        "keywords": 56,
+        "traffic_estimate": 2500,
+        "topics": [
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/16x20-Satin-Black-collage-picture-frame--opening-Crisp-mat/custom-dm-16x20/FRBW26079",
+        "keywords": 5,
+        "traffic_estimate": 2492,
+        "topics": [
+          "16x20",
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/50x30_picture_frames",
+        "keywords": 9,
+        "traffic_estimate": 2406,
+        "topics": [
+          "50x30"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/11x16_picture_frames",
+        "keywords": 17,
+        "traffic_estimate": 2190,
+        "topics": [
+          "11x16"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/8x24_picture_frames",
+        "keywords": 17,
+        "traffic_estimate": 2190,
+        "topics": [
+          "8x24"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/White-Picture-Frames",
+        "keywords": 217,
+        "traffic_estimate": 2162,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/acrylic-frame",
+        "keywords": 261,
+        "traffic_estimate": 2026,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/18x20_picture_frames",
+        "keywords": 14,
+        "traffic_estimate": 2005,
+        "topics": [
+          "18x20"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/24x18_picture_frames",
+        "keywords": 33,
+        "traffic_estimate": 1951,
+        "topics": [
+          "24x18"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/A2_picture_frames",
+        "keywords": 73,
+        "traffic_estimate": 1921,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/5-Openings-Collage-Picture-Frame",
+        "keywords": 45,
+        "traffic_estimate": 1900,
+        "topics": [
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/10x10_picture_frames",
+        "keywords": 69,
+        "traffic_estimate": 1897,
+        "topics": [
+          "10x10"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/35x35_picture_frames",
+        "keywords": 21,
+        "traffic_estimate": 1878,
+        "topics": [
+          "35x35"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/ornate_picture_frames",
+        "keywords": 110,
+        "traffic_estimate": 1862,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/3x5_picture_frames",
+        "keywords": 73,
+        "traffic_estimate": 1853,
+        "topics": [
+          "3x5"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/25x25_picture_frames",
+        "keywords": 27,
+        "traffic_estimate": 1651,
+        "topics": [
+          "25x25"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/30x45_picture_frames",
+        "keywords": 24,
+        "traffic_estimate": 1634,
+        "topics": [
+          "30x45"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/glass-for-picture-frames",
+        "keywords": 177,
+        "traffic_estimate": 1571,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/14x18_picture_frames",
+        "keywords": 40,
+        "traffic_estimate": 1547,
+        "topics": [
+          "14x18"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/20x26_picture_frames",
+        "keywords": 18,
+        "traffic_estimate": 1542,
+        "topics": [
+          "20x26"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/glass-only/UV-Non-Glare-Glass",
+        "keywords": 150,
+        "traffic_estimate": 1529,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/36x36_picture_frames",
+        "keywords": 24,
+        "traffic_estimate": 1497,
+        "topics": [
+          "36x36"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/puzzle_frames",
+        "keywords": 152,
+        "traffic_estimate": 1474,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/8x20_picture_frames",
+        "keywords": 21,
+        "traffic_estimate": 1431,
+        "topics": [
+          "8x20"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/13x18_picture_frames",
+        "keywords": 15,
+        "traffic_estimate": 1393,
+        "topics": [
+          "13x18"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/12-5x7-Openings-Collage-Picture-Frame",
+        "keywords": 34,
+        "traffic_estimate": 1376,
+        "topics": [
+          "5x7",
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/24-3x3-Openings-Collage-Picture-Frame",
+        "keywords": 21,
+        "traffic_estimate": 1347,
+        "topics": [
+          "3x3",
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/12x14_picture_frames",
+        "keywords": 22,
+        "traffic_estimate": 1343,
+        "topics": [
+          "12x14"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/6x9_picture_frames",
+        "keywords": 40,
+        "traffic_estimate": 1327,
+        "topics": [
+          "6x9"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/28x28_picture_frames",
+        "keywords": 10,
+        "traffic_estimate": 1323,
+        "topics": [
+          "28x28"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/14x20_picture_frames",
+        "keywords": 15,
+        "traffic_estimate": 1305,
+        "topics": [
+          "14x20"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/24x32_picture_frames",
+        "keywords": 40,
+        "traffic_estimate": 1293,
+        "topics": [
+          "24x32"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/12x36_picture_frames",
+        "keywords": 32,
+        "traffic_estimate": 1226,
+        "topics": [
+          "12x36"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/3-3x5-Openings-Collage-Picture-Frame",
+        "keywords": 41,
+        "traffic_estimate": 1219,
+        "topics": [
+          "3x5",
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/10x13_picture_frames",
+        "keywords": 58,
+        "traffic_estimate": 1212,
+        "topics": [
+          "10x13"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/photo_mats",
+        "keywords": 310,
+        "traffic_estimate": 1197,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/15x40_picture_frames",
+        "keywords": 11,
+        "traffic_estimate": 1194,
+        "topics": [
+          "15x40"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/24x48_picture_frames",
+        "keywords": 20,
+        "traffic_estimate": 1152,
+        "topics": [
+          "24x48"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/15x12_picture_frames",
+        "keywords": 8,
+        "traffic_estimate": 1144,
+        "topics": [
+          "15x12"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/9x14_picture_frames",
+        "keywords": 11,
+        "traffic_estimate": 1143,
+        "topics": [
+          "9x14"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/21x30_picture_frames",
+        "keywords": 41,
+        "traffic_estimate": 1135,
+        "topics": [
+          "21x30"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/6x6_picture_frames",
+        "keywords": 58,
+        "traffic_estimate": 1125,
+        "topics": [
+          "6x6"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/24x6_picture_frames",
+        "keywords": 9,
+        "traffic_estimate": 1116,
+        "topics": [
+          "24x6"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/45x45_picture_frames",
+        "keywords": 5,
+        "traffic_estimate": 1109,
+        "topics": [
+          "45x45"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/11x18_picture_frames",
+        "keywords": 13,
+        "traffic_estimate": 1056,
+        "topics": [
+          "11x18"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/gallery_walls",
+        "keywords": 279,
+        "traffic_estimate": 1045,
+        "topics": [
+          "gallery wall"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/14x17.5_picture_frames",
+        "keywords": 6,
+        "traffic_estimate": 1032,
+        "topics": [
+          "14x17"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/40x20_picture_frames",
+        "keywords": 6,
+        "traffic_estimate": 1025,
+        "topics": [
+          "40x20"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/20x60_picture_frames",
+        "keywords": 28,
+        "traffic_estimate": 1006,
+        "topics": [
+          "20x60"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/10x14_picture_frames",
+        "keywords": 16,
+        "traffic_estimate": 995,
+        "topics": [
+          "10x14"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/8x9_picture_frames",
+        "keywords": 6,
+        "traffic_estimate": 995,
+        "topics": [
+          "8x9"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/12x9_picture_frames",
+        "keywords": 11,
+        "traffic_estimate": 986,
+        "topics": [
+          "12x9"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/6-Openings-Collage-Picture-Frame",
+        "keywords": 30,
+        "traffic_estimate": 986,
+        "topics": [
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/8.5x14_picture_frames",
+        "keywords": 16,
+        "traffic_estimate": 965,
+        "topics": [
+          "5x14"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/25x35_picture_frames",
+        "keywords": 15,
+        "traffic_estimate": 952,
+        "topics": [
+          "25x35"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/40x52_picture_frames",
+        "keywords": 17,
+        "traffic_estimate": 944,
+        "topics": [
+          "40x52"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/Samsung_Frame_TV/43_inch",
+        "keywords": 80,
+        "traffic_estimate": 919,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/15x30_picture_frames",
+        "keywords": 12,
+        "traffic_estimate": 919,
+        "topics": [
+          "15x30"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/5-8x10-Openings-Collage-Picture-Frame",
+        "keywords": 30,
+        "traffic_estimate": 884,
+        "topics": [
+          "8x10",
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/14x24_picture_frames",
+        "keywords": 9,
+        "traffic_estimate": 884,
+        "topics": [
+          "14x24"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/2-Openings-Collage-Picture-Frame",
+        "keywords": 31,
+        "traffic_estimate": 881,
+        "topics": [
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/4x5_picture_frames",
+        "keywords": 36,
+        "traffic_estimate": 855,
+        "topics": [
+          "4x5"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/5x8_picture_frames",
+        "keywords": 17,
+        "traffic_estimate": 853,
+        "topics": [
+          "5x8"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/14x17_picture_frames",
+        "keywords": 15,
+        "traffic_estimate": 851,
+        "topics": [
+          "14x17"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/A3_picture_frames",
+        "keywords": 57,
+        "traffic_estimate": 851,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/24x60_picture_frames",
+        "keywords": 15,
+        "traffic_estimate": 846,
+        "topics": [
+          "24x60"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/15x18_picture_frames",
+        "keywords": 8,
+        "traffic_estimate": 838,
+        "topics": [
+          "15x18"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/30x12_picture_frames",
+        "keywords": 6,
+        "traffic_estimate": 826,
+        "topics": [
+          "30x12"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/search/collage-double-mat",
+        "keywords": 34,
+        "traffic_estimate": 819,
+        "topics": [
+          "collage"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/Silver-Picture-Frames",
+        "keywords": 151,
+        "traffic_estimate": 816,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/28x40-Satin-Black-picture-frame/FRBW26079",
+        "keywords": 8,
+        "traffic_estimate": 812,
+        "topics": [
+          "28x40"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/35x40_picture_frames",
+        "keywords": 8,
+        "traffic_estimate": 806,
+        "topics": [
+          "35x40"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/32x40_picture_frames",
+        "keywords": 8,
+        "traffic_estimate": 798,
+        "topics": [
+          "32x40"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/14x22_picture_frames",
+        "keywords": 23,
+        "traffic_estimate": 794,
+        "topics": [
+          "14x22"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/diploma-frame",
+        "keywords": 249,
+        "traffic_estimate": 794,
+        "topics": [
+          "diploma/certificate"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/12x30_picture_frames",
+        "keywords": 6,
+        "traffic_estimate": 793,
+        "topics": [
+          "12x30"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/30x30_picture_frames",
+        "keywords": 68,
+        "traffic_estimate": 792,
+        "topics": [
+          "30x30"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/23x35_picture_frames",
+        "keywords": 15,
+        "traffic_estimate": 754,
+        "topics": [
+          "23x35"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/22x15_picture_frames",
+        "keywords": 5,
+        "traffic_estimate": 739,
+        "topics": [
+          "22x15"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/32x24_picture_frames",
+        "keywords": 10,
+        "traffic_estimate": 738,
+        "topics": [
+          "32x24"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/13x13_picture_frames",
+        "keywords": 18,
+        "traffic_estimate": 727,
+        "topics": [
+          "13x13"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/13x24_picture_frames",
+        "keywords": 11,
+        "traffic_estimate": 721,
+        "topics": [
+          "13x24"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/14x11_picture_frames",
+        "keywords": 9,
+        "traffic_estimate": 720,
+        "topics": [
+          "14x11"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/13x25_picture_frames",
+        "keywords": 7,
+        "traffic_estimate": 714,
+        "topics": [
+          "13x25"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/11x15-Ruby-mat/custom-dm-11x15",
+        "keywords": 4,
+        "traffic_estimate": 713,
+        "topics": [
+          "11x15"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/5x11-White-mat/custom-dm-5x11",
+        "keywords": 1,
+        "traffic_estimate": 713,
+        "topics": [
+          "5x11"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/glass-only/Tru-Vue-Museum-Glass",
+        "keywords": 63,
+        "traffic_estimate": 709,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/17x13_picture_frames",
+        "keywords": 9,
+        "traffic_estimate": 708,
+        "topics": [
+          "17x13"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/product/frame/D6661",
+        "keywords": 28,
+        "traffic_estimate": 704,
+        "topics": []
+      },
+      {
+        "url": "https://www.arttoframe.com/25x30_picture_frames",
+        "keywords": 10,
+        "traffic_estimate": 703,
+        "topics": [
+          "25x30"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/30x70_picture_frames",
+        "keywords": 11,
+        "traffic_estimate": 698,
+        "topics": [
+          "30x70"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/25x17_picture_frames",
+        "keywords": 11,
+        "traffic_estimate": 695,
+        "topics": [
+          "25x17"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/17x14_picture_frames",
+        "keywords": 8,
+        "traffic_estimate": 692,
+        "topics": [
+          "17x14"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/12x34_picture_frames",
+        "keywords": 11,
+        "traffic_estimate": 691,
+        "topics": [
+          "12x34"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/9x27_picture_frames",
+        "keywords": 4,
+        "traffic_estimate": 691,
+        "topics": [
+          "9x27"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/30x30-Modern-White-Frame-poster-frame/FRBW74074",
+        "keywords": 6,
+        "traffic_estimate": 690,
+        "topics": [
+          "30x30",
+          "poster"
+        ]
+      }
+    ],
+    "modernmemorydesign.com": [
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/standard-picture-frame-sizes-dimensions-modern-memory-design",
+        "keywords": 187,
+        "traffic_estimate": 9876,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/understanding-the-versatility-of-a-20x30-picture-frame-size-display-and-more",
+        "keywords": 135,
+        "traffic_estimate": 3937,
+        "topics": [
+          "20x30"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/custom-tv-frames-stylish-picture-frames-for-samsung-and-flat-screen-tvs",
+        "keywords": 229,
+        "traffic_estimate": 2735,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/24x36-picture-frames",
+        "keywords": 113,
+        "traffic_estimate": 2063,
+        "topics": [
+          "24x36"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-gallery-22x28-picture-frame-wall-22-x-28-frames",
+        "keywords": 52,
+        "traffic_estimate": 1474,
+        "topics": [
+          "22x28"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/16x20-poster-frames-gallery-wall-16-x-20-frame",
+        "keywords": 81,
+        "traffic_estimate": 1433,
+        "topics": [
+          "16x20",
+          "gallery wall",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-gallery-9x12-frames-with-glass-9-x-12-picture-frame",
+        "keywords": 41,
+        "traffic_estimate": 1079,
+        "topics": [
+          "9x12"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-gallery-11x17-frame-with-glass-frame-store-11-x-17-photo",
+        "keywords": 37,
+        "traffic_estimate": 1065,
+        "topics": [
+          "11x17"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/common-frame-sizes-the-2026-guide-to-standard-picture-dimensions",
+        "keywords": 60,
+        "traffic_estimate": 882,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/large-picture-frames-sizes-big-picture-frames-for-wall",
+        "keywords": 128,
+        "traffic_estimate": 872,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/extra-large-wall-picture-frames-for-living-room-and-wall-art",
+        "keywords": 99,
+        "traffic_estimate": 671,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/50-x-70cm-frame-gold-wood-picture-frame-50x70-cm-poster-frame-50-x-70-cm",
+        "keywords": 52,
+        "traffic_estimate": 651,
+        "topics": [
+          "50x70",
+          "poster",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/gallery-wall-8x10-picture-frame-wood-8-x-10-frames-store",
+        "keywords": 160,
+        "traffic_estimate": 647,
+        "topics": [
+          "8x10",
+          "gallery wall",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/picture-framing-made-easy-and-at-cheap-prices",
+        "keywords": 68,
+        "traffic_estimate": 619,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/custom-framing-picture-frame-shop-tulsa-ok",
+        "keywords": 90,
+        "traffic_estimate": 590,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/15x20-picture-frame-black-15x20-frame-15-x-20-poster-frames-15-x-20",
+        "keywords": 13,
+        "traffic_estimate": 560,
+        "topics": [
+          "15x20",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/28x40-frame-28x48-poster-frames",
+        "keywords": 19,
+        "traffic_estimate": 557,
+        "topics": [
+          "28x40",
+          "28x48",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/custom-framing-new-jersey",
+        "keywords": 27,
+        "traffic_estimate": 545,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/pages/a-poster-size-frames-a1-a2-a3-a4-a5-sizes-wall-picture-frames",
+        "keywords": 127,
+        "traffic_estimate": 532,
+        "topics": [
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/18x24-picture-frame-for-18x24-poster-print-18-x-24-frame",
+        "keywords": 63,
+        "traffic_estimate": 500,
+        "topics": [
+          "18x24",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/funeral-memorial-picture-frame-18x24-personalized-funeral-frame",
+        "keywords": 67,
+        "traffic_estimate": 491,
+        "topics": [
+          "18x24"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/custom-made-wood-gallery-11x14-picture-frames",
+        "keywords": 87,
+        "traffic_estimate": 483,
+        "topics": [
+          "11x14",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/10x8-picture-frame-black-10x8-frame-10-x-8-poster-frames-10-x-8",
+        "keywords": 6,
+        "traffic_estimate": 482,
+        "topics": [
+          "10x8",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-large-square-40x40-frame-poster-print-40-x-40",
+        "keywords": 39,
+        "traffic_estimate": 461,
+        "topics": [
+          "40x40",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/simple-flat-matte-white-wood-picture-frame-32x48-frame",
+        "keywords": 11,
+        "traffic_estimate": 441,
+        "topics": [
+          "32x48",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/custom-framing-picture-frame-shop-honolulu-hi",
+        "keywords": 139,
+        "traffic_estimate": 441,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/12x18-frame-wood-with-glass-12-x-18-picture-frames",
+        "keywords": 104,
+        "traffic_estimate": 412,
+        "topics": [
+          "12x18",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/custom-quote-print-framed-canvas-quote-pint-and-custom-quote-poster-prints",
+        "keywords": 124,
+        "traffic_estimate": 399,
+        "topics": [
+          "canvas",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/8x6-picture-frame-black-8x6-frame-8-x-6-poster-frames-8-x-6",
+        "keywords": 14,
+        "traffic_estimate": 390,
+        "topics": [
+          "8x6",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/shadow-box-frame",
+        "keywords": 114,
+        "traffic_estimate": 366,
+        "topics": [
+          "shadow box"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-12x16-picture-frame-12x16-photo-art-print",
+        "keywords": 85,
+        "traffic_estimate": 357,
+        "topics": [
+          "12x16"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/blueprint-picture-frame-modern-framing-for-house-plans-construction-blueprints",
+        "keywords": 12,
+        "traffic_estimate": 347,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-12x12-frame-gallery-wall-12-x-12-picture-frames",
+        "keywords": 74,
+        "traffic_estimate": 339,
+        "topics": [
+          "12x12",
+          "gallery wall"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-14x17-picture-frames-wood-for-14x17-photo-14-x-17-frame",
+        "keywords": 11,
+        "traffic_estimate": 328,
+        "topics": [
+          "14x17",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/picture-frame-with-a-mat-online-picture-frame-store",
+        "keywords": 169,
+        "traffic_estimate": 328,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-11x18-picture-frames-wood-for-11x18-photo-11-x-18-frame",
+        "keywords": 7,
+        "traffic_estimate": 323,
+        "topics": [
+          "11x18",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/8-5x11-picture-frame",
+        "keywords": 45,
+        "traffic_estimate": 321,
+        "topics": [
+          "5x11"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/gold-picture-frames",
+        "keywords": 129,
+        "traffic_estimate": 318,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/70x100-cm-poster-frame-27x40-black-wood-frame-with-plexiglass",
+        "keywords": 31,
+        "traffic_estimate": 305,
+        "topics": [
+          "27x40",
+          "70x10",
+          "poster",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-20x40-picture-frames-wood-for-20x40-photo-20-x-40-frame",
+        "keywords": 13,
+        "traffic_estimate": 298,
+        "topics": [
+          "20x40",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-12x15-picture-frames-wood-for-12x15-photo-12-x-15-frame",
+        "keywords": 25,
+        "traffic_estimate": 290,
+        "topics": [
+          "12x15",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/license-plate-frames",
+        "keywords": 90,
+        "traffic_estimate": 290,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-10x15-picture-frames-wood-for-10x15-photo-10-x-15-frame",
+        "keywords": 2,
+        "traffic_estimate": 285,
+        "topics": [
+          "10x15",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/large-modern-40x60-poster-frames-store-40-x-60-poster",
+        "keywords": 86,
+        "traffic_estimate": 281,
+        "topics": [
+          "40x60",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/30x40-picture-frame-black-30x40-frame-30-x-40-poster-frames-30-x-40-1",
+        "keywords": 23,
+        "traffic_estimate": 276,
+        "topics": [
+          "30x40",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/12x16-canvas-floating-frame",
+        "keywords": 26,
+        "traffic_estimate": 276,
+        "topics": [
+          "12x16",
+          "canvas",
+          "floating"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-gallery-24x30-frames-wood-24x30-picture-frame",
+        "keywords": 37,
+        "traffic_estimate": 272,
+        "topics": [
+          "24x30",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/16x24-picture-frames-gallery-wall-16-x-24-poster-frame",
+        "keywords": 38,
+        "traffic_estimate": 271,
+        "topics": [
+          "16x24",
+          "gallery wall",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/gallery-matte-white-flat-picture-frame-8x10-frame",
+        "keywords": 33,
+        "traffic_estimate": 268,
+        "topics": [
+          "8x10"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/5x7-picture-frames-wood-photo-frame-5-x-7-framing",
+        "keywords": 120,
+        "traffic_estimate": 268,
+        "topics": [
+          "5x7",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/32x40-picture-frames-brown-wood-32x40-frame-32-x-40-frames",
+        "keywords": 7,
+        "traffic_estimate": 266,
+        "topics": [
+          "32x40",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/choose-modernmemorydesign-com-for-custom-framing-over-big-retail-framing-services",
+        "keywords": 3,
+        "traffic_estimate": 261,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-26x38-picture-frames-wood-for-26x38-photo-26-x-38-frame",
+        "keywords": 7,
+        "traffic_estimate": 261,
+        "topics": [
+          "26x38",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/20x30-picture-frames",
+        "keywords": 62,
+        "traffic_estimate": 259,
+        "topics": [
+          "20x30"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/6x6-picture-frame-black-6x6-frame-6-x-6-photo-frames-6-x-6-square",
+        "keywords": 39,
+        "traffic_estimate": 255,
+        "topics": [
+          "6x6"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/4x4-picture-frame-wood-with-real-glass",
+        "keywords": 54,
+        "traffic_estimate": 253,
+        "topics": [
+          "4x4",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-14x16-picture-frames-wood-for-14x16-photo-14-x-16-frame",
+        "keywords": 9,
+        "traffic_estimate": 242,
+        "topics": [
+          "14x16",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/the-ultimate-guide-to-12x16-frames-choosing-the-perfect-display-for-your-art",
+        "keywords": 38,
+        "traffic_estimate": 234,
+        "topics": [
+          "12x16"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/custom-picture-framing-online",
+        "keywords": 64,
+        "traffic_estimate": 234,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/decor-moulding-supply-picture-frame-moulding",
+        "keywords": 48,
+        "traffic_estimate": 233,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/8x12-picture-frame-black-wood-8x12-frame-8-x-12-poster-frames-8-x-12",
+        "keywords": 29,
+        "traffic_estimate": 220,
+        "topics": [
+          "8x12",
+          "poster",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/centimeters-standard-picture-frame-sizes-black-wood-cm-frames",
+        "keywords": 127,
+        "traffic_estimate": 218,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/gallery-wall-wooden-18x24-picture-frames-18-x-24-frame",
+        "keywords": 26,
+        "traffic_estimate": 215,
+        "topics": [
+          "18x24",
+          "gallery wall",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/classic-16x20-ornate-vintage-antique-gold-picture-frame-4-inch-16x20-ornate-vintage-antique",
+        "keywords": 19,
+        "traffic_estimate": 213,
+        "topics": [
+          "16x20"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-19x28-picture-frames-wood-for-19x28-photo-19-x-28-frame",
+        "keywords": 8,
+        "traffic_estimate": 209,
+        "topics": [
+          "19x28",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/wood-16-5x24-picture-frame-black-16-5-x-24-frame-inch-poster-1",
+        "keywords": 19,
+        "traffic_estimate": 204,
+        "topics": [
+          "5x24",
+          "poster",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/custom-framing-picture-frame-shop-little-rock-ar",
+        "keywords": 12,
+        "traffic_estimate": 202,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/print-framed-of-your-online-printing-and-framing",
+        "keywords": 47,
+        "traffic_estimate": 197,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/4x11-picture-frames-white-wood-4x11-frame-4-x-11-poster-frame",
+        "keywords": 3,
+        "traffic_estimate": 197,
+        "topics": [
+          "4x11",
+          "poster",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/10x15-picture-frame-black-10x15-frame-10-x-15-poster-frames-10-x-15",
+        "keywords": 14,
+        "traffic_estimate": 196,
+        "topics": [
+          "10x15",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/11x14-picture-frame-gold-ornate-vintage-11x14-frame-11-x-14-poster-frames-11-by-14",
+        "keywords": 21,
+        "traffic_estimate": 194,
+        "topics": [
+          "11x14",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/26x36-picture-frame-black-26x36-frame-26-x-36-poster-frames-26-x-36",
+        "keywords": 15,
+        "traffic_estimate": 187,
+        "topics": [
+          "26x36",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/40x9-picture-frames-brown-wood-40x9-frame-40-x-9-frames",
+        "keywords": 1,
+        "traffic_estimate": 185,
+        "topics": [
+          "40x9",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/coastal-nautical-picture-frames-for-beach-and-lake-house-decor",
+        "keywords": 46,
+        "traffic_estimate": 184,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/9x34-picture-frame-black-9x34-frame-9-x-34-poster-frames-9-x-34",
+        "keywords": 2,
+        "traffic_estimate": 183,
+        "topics": [
+          "9x34",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-15x23-picture-frames-wood-for-15x23-photo-15-x-23-frame",
+        "keywords": 8,
+        "traffic_estimate": 180,
+        "topics": [
+          "15x23",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/gallery-30x40-frame-for-30-x-40-poster-print-art",
+        "keywords": 97,
+        "traffic_estimate": 177,
+        "topics": [
+          "30x40",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-24x35-picture-frames-wood-for-24x35-photo-24-x-35-frame",
+        "keywords": 5,
+        "traffic_estimate": 175,
+        "topics": [
+          "24x35",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/23x23-picture-frame-black-23x23-frame-23-x-23-photo-frames-23-x-23-square",
+        "keywords": 3,
+        "traffic_estimate": 174,
+        "topics": [
+          "23x23"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/wholesale-black-4x6-picture-frames-bulk-photo-frames",
+        "keywords": 19,
+        "traffic_estimate": 173,
+        "topics": [
+          "4x6"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-24x32-picture-frames-wood-for-24x32-photo-24-x-32-frame",
+        "keywords": 26,
+        "traffic_estimate": 171,
+        "topics": [
+          "24x32",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/10x7-picture-frame-black-10x7-frame-10-x-7-inch-poster-frames-10-x-7",
+        "keywords": 2,
+        "traffic_estimate": 162,
+        "topics": [
+          "10x7",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/8x8-shadow-box-frame",
+        "keywords": 5,
+        "traffic_estimate": 160,
+        "topics": [
+          "8x8",
+          "shadow box"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/framed-custom-poem-print-wall-art-custom-poem-printing-word-art",
+        "keywords": 16,
+        "traffic_estimate": 159,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/picture-frame-for-24x18-print-frame-shop-nj-custom-framing",
+        "keywords": 17,
+        "traffic_estimate": 157,
+        "topics": [
+          "24x18"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/25x18-picture-frame-black-25x18-frame-25-x-18-inch-poster-frames-25-x-18",
+        "keywords": 3,
+        "traffic_estimate": 154,
+        "topics": [
+          "25x18",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/what-are-standard-poster-frame-sizes",
+        "keywords": 19,
+        "traffic_estimate": 153,
+        "topics": [
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/5x7-picture-frame-gold-ornate-vintage-5x7-frame-5-x-7-poster-frames-5-x-7",
+        "keywords": 18,
+        "traffic_estimate": 153,
+        "topics": [
+          "5x7",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/how-to-frame-a-military-uniform-in-our-shadow-box-frame",
+        "keywords": 29,
+        "traffic_estimate": 152,
+        "topics": [
+          "shadow box"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-12x14-picture-frames-wood-for-12x14-photo-12-x-14-frame",
+        "keywords": 7,
+        "traffic_estimate": 150,
+        "topics": [
+          "12x14",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/",
+        "keywords": 107,
+        "traffic_estimate": 150,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/27x40-poster-frame-black-wood-27x40-frame-27-x-40-poster-frame",
+        "keywords": 31,
+        "traffic_estimate": 149,
+        "topics": [
+          "27x40",
+          "poster",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/paint-to-use-on-picture-frames",
+        "keywords": 96,
+        "traffic_estimate": 149,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-35x35-picture-frames-wood-for-35x35-photo-35-x-35-frame",
+        "keywords": 6,
+        "traffic_estimate": 147,
+        "topics": [
+          "35x35",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/4x3-picture-frame-black-4x3-frame-4-x-3-inch-poster-frames-4-x-3",
+        "keywords": 6,
+        "traffic_estimate": 145,
+        "topics": [
+          "4x3",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-24x26-picture-frames-wood-for-24x26-photo-24-x-26-frame",
+        "keywords": 4,
+        "traffic_estimate": 144,
+        "topics": [
+          "24x26",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/13x19-picture-frame-brown-wood-13x19-frame-13-x-19-frames",
+        "keywords": 34,
+        "traffic_estimate": 141,
+        "topics": [
+          "13x19",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/35x6-picture-frame-black-35x6-frame-35-x-6-poster-frames-35-x-6",
+        "keywords": 1,
+        "traffic_estimate": 136,
+        "topics": [
+          "35x6",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/custom-framing-picture-frame-shop-mesa-az",
+        "keywords": 31,
+        "traffic_estimate": 136,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/3x3-feet-picture-frame-black-3x3-ft-frame-3-x-3-frames-square",
+        "keywords": 18,
+        "traffic_estimate": 135,
+        "topics": [
+          "3x3"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/custom-11x14-photo-print-print-your-11x14-picture",
+        "keywords": 76,
+        "traffic_estimate": 135,
+        "topics": [
+          "11x14"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/6x8-picture-frame-black-6x8-frame-6-x-8-poster-frames-6-x-8",
+        "keywords": 17,
+        "traffic_estimate": 133,
+        "topics": [
+          "6x8",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/40x32-shadow-box-frame",
+        "keywords": 3,
+        "traffic_estimate": 133,
+        "topics": [
+          "40x32",
+          "shadow box"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/picture-frame-glass-replacement",
+        "keywords": 178,
+        "traffic_estimate": 130,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/photo-paper-finishes-the-ultimate-guide-to-choosing-the-right-surface-for-your-prints",
+        "keywords": 56,
+        "traffic_estimate": 127,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/48x32-picture-frame-wood-black-silver-gold-bronze",
+        "keywords": 1,
+        "traffic_estimate": 126,
+        "topics": [
+          "48x32",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/16x20-frame-with-11x14-mat",
+        "keywords": 41,
+        "traffic_estimate": 126,
+        "topics": [
+          "11x14",
+          "16x20"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/25x35-picture-frame-white-wood-25x35-frame-25-x-35-poster-frame",
+        "keywords": 6,
+        "traffic_estimate": 126,
+        "topics": [
+          "25x35",
+          "poster",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/ornate-picture-frames-1",
+        "keywords": 85,
+        "traffic_estimate": 124,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/24x34-picture-frames-brown-wood-24x34-frame-24-x-34-frames",
+        "keywords": 11,
+        "traffic_estimate": 124,
+        "topics": [
+          "24x34",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/custom-cut-matting-mat-board-for-picture-frame-white",
+        "keywords": 43,
+        "traffic_estimate": 123,
+        "topics": [
+          "matted / with mat"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/23x16-picture-frame-black-23x16-frame-23-x-16-poster-frames-23-x-16",
+        "keywords": 2,
+        "traffic_estimate": 122,
+        "topics": [
+          "23x16",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/40x60-picture-frames",
+        "keywords": 8,
+        "traffic_estimate": 121,
+        "topics": [
+          "40x60"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/austin-tx-frame-shop-online-custom-framing-services",
+        "keywords": 110,
+        "traffic_estimate": 116,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/high-school-senior-night-gift-jersey-frame-sports",
+        "keywords": 35,
+        "traffic_estimate": 116,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/15x12-picture-frame-black-15x12-frame-15-x-12-poster-frames-15-x-12",
+        "keywords": 4,
+        "traffic_estimate": 115,
+        "topics": [
+          "15x12",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/26x38-picture-frame-black-26x38-frame-26-x-38-inch-poster-frames-26-x-38",
+        "keywords": 4,
+        "traffic_estimate": 114,
+        "topics": [
+          "26x38",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-11x30-picture-frames-wood-for-11x30-photo-11-x-30-frame",
+        "keywords": 5,
+        "traffic_estimate": 114,
+        "topics": [
+          "11x30",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/16x20-canvas-floating-frame",
+        "keywords": 21,
+        "traffic_estimate": 114,
+        "topics": [
+          "16x20",
+          "canvas",
+          "floating"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/16x13-picture-frame-black-16x13-frame-16-x-13-poster-frames-16-x-13",
+        "keywords": 6,
+        "traffic_estimate": 114,
+        "topics": [
+          "16x13",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/4x6-picture-frame-black-4x6-frame-4-x-6-poster-frames-4-x-6",
+        "keywords": 6,
+        "traffic_estimate": 113,
+        "topics": [
+          "4x6",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/5x5-picture-frame-black-5x5-frame-5-x-5-photo-frames-5-x-5-square",
+        "keywords": 24,
+        "traffic_estimate": 113,
+        "topics": [
+          "5x5"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/25x25-picture-frame-white-wood-25x25-frame-25-x-25-poster-frame-square",
+        "keywords": 6,
+        "traffic_estimate": 113,
+        "topics": [
+          "25x25",
+          "poster",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/tagged/nj?post=best-wall-art-for-living-room-spaces",
+        "keywords": 4,
+        "traffic_estimate": 112,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/7x10-picture-frame-black-wood-7x10-frame-7-x-10-poster-frames-7-by-10",
+        "keywords": 4,
+        "traffic_estimate": 111,
+        "topics": [
+          "7x10",
+          "poster",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/guide-shipping-and-packing-framed-pictures",
+        "keywords": 26,
+        "traffic_estimate": 110,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-17x20-picture-frames-wood-for-17x20-photo-17-x-20-frame",
+        "keywords": 4,
+        "traffic_estimate": 110,
+        "topics": [
+          "17x20",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/45x30-picture-frames-brown-wood-45x30-frame-45-x-30-frames",
+        "keywords": 10,
+        "traffic_estimate": 110,
+        "topics": [
+          "45x30",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/25x30-picture-frame-black-25x30-frame-25-x-30-poster-frames-25-x-30",
+        "keywords": 5,
+        "traffic_estimate": 110,
+        "topics": [
+          "25x30",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-20x24-picture-frames-wood-for-20x24-photo-20-x-24-frame",
+        "keywords": 18,
+        "traffic_estimate": 109,
+        "topics": [
+          "20x24",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/square-picture-frames",
+        "keywords": 55,
+        "traffic_estimate": 109,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/16x18-picture-frame-black-16x18-frame-16-x-18-poster-frames-16-x-18",
+        "keywords": 7,
+        "traffic_estimate": 109,
+        "topics": [
+          "16x18",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/blogs/news/jersey-frame-perfect-wall-art-shadow-box-jersey-picture-frame",
+        "keywords": 16,
+        "traffic_estimate": 108,
+        "topics": [
+          "shadow box"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/50-x-70cm-frame-black-wood-picture-frame-50x70-cm-poster-frame-50-x-70-cm",
+        "keywords": 65,
+        "traffic_estimate": 107,
+        "topics": [
+          "50x70",
+          "poster",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/36x28-picture-frame-black-36x28-frame-36-x-28-poster-frames-36-x-28-1",
+        "keywords": 6,
+        "traffic_estimate": 106,
+        "topics": [
+          "36x28",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-13x17-picture-frames-wood-for-13x17-photo-13-x-17-frame",
+        "keywords": 4,
+        "traffic_estimate": 106,
+        "topics": [
+          "13x17",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/wide-luxury-vintage-antique-gold-picture-frame-12x18-frame",
+        "keywords": 5,
+        "traffic_estimate": 106,
+        "topics": [
+          "12x18"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-20x30-picture-frames-wood-for-20x30-photo-20-x-30-frame",
+        "keywords": 12,
+        "traffic_estimate": 104,
+        "topics": [
+          "20x30",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-22x24-picture-frames-wood-for-22x24-photo-22-x-24-frame",
+        "keywords": 8,
+        "traffic_estimate": 104,
+        "topics": [
+          "22x24",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-20x28-frame-wall-gallery-20-x-28-picture-frames",
+        "keywords": 26,
+        "traffic_estimate": 103,
+        "topics": [
+          "20x28"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/12x19-picture-frame-black-12x19-frame-12-x-19-inch-poster-frames-12-x-19",
+        "keywords": 3,
+        "traffic_estimate": 103,
+        "topics": [
+          "12x19",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/40x50-picture-frame-black-40-x-50-frame",
+        "keywords": 43,
+        "traffic_estimate": 103,
+        "topics": [
+          "40x50"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/30x40-picture-frame-black-30x40-frame-30-x-40-inch-poster-frames-30-x-40-1",
+        "keywords": 7,
+        "traffic_estimate": 102,
+        "topics": [
+          "30x40",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/newspaper-picture-frame",
+        "keywords": 50,
+        "traffic_estimate": 102,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-21x21-picture-frames-wood-for-21x21-photo-21-x-21-frame",
+        "keywords": 9,
+        "traffic_estimate": 102,
+        "topics": [
+          "21x21",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-17x22-picture-frames-wood-for-17x22-photo-17-x-22-frame",
+        "keywords": 11,
+        "traffic_estimate": 102,
+        "topics": [
+          "17x22",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/12x8-picture-frame-black-12x8-frame-12-x-8-poster-frames-12-x-8",
+        "keywords": 19,
+        "traffic_estimate": 102,
+        "topics": [
+          "12x8",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/20x28-picture-frame-brown-wood-20x28-frame-20-x-28-poster-frames",
+        "keywords": 14,
+        "traffic_estimate": 99,
+        "topics": [
+          "20x28",
+          "poster",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/26x34-picture-frame-black-26x34-frame-26-x-34-poster-frames-26-x-34",
+        "keywords": 6,
+        "traffic_estimate": 99,
+        "topics": [
+          "26x34",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/45x20-picture-frame-black-45x20-frame-45-x-20-poster-frames-45-x-20",
+        "keywords": 2,
+        "traffic_estimate": 99,
+        "topics": [
+          "45x20",
+          "poster"
+        ]
+      }
+    ],
+    "pictureframes.com": [
+      {
+        "url": "https://www.pictureframes.com/custom-framing/all-frames",
+        "keywords": 2941,
+        "traffic_estimate": 432558,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/24x36-picture-frames",
+        "keywords": 390,
+        "traffic_estimate": 71780,
+        "topics": [
+          "24x36"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames",
+        "keywords": 357,
+        "traffic_estimate": 63410,
+        "topics": [
+          "18x24"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/16x20-picture-frames",
+        "keywords": 333,
+        "traffic_estimate": 55274,
+        "topics": [
+          "16x20"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/type/poster-frames",
+        "keywords": 182,
+        "traffic_estimate": 51042,
+        "topics": [
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/type/canvas-floaters",
+        "keywords": 473,
+        "traffic_estimate": 48348,
+        "topics": [
+          "canvas"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/8x10-picture-frames",
+        "keywords": 446,
+        "traffic_estimate": 42918,
+        "topics": [
+          "8x10"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/material/wood-picture-frames",
+        "keywords": 670,
+        "traffic_estimate": 35508,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/style/antiqued-picture-frames",
+        "keywords": 600,
+        "traffic_estimate": 31676,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/gold-picture-frames",
+        "keywords": 406,
+        "traffic_estimate": 27685,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/30x40-picture-frames",
+        "keywords": 268,
+        "traffic_estimate": 25872,
+        "topics": [
+          "30x40"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/type/canvas-frames",
+        "keywords": 421,
+        "traffic_estimate": 25509,
+        "topics": [
+          "canvas"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/20x30-picture-frames",
+        "keywords": 196,
+        "traffic_estimate": 25001,
+        "topics": [
+          "20x30"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/11x14-picture-frames",
+        "keywords": 355,
+        "traffic_estimate": 24050,
+        "topics": [
+          "11x14"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/",
+        "keywords": 419,
+        "traffic_estimate": 20145,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/12x16-picture-frames",
+        "keywords": 216,
+        "traffic_estimate": 19360,
+        "topics": [
+          "12x16"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/black-picture-frames",
+        "keywords": 226,
+        "traffic_estimate": 13190,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/style/traditional-picture-frames",
+        "keywords": 21,
+        "traffic_estimate": 12542,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/20x24-picture-frames",
+        "keywords": 104,
+        "traffic_estimate": 12287,
+        "topics": [
+          "20x24"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/40x60-picture-frames",
+        "keywords": 276,
+        "traffic_estimate": 8044,
+        "topics": [
+          "40x60"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/9x12-picture-frames",
+        "keywords": 107,
+        "traffic_estimate": 7862,
+        "topics": [
+          "9x12"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/type/gallery-wall-picture-frames",
+        "keywords": 189,
+        "traffic_estimate": 6964,
+        "topics": [
+          "gallery wall"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/type/puzzle-frames",
+        "keywords": 192,
+        "traffic_estimate": 6567,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/24x30-picture-frames",
+        "keywords": 123,
+        "traffic_estimate": 5416,
+        "topics": [
+          "24x30"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/type/certificate-frames",
+        "keywords": 78,
+        "traffic_estimate": 5009,
+        "topics": [
+          "diploma/certificate"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/20x20-picture-frames",
+        "keywords": 162,
+        "traffic_estimate": 4605,
+        "topics": [
+          "20x20"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/white-picture-frames",
+        "keywords": 190,
+        "traffic_estimate": 4521,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/style/ornate-picture-frames",
+        "keywords": 118,
+        "traffic_estimate": 4515,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/12x12-picture-frames",
+        "keywords": 135,
+        "traffic_estimate": 3395,
+        "topics": [
+          "12x12"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/category/modern-picture-frames",
+        "keywords": 13,
+        "traffic_estimate": 3392,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/occasion/wedding-frames",
+        "keywords": 246,
+        "traffic_estimate": 3182,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/24x24-picture-frames",
+        "keywords": 185,
+        "traffic_estimate": 2745,
+        "topics": [
+          "24x24"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/material/metal-picture-frames",
+        "keywords": 169,
+        "traffic_estimate": 2654,
+        "topics": [
+          "metal"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/blue-picture-frames",
+        "keywords": 75,
+        "traffic_estimate": 2522,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/6x6-picture-frames",
+        "keywords": 76,
+        "traffic_estimate": 2339,
+        "topics": [
+          "6x6"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/style/rustic-picture-frames",
+        "keywords": 98,
+        "traffic_estimate": 2324,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/8x8-picture-frames",
+        "keywords": 130,
+        "traffic_estimate": 2176,
+        "topics": [
+          "8x8"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/style/modern-picture-frames",
+        "keywords": 49,
+        "traffic_estimate": 2157,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/14x18-picture-frames",
+        "keywords": 58,
+        "traffic_estimate": 2152,
+        "topics": [
+          "14x18"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/10x10-picture-frames",
+        "keywords": 132,
+        "traffic_estimate": 1853,
+        "topics": [
+          "10x10"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/111prnt/frosted-gold-custom-frame-111fgl",
+        "keywords": 51,
+        "traffic_estimate": 1729,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/copper-picture-frames",
+        "keywords": 30,
+        "traffic_estimate": 1701,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/silver-picture-frames",
+        "keywords": 225,
+        "traffic_estimate": 1407,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/5x7-picture-frames",
+        "keywords": 113,
+        "traffic_estimate": 1293,
+        "topics": [
+          "5x7"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/on-sale",
+        "keywords": 15,
+        "traffic_estimate": 1289,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/brown-picture-frames",
+        "keywords": 37,
+        "traffic_estimate": 1222,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/coupons-best-deals-on-picture-frames",
+        "keywords": 69,
+        "traffic_estimate": 795,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/best-sellers",
+        "keywords": 27,
+        "traffic_estimate": 708,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/the-ultimate-guide-to-framing-black-and-white-photography",
+        "keywords": 24,
+        "traffic_estimate": 629,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/natural-picture-frames",
+        "keywords": 25,
+        "traffic_estimate": 620,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/gray-picture-frames",
+        "keywords": 31,
+        "traffic_estimate": 619,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/green-picture-frames",
+        "keywords": 60,
+        "traffic_estimate": 597,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/red-picture-frames",
+        "keywords": 52,
+        "traffic_estimate": 465,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/offers/black-friday-deals",
+        "keywords": 44,
+        "traffic_estimate": 453,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/type/plein-air-picture-frames",
+        "keywords": 36,
+        "traffic_estimate": 426,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/black-gold-picture-frames",
+        "keywords": 18,
+        "traffic_estimate": 394,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/111prnt/matte-black-custom-frame-111mblk",
+        "keywords": 31,
+        "traffic_estimate": 383,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/category/rustic-decor-picture-frames",
+        "keywords": 21,
+        "traffic_estimate": 347,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/pink-picture-frames",
+        "keywords": 12,
+        "traffic_estimate": 323,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/occasion/gallery-show-frames",
+        "keywords": 40,
+        "traffic_estimate": 306,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/style/coastal-picture-frames",
+        "keywords": 51,
+        "traffic_estimate": 252,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/categories/colorful-picture-frames",
+        "keywords": 27,
+        "traffic_estimate": 236,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/cream-picture-frames",
+        "keywords": 13,
+        "traffic_estimate": 211,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/how-to-frame-a-map",
+        "keywords": 18,
+        "traffic_estimate": 204,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-printing/paper-prints",
+        "keywords": 46,
+        "traffic_estimate": 193,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/28x32-picture-frames",
+        "keywords": 63,
+        "traffic_estimate": 190,
+        "topics": [
+          "28x32"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/how-to-group-pictures-on-a-wall",
+        "keywords": 120,
+        "traffic_estimate": 182,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/vnprnt/copper-custom-frame-vn4",
+        "keywords": 4,
+        "traffic_estimate": 181,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-printing/canvas-prints",
+        "keywords": 30,
+        "traffic_estimate": 177,
+        "topics": [
+          "canvas"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/style/oval-picture-frames",
+        "keywords": 5,
+        "traffic_estimate": 174,
+        "topics": []
+      },
+      {
+        "url": "https://ftp.pictureframes.com/blog/how-to-pack-picture-frames-for-moving",
+        "keywords": 20,
+        "traffic_estimate": 172,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/style/bamboo-picture-frames",
+        "keywords": 43,
+        "traffic_estimate": 160,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/style/metallic-picture-frames",
+        "keywords": 33,
+        "traffic_estimate": 151,
+        "topics": [
+          "metal"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/category/vintage-decor-picture-frames",
+        "keywords": 12,
+        "traffic_estimate": 142,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/style/boho-picture-frames",
+        "keywords": 10,
+        "traffic_estimate": 140,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/how-to-measure-your-artwork",
+        "keywords": 52,
+        "traffic_estimate": 134,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/type/gallery-show-picture-frames",
+        "keywords": 29,
+        "traffic_estimate": 128,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/reviews",
+        "keywords": 8,
+        "traffic_estimate": 125,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/vn7/champagne-custom-frame-vn7",
+        "keywords": 11,
+        "traffic_estimate": 97,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/how-to-frame-and-hang-a-triptych",
+        "keywords": 18,
+        "traffic_estimate": 87,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/orange-picture-frames",
+        "keywords": 9,
+        "traffic_estimate": 82,
+        "topics": []
+      },
+      {
+        "url": "https://ftp.pictureframes.com/blog/how-to-decorate-a-kitchen-wall-with-picture-frames",
+        "keywords": 13,
+        "traffic_estimate": 81,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/type/wood-grain-picture-frames",
+        "keywords": 11,
+        "traffic_estimate": 79,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/mfsbprnt/white-matte-beaded-wood-picture-frame-mfsbead02",
+        "keywords": 19,
+        "traffic_estimate": 79,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/smprnt/walnut-burl-gold-custom-frame-sm5",
+        "keywords": 11,
+        "traffic_estimate": 66,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/111prnt/white-custom-frame-111wht",
+        "keywords": 7,
+        "traffic_estimate": 64,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/glkprnt/navy-blue-custom-frame-glk14",
+        "keywords": 4,
+        "traffic_estimate": 60,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/bwmprnt/gray-frame-bwm2",
+        "keywords": 7,
+        "traffic_estimate": 54,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/what-frames-are-best-for-nature-photos",
+        "keywords": 13,
+        "traffic_estimate": 53,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/ftprnt/fuchsia-custom-frame-ft19",
+        "keywords": 29,
+        "traffic_estimate": 52,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/lfcprnt/gold-custom-frame-lfc5",
+        "keywords": 10,
+        "traffic_estimate": 50,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/diy-textured-canvas-art",
+        "keywords": 49,
+        "traffic_estimate": 46,
+        "topics": [
+          "canvas"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/bathroom-picture-frame-ideas",
+        "keywords": 20,
+        "traffic_estimate": 46,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/picture-frame-trends-to-watch-in-2026",
+        "keywords": 3,
+        "traffic_estimate": 44,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/4ov/ornate-gold-open-back-frame-4ov",
+        "keywords": 13,
+        "traffic_estimate": 41,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-printing/wood-prints",
+        "keywords": 46,
+        "traffic_estimate": 41,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/how-to-mat-your-art",
+        "keywords": 37,
+        "traffic_estimate": 39,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/olcprnt/espresso-custom-frame-olc3",
+        "keywords": 3,
+        "traffic_estimate": 31,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/business-services/wholesale-picture-frames",
+        "keywords": 19,
+        "traffic_estimate": 29,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/sulliivan/textured-white-custom%20frame-ml1004",
+        "keywords": 1,
+        "traffic_estimate": 28,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/frcprnt/medium-walnut-natural-liner-custom-frame-frc13",
+        "keywords": 16,
+        "traffic_estimate": 27,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/glkprnt/satin-black-narrow-wood-picture-frame-glk7",
+        "keywords": 3,
+        "traffic_estimate": 26,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/exlprnt/black-silver-custom-frame-exl3",
+        "keywords": 4,
+        "traffic_estimate": 26,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/22-framing-printing-gift-ideas",
+        "keywords": 6,
+        "traffic_estimate": 24,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/8-outside-the-box-diy-frame-ideas",
+        "keywords": 35,
+        "traffic_estimate": 22,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/3ov",
+        "keywords": 7,
+        "traffic_estimate": 22,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/business-services/pro-photographers",
+        "keywords": 7,
+        "traffic_estimate": 22,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color",
+        "keywords": 7,
+        "traffic_estimate": 22,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/business-services/bulk-wholesale",
+        "keywords": 26,
+        "traffic_estimate": 20,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/bwmprnt/whitewash-frame-bwm3",
+        "keywords": 18,
+        "traffic_estimate": 20,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/exlprnt",
+        "keywords": 3,
+        "traffic_estimate": 17,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/5-things-to-consider-when-framing-documents",
+        "keywords": 5,
+        "traffic_estimate": 17,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/2ov/walnut-open-back-frame-2ov?size=2OV810",
+        "keywords": 11,
+        "traffic_estimate": 15,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/category/traditional-picture-frames",
+        "keywords": 1,
+        "traffic_estimate": 15,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/hang-large-wall-art",
+        "keywords": 18,
+        "traffic_estimate": 14,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/how-to-frame-a-poster",
+        "keywords": 21,
+        "traffic_estimate": 13,
+        "topics": [
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/how-to-capture-the-perfect-sunset",
+        "keywords": 5,
+        "traffic_estimate": 13,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/about-us",
+        "keywords": 5,
+        "traffic_estimate": 13,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/mibwgprnt/slim-natural-burlwood-picture-frame-mibwn1",
+        "keywords": 3,
+        "traffic_estimate": 10,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/mibwbprnt/wide-brown-burlwood-picture-frame-mibwb",
+        "keywords": 2,
+        "traffic_estimate": 10,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/occasion/gifts",
+        "keywords": 5,
+        "traffic_estimate": 10,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/r/deep-cherry-custom-frame-r",
+        "keywords": 5,
+        "traffic_estimate": 9,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/how-to-preserve-family-photos",
+        "keywords": 5,
+        "traffic_estimate": 9,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/cbprnt/natural-custom-frame-cb2",
+        "keywords": 13,
+        "traffic_estimate": 8,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/spprnt/double-gold-beaded-custom-frame-sp14",
+        "keywords": 5,
+        "traffic_estimate": 8,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/slwprnt/deep-cherry-custom-frame-slw12",
+        "keywords": 2,
+        "traffic_estimate": 8,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/how-to-create-a-gallery-wall",
+        "keywords": 11,
+        "traffic_estimate": 8,
+        "topics": [
+          "gallery wall"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/color/yellow-picture-frames",
+        "keywords": 14,
+        "traffic_estimate": 8,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/mscprnt/slim-modern-red-wood-picture-frame-mscf01",
+        "keywords": 2,
+        "traffic_estimate": 7,
+        "topics": [
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/gldprnt/maple-custom-frame-gld13",
+        "keywords": 9,
+        "traffic_estimate": 7,
+        "topics": []
+      },
+      {
+        "url": "https://www1.pictureframes.com/category/bronze-picture-frames",
+        "keywords": 2,
+        "traffic_estimate": 7,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/111prnt/bronze-custom-frame-111brz",
+        "keywords": 13,
+        "traffic_estimate": 7,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/stylish-ideas-for-a-dreamy-entryway",
+        "keywords": 2,
+        "traffic_estimate": 6,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/cfprnt/light-gold-custom-frame-cfl11",
+        "keywords": 1,
+        "traffic_estimate": 6,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/occasion/graduation-frames",
+        "keywords": 5,
+        "traffic_estimate": 6,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/mmg2/vintage-beaded-gold-custom-frame-mmg2",
+        "keywords": 2,
+        "traffic_estimate": 5,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/canvas-vs-wood-prints",
+        "keywords": 9,
+        "traffic_estimate": 5,
+        "topics": [
+          "canvas",
+          "wood"
+        ]
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/slprnt/copper-custom-frame-sl11",
+        "keywords": 5,
+        "traffic_estimate": 5,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/lfcprnt/bronze-custom-frame-lfc6",
+        "keywords": 2,
+        "traffic_estimate": 5,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/operation-diy-succulent-wall-planter",
+        "keywords": 12,
+        "traffic_estimate": 5,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/frcprnt/j7-gold-w-white-liner-frame-j7",
+        "keywords": 5,
+        "traffic_estimate": 5,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/cfsprnt/black-custom-frame-cf1",
+        "keywords": 2,
+        "traffic_estimate": 5,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/colprnt/antique-gold-custom-frame-col2",
+        "keywords": 8,
+        "traffic_estimate": 5,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/category/decorate",
+        "keywords": 4,
+        "traffic_estimate": 5,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/diy-decorating-tips-for-the-holidays-with-custom-picture-frames",
+        "keywords": 4,
+        "traffic_estimate": 4,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/gifts/egift-card",
+        "keywords": 8,
+        "traffic_estimate": 4,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/occasion/new-baby-frames",
+        "keywords": 1,
+        "traffic_estimate": 4,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/cfsprnt/light-gold-custom-frame-cfs11",
+        "keywords": 5,
+        "traffic_estimate": 4,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/blog/how-to-frame-a-cross-stitch-in-5-steps",
+        "keywords": 14,
+        "traffic_estimate": 4,
+        "topics": []
+      },
+      {
+        "url": "https://www.pictureframes.com/custom-framing/glkprnt/light-oak-custom-frame-glk4",
+        "keywords": 3,
+        "traffic_estimate": 4,
+        "topics": [
+          "wood"
+        ]
+      }
+    ]
+  }
+}
