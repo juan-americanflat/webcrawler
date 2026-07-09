@@ -437,5 +437,407 @@
       "referring_domains": 4
     }
   ],
-  "generated_at": "2026-07-09T19:39:45+00:00"
+  "history": [
+    {
+      "date": "2025-07-31",
+      "referring_domains": 484,
+      "new_referring_domains": 9,
+      "lost_referring_domains": 4,
+      "new_backlinks": 67,
+      "lost_backlinks": 6
+    },
+    {
+      "date": "2025-08-31",
+      "referring_domains": 436,
+      "new_referring_domains": 19,
+      "lost_referring_domains": 28,
+      "new_backlinks": 70,
+      "lost_backlinks": 373
+    },
+    {
+      "date": "2025-09-30",
+      "referring_domains": 436,
+      "new_referring_domains": 10,
+      "lost_referring_domains": 4,
+      "new_backlinks": 188,
+      "lost_backlinks": 9
+    },
+    {
+      "date": "2025-10-31",
+      "referring_domains": 419,
+      "new_referring_domains": 8,
+      "lost_referring_domains": 20,
+      "new_backlinks": 309,
+      "lost_backlinks": 316
+    },
+    {
+      "date": "2025-11-30",
+      "referring_domains": 404,
+      "new_referring_domains": 4,
+      "lost_referring_domains": 16,
+      "new_backlinks": 97,
+      "lost_backlinks": 96
+    },
+    {
+      "date": "2025-12-31",
+      "referring_domains": 391,
+      "new_referring_domains": 14,
+      "lost_referring_domains": 27,
+      "new_backlinks": 111,
+      "lost_backlinks": 212
+    },
+    {
+      "date": "2026-01-31",
+      "referring_domains": 386,
+      "new_referring_domains": 14,
+      "lost_referring_domains": 11,
+      "new_backlinks": 21,
+      "lost_backlinks": 26
+    },
+    {
+      "date": "2026-02-28",
+      "referring_domains": 362,
+      "new_referring_domains": 8,
+      "lost_referring_domains": 26,
+      "new_backlinks": 14,
+      "lost_backlinks": 41
+    },
+    {
+      "date": "2026-03-31",
+      "referring_domains": 358,
+      "new_referring_domains": 15,
+      "lost_referring_domains": 17,
+      "new_backlinks": 42,
+      "lost_backlinks": 33
+    },
+    {
+      "date": "2026-04-30",
+      "referring_domains": 353,
+      "new_referring_domains": 20,
+      "lost_referring_domains": 24,
+      "new_backlinks": 28,
+      "lost_backlinks": 75
+    },
+    {
+      "date": "2026-05-31",
+      "referring_domains": 333,
+      "new_referring_domains": 13,
+      "lost_referring_domains": 21,
+      "new_backlinks": 20,
+      "lost_backlinks": 71
+    },
+    {
+      "date": "2026-06-30",
+      "referring_domains": 326,
+      "new_referring_domains": 8,
+      "lost_referring_domains": 10,
+      "new_backlinks": 18,
+      "lost_backlinks": 23
+    }
+  ],
+  "gained": [
+    {
+      "domain": "wearethemighty.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-09"
+    },
+    {
+      "domain": "drjack.world",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-03"
+    },
+    {
+      "domain": "cro.media",
+      "rank": 0,
+      "backlinks": 2,
+      "first_seen": "2026-07-01"
+    },
+    {
+      "domain": "genniferrose.com",
+      "rank": 0,
+      "backlinks": 2,
+      "first_seen": "2026-06-30"
+    },
+    {
+      "domain": "urls-shortener.eu",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-06-23"
+    },
+    {
+      "domain": "bullocksbuzz.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-06-21"
+    },
+    {
+      "domain": "workreap.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-06-20"
+    },
+    {
+      "domain": "adventuresfrugalmom.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-06-20"
+    },
+    {
+      "domain": "jake.eu",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-06-19"
+    },
+    {
+      "domain": "mommyhoodlife.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-06-19"
+    },
+    {
+      "domain": "eliterankdirectory.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-06-18"
+    },
+    {
+      "domain": "designjobs.careers",
+      "rank": 52,
+      "backlinks": 8,
+      "first_seen": "2026-06-16"
+    },
+    {
+      "domain": "way2check.cv",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-06-10"
+    },
+    {
+      "domain": "artfasad.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-06-04"
+    },
+    {
+      "domain": "shopmy.us",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-06-04"
+    },
+    {
+      "domain": "themartinezcasita.com",
+      "rank": 0,
+      "backlinks": 2,
+      "first_seen": "2026-06-04"
+    },
+    {
+      "domain": "presonus.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-06-01"
+    },
+    {
+      "domain": "spinchill.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-05-18"
+    },
+    {
+      "domain": "wonvision.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-05-18"
+    },
+    {
+      "domain": "ecstasycoffee.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-05-16"
+    },
+    {
+      "domain": "theacftcalculator.us",
+      "rank": 51,
+      "backlinks": 1,
+      "first_seen": "2026-05-14"
+    },
+    {
+      "domain": "impocoolmom.org",
+      "rank": 51,
+      "backlinks": 1,
+      "first_seen": "2026-05-14"
+    },
+    {
+      "domain": "womanaroundtown.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-05-13"
+    },
+    {
+      "domain": "hellobetty.co",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-05-13"
+    },
+    {
+      "domain": "bikehacks.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-05-13"
+    }
+  ],
+  "lost": [
+    {
+      "domain": "shortenurls.eu",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-07-07"
+    },
+    {
+      "domain": "skyfiveproperties.com",
+      "rank": 0,
+      "backlinks": 8,
+      "lost_date": "2026-06-30"
+    },
+    {
+      "domain": "homelovr.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-06-27"
+    },
+    {
+      "domain": "180marketing.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-06-22"
+    },
+    {
+      "domain": "way2check.cv",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-06-16"
+    },
+    {
+      "domain": "gcu.edu.pk",
+      "rank": 0,
+      "backlinks": 2,
+      "lost_date": "2026-06-15"
+    },
+    {
+      "domain": "wood-create.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-06-15"
+    },
+    {
+      "domain": "quero.party",
+      "rank": 0,
+      "backlinks": 2,
+      "lost_date": "2026-06-01"
+    },
+    {
+      "domain": "thecheeryhome.com",
+      "rank": 23,
+      "backlinks": 1,
+      "lost_date": "2026-05-31"
+    },
+    {
+      "domain": "drjack.world",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-05-28"
+    },
+    {
+      "domain": "ready.pro",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-05-27"
+    },
+    {
+      "domain": "gripelements.com",
+      "rank": 23,
+      "backlinks": 1,
+      "lost_date": "2026-05-23"
+    },
+    {
+      "domain": "arielfox.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-05-16"
+    },
+    {
+      "domain": "remoterocketship.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-05-03"
+    },
+    {
+      "domain": "imagetou.com",
+      "rank": 16,
+      "backlinks": 2,
+      "lost_date": "2026-04-30"
+    },
+    {
+      "domain": "wellingtonhometeam.com",
+      "rank": 0,
+      "backlinks": 2,
+      "lost_date": "2026-04-12"
+    },
+    {
+      "domain": "picnicseason.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-03-21"
+    },
+    {
+      "domain": "urls-shortener.eu",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-02-21"
+    },
+    {
+      "domain": "thededicatedhouse.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-02-19"
+    },
+    {
+      "domain": "farmfreshtherapy.com",
+      "rank": 7,
+      "backlinks": 1,
+      "lost_date": "2026-02-10"
+    },
+    {
+      "domain": "edecorhomes.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-02-07"
+    },
+    {
+      "domain": "snagden.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-01-25"
+    },
+    {
+      "domain": "oppwiser.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-01-07"
+    },
+    {
+      "domain": "amflat.myshopify.com",
+      "rank": 149,
+      "backlinks": 207,
+      "lost_date": "2025-12-26"
+    },
+    {
+      "domain": "usajigsaw.org",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2025-12-23"
+    }
+  ],
+  "generated_at": "2026-07-09T19:53:13+00:00"
 }

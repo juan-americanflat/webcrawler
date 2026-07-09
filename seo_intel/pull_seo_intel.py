@@ -35,7 +35,7 @@ import os
 import re
 import sys
 import urllib.request
-from datetime import datetime, timezone
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from dotenv import load_dotenv
@@ -238,10 +238,46 @@ def pull_backlinks(peers: list[str], ref_limit: int, anchor_limit: int) -> dict:
         "referring_domains": it.get("referring_domains"),
     } for it in (an.get("items") or [])]
 
+    # ── New / lost link velocity ───────────────────────────────────────
+    # Monthly time series of new vs lost referring domains + backlinks.
+    date_from = (datetime.now(timezone.utc) - timedelta(days=365)).strftime("%Y-%m-%d")
+    hist = _post_bl("history/live", [{"target": TARGET, "date_from": date_from}])
+    history = [{
+        "date": (it.get("date") or "")[:10],
+        "referring_domains": it.get("referring_domains"),
+        "new_referring_domains": it.get("new_referring_domains"),
+        "lost_referring_domains": it.get("lost_referring_domains"),
+        "new_backlinks": it.get("new_backlinks"),
+        "lost_backlinks": it.get("lost_backlinks"),
+    } for it in (hist.get("items") or [])]
+
+    # Recently GAINED referring domains: most-recent first_seen, still active.
+    g = _post_bl("referring_domains/live", [{
+        "target": TARGET, "limit": 30, "order_by": ["first_seen,desc"],
+    }])
+    gained = [{
+        "domain": it.get("domain"), "rank": it.get("rank"),
+        "backlinks": it.get("backlinks"), "first_seen": (it.get("first_seen") or "")[:10],
+    } for it in (g.get("items") or []) if not it.get("lost_date")][:25]
+
+    # Recently LOST referring domains: the endpoint defaults to live links,
+    # so backlinks_status_type="lost" is required to surface dropped ones.
+    lo = _post_bl("referring_domains/live", [{
+        "target": TARGET, "limit": 25, "backlinks_status_type": "lost",
+        "order_by": ["lost_date,desc"],
+    }])
+    lost = [{
+        "domain": it.get("domain"), "rank": it.get("rank"),
+        "backlinks": it.get("backlinks"), "lost_date": (it.get("lost_date") or "")[:10],
+    } for it in (lo.get("items") or []) if it.get("lost_date")][:25]
+
     return {
         "summary": summary,
         "referring_domains": referring_domains,
         "anchors": anchors,
+        "history": history,
+        "gained": gained,
+        "lost": lost,
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
     }
 
