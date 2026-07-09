@@ -91,6 +91,10 @@ def _frame_relevant(keyword: str) -> bool:
 MAX_SPEND = 1.00
 _spend = 0.0
 
+# Total keywords the target ranks for, per the API (may exceed the pulled
+# cap). Captured during pull_ranked_keywords, surfaced in overview.json.
+_ranked_total = None
+
 
 def _auth() -> str:
     return "Basic " + base64.b64encode(f"{LOGIN}:{PASSWORD}".encode()).decode()
@@ -173,7 +177,10 @@ def _band(rank: int | None) -> str:
 # Pulls
 # -----------------------------------------------------------------------------
 def pull_ranked_keywords(limit: int) -> list[dict]:
-    """Every keyword the target ranks for, richest first (by traffic estimate)."""
+    """Top `limit` keywords the target ranks for, richest first (by traffic
+    estimate). Also records the API's total_count (full footprint) globally
+    so the overview can report it even though we only store the top slice."""
+    global _ranked_total
     res = _post("ranked_keywords/live", [{
         "target": TARGET,
         "location_code": LOCATION_CODE,
@@ -181,6 +188,7 @@ def pull_ranked_keywords(limit: int) -> list[dict]:
         "limit": limit,
         "order_by": ["ranked_serp_element.serp_item.etv,desc"],
     }])
+    _ranked_total = res.get("total_count")
     rows = []
     for it in (res.get("items") or []):
         kd = it.get("keyword_data", {})
@@ -279,7 +287,11 @@ def build_overview(ranked: list[dict]) -> dict:
         total_traffic += r.get("traffic_estimate") or 0
     return {
         "target": TARGET,
-        "total_ranked_keywords": len(ranked),
+        # Full footprint from the API; falls back to pulled count if absent.
+        "total_ranked_keywords": _ranked_total or len(ranked),
+        # Position bands + traffic are computed over the pulled top slice, so
+        # label it honestly for the frontend.
+        "analyzed_keywords": len(ranked),
         "estimated_monthly_traffic": round(total_traffic),
         "position_bands": bands,
         "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
