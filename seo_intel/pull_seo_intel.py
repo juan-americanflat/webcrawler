@@ -32,6 +32,7 @@ import argparse
 import base64
 import json
 import os
+import re
 import sys
 import urllib.request
 from datetime import datetime, timezone
@@ -50,6 +51,7 @@ LANGUAGE_CODE = "en"
 
 BASE = "https://api.dataforseo.com/v3/dataforseo_labs/google"
 SERP_BASE = "https://api.dataforseo.com/v3/serp/google/organic/live/advanced"
+BL_BASE = "https://api.dataforseo.com/v3/backlinks"
 DATA_DIR = Path(__file__).parent / "data"
 
 # Domains that dominate keyword overlap but aren't meaningful "competitors"
@@ -161,6 +163,89 @@ def _post_serp(keyword: str, depth: int = 10) -> list[dict]:
     return rows
 
 
+def _post_bl(path: str, payload: list) -> dict:
+    """POST to a Backlinks API endpoint (separate base from Labs). Tracks
+    cost, returns the first task's result dict."""
+    global _spend
+    if _spend >= MAX_SPEND:
+        sys.exit(f"::error::Spend guardrail hit (${_spend:.4f}). Aborting.")
+    req = urllib.request.Request(
+        f"{BL_BASE}/{path}",
+        data=json.dumps(payload).encode(),
+        headers={"Authorization": _auth(), "Content-Type": "application/json"},
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=180) as resp:
+        data = json.loads(resp.read().decode())
+    if data.get("status_code") != 20000:
+        sys.exit(f"::error::Backlinks API error {data.get('status_code')}: {data.get('status_message')}")
+    _spend += float(data.get("cost") or 0)
+    task = data["tasks"][0]
+    if task.get("status_code") != 20000:
+        sys.exit(f"::error::Backlinks task error {task.get('status_code')}: {task.get('status_message')}")
+    results = task.get("result") or []
+    return results[0] if results else {}
+
+
+def pull_backlinks(peers: list[str], ref_limit: int, anchor_limit: int) -> dict:
+    """Backlink intelligence: a DR-style comparison of us vs peers, our top
+    referring domains, and our anchor-text distribution.
+
+    DataForSEO 'rank' is a 0-1000 domain authority score (higher = stronger),
+    the direct analogue of Ahrefs Domain Rating.
+    """
+    def _summary(domain: str) -> dict:
+        r = _post_bl("summary/live", [{"target": domain}])
+        return {
+            "domain": domain,
+            "rank": r.get("rank"),
+            "backlinks": r.get("backlinks"),
+            "referring_domains": r.get("referring_domains"),
+            "referring_main_domains": r.get("referring_main_domains"),
+            "is_target": domain == TARGET,
+        }
+
+    summary = [_summary(TARGET)] + [_summary(d) for d in peers]
+
+    # Over-fetch, then drop self-referrers (our own Shopify subdomain) and
+    # raw-IP "domains" which aren't meaningful external links. Ordered by
+    # rank so the most authoritative linking domains lead.
+    rd = _post_bl("referring_domains/live", [{
+        "target": TARGET, "limit": ref_limit * 2, "order_by": ["rank,desc"],
+    }])
+    brand = TARGET.split(".")[0]
+    _ip_re = re.compile(r"^\d{1,3}(\.\d{1,3}){3}$")
+    referring_domains = []
+    for it in (rd.get("items") or []):
+        dom = it.get("domain") or ""
+        if brand in dom or "myshopify.com" in dom or _ip_re.match(dom):
+            continue
+        referring_domains.append({
+            "domain": dom,
+            "rank": it.get("rank"),
+            "backlinks": it.get("backlinks"),
+            "first_seen": (it.get("first_seen") or "")[:10],
+        })
+        if len(referring_domains) >= ref_limit:
+            break
+
+    an = _post_bl("anchors/live", [{
+        "target": TARGET, "limit": anchor_limit, "order_by": ["backlinks,desc"],
+    }])
+    anchors = [{
+        "anchor": (it.get("anchor") or "").strip() or "(empty / branded)",
+        "backlinks": it.get("backlinks"),
+        "referring_domains": it.get("referring_domains"),
+    } for it in (an.get("items") or [])]
+
+    return {
+        "summary": summary,
+        "referring_domains": referring_domains,
+        "anchors": anchors,
+        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    }
+
+
 def _band(rank: int | None) -> str:
     if not rank:
         return "unranked"
@@ -229,8 +314,6 @@ def pull_competitors(limit: int) -> list[dict]:
         })
     return rows
 
-
-import re
 
 _SIZE_RE = re.compile(r"(\d{1,2})\s*[x×]\s*(\d{1,2})")
 # Non-size page topics: canonical key -> substrings that signal it.
@@ -446,7 +529,7 @@ def main() -> None:
     ap.add_argument("--serp-limit", type=int, default=50,
                     help="How many curated keywords to pre-pull live SERPs for.")
     ap.add_argument("--only", default="",
-                    help="Comma list: overview,ranked,opportunities,competitors,gap,pagegaps,serp")
+                    help="Comma list: overview,ranked,opportunities,competitors,gap,pagegaps,backlinks,serp")
     args = ap.parse_args()
 
     if not LOGIN or not PASSWORD:
@@ -505,6 +588,16 @@ def main() -> None:
         our_pages = pull_relevant_pages(TARGET, 700)
         comp_pages = {c["domain"]: pull_relevant_pages(c["domain"], 150) for c in targets}
         write("page_gaps", build_page_gaps(our_pages, comp_pages))
+
+    if want("backlinks"):
+        if not competitors:
+            competitors = pull_competitors(args.competitors_limit)
+        PEER_CEILING = 10_000_000
+        comp = [c for c in competitors if c["type"] == "competitor"]
+        peers = [c for c in comp if (c["their_traffic"] or 0) < PEER_CEILING]
+        peer_domains = [c["domain"] for c in (peers or comp)[:args.gap_competitors]]
+        print(f"- backlinks (us + {', '.join(peer_domains)})…")
+        write("backlinks", pull_backlinks(peer_domains, ref_limit=50, anchor_limit=20))
 
     if want("serp"):
         # Curated set = top opportunities (where we're close and want to see
