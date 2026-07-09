@@ -546,6 +546,67 @@ def build_opportunities(ranked: list[dict]) -> list[dict]:
     return opps
 
 
+# Intent weighting for the priority score — transactional/commercial terms
+# are worth more to a DTC store than informational/navigational ones.
+_INTENT_WEIGHT = {
+    "transactional": 1.0, "commercial": 0.9,
+    "navigational": 0.6, "informational": 0.5,
+}
+
+
+def pull_keyword_metrics(keywords: list[str]) -> dict[str, dict]:
+    """Keyword difficulty (0-100) + search intent for a keyword list, via two
+    bulk Labs endpoints. Returns {keyword_lower: {kd, intent, intent_prob}}."""
+    out: dict[str, dict] = {kw.lower(): {} for kw in keywords}
+    if not keywords:
+        return out
+    kd = _post("bulk_keyword_difficulty/live", [{
+        "keywords": keywords, "location_code": LOCATION_CODE, "language_code": LANGUAGE_CODE,
+    }])
+    for it in (kd.get("items") or []):
+        k = (it.get("keyword") or "").lower()
+        if k in out:
+            out[k]["kd"] = it.get("keyword_difficulty")
+    si = _post("search_intent/live", [{
+        "keywords": keywords, "language_code": LANGUAGE_CODE,
+    }])
+    for it in (si.get("items") or []):
+        k = (it.get("keyword") or "").lower()
+        intent = (it.get("keyword_intent") or {})
+        if k in out:
+            out[k]["intent"] = intent.get("label")
+            out[k]["intent_prob"] = intent.get("probability")
+    return out
+
+
+def enrich_opportunities(opps: list[dict], metrics: dict[str, dict]) -> list[dict]:
+    """Add KD, intent, traffic value ($/mo) and a priority score to each
+    opportunity, then sort by priority.
+
+    priority_score = volume × winnability × intent_weight × proximity
+      winnability = (100 - KD) / 100   → low-difficulty terms score higher
+      intent_weight                     → commercial/transactional worth more
+      proximity   = (31 - position)/20  → closer to page 1 (pos 11) worth more
+    It reads as "intent-weighted winnable volume, favouring near-page-1
+    terms" — the keywords worth working first.
+    """
+    for o in opps:
+        m = metrics.get((o["keyword"] or "").lower(), {})
+        kd = m.get("kd")
+        o["keyword_difficulty"] = kd
+        o["intent"] = m.get("intent")
+        vol = o.get("search_volume") or 0
+        cpc = o.get("cpc") or 0
+        o["traffic_value"] = round(vol * cpc)
+        winnable = (100 - kd) / 100 if isinstance(kd, (int, float)) else 0.6
+        iw = _INTENT_WEIGHT.get(o.get("intent"), 0.6)
+        pos = o.get("position") or 30
+        proximity = max(0.05, (31 - pos) / 20)
+        o["priority_score"] = round(vol * winnable * iw * proximity)
+    opps.sort(key=lambda r: r.get("priority_score") or 0, reverse=True)
+    return opps
+
+
 def write(name: str, payload) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     path = DATA_DIR / f"{name}.json"
@@ -585,7 +646,10 @@ def main() -> None:
         if want("overview"):
             write("overview", build_overview(ranked))
         if want("opportunities"):
-            write("opportunities", build_opportunities(ranked))
+            opps = build_opportunities(ranked)
+            print(f"- enriching {len(opps)} opportunities with KD + intent…")
+            metrics = pull_keyword_metrics([o["keyword"] for o in opps])
+            write("opportunities", enrich_opportunities(opps, metrics))
 
     competitors = []
     if want("competitors") or want("gap"):
