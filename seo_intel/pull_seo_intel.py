@@ -49,6 +49,7 @@ LOCATION_CODE = 2840  # United States
 LANGUAGE_CODE = "en"
 
 BASE = "https://api.dataforseo.com/v3/dataforseo_labs/google"
+SERP_BASE = "https://api.dataforseo.com/v3/serp/google/organic/live/advanced"
 DATA_DIR = Path(__file__).parent / "data"
 
 # Domains that dominate keyword overlap but aren't meaningful "competitors"
@@ -116,6 +117,44 @@ def _post(path: str, payload: list) -> dict:
         sys.exit(f"::error::Task error {task.get('status_code')}: {task.get('status_message')}")
     results = task.get("result") or []
     return results[0] if results else {}
+
+
+def _post_serp(keyword: str, depth: int = 10) -> list[dict]:
+    """One live organic SERP for a keyword. Separate endpoint (SERP API, not
+    Labs) so it has its own poster. ~$0.002/keyword."""
+    global _spend
+    if _spend >= MAX_SPEND:
+        sys.exit(f"::error::Spend guardrail hit (${_spend:.4f}). Aborting.")
+    payload = [{"keyword": keyword, "location_code": LOCATION_CODE,
+                "language_code": LANGUAGE_CODE, "depth": depth}]
+    req = urllib.request.Request(
+        SERP_BASE, data=json.dumps(payload).encode(),
+        headers={"Authorization": _auth(), "Content-Type": "application/json"},
+        method="POST",
+    )
+    with urllib.request.urlopen(req, timeout=120) as resp:
+        data = json.loads(resp.read().decode())
+    if data.get("status_code") != 20000:
+        sys.exit(f"::error::SERP API error {data.get('status_code')}: {data.get('status_message')}")
+    _spend += float(data.get("cost") or 0)
+    task = data["tasks"][0]
+    if task.get("status_code") != 20000 or not task.get("result"):
+        return []
+    rows = []
+    for i in task["result"][0].get("items") or []:
+        if i.get("type") != "organic":
+            continue
+        dom = i.get("domain") or ""
+        rows.append({
+            "position": i.get("rank_absolute"),
+            "domain": dom,
+            "url": i.get("url"),
+            "title": i.get("title"),
+            "is_americanflat": TARGET in dom,
+        })
+        if len(rows) >= depth:
+            break
+    return rows
 
 
 def _band(rank: int | None) -> str:
@@ -274,8 +313,10 @@ def main() -> None:
     ap.add_argument("--gap-limit", type=int, default=100)
     ap.add_argument("--gap-competitors", type=int, default=3,
                     help="How many top DIRECT competitors to compute a gap for.")
+    ap.add_argument("--serp-limit", type=int, default=50,
+                    help="How many curated keywords to pre-pull live SERPs for.")
     ap.add_argument("--only", default="",
-                    help="Comma list: overview,ranked,opportunities,competitors,gap")
+                    help="Comma list: overview,ranked,opportunities,competitors,gap,serp")
     args = ap.parse_args()
 
     if not LOGIN or not PASSWORD:
@@ -321,6 +362,28 @@ def main() -> None:
             print(f"- keyword gap vs {c['domain']}…")
             gap[c["domain"]] = pull_keyword_gap(c["domain"], args.gap_limit)
         write("keyword_gap", gap)
+
+    if want("serp"):
+        # Curated set = top opportunities (where we're close and want to see
+        # who's ahead) + our top ranked winners (who's around us). Falls back
+        # to reading the committed JSON if this run didn't pull ranked.
+        if not ranked and (DATA_DIR / "ranked_keywords.json").exists():
+            ranked = json.load(open(DATA_DIR / "ranked_keywords.json"))
+        opps = build_opportunities(ranked) if ranked else []
+        top_opp = [o["keyword"] for o in opps[:args.serp_limit // 2]]
+        top_won = [r["keyword"] for r in
+                   sorted(ranked, key=lambda r: r.get("traffic_estimate") or 0, reverse=True)]
+        seen, curated = set(), []
+        for kw in top_opp + top_won:
+            k = (kw or "").strip()
+            if k and k.lower() not in seen:
+                seen.add(k.lower())
+                curated.append(k)
+            if len(curated) >= args.serp_limit:
+                break
+        print(f"- SERP for {len(curated)} curated keywords…")
+        serp = {kw: _post_serp(kw) for kw in curated}
+        write("serp", serp)
 
     print(f"\nDone. DataForSEO spend this run: ${_spend:.4f}")
 
