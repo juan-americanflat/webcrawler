@@ -607,6 +607,99 @@ def enrich_opportunities(opps: list[dict], metrics: dict[str, dict]) -> list[dic
     return opps
 
 
+def build_movers(window_days: int = 7, top_n: int = 25) -> dict:
+    """Rank changes over ~`window_days`, diffed from the ValueSerp daily
+    snapshots in ../results_history. No API calls.
+
+    Per keyword: compare its latest position against the reading closest to
+    `window_days` ago. Errored readings (e.g. the 402 credit-out period) are
+    ignored so they don't masquerade as lost rankings. Classifies:
+      improved  — moved up (lower position number)
+      declined  — moved down
+      new       — was checked-but-unranked, now ranks
+      lost      — was ranking, now checked-but-unranked
+    """
+    import csv as _csv
+    hist_dir = Path(__file__).parent.parent / "results_history"
+    snaps = sorted(hist_dir.glob("results_*.csv"))
+    if len(snaps) < 2:
+        return {"summary": {}, "improved": [], "declined": [], "new": [], "lost": [],
+                "note": "not enough history yet", "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds")}
+
+    def _pos(val):
+        s = str(val or "").strip()
+        if not s:
+            return None            # checked but not ranked
+        try:
+            n = int(float(s))
+            return n if n > 0 else None
+        except ValueError:
+            return None
+
+    # keyword -> list of (date_str, position_or_None), only non-errored rows
+    from datetime import date as _date
+    series: dict[str, list] = {}
+    meta: dict[str, dict] = {}
+    for snap in snaps:
+        dt = snap.stem.replace("results_", "")
+        for r in _csv.DictReader(open(snap, encoding="utf-8")):
+            if (r.get("error") or "").strip():
+                continue
+            kw = (r.get("keyword") or "").strip()
+            if not kw:
+                continue
+            series.setdefault(kw, []).append((dt, _pos(r.get("position"))))
+            meta[kw] = {"category": r.get("category", ""), "priority": r.get("priority", "")}
+
+    def _to_date(s):
+        y, m, d = (int(x) for x in s.split("-"))
+        return _date(y, m, d)
+
+    improved, declined, new, lost = [], [], [], []
+    for kw, readings in series.items():
+        readings.sort(key=lambda x: x[0])
+        cur_date, cur_pos = readings[-1]
+        target = _to_date(cur_date) - timedelta(days=window_days)
+        # nearest prior reading within [window-3, window+7] days before current
+        prior = None
+        best_gap = None
+        for dt, pos in readings[:-1]:
+            gap = abs((_to_date(dt) - target).days)
+            if _to_date(dt) < _to_date(cur_date) and (best_gap is None or gap < best_gap):
+                best_gap, prior = gap, (dt, pos)
+        if prior is None:
+            continue
+        _, prior_pos = prior
+        row = {"keyword": kw, "current": cur_pos, "prior": prior_pos,
+               "category": meta[kw]["category"], "priority": meta[kw]["priority"]}
+        if prior_pos is None and cur_pos is not None:
+            new.append(row)
+        elif prior_pos is not None and cur_pos is None:
+            lost.append(row)
+        elif prior_pos is not None and cur_pos is not None:
+            delta = prior_pos - cur_pos      # >0 = improved (moved up)
+            if delta == 0:
+                continue
+            row["delta"] = delta
+            (improved if delta > 0 else declined).append(row)
+
+    improved.sort(key=lambda r: r["delta"], reverse=True)
+    declined.sort(key=lambda r: r["delta"])
+    new.sort(key=lambda r: r["current"])
+    lost.sort(key=lambda r: r["prior"])
+
+    return {
+        "window_days": window_days,
+        "summary": {"improved": len(improved), "declined": len(declined),
+                    "new": len(new), "lost": len(lost)},
+        "improved": improved[:top_n],
+        "declined": declined[:top_n],
+        "new": new[:top_n],
+        "lost": lost[:top_n],
+        "generated_at": datetime.now(timezone.utc).isoformat(timespec="seconds"),
+    }
+
+
 def write(name: str, payload) -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     path = DATA_DIR / f"{name}.json"
@@ -626,7 +719,7 @@ def main() -> None:
     ap.add_argument("--serp-limit", type=int, default=50,
                     help="How many curated keywords to pre-pull live SERPs for.")
     ap.add_argument("--only", default="",
-                    help="Comma list: overview,ranked,opportunities,competitors,gap,pagegaps,backlinks,serp")
+                    help="Comma list: movers,overview,ranked,opportunities,competitors,gap,pagegaps,backlinks,serp")
     args = ap.parse_args()
 
     if not LOGIN or not PASSWORD:
@@ -636,6 +729,10 @@ def main() -> None:
     want = lambda k: (not only) or k in only
 
     print(f"SEO Intelligence pull for {TARGET} (US/en)")
+
+    if want("movers"):
+        print("- movers (rank changes from results_history, no API)…")
+        write("movers", build_movers())
 
     ranked = []
     if want("ranked") or want("overview") or want("opportunities"):
