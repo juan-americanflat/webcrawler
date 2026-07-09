@@ -1,0 +1,67 @@
+name: SEO Intelligence Pull
+
+# Pulls organic-search intelligence for americanflat.com from DataForSEO Labs
+# and commits JSON data files that the amf-catalog-tools "SEO Intelligence"
+# pages read. Weekly cadence — competitor/gap data changes slowly and a full
+# pull costs ~$0.27, so weekly keeps spend ~$1.15/month.
+
+on:
+  schedule:
+    # Mondays 14:00 UTC (after the rank checker's 13:xx runs)
+    - cron: "0 14 * * 1"
+  workflow_dispatch:
+    inputs:
+      ranked_limit:
+        description: "Max ranked keywords to pull"
+        type: string
+        default: "1000"
+
+concurrency:
+  group: seo-intel
+  cancel-in-progress: false
+
+jobs:
+  pull:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install requests python-dotenv
+
+      - name: Pull SEO intelligence
+        env:
+          DATAFORSEO_LOGIN: ${{ secrets.DATAFORSEO_LOGIN }}
+          DATAFORSEO_PASSWORD: ${{ secrets.DATAFORSEO_PASSWORD }}
+        run: |
+          python seo_intel/pull_seo_intel.py \
+            --ranked-limit "${{ inputs.ranked_limit || '1000' }}" \
+            --competitors-limit 25 \
+            --gap-limit 60 \
+            --gap-competitors 3
+
+      - name: Commit data
+        run: |
+          set -euo pipefail
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name  "github-actions[bot]"
+          git add seo_intel/data/
+          if git diff --staged --quiet; then
+            echo "No data changes to commit."
+          else
+            DATE=$(date -u +"%Y-%m-%d")
+            git commit -m "chore: update SEO intelligence ${DATE} [skip ci]"
+            git push origin main || (git pull --rebase origin main && git push origin main)
+          fi
