@@ -11,23 +11,23 @@
     {
       "domain": "arttoframe.com",
       "rank": 290,
-      "backlinks": 6900,
-      "referring_domains": 1430,
-      "referring_main_domains": 1270,
+      "backlinks": 6899,
+      "referring_domains": 1431,
+      "referring_main_domains": 1271,
       "is_target": false
     },
     {
       "domain": "modernmemorydesign.com",
       "rank": 243,
-      "backlinks": 2974,
-      "referring_domains": 632,
-      "referring_main_domains": 583,
+      "backlinks": 2977,
+      "referring_domains": 634,
+      "referring_main_domains": 585,
       "is_target": false
     },
     {
       "domain": "pictureframes.com",
       "rank": 274,
-      "backlinks": 8298,
+      "backlinks": 8274,
       "referring_domains": 1580,
       "referring_main_domains": 1512,
       "is_target": false
@@ -123,12 +123,6 @@
       "rank": 26,
       "backlinks": 2,
       "first_seen": "2025-10-23"
-    },
-    {
-      "domain": "atimeoutformommy.com",
-      "rank": 25,
-      "backlinks": 1,
-      "first_seen": "2026-03-02"
     },
     {
       "domain": "shibleysmiles.com",
@@ -267,6 +261,12 @@
       "rank": 6,
       "backlinks": 5,
       "first_seen": "2021-10-25"
+    },
+    {
+      "domain": "bathroomremodelinginfortworth.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-11"
     },
     {
       "domain": "wearethemighty.com",
@@ -537,6 +537,12 @@
   ],
   "gained": [
     {
+      "domain": "bathroomremodelinginfortworth.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-11"
+    },
+    {
       "domain": "wearethemighty.com",
       "rank": 0,
       "backlinks": 1,
@@ -679,15 +685,15 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-05-13"
-    },
-    {
-      "domain": "bikehacks.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-05-13"
     }
   ],
   "lost": [
+    {
+      "domain": "atimeoutformommy.com",
+      "rank": 25,
+      "backlinks": 1,
+      "lost_date": "2026-07-09"
+    },
     {
       "domain": "shortenurls.eu",
       "rank": 0,
@@ -831,13 +837,7 @@
       "rank": 149,
       "backlinks": 207,
       "lost_date": "2025-12-26"
-    },
-    {
-      "domain": "usajigsaw.org",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2025-12-23"
     }
   ],
-  "generated_at": "2026-07-09T19:53:13+00:00"
+  "generated_at": "2026-07-13T17:57:41+00:00"
 }

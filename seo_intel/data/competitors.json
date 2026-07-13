@@ -1,170 +1,170 @@
 [
   {
     "domain": "amazon.com",
-    "shared_keywords": 6844,
-    "their_traffic": 2024750343,
-    "their_keywords": 41911781,
+    "shared_keywords": 7098,
+    "their_traffic": 2022296639,
+    "their_keywords": 42046884,
     "type": "marketplace"
   },
   {
     "domain": "walmart.com",
-    "shared_keywords": 6120,
-    "their_traffic": 353837308,
-    "their_keywords": 20329503,
+    "shared_keywords": 6373,
+    "their_traffic": 352072746,
+    "their_keywords": 20562253,
     "type": "marketplace"
   },
   {
     "domain": "etsy.com",
-    "shared_keywords": 5969,
-    "their_traffic": 88406101,
-    "their_keywords": 14688760,
+    "shared_keywords": 6224,
+    "their_traffic": 88427170,
+    "their_keywords": 14814677,
     "type": "marketplace"
   },
   {
     "domain": "youtube.com",
-    "shared_keywords": 5865,
-    "their_traffic": 3409878730,
-    "their_keywords": 147175348,
+    "shared_keywords": 6107,
+    "their_traffic": 3403273078,
+    "their_keywords": 148197039,
     "type": "marketplace"
   },
   {
     "domain": "target.com",
-    "shared_keywords": 5409,
-    "their_traffic": 172669161,
-    "their_keywords": 9218826,
+    "shared_keywords": 5650,
+    "their_traffic": 173099531,
+    "their_keywords": 9332089,
     "type": "marketplace"
   },
   {
     "domain": "michaels.com",
-    "shared_keywords": 5333,
-    "their_traffic": 25473165,
-    "their_keywords": 1088975,
+    "shared_keywords": 5582,
+    "their_traffic": 25291465,
+    "their_keywords": 1108006,
     "type": "competitor"
   },
   {
     "domain": "arttoframe.com",
-    "shared_keywords": 4856,
-    "their_traffic": 1097771,
-    "their_keywords": 23962,
+    "shared_keywords": 5080,
+    "their_traffic": 1153206,
+    "their_keywords": 24324,
     "type": "competitor"
   },
   {
     "domain": "ebay.com",
-    "shared_keywords": 4813,
-    "their_traffic": 237155471,
-    "their_keywords": 29008918,
+    "shared_keywords": 5019,
+    "their_traffic": 240945952,
+    "their_keywords": 29216394,
     "type": "marketplace"
   },
   {
     "domain": "homedepot.com",
-    "shared_keywords": 4226,
-    "their_traffic": 278934557,
-    "their_keywords": 6844068,
+    "shared_keywords": 4413,
+    "their_traffic": 275328017,
+    "their_keywords": 6890901,
     "type": "marketplace"
   },
   {
     "domain": "wayfair.com",
-    "shared_keywords": 4196,
-    "their_traffic": 20546394,
-    "their_keywords": 2165882,
+    "shared_keywords": 4338,
+    "their_traffic": 20378462,
+    "their_keywords": 2182526,
     "type": "marketplace"
   },
   {
     "domain": "instagram.com",
-    "shared_keywords": 4115,
-    "their_traffic": 2581373322,
-    "their_keywords": 96390921,
+    "shared_keywords": 4238,
+    "their_traffic": 2587357473,
+    "their_keywords": 96485485,
     "type": "marketplace"
   },
   {
     "domain": "modernmemorydesign.com",
-    "shared_keywords": 3547,
-    "their_traffic": 83199,
-    "their_keywords": 18148,
+    "shared_keywords": 3725,
+    "their_traffic": 92112,
+    "their_keywords": 18590,
     "type": "competitor"
   },
   {
     "domain": "pinterest.com",
-    "shared_keywords": 3519,
-    "their_traffic": 833280123,
-    "their_keywords": 34323001,
+    "shared_keywords": 3661,
+    "their_traffic": 848318014,
+    "their_keywords": 34865658,
     "type": "marketplace"
   },
   {
     "domain": "pictureframes.com",
-    "shared_keywords": 3219,
-    "their_traffic": 1143300,
-    "their_keywords": 14296,
-    "type": "competitor"
-  },
-  {
-    "domain": "hobbylobby.com",
-    "shared_keywords": 3140,
-    "their_traffic": 15982458,
-    "their_keywords": 746462,
+    "shared_keywords": 3377,
+    "their_traffic": 1126561,
+    "their_keywords": 14398,
     "type": "competitor"
   },
   {
     "domain": "frameusa.com",
-    "shared_keywords": 3047,
-    "their_traffic": 632500,
-    "their_keywords": 14522,
+    "shared_keywords": 3229,
+    "their_traffic": 639813,
+    "their_keywords": 15316,
+    "type": "competitor"
+  },
+  {
+    "domain": "hobbylobby.com",
+    "shared_keywords": 3182,
+    "their_traffic": 15893739,
+    "their_keywords": 749357,
     "type": "competitor"
   },
   {
     "domain": "facebook.com",
-    "shared_keywords": 2767,
-    "their_traffic": 3190834194,
-    "their_keywords": 120467008,
+    "shared_keywords": 2836,
+    "their_traffic": 3210156897,
+    "their_keywords": 121253008,
     "type": "marketplace"
   },
   {
     "domain": "reddit.com",
-    "shared_keywords": 2729,
-    "their_traffic": 4595228351,
-    "their_keywords": 98663661,
+    "shared_keywords": 2773,
+    "their_traffic": 4667427011,
+    "their_keywords": 98679637,
     "type": "marketplace"
   },
   {
     "domain": "framedestination.com",
-    "shared_keywords": 2569,
-    "their_traffic": 623078,
-    "their_keywords": 19323,
+    "shared_keywords": 2629,
+    "their_traffic": 619287,
+    "their_keywords": 19363,
     "type": "competitor"
   },
   {
     "domain": "athome.com",
-    "shared_keywords": 2190,
-    "their_traffic": 6176113,
-    "their_keywords": 374186,
+    "shared_keywords": 2324,
+    "their_traffic": 6151966,
+    "their_keywords": 378328,
     "type": "competitor"
   },
   {
     "domain": "crateandbarrel.com",
-    "shared_keywords": 2184,
-    "their_traffic": 7368860,
-    "their_keywords": 681541,
+    "shared_keywords": 2213,
+    "their_traffic": 7475407,
+    "their_keywords": 687113,
     "type": "competitor"
   },
   {
     "domain": "frameology.com",
-    "shared_keywords": 2163,
-    "their_traffic": 557205,
-    "their_keywords": 9366,
+    "shared_keywords": 2208,
+    "their_traffic": 517723,
+    "their_keywords": 9423,
     "type": "competitor"
   },
   {
-    "domain": "ikea.com",
-    "shared_keywords": 2127,
-    "their_traffic": 57058755,
-    "their_keywords": 890744,
+    "domain": "frameamo.com",
+    "shared_keywords": 2188,
+    "their_traffic": 112103,
+    "their_keywords": 6944,
     "type": "competitor"
   },
   {
     "domain": "tiktok.com",
-    "shared_keywords": 2072,
-    "their_traffic": 355494906,
-    "their_keywords": 52820266,
+    "shared_keywords": 2157,
+    "their_traffic": 357125403,
+    "their_keywords": 52663795,
     "type": "marketplace"
   }
 ]
