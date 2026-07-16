@@ -1,6 +1,12 @@
 # Google Rank Checker — Americanflat Picture Frames
 
-Track Google search rankings across 250+ picture frame keywords using SerpAPI.
+Track Google search rankings across 400+ picture frame keywords via the
+**DataForSEO SERP API**.
+
+> Migrated off ValueSerp → DataForSEO on 2026-07-16 to consolidate on one
+> vendor (DataForSEO already powers the SEO Intelligence pipeline in
+> `seo_intel/`). DataForSEO reports positions slightly differently, so
+> there's a one-time discontinuity in `results_history/` at the switch date.
 
 ---
 
@@ -11,14 +17,16 @@ Track Google search rankings across 250+ picture frame keywords using SerpAPI.
 pip install requests python-dotenv
 ```
 
-### 2. Get a ValueSerp API key
-- Go to https://valueserp.com
-- Sign up — free trial available, then ~$5/mo for 5,000 searches
-- At 359 keywords/week (~1,400/month) you're well within the 5,000 limit
+### 2. DataForSEO credentials
+- Get your **API login + API password** from https://app.dataforseo.com (API Access).
+- The API password is distinct from your dashboard login password.
+- Live SERP is ~$0.002/keyword. At the tiered cadence below (~6,900
+  checks/month) that's ~$14/month.
 
 ### 3. Create a `.env` file in the same folder
 ```
-VALUESERP_KEY=your_key_here
+DATAFORSEO_LOGIN=you@example.com
+DATAFORSEO_PASSWORD=your_api_password
 ```
 
 ---
@@ -46,8 +54,8 @@ python rank_checker.py --priority high     # 147 keywords
 python rank_checker.py --priority medium   # 179 keywords
 python rank_checker.py --priority low      # 33 keywords
 ```
-The GitHub Action uses this on a tiered schedule (see below) to stay
-under the SERP plan's 10 k searches/month budget.
+The GitHub Action uses this on a tiered schedule (see below) to keep
+DataForSEO SERP spend predictable (~$14/month at ~6,900 checks).
 
 ### Test the pipeline without using API credits
 ```bash

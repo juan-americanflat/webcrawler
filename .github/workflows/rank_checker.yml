@@ -91,7 +91,8 @@ jobs:
 
       - name: Run rank checker (tier=${{ steps.tier.outputs.priority }})
         env:
-          VALUESERP_KEY: ${{ secrets.VALUESERP_KEY }}
+          DATAFORSEO_LOGIN: ${{ secrets.DATAFORSEO_LOGIN }}
+          DATAFORSEO_PASSWORD: ${{ secrets.DATAFORSEO_PASSWORD }}
         run: |
           python rank_checker.py \
             --keywords keywords.csv \

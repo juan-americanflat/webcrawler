@@ -1,22 +1,30 @@
 """
 Google Rank Checker — Americanflat Picture Frame SEO
-Uses SerpAPI to check Google rankings for a keyword list.
+Checks Google rankings for a keyword list via the DataForSEO SERP API.
+
+(Migrated off ValueSerp 2026-07-16 — consolidated onto DataForSEO, which
+already powers the SEO Intelligence pipeline. One vendor, one credential.
+Note: DataForSEO reports positions slightly differently than ValueSerp, so
+there is a one-time discontinuity in results_history at the switch date.)
 
 Setup:
   pip install requests python-dotenv
-  Add SERPAPI_KEY=your_key to a .env file (or set as env var)
-  Get a free API key at https://serpapi.com (100 free searches/month)
+  Add DATAFORSEO_LOGIN / DATAFORSEO_PASSWORD (the API password) to .env.
 
 Usage:
   python rank_checker.py
   python rank_checker.py --domain americanflat.com --keywords keywords.csv --output results.csv
-  python rank_checker.py --top 20  # only check top 20 keywords by priority
+  python rank_checker.py --priority high      # only the high-priority tier
+  python rank_checker.py --top 20             # only top 20 keywords by priority
 """
+
+from __future__ import annotations
 
 import os
 import csv
 import time
 import json
+import base64
 import argparse
 import requests
 from datetime import datetime
@@ -29,9 +37,13 @@ load_dotenv()
 DEFAULT_DOMAIN   = "americanflat.com"
 DEFAULT_KEYWORDS = "keywords.csv"
 DEFAULT_OUTPUT   = f"rank_results_{datetime.now().strftime('%Y%m%d_%H%M%S')}.csv"
-VALUESERP_KEY    = os.getenv("VALUESERP_KEY", "")
-RESULTS_PER_PAGE = 100   # positions to scan (max 100 per ValueSerp call)
-DELAY_SECONDS    = 1.2   # polite delay between API calls
+DFS_LOGIN        = os.getenv("DATAFORSEO_LOGIN", "")
+DFS_PASSWORD     = os.getenv("DATAFORSEO_PASSWORD", "")
+DFS_ENDPOINT     = "https://api.dataforseo.com/v3/serp/google/organic/live/advanced"
+LOCATION_CODE    = 2840  # United States
+LANGUAGE_CODE    = "en"
+RESULTS_PER_PAGE = 100   # SERP depth to scan
+DELAY_SECONDS    = 0.0   # DataForSEO live has generous rate limits; no delay needed
 MAX_POSITION     = 100   # report as "Not ranked" if beyond this
 
 # ─── HELPERS ──────────────────────────────────────────────────────────────────
@@ -50,50 +62,70 @@ def load_keywords(filepath: str) -> list[dict]:
     return [k for k in keywords if k["keyword"]]
 
 
-def find_domain_position(organic_results: list, domain: str) -> tuple[int | None, str | None]:
-    """Return (position, url) of first result matching domain, or (None, None)."""
-    for result in organic_results:
-        link = result.get("link", "")
-        if domain.lower() in link.lower():
-            return result.get("position"), link
+def _auth_header() -> str:
+    return "Basic " + base64.b64encode(f"{DFS_LOGIN}:{DFS_PASSWORD}".encode()).decode()
+
+
+def find_domain_position(items: list, domain: str) -> tuple[int | None, str | None]:
+    """Return (rank_absolute, url) of the first organic result matching
+    domain, or (None, None). Uses rank_absolute so the position counts all
+    SERP elements the way a user sees them (matches how ValueSerp reported)."""
+    for it in items:
+        if it.get("type") != "organic":
+            continue
+        dom = (it.get("domain") or "").lower()
+        if domain.lower() in dom:
+            return it.get("rank_absolute"), it.get("url")
     return None, None
 
 
-def check_ranking(keyword: str, domain: str, api_key: str) -> dict:
-    """Call ValueSerp for a single keyword and return ranking data."""
-    params = {
-        "api_key":  api_key,
-        "q":        keyword,
-        "num":      RESULTS_PER_PAGE,
-        "gl":       "us",
-        "hl":       "en",
-        "location": "United States",
-        "output":   "json",
-    }
+def check_ranking(keyword: str, domain: str, _unused: str = "") -> dict:
+    """Query the DataForSEO SERP API for one keyword and return ranking data
+    in the same shape the CSV writer expects."""
+    payload = [{
+        "keyword": keyword,
+        "location_code": LOCATION_CODE,
+        "language_code": LANGUAGE_CODE,
+        "depth": RESULTS_PER_PAGE,
+    }]
     try:
-        resp = requests.get("https://api.valueserp.com/search", params=params, timeout=15)
+        resp = requests.post(
+            DFS_ENDPOINT, data=json.dumps(payload),
+            headers={"Authorization": _auth_header(), "Content-Type": "application/json"},
+            timeout=60,
+        )
         resp.raise_for_status()
         data = resp.json()
+        if data.get("status_code") != 20000:
+            return {"position": None, "url": "", "in_featured": False, "total_results": "",
+                    "error": f"{data.get('status_code')}: {data.get('status_message')}"}
+        task = data["tasks"][0]
+        if task.get("status_code") != 20000:
+            return {"position": None, "url": "", "in_featured": False, "total_results": "",
+                    "error": f"{task.get('status_code')}: {task.get('status_message')}"}
+        result = (task.get("result") or [{}])[0]
+        items = result.get("items") or []
 
-        organic = data.get("organic_results", [])
-        position, url = find_domain_position(organic, domain)
+        position, url = find_domain_position(items, domain)
 
-        featured = data.get("answer_box", {})
-        featured_url = featured.get("link", "")
-        in_featured = domain.lower() in featured_url.lower() if featured_url else False
+        # Featured snippet ownership
+        in_featured = any(
+            it.get("type") == "featured_snippet" and domain.lower() in (it.get("domain") or "").lower()
+            for it in items
+        )
 
         return {
             "position":      position,
             "url":           url or "",
             "in_featured":   in_featured,
-            "total_results": data.get("search_information", {}).get("total_results", ""),
+            "total_results": result.get("se_results_count", ""),
             "error":         "",
         }
 
     except requests.exceptions.HTTPError as e:
-        if resp.status_code == 401:
-            return {"position": None, "url": "", "in_featured": False, "total_results": "", "error": "Invalid API key"}
-        return {"position": None, "url": "", "in_featured": False, "total_results": "", "error": str(e)}
+        code = getattr(resp, "status_code", "?")
+        return {"position": None, "url": "", "in_featured": False, "total_results": "",
+                "error": f"{code} {e}"}
     except Exception as e:
         return {"position": None, "url": "", "in_featured": False, "total_results": "", "error": str(e)}
 
@@ -112,9 +144,9 @@ def position_label(pos: int | None) -> str:
 
 def run(domain: str, keywords_file: str, output: str, top: int | None, dry_run: bool, priority: str = "all"):
     output_file = output
-    if not VALUESERP_KEY and not dry_run:
-        print("\n❌  VALUESERP_KEY not set. Add it to a .env file or set as environment variable.")
-        print("    Get a free trial key at https://valueserp.com (~$5/mo for 5,000 searches)\n")
+    if (not DFS_LOGIN or not DFS_PASSWORD) and not dry_run:
+        print("\n❌  DATAFORSEO_LOGIN / DATAFORSEO_PASSWORD not set. Add them to .env or env vars.")
+        print("    (Use the API password from your DataForSEO dashboard, not the login password.)\n")
         return
 
     keywords = load_keywords(keywords_file)
@@ -152,7 +184,7 @@ def run(domain: str, keywords_file: str, output: str, top: int | None, dry_run: 
             row = {**kw, "position": None, "position_label": "DRY RUN", "url": "",
                    "in_featured": False, "total_results": "", "error": "", "checked_at": datetime.now().isoformat()}
         else:
-            data = check_ranking(keyword, domain, VALUESERP_KEY)
+            data = check_ranking(keyword, domain)
             row = {
                 **kw,
                 "position":       data["position"],
