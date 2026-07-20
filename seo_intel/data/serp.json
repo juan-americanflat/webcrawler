@@ -1,59 +1,66 @@
 {
   "photo frames and": [
     {
-      "position": 1,
+      "position": 2,
       "domain": "frameology.com",
-      "url": "https://frameology.com/?srsltid=AfmBOopS_FggK2URtw9trb7PPc6zvhPiPQfUd2PV8ranFX1rhRjELqEd",
+      "url": "https://frameology.com/?srsltid=AfmBOoqGxUWDNmLrGsJqKDFtlGC0cY6e7V9Tf6mJQWE7JY1gv2LOtmmL",
       "title": "Frameology: Frame A Photo Online | Starting At $19",
       "is_americanflat": false
     },
     {
-      "position": 5,
-      "domain": "www.artifactuprising.com",
-      "url": "https://www.artifactuprising.com/frames?srsltid=AfmBOoq7rURi7pKdYBRVchWx51q3NF1fFRSWAraqSTLMS40UFBw5skCz",
-      "title": "Photo Prints & Frames | Print & Frame Your Photos Online",
-      "is_americanflat": false
-    },
-    {
-      "position": 6,
+      "position": 4,
       "domain": "www.framebridge.com",
-      "url": "https://www.framebridge.com/collections/shop-all-frames?srsltid=AfmBOorToclJrqBRev9NhMd-XIcQw3dI2Eggm17MH8Ozacb8SW2adSgm",
+      "url": "https://www.framebridge.com/collections/shop-all-frames?srsltid=AfmBOorIvEoSSeDHbViP5Z8Ruz4EEk9_fqIr3KlXOc-1B1jobwVcK-oZ",
       "title": "Shop All Frames",
       "is_americanflat": false
     },
     {
-      "position": 7,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/picture-frames/s?k=picture+frames",
-      "title": "Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
-      "domain": "www.photographandframe.com",
-      "url": "https://www.photographandframe.com/",
-      "title": "Photograph & Frame",
-      "is_americanflat": false
-    },
-    {
-      "position": 10,
+      "position": 6,
       "domain": "www.ikea.com",
       "url": "https://www.ikea.com/us/en/cat/picture-photo-frames-18746/",
       "title": "Picture Frames for Photos - Art & Poster Frames",
       "is_americanflat": false
     },
     {
+      "position": 7,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames",
+      "title": "Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/picture-frames/s?k=picture+frames",
+      "title": "Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 9,
+      "domain": "keepsakeframes.com",
+      "url": "https://keepsakeframes.com/us/frames/?srsltid=AfmBOopvErs-FJTfO6qTbrjyhlhjtlqaCXbyXLWuW3bpwGev1edKZxNp",
+      "title": "Browse Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
+      "domain": "www.artifactuprising.com",
+      "url": "https://www.artifactuprising.com/frames?srsltid=AfmBOopRe00A2-3kxO5VkDsXez7BCWfSItH87P8kSrWbl6cB4cdxDhGK",
+      "title": "Photo Prints & Frames | Print & Frame Your Photos Online",
+      "is_americanflat": false
+    },
+    {
       "position": 11,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/all-frames?srsltid=AfmBOorwstJmayyK2z6xAzKuYm_UCK0ph49XO4Wx7mOEbMeWZwpIjGhO",
-      "title": "All Frames",
+      "domain": "www.scoutandnimble.com",
+      "url": "https://www.scoutandnimble.com/categories/home-accents-and-decor/decor/frames?srsltid=AfmBOorLJ4xvwBWp98xc_Ya0lFLSdusAYW_xjOt0GleWLglz21QWKpo2",
+      "title": "Picture Frames & Photo Display",
       "is_americanflat": false
     },
     {
       "position": 12,
-      "domain": "keepsakeframes.com",
-      "url": "https://keepsakeframes.com/us/frames/?srsltid=AfmBOopKaB0HUic78VQ0yTEpLWnIACJewxQNDFMu-JfmEX9pZ9trPrkd",
-      "title": "Browse Frames",
+      "domain": "www.bedbathandbeyond.com",
+      "url": "https://www.bedbathandbeyond.com/c/home-decor/picture-frames-albums?t=28416",
+      "title": "Picture Frames and Albums",
       "is_americanflat": false
     }
   ],
@@ -67,58 +74,58 @@
     },
     {
       "position": 3,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/collections/4x6-picture-frames?srsltid=AfmBOoozdNSKv7yKtf-H9507uNjlIhYB4nUqUCDBiV4QJm71GPG_K6FW",
-      "title": "4x6 Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 4,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/4x6-frames",
-      "title": "4x6 Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/4x6-picture-frames/s?k=4x6+picture+frames",
       "title": "4x6 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 6,
-      "domain": "www.target.com",
-      "url": "https://www.target.com/s/photo+frames+4x6",
-      "title": "Picture Frames for 4x6 Photos",
+      "position": 4,
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/collections/4x6-picture-frames?srsltid=AfmBOopMzPtfVmT7EaHixsI-DF-nIPZLhxZGL3NrtCQSzy_5BgXH6b0Z",
+      "title": "4x6 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 8,
+      "position": 5,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/4x6-frames",
+      "title": "4x6 Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 6,
+      "domain": "www.crateandbarrel.com",
+      "url": "https://www.crateandbarrel.com/4x6-frame",
+      "title": "4x6 Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
       "domain": "www.athome.com",
       "url": "https://www.athome.com/4x6-frames/",
       "title": "4x6 Picture Frames | At Home",
       "is_americanflat": false
     },
     {
-      "position": 10,
-      "domain": "www.pinterest.com",
-      "url": "https://www.pinterest.com/ideas/4x6-frame-ideas/938602818503/",
-      "title": "4x6 Frame Ideas",
+      "position": 8,
+      "domain": "www.target.com",
+      "url": "https://www.target.com/s/photo+frames+4x6",
+      "title": "Picture Frames for 4x6 Photos",
       "is_americanflat": false
     },
     {
-      "position": 11,
-      "domain": "www.pfile.com",
-      "url": "https://www.pfile.com/prod_detail_list/4x6-Picture-Frames?srsltid=AfmBOoodR7ImNEHL2lYANNnpfpEm488c-g1YoGPz22jzZbT-sRFdrUoY",
-      "title": "4x6 Picture Frames – Bulk Orders",
-      "is_americanflat": false
-    },
-    {
-      "position": 12,
+      "position": 9,
       "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/0d4ff356408a43329393fbfce4ce0334",
-      "title": "Watch 4x6 picture frames photo frames solid wood on Amazon ...",
+      "url": "https://www.amazon.com/picture-frames-4x6/s?k=picture+frames+4x6",
+      "title": "Picture Frames 4x6",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
+      "domain": "www.hobbylobby.com",
+      "url": "https://www.hobbylobby.com/c/dc-4x6-frames?srsltid=AfmBOopZlkBg4-SaVSAcTkGRcA9fCMZ_tcmbjMr14nzTeIiC33RZu_S4",
+      "title": "4x6 Picture Frames",
       "is_americanflat": false
     }
   ],
@@ -126,7 +133,7 @@
     {
       "position": 3,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/16x16_picture_frames?srsltid=AfmBOoriaiLGC96hZ8OauYW3ts0_3Oh3sDmMcQag04LI8z5PEQ6emFED",
+      "url": "https://www.arttoframe.com/16x16_picture_frames?srsltid=AfmBOoqEIA4nnnUUWREQXttdXneIud81wTaaU1oLG0G_9zatpXg-QLJM",
       "title": "16x16 Picture Frames, 16x16 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
@@ -146,95 +153,88 @@
     },
     {
       "position": 7,
-      "domain": "pitmanphotosupply.com",
-      "url": "https://pitmanphotosupply.com/printing/16-x-16-square/2237?variation=2940726&srsltid=AfmBOorNu03au6j12lhP_xzManyu3BrBB1VtEe2OzxjtO2JdEQZP1zS_",
-      "title": "16 x 16 Square",
+      "domain": "math.answers.com",
+      "url": "https://math.answers.com/other-math/What_is_the_answer_to_16x16",
+      "title": "What is the answer to 16x16?",
       "is_americanflat": false
     },
     {
       "position": 8,
+      "domain": "pitmanphotosupply.com",
+      "url": "https://pitmanphotosupply.com/printing/16-x-16-square/2237?variation=2940726&srsltid=AfmBOoqD47cFw4INDvnq8AkmvFD122xNTs4pUWNsHtUPBk-UIV8-vwuE",
+      "title": "16 x 16 Square",
+      "is_americanflat": false
+    },
+    {
+      "position": 9,
+      "domain": "www.tovphotography.com",
+      "url": "https://www.tovphotography.com/product-page/9-boxes-16x16-inch-frame",
+      "title": "9 Boxes 16x16 inch Frame",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
+      "domain": "www.tiktok.com",
+      "url": "https://www.tiktok.com/@chemistry360/video/7382784596531744008",
+      "title": "Mastering Multiplication: Learn How to Multiply 16 x 16",
+      "is_americanflat": false
+    },
+    {
+      "position": 12,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/live/video/0944b57656b042a6ba03f10b24047f97",
       "title": "Watch Review of 16x16 Picture Frame Set of 3 Oak on ...",
       "is_americanflat": false
     },
     {
-      "position": 9,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/product/arttoframes-16x16-inch-picture-frame-this-125-inch-custom-wood-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-regular-glass-and-corrugated-backing-a17ls-158304608740458503",
-      "title": "ArtToFrames 16x16 Inch Picture Frame, ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 10,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/16x16-frames?srsltid=AfmBOoq8_ea1_uQtJQEOQCVTgnNIfe3xvaR_gxuBNPjMfhcNc9_Z6DTm",
-      "title": "Shop 16x16 Picture Frames",
-      "is_americanflat": true
-    },
-    {
-      "position": 11,
+      "position": 13,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=jXmV-NepcjI",
       "title": "How to multiply 16 x 16 × 16 without a calculator||2 Digit by 2 ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 12,
-      "domain": "www.tiktok.com",
-      "url": "https://www.tiktok.com/@chemistry360/video/7382784596531744008",
-      "title": "Mastering Multiplication: Learn How to Multiply 16 x 16",
       "is_americanflat": false
     }
   ],
   "16x20 frame": [
     {
-      "position": 2,
+      "position": 3,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/16x20_picture_frames?srsltid=AfmBOoocsoAAaLIzBz1Jlfg5LZ5xrjmDJdjEaElFxMJsZDH70yvVllyN",
+      "url": "https://www.arttoframe.com/16x20_picture_frames?srsltid=AfmBOorYlXfxaF1tSNoKpuMpGQrZsz3KZRDdNPYcdSw_vE8SMaZVvwFh",
       "title": "16x20 Picture Frames, 16x20 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
-      "position": 3,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/16x20-picture-frames?srsltid=AfmBOoqqEqdZ_Dbfo8AZeiGC3ldY7Unwh0Jl-JMtrtLndHe0JzrxVG1x",
-      "title": "Shop 16x20 Picture Frames",
-      "is_americanflat": true
+      "position": 4,
+      "domain": "www.hobbylobby.com",
+      "url": "https://www.hobbylobby.com/c/dc-16x20-frames?srsltid=AfmBOopU3WrvdJEZ-0sNPmeBV164ChHMYDtkT8rFI2JWEMvyeqtxEf5Y",
+      "title": "16x20 Picture Frames",
+      "is_americanflat": false
     },
     {
-      "position": 4,
+      "position": 6,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/Photo-Frame-16x20/s?k=Photo+Frame+16x20",
       "title": "Photo Frame 16x20",
       "is_americanflat": false
     },
     {
-      "position": 5,
+      "position": 8,
       "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/16x20-picture-frames?srsltid=AfmBOoprd_IuyENVz8nC0A9LyGdL1lfelj9KONzpWYXXVj5owSDLKHod",
+      "url": "https://www.pictureframes.com/custom-framing/16x20-picture-frames?srsltid=AfmBOorZH70fXddwp8d4FZZ9w-gse9KV5Seh0qlhadtI6e1xgdQ0hbe7",
       "title": "16\" x 20\" Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 6,
+      "position": 9,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=4RUV89zrIPc",
       "title": "16x20 Frame with Plexiglass Review & Unboxing 4K",
       "is_americanflat": false
     },
     {
-      "position": 7,
-      "domain": "www.hobbylobby.com",
-      "url": "https://www.hobbylobby.com/c/dc-16x20-frames?srsltid=AfmBOopOFzxbr_VkD97IqUFYVj7CCN9sEqo9YHFIcTddVq1a6xJtLVsY",
-      "title": "16\" x 20\" Frames (27)",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/0a4eaa80ee624a2dba84d108e2317ef2",
-      "title": "Watch This 16 X 20 black frame is a classic! on Amazon Live",
+      "position": 10,
+      "domain": "www.walgreens.com",
+      "url": "https://www.walgreens.com/store/c/modern-expressions-photo-frame-16x20-inches/ID=300459121-product",
+      "title": "Modern Expressions Photo Frame 16x20 Inches Black",
       "is_americanflat": false
     },
     {
@@ -245,10 +245,17 @@
       "is_americanflat": false
     },
     {
+      "position": 12,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=cpqkobJ4QLs",
+      "title": "KAOIKO 16x20 Picture Frame Review - Solid Wood Display",
+      "is_americanflat": false
+    },
+    {
       "position": 13,
-      "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/ip/Mainstays-16x20-Basic-Black-Poster-Frame/1675382227",
-      "title": "Mainstays – 16x20 Picture Frame – Black Flat Profile Wall ...",
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/live/video/0faf09630f2c4a3da2a66620dacefc6b",
+      "title": "Watch 16x20 Walnut Wooden Picture Frames on Amazon Live",
       "is_americanflat": false
     }
   ],
@@ -256,23 +263,74 @@
     {
       "position": 2,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/16x20_picture_frames?srsltid=AfmBOor5IxINwuWV1JuKUrXP4Eyy_z7iHHZBJOH6Sm7yv29-vARmepzS",
+      "url": "https://www.arttoframe.com/16x20_picture_frames?srsltid=AfmBOorDdmoF67MbtNmziwWxXudmeUCP7rMW5TFKMF0mFUjqnq0W1Hfn",
       "title": "16x20 Picture Frames, 16x20 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
       "position": 3,
       "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/16x20-picture-frames?srsltid=AfmBOorhTSHu71YB3G1Ar6fEzE-pl-9AHFlnvtfpl7kvvufYrYS6-u6I",
+      "url": "https://www.pictureframes.com/custom-framing/16x20-picture-frames?srsltid=AfmBOoql3y56ddnJnYTpRQFFCrj6kRM9AbVkfN1-VdCTlAgAeB3EmIiG",
       "title": "16\" x 20\" Picture Frames",
       "is_americanflat": false
     },
     {
+      "position": 4,
+      "domain": "www.hobbylobby.com",
+      "url": "https://www.hobbylobby.com/c/dc-16x20-frames?srsltid=AfmBOoo_I_gECfJWZosUzzFwFlP-uyFgV9F2hzdX8-Ar6-FRNGKuxthi",
+      "title": "16x20 Picture Frames",
+      "is_americanflat": false
+    },
+    {
       "position": 5,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/CraigFrames/page/98C548AC-12F4-4CDA-BDF4-6816A8EF5925",
+      "title": "Craig Frames: 16x20 Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
       "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/16x20-picture-frames?srsltid=AfmBOopC6vSsDKGE9MvkJnbnalN21KaBcnlW_gqZqbDzSx0fnPFH7sHJ",
+      "url": "https://americanflat.com/collections/16x20-picture-frames?srsltid=AfmBOoqYN7bszPi0E7llhyw9LwsiJ8MAfEHfdzRawZijfTwqvqp_TwWh",
       "title": "Shop 16x20 Picture Frames",
       "is_americanflat": true
+    },
+    {
+      "position": 11,
+      "domain": "frameology.com",
+      "url": "https://frameology.com/collections/16x20-picture-frames?srsltid=AfmBOopRlm0MHfUVzoMpoFI-oUul0Qip0Ykue3LH4Z7D1qAlKBdlBOVS",
+      "title": "16x20 Picture Frames | Online framing service",
+      "is_americanflat": false
+    },
+    {
+      "position": 12,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/16x20-frames",
+      "title": "16x20 Picture Frames",
+      "is_americanflat": false
+    }
+  ],
+  "pictures frames 16x20": [
+    {
+      "position": 2,
+      "domain": "frameology.com",
+      "url": "https://frameology.com/collections/16x20-picture-frames?srsltid=AfmBOoooUOuivVFTX6iyF9Ri5NrJsW02T58oyzJG0qIvgKIEpWcXRD6g",
+      "title": "16x20 Picture Frames | Online framing service",
+      "is_americanflat": false
+    },
+    {
+      "position": 4,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/16x20_picture_frames?srsltid=AfmBOoqLkp5uGg22UVHjVT1xDOmnts4DWOywi8tZfN_z6JshcOxdHDFD",
+      "title": "16x20 Picture Frames, 16x20 Poster Frames - ArtToFrame",
+      "is_americanflat": false
+    },
+    {
+      "position": 5,
+      "domain": "www.hobbylobby.com",
+      "url": "https://www.hobbylobby.com/c/dc-16x20-frames?srsltid=AfmBOorjCbbLJ8SpPEEpDI5t6hQSy-PFkg9r3J2ahVIo7YF_nGf_D69L",
+      "title": "16x20 Picture Frames",
+      "is_americanflat": false
     },
     {
       "position": 6,
@@ -282,53 +340,9 @@
       "is_americanflat": false
     },
     {
-      "position": 10,
-      "domain": "goldenstateart.com",
-      "url": "https://goldenstateart.com/collections/picture-frames-size-16x20?srsltid=AfmBOopE4twYH0Y4_pry5I9R0j27DCBNZJjbJL_qzFRHatyo8KmvYaAB",
-      "title": "Picture Frames Size 16x20",
-      "is_americanflat": false
-    },
-    {
-      "position": 11,
-      "domain": "www.hobbylobby.com",
-      "url": "https://www.hobbylobby.com/c/dc-16x20-frames?srsltid=AfmBOoqJ7aiido8tJGxZaV1Ly5Mcqq9WlNUVv1OcjuL7cVzBucd9hIXN",
-      "title": "16\" x 20\" Frames (27)",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "www.target.com",
-      "url": "https://www.target.com/s/modern+16x20+frames",
-      "title": "Modern 16x20 Frames | Oak, Metal, MDF Designs",
-      "is_americanflat": false
-    }
-  ],
-  "pictures frames 16x20": [
-    {
-      "position": 3,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/16x20-picture-frames?srsltid=AfmBOopTAQnSlfbm6yMAs-zIuc2NX5SRthtSqLHmiDbL3jWmK4g6juhG",
-      "title": "Shop 16x20 Picture Frames",
-      "is_americanflat": true
-    },
-    {
-      "position": 4,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/16x20_picture_frames?srsltid=AfmBOorCrVomEYwOq8bqIeMrcchUDC9qmDWm7d-exT5emhFnwrqX0Mru",
-      "title": "16x20 Picture Frames, 16x20 Poster Frames - ArtToFrame",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
-      "domain": "frameology.com",
-      "url": "https://frameology.com/collections/16x20-picture-frames?srsltid=AfmBOordJXLGHdqQYe5c3zOi5ACyxfTetnt4BZ8DAIolNDEn7ictfMhh",
-      "title": "16x20 Picture Frames | Online framing service",
-      "is_americanflat": false
-    },
-    {
       "position": 7,
       "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/16x20-picture-frames?srsltid=AfmBOooVYPeO1hBa21NcaQPVZyXbumCPBc8daJmaq3klJb7SkS5G1idp",
+      "url": "https://www.pictureframes.com/custom-framing/16x20-picture-frames?srsltid=AfmBOooTNz2A9rNOVxIG4zx-QUwmjK4iwZdnudsHbMoc3xh5HGm94_Th",
       "title": "16\" x 20\" Picture Frames",
       "is_americanflat": false
     },
@@ -340,103 +354,89 @@
       "is_americanflat": false
     },
     {
-      "position": 9,
+      "position": 11,
       "domain": "www.michaels.com",
       "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/16x20-frames",
       "title": "16x20 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 10,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=1diHfJmOLCQ",
-      "title": "how to frame a picture | framing a 16x20 picture",
-      "is_americanflat": false
-    },
-    {
-      "position": 11,
-      "domain": "www.ikea.com",
-      "url": "https://www.ikea.com/us/en/cat/picture-photo-frames-18746/",
-      "title": "Picture Frames for Photos - Art & Poster Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 12,
-      "domain": "www.hobbylobby.com",
-      "url": "https://www.hobbylobby.com/c/dc-16x20-frames?srsltid=AfmBOopccmiMJ40v9tbHMwaPL1EFoC0LjPUl9Q6Q1wdDo2YSaQ3ocBN7",
-      "title": "16\" x 20\" Frames (27)",
-      "is_americanflat": false
+      "position": 13,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/16x20-picture-frames?srsltid=AfmBOoowAwXME049yARF-bhT-XV6-nQNkscuh5kpVS_jeplfOaddEBXI",
+      "title": "Shop 16x20 Picture Frames",
+      "is_americanflat": true
     }
   ],
   "16 x 16": [
     {
-      "position": 2,
+      "position": 1,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/16x16_picture_frames?srsltid=AfmBOopV56i5DvglR_Q6ks7ObN0fXwVSXS6I4L2iyLU6BE31JZiKkHxc",
+      "url": "https://www.arttoframe.com/16x16_picture_frames?srsltid=AfmBOoodneW9jGU42kbjN3TebmrgmpF7HYW-ACdF9kfV5zzjNAnurXEe",
       "title": "16x16 Picture Frames, 16x16 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
-      "position": 3,
-      "domain": "www.nationsphotolab.com",
-      "url": "https://www.nationsphotolab.com/products/prints-16x16?srsltid=AfmBOooSU7Zz6-zxsxAsaP9P0s_mYRTXdfwxy6y0eBhuStJDK_IV3AAB",
-      "title": "Shop 16x16 Size Photo Prints",
-      "is_americanflat": false
-    },
-    {
-      "position": 4,
-      "domain": "math.answers.com",
-      "url": "https://math.answers.com/other-math/What_is_the_answer_to_16x16",
-      "title": "What is the answer to 16x16?",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/0944b57656b042a6ba03f10b24047f97",
-      "title": "Watch Review of 16x16 Picture Frame Set of 3 Oak on ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 6,
+      "position": 2,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/16x16-frame/s?k=16x16+frame",
       "title": "16x16 Frame",
       "is_americanflat": false
     },
     {
-      "position": 7,
-      "domain": "www.tiktok.com",
-      "url": "https://www.tiktok.com/@chemistry360/video/7382784596531744008",
-      "title": "Mastering Multiplication: Learn How to Multiply 16 x 16",
+      "position": 3,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/live/video/0944b57656b042a6ba03f10b24047f97",
+      "title": "Watch Review of 16x16 Picture Frame Set of 3 Oak on ...",
       "is_americanflat": false
     },
     {
-      "position": 8,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=jXmV-NepcjI",
-      "title": "How to multiply 16 x 16 × 16 without a calculator||2 Digit by 2 ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
-      "domain": "pitmanphotosupply.com",
-      "url": "https://pitmanphotosupply.com/printing/16-x-16-square/2237?variation=2940726&srsltid=AfmBOopD4GWqG6tncui1NPG0EpU1Lsf8EvTBhAw9q5H6CERLQgJTgXQo",
-      "title": "16 x 16 Square",
-      "is_americanflat": false
-    },
-    {
-      "position": 10,
+      "position": 4,
       "domain": "www.walmart.com",
       "url": "https://www.walmart.com/c/kp/16x16-frame",
       "title": "16x16 Frames for Photos and Art",
       "is_americanflat": false
     },
     {
-      "position": 11,
-      "domain": "www.reddit.com",
-      "url": "https://www.reddit.com/r/learnmath/comments/9imy0k/how_much_is_16x16_multiplied_another_16_times/",
-      "title": "How much is 16x16 multiplied another 16 times?",
+      "position": 5,
+      "domain": "math.answers.com",
+      "url": "https://math.answers.com/other-math/What_is_the_answer_to_16x16",
+      "title": "What is the answer to 16x16?",
+      "is_americanflat": false
+    },
+    {
+      "position": 6,
+      "domain": "pitmanphotosupply.com",
+      "url": "https://pitmanphotosupply.com/printing/16-x-16-square/2237?variation=2940726&srsltid=AfmBOopnS-YBVA1ooyO8iMQSplV9Ao4OWeIG-vmQ93N1KeI8SpV5TIFd",
+      "title": "16 x 16 Square",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
+      "domain": "www.tovphotography.com",
+      "url": "https://www.tovphotography.com/product-page/9-boxes-16x16-inch-frame",
+      "title": "9 Boxes 16x16 inch Frame",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/16x16-frames?srsltid=AfmBOopPPcAnQMt3iTlTru-XGBSXNNwur7nSpifak1KLfQ4pQfccRYd_",
+      "title": "Shop 16x16 Picture Frames",
+      "is_americanflat": true
+    },
+    {
+      "position": 9,
+      "domain": "www.smallwoodhome.com",
+      "url": "https://www.smallwoodhome.com/collections/size-16-x-16?srsltid=AfmBOorkVilNOG9-s1TD49KuQdHbU6KRyI6aU8CTDt4E9bEk5m3QXO2b",
+      "title": "16x16 Wood Framed Canvas Prints",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
+      "domain": "www.homedepot.com",
+      "url": "https://www.homedepot.com/b/Home-Decor-Frames-Albums-Picture-Frames/16-x-16/N-5yc1vZcf9mZ1z1s0a6",
+      "title": "16\" x 16\" - Picture Frames",
       "is_americanflat": false
     }
   ],
@@ -444,156 +444,149 @@
     {
       "position": 2,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/16x20_picture_frames?srsltid=AfmBOoqVmpwuc9IN3yr1MdlR1Qdg4p3whGtDVYIQ3pUA0aXuf4KwfHB7",
+      "url": "https://www.arttoframe.com/16x20_picture_frames?srsltid=AfmBOoppV70JfZY4bG4jZz_FPudy0lw6K2rAKiCaH6Q-CqaG85o4PEH7",
       "title": "16x20 Picture Frames, 16x20 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
       "position": 3,
       "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/16x20-picture-frames?srsltid=AfmBOoo6i_J9qiRjjpGZXKwUdBNL-pXHqNpTYCI98qXkZt_-EnMV1PIU",
+      "url": "https://www.pictureframes.com/custom-framing/16x20-picture-frames?srsltid=AfmBOor3_R08vhmHMabdXUeyoVpgmHBXtoNMWkELdSM9-uiUeRLL2IuP",
       "title": "16\" x 20\" Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 6,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/16x20-picture-frames?srsltid=AfmBOooFGhlhKrzQqHgeKf8x95VUhNU8z69o2HuEKX5Hvo60Id5iYXJl",
-      "title": "Shop 16x20 Picture Frames",
-      "is_americanflat": true
-    },
-    {
-      "position": 7,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/16x20-frames",
+      "domain": "www.hobbylobby.com",
+      "url": "https://www.hobbylobby.com/c/dc-16x20-frames?srsltid=AfmBOopKFhTlutKtZDQTkPLfueDDY3-D_rJtr-uJWc_fpi9CkogWY0ko",
       "title": "16x20 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 9,
+      "position": 7,
+      "domain": "frameology.com",
+      "url": "https://frameology.com/collections/16x20-picture-frames?srsltid=AfmBOorYdopw9VtKuxNaAlwvyGcFbi9aOicpNAdbjTLHohsEmkh42CRr",
+      "title": "16x20 Picture Frames | Online framing service",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/stores/CraigFrames/page/98C548AC-12F4-4CDA-BDF4-6816A8EF5925",
       "title": "Craig Frames: 16x20 Frames",
       "is_americanflat": false
     },
     {
+      "position": 9,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/16x20-frames",
+      "title": "16x20 Picture Frames",
+      "is_americanflat": false
+    },
+    {
       "position": 10,
-      "domain": "goldenstateart.com",
-      "url": "https://goldenstateart.com/collections/picture-frames-size-16x20?srsltid=AfmBOoqRFRvzhrC8LYKro9xL_Prk1MmIwcAr7FVa4CLHPkikHoDyp57d",
-      "title": "Picture Frames Size 16x20",
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=cpqkobJ4QLs",
+      "title": "KAOIKO 16x20 Picture Frame Review - Solid Wood Display",
       "is_americanflat": false
     },
     {
       "position": 11,
-      "domain": "www.hobbylobby.com",
-      "url": "https://www.hobbylobby.com/c/dc-16x20-frames?srsltid=AfmBOooqoLIeyfjLqWTylzNkJnmVF0gQzG5PCpJcd29I6uI6oizxwyj6",
-      "title": "16\" x 20\" Frames (27)",
-      "is_americanflat": false
-    },
-    {
-      "position": 12,
-      "domain": "frameology.com",
-      "url": "https://frameology.com/collections/16x20-picture-frames?srsltid=AfmBOoqV2piVeZxmQ4bifjcdd_mzJ2xlI_FAsKxntvNreFgVY6Be-69F",
-      "title": "16x20 Picture Frames | Online framing service",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=cpqkobJ4QLs",
-      "title": "KAOIKO 16x20 Picture Frame Review - Solid Wood Display",
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/live/video/0faf09630f2c4a3da2a66620dacefc6b",
+      "title": "Watch 16x20 Walnut Wooden Picture Frames on Amazon Live",
       "is_americanflat": false
     }
   ],
   "11 x 14 frame": [
     {
+      "position": 1,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/upsimples-Picture-Display-Pictures-Without/dp/B0BQR2BQYZ",
+      "title": "upsimples 11x14 Picture Frame, Display Pictures 8x10 ...",
+      "is_americanflat": false
+    },
+    {
       "position": 2,
       "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/11x14-picture-frames?srsltid=AfmBOoq6q8SE8nSxkvqdEjnfTOY2cFWAjNMkqg0DQ16aqx-tnmdpkbci",
+      "url": "https://www.pictureframes.com/custom-framing/11x14-picture-frames?srsltid=AfmBOoouGReugyRDaKXujzf28FqbiX2UBOy_BDwzIJ-h4TBFJJc11TVD",
       "title": "11\" x 14\" Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 3,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/11x14-frames?srsltid=AfmBOooSPxJAXqjJUkEXOoC5FjPAnna7Kt095Jnc_ujLPdp2Q2m622Cf",
-      "title": "Shop 11x14 Picture Frames",
-      "is_americanflat": true
-    },
-    {
       "position": 4,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/11x14-frames",
-      "title": "11x14 Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOoq380UFXuMaKkAU2lOZiouihfsEzPCD8yEGutiJUV9-7_bPPOX0",
+      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOorXG2vEllCfjzKjuRhHX3fHmJ_XD-U051OqqiSWNOTcd3idwMn0",
       "title": "11x14 Picture Frames, 11x14 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
-      "position": 7,
-      "domain": "www.hobbylobby.com",
-      "url": "https://www.hobbylobby.com/c/dc-11x14-frames?srsltid=AfmBOoo5Dv7-Cr2_27M5vwPdF8QD1dfHc1F7zT60Ut-XvL1cXzU8WsPv",
-      "title": "11\" x 14\" Frames (60)",
+      "position": 5,
+      "domain": "www.dollartree.com",
+      "url": "https://www.dollartree.com/picture-frames/11x14-picture-frames",
+      "title": "11x14 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 9,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/11x14-picture-frame/s?k=11x14+picture+frame",
-      "title": "11x14 Picture Frame",
+      "position": 8,
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/collections/11x14-picture-frames?srsltid=AfmBOooj2suG5KqbTk_yM0Cz0n8gXEbSi4AU6xhHSrp22w7fn-CvV63z",
+      "title": "11x14 Picture Frame with Mat",
       "is_americanflat": false
     },
     {
       "position": 10,
+      "domain": "www.target.com",
+      "url": "https://www.target.com/s/11+x+14+photo+frame+wall",
+      "title": "11 x 14 photo frame wall",
+      "is_americanflat": false
+    },
+    {
+      "position": 12,
+      "domain": "frameamo.com",
+      "url": "https://frameamo.com/blogs/how-tos-and-tutorials/11x14-frame-sizing-guide-how-to-mat-and-display-your-11x14-or-smaller-artwork?srsltid=AfmBOooh83iFXKSkuzLpJssVZyyXuIqf3W_AtHtLmuH4EZF0AChwx4ZF",
+      "title": "11x14 Frame Sizing Guide: How to Mat and Display Your ...",
+      "is_americanflat": false
+    },
+    {
+      "position": 13,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=nLnzH_jEib8",
       "title": "Gorgeous 11x14 Wooden Matted Picture Frame!",
       "is_americanflat": false
     },
     {
-      "position": 12,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/0f19e751a6a84a9bbbec1d257e19d113",
-      "title": "Watch Review- Upsimples 11x14 Picture Frame Set of 5 ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "www.crateandbarrel.com",
-      "url": "https://www.crateandbarrel.com/decorating-and-accessories/frames/1/filters/11-x-14-92",
-      "title": "11\" x 14\" Picture Frames",
+      "position": 14,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/11x14-frames",
+      "title": "11x14 Picture Frames",
       "is_americanflat": false
     }
   ],
   "11x14 frames": [
     {
       "position": 2,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOoqyVyAWECzZOIe_4u_wzyE_yktfksfDlDbQfEjH-grJj4V5IMBO",
+      "title": "11x14 Picture Frames, 11x14 Poster Frames - ArtToFrame",
+      "is_americanflat": false
+    },
+    {
+      "position": 3,
       "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/11x14-frames?srsltid=AfmBOopigDAj7_0u7MQQL-UJtGO-TQHRQcf-AEkI4b7q7SBKfnK54vTa",
+      "url": "https://americanflat.com/collections/11x14-frames?srsltid=AfmBOoocCqgf1SklzXClOQV_CBhvlo9JSU2TueKErOkHccoSencZrnAV",
       "title": "Shop 11x14 Picture Frames",
       "is_americanflat": true
     },
     {
-      "position": 3,
+      "position": 4,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/upsimples-Picture-Display-Pictures-Without/dp/B0BQR2BQYZ",
       "title": "upsimples 11x14 Picture Frame, Display Pictures 8x10 with ...",
       "is_americanflat": false
     },
     {
-      "position": 4,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/11x14-picture-frames?srsltid=AfmBOor0EVuv6FgCLQj-eiqBmaDYCMwyR5QEJOdHHWxrlepuiKDTymUN",
-      "title": "11\" x 14\" Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 6,
+      "position": 5,
       "domain": "www.dollartree.com",
       "url": "https://www.dollartree.com/picture-frames/11x14-picture-frames",
       "title": "11x14 Picture Frames",
@@ -601,67 +594,67 @@
     },
     {
       "position": 7,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOopTArVp_fg_xTRu8yKkxfliZ3mqwNLR7c2BaGapKRIMS-nAFUhg",
-      "title": "11x14 Picture Frames, 11x14 Poster Frames - ArtToFrame",
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/11x14-picture-frames?srsltid=AfmBOorXhAfaAv8U9WrctAcWFsrYxndOiw1pTDg-FPQ-qKX8yNaMEXvh",
+      "title": "11\" x 14\" Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 8,
+      "domain": "www.hobbylobby.com",
+      "url": "https://www.hobbylobby.com/c/dc-11x14-frames?srsltid=AfmBOop9bh39cIG_o-B25VlhAVTTV-ZjBVbZ5SUl9jz0DIbIzKFdnLCb",
+      "title": "11x14 Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 9,
       "domain": "www.michaels.com",
       "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/11x14-frames",
       "title": "11x14 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 9,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/stores/MatBoardCenter/page/43FC5B40-FCD8-4CED-B59B-174B0DD751A7",
-      "title": "Mat Board Center: 11x14 Frames",
-      "is_americanflat": false
-    },
-    {
       "position": 10,
-      "domain": "goldenstateart.com",
-      "url": "https://goldenstateart.com/collections/picture-frames-size-11x14?srsltid=AfmBOopoDTimTmTG_4I4o2hExrY-9fLliYgI3S7cKjqxXvThqOySaqYe",
-      "title": "Picture Frames Size 11x14",
+      "domain": "www.target.com",
+      "url": "https://www.target.com/s/11+x+14+photo+frame+wall",
+      "title": "11 x 14 photo frame wall",
       "is_americanflat": false
     },
     {
-      "position": 12,
-      "domain": "www.hobbylobby.com",
-      "url": "https://www.hobbylobby.com/c/dc-11x14-frames?srsltid=AfmBOorLQE4LbfpU0eItGlbwN9-h_dFNV1Od4d48zxcBWMxP7EkxZe8y",
-      "title": "11\" x 14\" Frames (60)",
+      "position": 13,
+      "domain": "goldenstateart.com",
+      "url": "https://goldenstateart.com/collections/picture-frames-size-11x14?srsltid=AfmBOopLp2jyMUkewMwj-ElG8aXzOZutyXUyvlQZYv1qg6rAjQXQ02IB",
+      "title": "Picture Frames Size 11x14",
       "is_americanflat": false
     }
   ],
   "18 x 24 in frame": [
     {
       "position": 2,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOoo36-kBeZJrlDNq3DDcIEoXqkKGKCNrle2_iyZUae0JpIU52u2b",
-      "title": "18\" x 24\" Picture Frames",
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOoopJnQqV4R1Q5BXn76fZwiFo84anTXSK4vmIZL_BSwQmai8IlS5",
+      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
       "position": 3,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOoqpy4U98p1SjeegOxTay6Q1_EG-YBTVANw99BLwMl8QULRPYXxp",
+      "title": "Shop 18x24 Picture Frames",
+      "is_americanflat": true
+    },
+    {
+      "position": 4,
       "domain": "www.michaels.com",
       "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
       "title": "18x24 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 4,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOoqVO8CB0TbU0kmMtTQ9YEG0wazlGt7atZ13DQFdUKl8rF4GN2jB",
-      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
-      "is_americanflat": false
-    },
-    {
       "position": 5,
       "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/LUCKYLIFE-18x24-Frame-Gallery-Mounting/dp/B0BLMTVK8P",
-      "title": "LUCKYLIFE 18x24 Frame in Black, Gallery Frame for Wall ...",
+      "url": "https://www.amazon.com/stores/Americanflat/page/E99BE036-821C-437C-B9F8-BE9B691F4C74",
+      "title": "Americanflat: 18x24",
       "is_americanflat": false
     },
     {
@@ -672,51 +665,51 @@
       "is_americanflat": false
     },
     {
-      "position": 7,
-      "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/browse/home/18x24-frames/4044_133012_672579_7340945",
-      "title": "18x24 Frames in Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
+      "position": 8,
       "domain": "www.target.com",
       "url": "https://www.target.com/s/frames+18x24",
       "title": "18x24 Picture Frames | Oak, Metal, Black Wooden",
       "is_americanflat": false
     },
     {
+      "position": 10,
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOorUhCVdlJttqAgybxqtAZ7pdpNwh4Pqzunkds7kxJ6NivCL0rGP",
+      "title": "18x24 Picture Frames",
+      "is_americanflat": false
+    },
+    {
       "position": 12,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/stores/Americanflat/page/E99BE036-821C-437C-B9F8-BE9B691F4C74",
-      "title": "Americanflat: 18x24",
+      "domain": "www.walmart.com",
+      "url": "https://www.walmart.com/browse/photo-center/18x24-frames/5426_672579_7340945",
+      "title": "18x24 Frames in Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 13,
-      "domain": "www.instagram.com",
-      "url": "https://www.instagram.com/reel/C_ibloag0mu/",
-      "title": "Awesome way to fill the wall in a big way! 18x24 poster frame ...",
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOoqOfCMdCBhtRl6Bv9wBp7Oc7fwlRJHlqfECwSZffijtjNKHC5uU",
+      "title": "18\" x 24\" Picture Frames",
       "is_americanflat": false
     }
   ],
   "18 in by 24 in frame": [
     {
       "position": 2,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOopDc1Xn4VtmKZqbk-6s40-BLobgNXqHrlZAeuMU8SaC43x22gjf",
-      "title": "18\" x 24\" Picture Frames",
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOopQluRM9Pk6Meu0EEj3P9MEKTpw90Du2t974cANgCtySh25fh3p",
+      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
       "position": 3,
-      "domain": "www.framedestination.com",
-      "url": "https://www.framedestination.com/ctg/picture-frames/size/18x24?srsltid=AfmBOooEVa_J5y62oyckSwTqNA8YnYT2X5jRYg0RD9yCA-O5-TWRMULX",
-      "title": "18 x 24 Picture Frames & Poster Frames",
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOoqGoHWscyziEGT1ijzt4ADW08UM1Qz3IL-PrFElSXJ4_a0XoHyG",
+      "title": "18x24 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 5,
+      "position": 4,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/24x18-frame/s?k=24x18+frame",
       "title": "24x18 Frame",
@@ -724,51 +717,51 @@
     },
     {
       "position": 6,
-      "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/browse/home/18x24-frames/4044_133012_672579_7340945",
-      "title": "18x24 Frames in Picture Frames",
+      "domain": "www.framedestination.com",
+      "url": "https://www.framedestination.com/ctg/picture-frames/size/18x24?srsltid=AfmBOooxgaZwBl6V7Qx7JNLZFpsGz1LDvn-J9HXtGvGOaK_iHLyqTpzO",
+      "title": "18 x 24 Picture Frames & Poster Frames",
       "is_americanflat": false
     },
     {
-      "position": 8,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOopMfT2sLr2LOjv6ew5JUmitb23GFcizT49_R21JrvaO4xHkFgOc",
-      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
+      "position": 7,
       "domain": "www.michaels.com",
       "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
       "title": "18x24 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 10,
+      "position": 8,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=NvKXTt09TNA",
       "title": "Should You Buy? upsimples 18 x24 Poster Frame",
       "is_americanflat": false
     },
     {
+      "position": 10,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/Americanflat/page/E99BE036-821C-437C-B9F8-BE9B691F4C74",
+      "title": "Americanflat: 18x24",
+      "is_americanflat": false
+    },
+    {
       "position": 11,
-      "domain": "www.instagram.com",
-      "url": "https://www.instagram.com/reel/C_ibloag0mu/",
-      "title": "Awesome way to fill the wall in a big way! 18x24 poster frame ...",
+      "domain": "www.ikea.com",
+      "url": "https://www.ikea.com/us/en/p/roedalm-frame-for-9-pictures-black-70553709/",
+      "title": "RÖDALM frame for 9 pictures, black, 18x24\"",
       "is_americanflat": false
     },
     {
       "position": 12,
       "domain": "www.webpictureframes.com",
-      "url": "https://www.webpictureframes.com/picture-frames/18x24-picture-frames?srsltid=AfmBOoqYHsbBr_d0pb_xkkTDVct99H7We6LNqEDqH7fJbfvWx57CmpPb",
+      "url": "https://www.webpictureframes.com/picture-frames/18x24-picture-frames?srsltid=AfmBOorWr8hMuHHYysVgpPDAS77UBqz0p_AvnQSqFUrn9NRd_RKBTM4P",
       "title": "18x24 Picture Frames for Posters, Prints & Artwork",
       "is_americanflat": false
     },
     {
       "position": 13,
-      "domain": "frameamo.com",
-      "url": "https://frameamo.com/blogs/how-tos-and-tutorials/18x24-frame-sizing-guide-how-to-mat-and-display-your-18x24-artwork?srsltid=AfmBOopA5wsrK0CsP8EOBJ96QdD_pb5-l54yygRd5Wx5a8ZxX7Y70pLu",
-      "title": "How to Mat and Display Your 18x24 Artwork",
+      "domain": "www.dickblick.com",
+      "url": "https://www.dickblick.com/categories/framing/frames-by-size/18x24-frames/?srsltid=AfmBOoq5QyzE6fX8f_KblkCVOk9nuMl4SM3FkUVBt4tniW06pvd_P4ZV",
+      "title": "18\" x 24\" Frames",
       "is_americanflat": false
     }
   ],
@@ -776,77 +769,135 @@
     {
       "position": 2,
       "domain": "frameology.com",
-      "url": "https://frameology.com/?srsltid=AfmBOopwdFehRdBdsThEmYZPkJyf7lwbCxzHZm5HqmAC9kHCwl0oYcRo",
+      "url": "https://frameology.com/?srsltid=AfmBOop8Z65_mJQrPECWOomnvQ01F5IyFRcH1lbPqb5I7xxO4o25mvp4",
       "title": "Frameology: Frame A Photo Online | Starting At $19",
       "is_americanflat": false
     },
     {
-      "position": 4,
-      "domain": "www.framebridge.com",
-      "url": "https://www.framebridge.com/collections/shop-all-frames?srsltid=AfmBOorgj-fNAwiwW6tb7rC52ktsbowaLU91lfI6m9S_Cpxd-7iYqyIW",
-      "title": "Shop All Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
-      "domain": "www.scoutandnimble.com",
-      "url": "https://www.scoutandnimble.com/categories/home-accents-and-decor/decor/frames?srsltid=AfmBOorNxG0lSkej11TO6PfDxp7A8xYgL0JVXjwj-usLTae7zdN5EaP4",
-      "title": "Picture Frames & Photo Display",
-      "is_americanflat": false
-    },
-    {
-      "position": 6,
+      "position": 3,
       "domain": "www.ikea.com",
       "url": "https://www.ikea.com/us/en/cat/picture-photo-frames-18746/",
       "title": "Picture Frames for Photos - Art & Poster Frames",
       "is_americanflat": false
     },
     {
-      "position": 7,
-      "domain": "www.minted.com",
-      "url": "https://www.minted.com/photo-art",
-      "title": "Photo Gifts & Personalized Framed Art",
+      "position": 4,
+      "domain": "www.scoutandnimble.com",
+      "url": "https://www.scoutandnimble.com/categories/home-accents-and-decor/decor/frames?srsltid=AfmBOor0xhpfYbCZNkzRzrcLh7E0_468RUm-wQzQxiSDXWDnmd-TXLzB",
+      "title": "Picture Frames & Photo Display",
       "is_americanflat": false
     },
     {
-      "position": 8,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/?srsltid=AfmBOoqqm7Qsa9BNzaxZ9iMGPYS0E9A1Pe3jQxTXD61aet9KdDpl9Ihv",
-      "title": "Picture Frames & Custom Framing Online | Pictureframes.com",
+      "position": 5,
+      "domain": "auraframes.com",
+      "url": "https://auraframes.com/",
+      "title": "Aura Frames | The Best Digital Picture Frame",
+      "is_americanflat": false
+    },
+    {
+      "position": 6,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=gnHezqhOYPg",
+      "title": "I Tried Finding the PERFECT Digital Picture Frame",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
+      "domain": "www.framebridge.com",
+      "url": "https://www.framebridge.com/?srsltid=AfmBOooHpAOLwj-Nvliq7cL2XTLCm5JU0PGSBGllVcxnikxv9lRYaY2F",
+      "title": "Framebridge: Custom Picture Framing Online & In Retail Stores",
       "is_americanflat": false
     },
     {
       "position": 10,
-      "domain": "www.frameiteasy.com",
-      "url": "https://www.frameiteasy.com/?srsltid=AfmBOookSfVZPPQFRWAFPob8walZ1QinEDRrRc9LJ057KTI4mNHmqvdB",
-      "title": "Frame It Easy: Custom Picture Frames Online | Photos & Art",
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/?srsltid=AfmBOoogSEAWAkOpVKbfZD2RXFbCMV8vxgKlQtS-TwX5pQeJyOIq0vqS",
+      "title": "Picture Frames | Pictureframes.com",
       "is_americanflat": false
     },
     {
       "position": 11,
-      "domain": "www.shutterfly.com",
-      "url": "https://www.shutterfly.com/ideas/tag/picture-frames/",
-      "title": "Picture Frames",
+      "domain": "www.frameiteasy.com",
+      "url": "https://www.frameiteasy.com/?srsltid=AfmBOooeRoV6egJQIeo8atO09swD0d_Xn8ZMZKDOP-wBIceu1EjcVKOv",
+      "title": "Frame It Easy: Custom Picture Frames Online | Photos & Art",
       "is_americanflat": false
     },
     {
       "position": 12,
       "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/0df5fa363c314bdcb4a56ce296940a0d",
-      "title": "Watch Large Digital Photo Frame Digital Picture Frames on ...",
+      "url": "https://www.amazon.com/photo-frame/s?k=photo+frame",
+      "title": "Photo Frame",
       "is_americanflat": false
     }
   ],
   "shadowbox picture frames": [
     {
       "position": 2,
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/collections/shadowboxes?srsltid=AfmBOormxbrsbwhDjzNm33tA5I7Q4ky8sSXWOLN4IOuP1rqqBPA7uAXY",
+      "title": "Shadowbox Frames and Jersey Frames for Sale",
+      "is_americanflat": false
+    },
+    {
+      "position": 3,
+      "domain": "www.custompictureframes.com",
+      "url": "https://www.custompictureframes.com/shadow-boxes.html?srsltid=AfmBOoqoba3jTjWgtj-psjZaw17uC7_r8Eq8LJviwIGpU1fcrlg6vJKE",
+      "title": "Shadow Boxes",
+      "is_americanflat": false
+    },
+    {
+      "position": 4,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/shadow-boxes/b?ie=UTF8&node=3019281",
+      "title": "Shadow Boxes / Photo Albums, Frames & Accessories",
+      "is_americanflat": false
+    },
+    {
+      "position": 6,
       "domain": "www.michaels.com",
       "url": "https://www.michaels.com/shop/frames/shadow-boxes-display-cases/shadow-boxes",
       "title": "Shadow Box Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 3,
+      "position": 7,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/shadowbox-frames?srsltid=AfmBOopWALblXElMovn8FrusTzW9O82VE4kqm6XIA8QP2v1fz4eL79Kb",
+      "title": "Custom Made Shadow Box Frames | Baby Memory Boxes",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=fMIHOuhLl_U",
+      "title": "How to Make a Shadow Box Frame by Jon Peters",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
+      "domain": "www.metroframe.com",
+      "url": "https://www.metroframe.com/shadow-box-picture-frames/",
+      "title": "Shadowbox Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 12,
+      "domain": "www.hobbylobby.com",
+      "url": "https://www.hobbylobby.com/home-decor-frames/frames-framing-supplies/shadow-boxes-display-cases/c/3-113-1082?srsltid=AfmBOoq5DKb_LzRp_BNfbVdXqZzdtS8CwKO7pvUFOOWROxffnQ-kPeFi",
+      "title": "Shadow Boxes & Display Cases | Album Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 13,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=0ktxpl7gtZI",
+      "title": "Shadow Box Frames Australia - All you need to know!",
+      "is_americanflat": false
+    }
+  ],
+  "shadow box picture frame": [
+    {
+      "position": 2,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/shadow-boxes/b?ie=UTF8&node=3019281",
       "title": "Shadow Boxes / Photo Albums, Frames & Accessories",
@@ -854,44 +905,51 @@
     },
     {
       "position": 5,
+      "domain": "www.custompictureframes.com",
+      "url": "https://www.custompictureframes.com/shadow-boxes.html?srsltid=AfmBOoogj3jmnRXwValIAbBvKLJof-EGwOK3PZZ23348fqC_0uLfk95o",
+      "title": "Shadow Boxes",
+      "is_americanflat": false
+    },
+    {
+      "position": 6,
       "domain": "frameusa.com",
-      "url": "https://frameusa.com/collections/shadowboxes?srsltid=AfmBOoqnqs4fOwJCrlH-EwnC-ev8Vxscum1X_7hZ7H4QX_kOJTuFTY2T",
+      "url": "https://frameusa.com/collections/shadowboxes?srsltid=AfmBOopd4a8UO496cDSBjG5rWOgiqwOSZtrLLuVvTmFjwVEZA4SDROoz",
       "title": "Shadowbox Frames and Jersey Frames for Sale",
       "is_americanflat": false
     },
     {
       "position": 7,
-      "domain": "goldenstateart.com",
-      "url": "https://goldenstateart.com/collections/shadowbox-frames?srsltid=AfmBOorwVBYixC6fBhtgNRxPXShwlHtSjDp20ixcZxJvxSwfm-KKZznI",
-      "title": "Shadowbox Frames",
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shadow-boxes-display-cases/shadow-boxes",
+      "title": "Shadow Box Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 9,
       "domain": "www.hobbylobby.com",
-      "url": "https://www.hobbylobby.com/home-decor-frames/frames-framing-supplies/shadow-boxes-display-cases/c/3-113-1082?srsltid=AfmBOopfr_eOWgfCIeWcFizFSWtQjMiclLUasPiUsyftEKuClBauWXPc",
+      "url": "https://www.hobbylobby.com/home-decor-frames/frames-framing-supplies/shadow-boxes-display-cases/c/3-113-1082?srsltid=AfmBOoplTebR6bZtx6YvEM80WHICqPCOPowKHGNendCZLnRn21YHZxGp",
       "title": "Shadow Boxes & Display Cases | Album Frames",
       "is_americanflat": false
     },
     {
       "position": 10,
-      "domain": "www.pfile.com",
-      "url": "https://www.pfile.com/prod_detail_list/Shadow-Box-Frames?srsltid=AfmBOoo_RxHUlf0IVbRwUTSyPw2JFA_xojfRT1Hk6baLchyZmrvLiXT2",
-      "title": "Shadow Box Frames",
+      "domain": "shadowboxes.com",
+      "url": "https://shadowboxes.com/?srsltid=AfmBOoq1Bq1a_jGoG7wmTQETY8fZ6ZKvoEoFDvNfkvvxCP5ytxXWKM6R",
+      "title": "Shadow Boxes Display Cases | USA Manufacturer | Large ...",
       "is_americanflat": false
     },
     {
       "position": 11,
-      "domain": "www.custompictureframes.com",
-      "url": "https://www.custompictureframes.com/shadow-boxes.html?srsltid=AfmBOoobobtoIIte1i5i6K7XV-xXl8IMMn4XFqLe1ptQzrAsJZuP31gf",
-      "title": "Shadow Boxes",
+      "domain": "goldenstateart.com",
+      "url": "https://goldenstateart.com/collections/shadowbox-frames?srsltid=AfmBOorwMXMDQYbFsHtbMUXwwOsfz5cY-S_A4Nu2GS1-SUbmbUNCk7Au",
+      "title": "Shadowbox Frames",
       "is_americanflat": false
     },
     {
       "position": 12,
-      "domain": "www.yourpictureframes.com",
-      "url": "https://www.yourpictureframes.com/categories/Shadow-Box-Picture-Frames/",
-      "title": "Shadow Box Picture Frames",
+      "domain": "www.walmart.com",
+      "url": "https://www.walmart.com/browse/home/shadow-boxes/4044_133012_4970722",
+      "title": "Shadow Boxes in Decor",
       "is_americanflat": false
     },
     {
@@ -902,133 +960,54 @@
       "is_americanflat": false
     }
   ],
-  "shadow box picture frame": [
-    {
-      "position": 4,
-      "domain": "www.custompictureframes.com",
-      "url": "https://www.custompictureframes.com/shadow-boxes.html?srsltid=AfmBOooMykLaTIUGhvERJRhwa1shOl6zwoOOJB6JFkR6nOy8tpjqw8m-",
-      "title": "Shadow Boxes",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/shadowbox-frames?srsltid=AfmBOorwRrIgYpXKum9_gazxgu-Vw-twg4y9Y-VM_cHjJmLYk3ZCU9Tz",
-      "title": "Custom Made Shadow Box Frames | Baby Memory Boxes",
-      "is_americanflat": false
-    },
-    {
-      "position": 6,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/collections/shadowboxes?srsltid=AfmBOorJnqs0oq9zVW-JHZB8Ogvt9ckNtvNy-bzfLiIOvfTt7SdLBzwU",
-      "title": "Shadowbox Frames and Jersey Frames for Sale",
-      "is_americanflat": false
-    },
-    {
-      "position": 7,
-      "domain": "www.hobbylobby.com",
-      "url": "https://www.hobbylobby.com/home-decor-frames/frames-framing-supplies/shadow-boxes-display-cases/c/3-113-1082?srsltid=AfmBOopjwrw3zq1LHkIACy0K00Tn3HJby8O24u_KPSfBO3KB0Q5CDM0g",
-      "title": "Shadow Boxes & Display Cases | Album Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/Best-Sellers-Shadow-Boxes/zgbs/home-garden/3019281",
-      "title": "Best Shadow Boxes",
-      "is_americanflat": false
-    },
-    {
-      "position": 10,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=0ktxpl7gtZI",
-      "title": "Shadow Box Frames Australia - All you need to know!",
-      "is_americanflat": false
-    },
-    {
-      "position": 12,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/shop/frames/shadow-boxes-display-cases/shadow-boxes",
-      "title": "Shadow Box Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "shadowboxes.com",
-      "url": "https://shadowboxes.com/?srsltid=AfmBOooG9Cqg7KlmazQyR-OVqBbbEQcSt6fxsy-SWC1S81tQ4grgUphq",
-      "title": "Shadow Boxes Display Cases | USA Manufacturer | Large ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 14,
-      "domain": "www.pinterest.com",
-      "url": "https://www.pinterest.com/pin/shadow-box-design--5770305768665464/",
-      "title": "Shadow Box Design",
-      "is_americanflat": false
-    }
-  ],
   "photo frames dimensions": [
     {
-      "position": 3,
+      "position": 4,
       "domain": "www.framedestination.com",
-      "url": "https://www.framedestination.com/guides/sizes/picture-frame?srsltid=AfmBOoprC88O-i8FU29ZzX_8pcN5-4V9n_n7KD7sRb3CnL04TwmoEIOC",
+      "url": "https://www.framedestination.com/guides/sizes/picture-frame?srsltid=AfmBOoqwnkPQXLxPguVBeuctKncqgSx8w5QMP5gRI1SEG4HlZhlj51_5",
       "title": "Guide to Picture Frame Sizes",
       "is_americanflat": false
     },
     {
-      "position": 4,
+      "position": 5,
       "domain": "frameusa.com",
-      "url": "https://frameusa.com/pages/picture-frame-sizes?srsltid=AfmBOoqL7FimqZefaw5zWy8-6Zkwpy54rgykjlnvB7YrfOFo0IEqZEZ-",
+      "url": "https://frameusa.com/pages/picture-frame-sizes?srsltid=AfmBOoobxVtfjlJQIJPvNM8wT_ssx0hkW81nd6yaM1uLsdYT-63nBmkM",
       "title": "List of Standard Picture Frame Sizes in Inches",
       "is_americanflat": false
     },
     {
-      "position": 5,
-      "domain": "frameology.com",
-      "url": "https://frameology.com/blogs/home-decor-advice/your-guide-to-standard-frame-sizes?srsltid=AfmBOor0xnwIogLyxDF7OTHKHfdP1mSiXIJFcg5PoPmYZvXDTyMAmzVt",
-      "title": "The Ultimate Guide to Standard Frame Sizes",
-      "is_americanflat": false
-    },
-    {
       "position": 6,
-      "domain": "www.modernmemorydesign.com",
-      "url": "https://www.modernmemorydesign.com/blogs/news/standard-picture-frame-sizes-dimensions-modern-memory-design?srsltid=AfmBOorpEjt8ixrfJBWdXPwjXafosRLm8OXIq9lsqIV5n2hVlVX0DNxE",
-      "title": "Standard Picture Frame Sizes: Complete Dimensions Guide",
-      "is_americanflat": false
-    },
-    {
-      "position": 7,
-      "domain": "www.maxphoto.co.uk",
-      "url": "https://www.maxphoto.co.uk/inspire/photo-frame-sizes",
-      "title": "Photo frame sizes: UK standard picture frame size guide",
+      "domain": "www.webpictureframes.com",
+      "url": "https://www.webpictureframes.com/glossary/picture-frame-size?srsltid=AfmBOoqFdyP8xKRo5OMLnsnxyoFuQrB0_ijbkcLGbO4nknq-kwnkR4tx",
+      "title": "Picture Frame Size",
       "is_americanflat": false
     },
     {
       "position": 8,
-      "domain": "frameamo.com",
-      "url": "https://frameamo.com/blogs/how-tos-and-tutorials/the-complete-guide-to-frame-sizes-finding-the-perfect-frame-for-your-photos-and-artwork?srsltid=AfmBOorRDcEKJ8yygYrNa06ONf555hFo0lJzx35CI7mDz2AleqC6pHnO",
-      "title": "The Complete Guide to Framing Standard Artwork Sizes",
+      "domain": "www.levelframes.com",
+      "url": "https://www.levelframes.com/get_started?srsltid=AfmBOopr-S7pHMeGew1bpYfLTed95hbB_MH_dodth4cx4PajjkfgJPKd",
+      "title": "Select Your Artwork Dimensions",
       "is_americanflat": false
     },
     {
       "position": 9,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/blogs/americanflat-blog/framing-101-understanding-standard-frame-sizes-and-how-to-measure-them?srsltid=AfmBOooOqiuDFsGR8pwnnYssvYS8fTFHzZac7eJONLQZkN0acgYX5_2h",
-      "title": "Framing 101: Understanding Standard Frame Sizes and ...",
-      "is_americanflat": true
+      "domain": "frametolia.com",
+      "url": "https://frametolia.com/blogs/news/what-are-the-standard-picture-frame-sizes?srsltid=AfmBOoqc2_66ZlmtOXl6i04XBsLUt7xiwi7mj4VrfRkBmKOlf5okXOAi",
+      "title": "What Are the Standard Picture Frame Sizes?",
+      "is_americanflat": false
     },
     {
       "position": 10,
-      "domain": "www.boldonframing.co.uk",
-      "url": "https://www.boldonframing.co.uk/photo-frame-sizes-conversion-charts/?srsltid=AfmBOopcpkg09x32-F3RKsqAPk6Hx3qsU4oLdlKckbHtc35nggBOdv7T",
-      "title": "Photo Frame Sizes Conversion Charts",
+      "domain": "frameology.com",
+      "url": "https://frameology.com/blogs/home-decor-advice/your-guide-to-standard-frame-sizes?srsltid=AfmBOoowbKQYc_TdY1MYIPCr4gpyDZmP9GCK7zAeKVBfEujqj9T-Np4f",
+      "title": "The Ultimate Guide to Standard Frame Sizes",
       "is_americanflat": false
     },
     {
       "position": 11,
-      "domain": "www.levelframes.com",
-      "url": "https://www.levelframes.com/picture-frame-sizes?srsltid=AfmBOopKVm1EIDnLG0mtGSPNRorTJvEPpI8t6kMu-vRsD7oYY6-_tsI8",
-      "title": "Picture Frame Sizes - Shop Popular ...",
+      "domain": "driedpetalsgallery.com",
+      "url": "https://driedpetalsgallery.com/pages/picture-frame-size-calculator-and-visualizer?srsltid=AfmBOoosNvhULRG8w9_mbnHiMKOTih2eGpR8uZebaDS-4KVDt2MXOqCM",
+      "title": "Picture Frame Size Calculator and Visualizer",
       "is_americanflat": false
     }
   ],
@@ -1036,138 +1015,152 @@
     {
       "position": 3,
       "domain": "www.framedestination.com",
-      "url": "https://www.framedestination.com/guides/sizes/picture-frame?srsltid=AfmBOorYfvSv0U3xCDZ6HvfaysVyPkZ5aqW_UIb1NMnpNGIRXKgOJa7f",
+      "url": "https://www.framedestination.com/guides/sizes/picture-frame?srsltid=AfmBOool_mad-Ij6wAguZZQRyPOIm_Wu0Ik8ej8BeP9dYFc5qUkFfLY7",
       "title": "Guide to Picture Frame Sizes",
       "is_americanflat": false
     },
     {
-      "position": 5,
+      "position": 4,
       "domain": "frameusa.com",
-      "url": "https://frameusa.com/pages/picture-frame-sizes?srsltid=AfmBOop7R6AMh9YOMXj1WNYHnNZQrf3PWnMTpH7HWV3lAqOMy4f8VL5S",
+      "url": "https://frameusa.com/pages/picture-frame-sizes?srsltid=AfmBOormLxdSU7kyBC9dUAIzlIbhRR2-X6yUsuQ2pMITDuONamdmvThk",
       "title": "List of Standard Picture Frame Sizes in Inches",
       "is_americanflat": false
     },
     {
-      "position": 6,
-      "domain": "www.pinterest.com",
-      "url": "https://www.pinterest.com/pin/standard-picture-frame-sizes-everything-you-need-to-know-1--504825439497952389/",
-      "title": "Standard Picture Frame Sizes: Everything You Need To ...",
+      "position": 5,
+      "domain": "www.canvasdiscount.com",
+      "url": "https://www.canvasdiscount.com/blog/picture-frame-sizes.jsf?srsltid=AfmBOooIgEaaQo8lWceoAhSYhX7LnaXHEYqf2IUi2CCCKXZcwQxi4h1m",
+      "title": "Standard Picture Frame Sizes: Complete US Guide (4×6 to ...",
       "is_americanflat": false
     },
     {
-      "position": 7,
+      "position": 6,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=uluUg_nj6sM",
       "title": "How to Measure Picture Frame Sizes for Your Art or Photo",
       "is_americanflat": false
     },
     {
-      "position": 10,
-      "domain": "www.reddit.com",
-      "url": "https://www.reddit.com/r/photography/comments/2tkdnf/this_may_be_a_silly_question_but_how_do_i_figure/",
-      "title": "but how do I figure out how to size my photos for printing ...",
+      "position": 7,
+      "domain": "frameamo.com",
+      "url": "https://frameamo.com/blogs/how-tos-and-tutorials/the-complete-guide-to-frame-sizes-finding-the-perfect-frame-for-your-photos-and-artwork?srsltid=AfmBOoqGrrEtRUylDwsrE4Tx8GoqUC6T7bOt9X_jvgBG6z0szsp7_fsb",
+      "title": "The Complete Guide to Framing Standard Artwork Sizes",
       "is_americanflat": false
     },
     {
-      "position": 11,
+      "position": 8,
+      "domain": "www.picturesalon.com",
+      "url": "https://www.picturesalon.com/standard-frame-sizes",
+      "title": "Standard Frame Sizes",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
       "domain": "www.levelframes.com",
-      "url": "https://www.levelframes.com/picture-frame-sizes?srsltid=AfmBOop1a0S0VQ2N-r3xfgRnWt1zzQbB8dUT3etHjdeumAaL4sRzpSUT",
+      "url": "https://www.levelframes.com/picture-frame-sizes?srsltid=AfmBOooCdmseGRGn5MWMsl0ccGd_rR4OUXP_EcrXAKk02YisIkk1hBai",
       "title": "Picture Frame Sizes - Shop Popular ...",
       "is_americanflat": false
     }
   ],
   "size for photo frame": [
     {
-      "position": 4,
+      "position": 3,
       "domain": "frameusa.com",
-      "url": "https://frameusa.com/pages/picture-frame-sizes?srsltid=AfmBOoqcbUu0yZXg6TZhDj9fpPY1Cgazld4jyEgDkPlHF2meYAauf-uG",
+      "url": "https://frameusa.com/pages/picture-frame-sizes?srsltid=AfmBOooOzQ12WlAXY9h7VWeA-QIPJJlRImZPCVmgpb2ytDNk5V9oQKfy",
       "title": "List of Standard Picture Frame Sizes in Inches",
       "is_americanflat": false
     },
     {
-      "position": 5,
+      "position": 4,
       "domain": "www.framedestination.com",
-      "url": "https://www.framedestination.com/guides/sizes/picture-frame?srsltid=AfmBOopBOJq7t56GupQxsUvwdBkZdSyrku6A46tirnMpWKcDTevdb-1B",
+      "url": "https://www.framedestination.com/guides/sizes/picture-frame?srsltid=AfmBOooVNafpAgP8QZ1HCqiYhbevNAhLa7Ij1eQja4BFZb8AJKsf8-E6",
       "title": "Guide to Picture Frame Sizes",
       "is_americanflat": false
     },
     {
       "position": 6,
+      "domain": "www.pinterest.com",
+      "url": "https://www.pinterest.com/ideas/photo-frame-size/934970910598/",
+      "title": "Photo Frame Size",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
       "domain": "www.nlalorphotography.com",
       "url": "https://www.nlalorphotography.com/blog/how-to-select-the-perfect-frame-size-greenwich-connecticut-family-photographer",
       "title": "How to Select the Perfect Frame Size",
       "is_americanflat": false
     },
     {
-      "position": 7,
+      "position": 8,
       "domain": "www.reddit.com",
       "url": "https://www.reddit.com/r/photography/comments/2tkdnf/this_may_be_a_silly_question_but_how_do_i_figure/",
-      "title": "but how do I figure out how to size my photos for printing ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
-      "domain": "popupframes.com",
-      "url": "https://popupframes.com/blogs/news/what-size-picture-frame?srsltid=AfmBOop3HobXDVul_hgKODrkjHJ8o5EhPH16aucTmeLmpDvgkmRYNopV",
-      "title": "What size picture frame do I need? A4, A3 & Photo ...",
+      "title": "but how do I figure out how to size my photos for printing/ ...",
       "is_americanflat": false
     },
     {
       "position": 9,
+      "domain": "www.levelframes.com",
+      "url": "https://www.levelframes.com/picture-frame-sizes?srsltid=AfmBOoqQXdcdeUeEK3qyL6kJW1U_SVO0nBnn6arq3rS6MYCqUnvkVPL9",
+      "title": "Picture Frame Sizes - Shop Popular ...",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
       "domain": "www.pbteen.com",
       "url": "https://www.pbteen.com/tips-and-ideas/design-guides/Picture-Frame-Sizes-A-Guide-to-Choosing-The-Right-Frame/",
       "title": "Picture Frame Sizes: A Guide to Choosing The Right Frame",
       "is_americanflat": false
     },
     {
-      "position": 10,
-      "domain": "www.pinterest.com",
-      "url": "https://www.pinterest.com/pin/standard-picture-frame-sizes-everything-you-need-to-know-1--504825439497952389/",
-      "title": "Standard Picture Frame Sizes: Everything You Need To ...",
-      "is_americanflat": false
-    },
-    {
       "position": 11,
-      "domain": "www.webpictureframes.com",
-      "url": "https://www.webpictureframes.com/glossary/picture-frame-size?srsltid=AfmBOoofLS61hqXXNucRFvT6USqAlvp0GjRiPJxtSZdrNFUXkcQu7Zka",
-      "title": "Picture Frame Size",
+      "domain": "driedpetalsgallery.com",
+      "url": "https://driedpetalsgallery.com/pages/picture-frame-size-calculator-and-visualizer?srsltid=AfmBOoomUctSOWjCufzsa0KmMv2Las55sy4Ih3Vq7a7nNd_o0w3Iq-Ch",
+      "title": "Picture Frame Size Calculator and Visualizer",
       "is_americanflat": false
     }
   ],
   "picture frame dimensions": [
     {
-      "position": 4,
+      "position": 3,
       "domain": "frameusa.com",
-      "url": "https://frameusa.com/pages/picture-frame-sizes?srsltid=AfmBOopM0f9ZRS9do0CSaN-uBXDjCj9RqadX4l-08j7-GVzTKivT5ZCr",
+      "url": "https://frameusa.com/pages/picture-frame-sizes?srsltid=AfmBOopjhxOg9tJ7HmnQq63wL1qNr3ZDDDCfKnuZuSPxYnJRQSmNgTAb",
       "title": "List of Standard Picture Frame Sizes in Inches",
       "is_americanflat": false
     },
     {
       "position": 5,
       "domain": "www.framedestination.com",
-      "url": "https://www.framedestination.com/guides/sizes/picture-frame?srsltid=AfmBOoqaj4k5h7uHKY9ecAOdDvPmiXPHPo02DdpyuRAiA2tNFV4lhVBR",
+      "url": "https://www.framedestination.com/guides/sizes/picture-frame?srsltid=AfmBOooAI5emU0ETymMKnvf_zbHWWeKHiOy1Pnov4wf0Uovuypb5rhtV",
       "title": "Guide to Picture Frame Sizes",
       "is_americanflat": false
     },
     {
-      "position": 8,
-      "domain": "www.levelframes.com",
-      "url": "https://www.levelframes.com/get_started?srsltid=AfmBOorXiMuapVSxEYCwWkqSI3TyTABZQX5rCfxBzDk3wZ_ASv85Uuq5",
-      "title": "Select Your Artwork Dimensions",
+      "position": 7,
+      "domain": "memory-box.co.uk",
+      "url": "https://memory-box.co.uk/blog/picture-frame-size-guide/?srsltid=AfmBOootMgUmAunBGaAwqID5UjSb4X3MsP-PDlhqgwJFzzzZBRgvmj0N",
+      "title": "Picture Frame Size Guide - Memory Box",
       "is_americanflat": false
     },
     {
       "position": 9,
+      "domain": "www.levelframes.com",
+      "url": "https://www.levelframes.com/get_started?srsltid=AfmBOorOc6U4KN3gM6Ta6s7nx8bWQSaE8HY4QlNf_KdGvBFtkn9AMGyu",
+      "title": "Select Your Artwork Dimensions",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
       "domain": "frametolia.com",
-      "url": "https://frametolia.com/blogs/news/what-are-the-standard-picture-frame-sizes?srsltid=AfmBOoovii05vvCXUTSbNZC6bvOHCLMUHD-1iAC_u4WPUKnmipENIk7Z",
+      "url": "https://frametolia.com/blogs/news/what-are-the-standard-picture-frame-sizes?srsltid=AfmBOoq9lEXtQNVm374BJZGHKMXoGvV_aXh5y54c0DnHF5mZNsRg3VkZ",
       "title": "What Are the Standard Picture Frame Sizes?",
       "is_americanflat": false
     },
     {
       "position": 11,
-      "domain": "www.webpictureframes.com",
-      "url": "https://www.webpictureframes.com/glossary/picture-frame-size?srsltid=AfmBOoqxv0qW3u2pdUmZkqEAoVSuV52zlO0Bmex7UOvoCJjgCQzOaocT",
-      "title": "Picture Frame Size",
+      "domain": "www.logangraphic.com",
+      "url": "https://www.logangraphic.com/learning-center/complete-picture-framing-guide/standard-frame-sizes.php",
+      "title": "Standard Frame Sizes",
       "is_americanflat": false
     }
   ],
@@ -1182,19 +1175,12 @@
     {
       "position": 4,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/18x12_picture_frames?srsltid=AfmBOorbKeD8GL2RtJbVv2_G5aaF8YqQcBlXHN5WaLWMSYTwXYu_gd8H",
-      "title": "18x12 Picture Frames, 18x12 Poster Frames - ArtToFrame",
+      "url": "https://www.arttoframe.com/18x12.5_picture_frames?srsltid=AfmBOoof1L0AY4cLQCYrGX04-bA44L0f5GgkHArA7RW8MPx1tI7JEMTc",
+      "title": "18x12.5 Picture Frames, 18x12.5 Poster Frames",
       "is_americanflat": false
     },
     {
-      "position": 5,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/product/18x12-solid-wood-antique-picture-frame-with-uvresistant-acrylic-acidfree-backing-available-in-4-finishes-bronze-gold-silver-and-gold-with-black-376169125775785990",
-      "title": "18x12 Solid Wood Antique Picture Frame with UV- ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 7,
+      "position": 6,
       "domain": "www.walmart.com",
       "url": "https://www.walmart.com/c/kp/picture-frames-12-x-18",
       "title": "Picture Frames 12 x 18 for Home Display",
@@ -1208,6 +1194,13 @@
       "is_americanflat": false
     },
     {
+      "position": 9,
+      "domain": "www.instagram.com",
+      "url": "https://www.instagram.com/reel/DNvXr3O4qE5/?hl=en",
+      "title": "Hello Gift on Instagram: \"12x18 inches Glitter Photo Frame for ...",
+      "is_americanflat": false
+    },
+    {
       "position": 10,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=iKb9jnib98Q",
@@ -1217,22 +1210,22 @@
     {
       "position": 11,
       "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/12x18-frames?srsltid=AfmBOopab3b1MDilmvr5PX21w2lLCncxBQrmuNFs28thcozkGdZWswgx",
+      "url": "https://americanflat.com/collections/12x18-frames?srsltid=AfmBOoowhUj48LCrXN0nWaLjAUIDEBtvPO6Dt_VGJx_5djwPwf392Cz4",
       "title": "Shop 12x18 Picture Frames",
       "is_americanflat": true
     },
     {
       "position": 12,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/product/modern-black-18x12-picture-frame-galley-wall-decor-poster-art-frame-212921043233112073",
-      "title": "Modern Black 18x12 Picture Frame | Galley Wall Decor ...",
+      "domain": "www.etsy.com",
+      "url": "https://www.etsy.com/market/18x12_frame",
+      "title": "18x12 Frame",
       "is_americanflat": false
     },
     {
-      "position": 14,
-      "domain": "www.bedbathandbeyond.com",
-      "url": "https://www.bedbathandbeyond.com/Home-Garden/18x12-Modern-Black-Wood-Picture-Frame-With-Acrylic-Front-and-Foam-Board-Backing-Modern-Black-solid-wood/27210005/product.html",
-      "title": "18x12 Frame Black Picture Frame - Complete Modern ...",
+      "position": 13,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/18x12_picture_frames?srsltid=AfmBOooh3Rd0bPEEw0mbl7suCOyTrMZo2_WsSY2c04aIbGqJduv_6dkA",
+      "title": "18x12 Picture Frames, 18x12 Poster Frames - ArtToFrame",
       "is_americanflat": false
     }
   ],
@@ -1245,21 +1238,28 @@
       "is_americanflat": false
     },
     {
-      "position": 2,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/12x18_picture_frames?srsltid=AfmBOoofmh6fpPS_77t-Xcrn7ADqrZhxdnE9CTmTagBYUOyhDqbtmN9I",
-      "title": "12x18 Picture Frames, 12x18 Poster Frames - ArtToFrame",
-      "is_americanflat": false
-    },
-    {
-      "position": 4,
+      "position": 3,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/stores/upsimples/page/497CEC9E-8731-44D8-A5BD-C8E301038F40",
       "title": "upsimples: 12x18",
       "is_americanflat": false
     },
     {
-      "position": 5,
+      "position": 4,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/12x18_picture_frames?srsltid=AfmBOopOstv7FmjDCXPVlWMDr4_AdrrcREPzeWU7wxNbog7C2NHCSXXp",
+      "title": "12x18 Picture Frames, 12x18 Poster Frames - ArtToFrame",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=iKb9jnib98Q",
+      "title": "Review Of The 12x18 Black Solid Wood Picture Frame ...",
+      "is_americanflat": false
+    },
+    {
+      "position": 9,
       "domain": "www.walmart.com",
       "url": "https://www.walmart.com/c/kp/picture-frames-12-x-18",
       "title": "Picture Frames 12 x 18 for Home Display",
@@ -1268,146 +1268,132 @@
     {
       "position": 10,
       "domain": "thedisplayguys.com",
-      "url": "https://thedisplayguys.com/collections/12-x-18-picture-frames?srsltid=AfmBOoqaziTP4S2FNAzVdgcGyI29e5WEi1PXIsoIzNGF82gG0QsQDcRT",
+      "url": "https://thedisplayguys.com/collections/12-x-18-picture-frames?srsltid=AfmBOoqbyb_5EVFy3lOglZU89CQEmXJYQvkwask-1T4vFOXrl8SDc2FL",
       "title": "12\" x 18\" Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 11,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/product/arttoframes-12x18-inch-picture-frame-this-125-inch-custom-wood-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-regular-acrylic-and-foam-backing-316-inch-v8137512x18-210271048411480073",
-      "title": "ArtToFrames 12x18 Inch Picture Frame, ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 12,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=iKb9jnib98Q",
-      "title": "Review Of The 12x18 Black Solid Wood Picture Frame ...",
+      "domain": "www.wayfair.com",
+      "url": "https://www.wayfair.com/keyword.php?keyword=12x18+frame",
+      "title": "12x18 Frame",
       "is_americanflat": false
     },
     {
       "position": 13,
-      "domain": "www.wayfair.com",
-      "url": "https://www.wayfair.com/keyword.php?keyword=12x18+frame+with+mat",
-      "title": "12x18 Frame With Mat",
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/live/video/0c861bb332ac4e4ca206ed36b740c400",
+      "title": "Watch Best 12x18 Picture Frame In 2025? #Ad on Amazon Live",
       "is_americanflat": false
     },
     {
       "position": 14,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/01fbdf504262498b97f82497c66230cf?ref_=dp_vse_rvc_3",
-      "title": "Watch Honest review and demo of this 12x18 picture frame on ...",
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/product/arttoframes-12x18-inch-picture-frame-this-125-inch-custom-wood-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-regular-acrylic-and-foam-backing-316-inch-v8137512x18-210271048411480073",
+      "title": "ArtToFrames 12x18 Inch Picture Frame, ...",
       "is_americanflat": false
     }
   ],
   "12x18 picture frame": [
     {
       "position": 2,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/12x18_picture_frames?srsltid=AfmBOoqErG4R8Ckx1bhiKD9E9REEhEOQibFM4KFN5MACDmLJGIVRhT0s",
-      "title": "12x18 Picture Frames, 12x18 Poster Frames - ArtToFrame",
-      "is_americanflat": false
-    },
-    {
-      "position": 4,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/12x18-frames?srsltid=AfmBOopR1zLnH-qu6Uw8VSI54z5GDZ3RdlpgukH7L3i3tlwxkBZka4yh",
-      "title": "Shop 12x18 Picture Frames",
-      "is_americanflat": true
-    },
-    {
-      "position": 5,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/12x18-picture-frame/s?k=12x18+picture+frame",
-      "title": "12x18 Picture Frame",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
       "domain": "www.target.com",
       "url": "https://www.target.com/s/buy+12x18+frame",
       "title": "buy 12x18 frame",
       "is_americanflat": false
     },
     {
-      "position": 9,
+      "position": 3,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/12x18-frames?srsltid=AfmBOoq0vSWBGXg3B5OfcANYDPZyiqW2jE4cgdjKSFXqPoC44OExHqEd",
+      "title": "Shop 12x18 Picture Frames",
+      "is_americanflat": true
+    },
+    {
+      "position": 5,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/stores/upsimples/page/497CEC9E-8731-44D8-A5BD-C8E301038F40",
       "title": "upsimples: 12x18",
       "is_americanflat": false
     },
     {
-      "position": 10,
+      "position": 6,
       "domain": "thedisplayguys.com",
-      "url": "https://thedisplayguys.com/collections/12-x-18-picture-frames?srsltid=AfmBOooZ7Ubn_m1YCWdoLnhK2keF53Cou7adkhbNARI7ZXD6in_daQao",
+      "url": "https://thedisplayguys.com/collections/12-x-18-picture-frames?srsltid=AfmBOooZICbrGdGqZncsZjw-QJrhK_0E0Fkm4jBj9tP598EQ2FhrrwjX",
       "title": "12\" x 18\" Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 11,
+      "position": 8,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/product/arttoframes-12x18-inch-picture-frame-this-125-inch-custom-wood-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-regular-acrylic-and-foam-backing-316-inch-v8137512x18-210271048411480073",
+      "title": "ArtToFrames 12x18 Inch Picture Frame, ...",
+      "is_americanflat": false
+    },
+    {
+      "position": 9,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=iKb9jnib98Q",
       "title": "Review Of The 12x18 Black Solid Wood Picture Frame ...",
       "is_americanflat": false
     },
     {
-      "position": 12,
+      "position": 11,
       "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/01fbdf504262498b97f82497c66230cf?ref_=dp_vse_rvc_3",
-      "title": "Watch Honest review and demo of this 12x18 picture frame on ...",
+      "url": "https://www.amazon.com/live/video/0c861bb332ac4e4ca206ed36b740c400",
+      "title": "Watch Best 12x18 Picture Frame In 2025? #Ad on Amazon Live",
+      "is_americanflat": false
+    },
+    {
+      "position": 12,
+      "domain": "www.walmart.com",
+      "url": "https://www.walmart.com/c/kp/picture-frames-12-x-18",
+      "title": "Picture Frames 12 x 18 for Home Display",
       "is_americanflat": false
     },
     {
       "position": 13,
-      "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/c/kp/picture-frames-12-x-18",
-      "title": "Picture Frames 12 x 18 for Home Display",
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/12x18_picture_frames?srsltid=AfmBOortrd85SJK6nWrxP2LDeyMQHlrBDDT23WkJSP9odoa6zpRoq-w2",
+      "title": "12x18 Picture Frames, 12x18 Poster Frames - ArtToFrame",
       "is_americanflat": false
     }
   ],
   "gold frame": [
     {
+      "position": 2,
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/color/gold-picture-frames?srsltid=AfmBOoofcrinqT1qtO9szkrs_EaWl8__PTWoFhiACbocVQK2WgCxokmV",
+      "title": "Gold Picture Frames",
+      "is_americanflat": false
+    },
+    {
       "position": 3,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/Gold-Picture-Frames?srsltid=AfmBOoqWDskCaEzm7zPxxA3g-cSmdCTpxls_emO5p-drKqwlVkCdLHJr",
+      "url": "https://www.arttoframe.com/Gold-Picture-Frames?srsltid=AfmBOooIYDwmWgrwV2r5R7DHweNmtDQ0MWi7gBXVnbi9KBgbLxMCRas_",
       "title": "Gold Picture Frames, Gold Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
       "position": 4,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/color/gold-picture-frames?srsltid=AfmBOoqiuijOqMnlOzTknhUuYJbJxnJU_Q-YyoevIaTFU3NDehU2HfWT",
-      "title": "Gold Picture Frames",
+      "domain": "usa.addisonross.com",
+      "url": "https://usa.addisonross.com/collections/gold-frames?srsltid=AfmBOopeeu8oyIcrVCJKonJiWlSa4VxX1H6gD0UWIzgMUm-cxi9ALgR_",
+      "title": "Gold Frames",
       "is_americanflat": false
     },
     {
       "position": 5,
-      "domain": "usa.addisonross.com",
-      "url": "https://usa.addisonross.com/collections/gold-frames?srsltid=AfmBOopGc8KPYGoRxfmLrpp3bwlhAdTyiZZGtZ1KArhdk9ddWuSBPJzE",
-      "title": "Gold Photo and Picture Frames",
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/LawrenceFrames/page/597BEBDF-F335-464C-A7B9-4CBEA9111007",
+      "title": "Lawrence Frames: Gold Frames",
       "is_americanflat": false
-    },
-    {
-      "position": 6,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/products/economy-gold-classic-gold-picture-frame?srsltid=AfmBOoqPWnGjwWadoq0Rduo3Vd7mDWhhrdkWn_ajXYRFcFLzHmzcb50n",
-      "title": "Beautiful Economy Gold Frames - Standard or Custom Sizes",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/gold-picture-frames?srsltid=AfmBOoocCDXkdIJ-pSJWtct-C8fJD7lKwWpc-6I6y3lKm_UImwuKrsGW",
-      "title": "Gold Picture Frames - Various Styles & Sizes",
-      "is_americanflat": true
     },
     {
       "position": 9,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/gold-picture-frames/s?k=gold+picture+frames",
-      "title": "Gold Picture Frames",
-      "is_americanflat": false
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/gold-picture-frames?srsltid=AfmBOorL-Ex5GWwgGsdOIHYkF9WT_1GL5mrRlOoqsGIsNCehQyEW0Iyr",
+      "title": "Gold Picture Frames - Various Styles & Sizes",
+      "is_americanflat": true
     },
     {
       "position": 10,
@@ -1417,86 +1403,21 @@
       "is_americanflat": false
     },
     {
-      "position": 11,
-      "domain": "articient.com",
-      "url": "https://articient.com/collections/artist-gold-frames?srsltid=AfmBOoozhobLZNWPxtQ0dgIF59ohHkam_2mBIxkjUEAX9jvaYfAqsRqf",
-      "title": "Artist Gold Frames",
+      "position": 13,
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/collections/gold-picture-frames?srsltid=AfmBOoqerx9hFNuFBk2XUH8MR7OcIxCjv0Iy_jt8_ZUrP7Z_9kAVealP",
+      "title": "Gold Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 12,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/025ca95ff087451495391ea101769da4",
-      "title": "Watch mini picture frame gold vintage frames on Amazon Live",
+      "position": 14,
+      "domain": "frameology.com",
+      "url": "https://frameology.com/collections/gold-picture-frames?srsltid=AfmBOopYRRdlFsYvtyqpu6NzVm4o-fr76W6ySCZlJjpBdS2A7zJfAG02",
+      "title": "Personalized Gold Picture Frames | Online Print & Framing",
       "is_americanflat": false
     }
   ],
   "11 x 17 frame": [
-    {
-      "position": 2,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/11x17_picture_frames?srsltid=AfmBOopmprd4nz-cLHGXq6iQ6Mz_5BmyXQ_n4nml_702KG7MuK9bx5eJ",
-      "title": "11x17 Picture Frames, 11x17 Poster Frames - ArtToFrame",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/pages/11x17-poster-frame?srsltid=AfmBOooTqP5OJafbEl-3E0Vd7R9AGe_lytn6dTBMTPZNmWEskJL4xetm",
-      "title": "11x17 Poster Frames | 11x17 Wood Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 6,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/11x17-frames?srsltid=AfmBOoqQ83FwJDvFm-2EgYNrALhHC2_wpAt9sFZRcOKC-171aG_lYJSb",
-      "title": "Shop 11x17 Picture Frames",
-      "is_americanflat": true
-    },
-    {
-      "position": 7,
-      "domain": "www.target.com",
-      "url": "https://www.target.com/s/11x17+frames",
-      "title": "11x17 Frames | Oak, Metal, Black & White Options",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/11x17-frame/s?k=11x17+frame",
-      "title": "11x17 Frame",
-      "is_americanflat": false
-    },
-    {
-      "position": 10,
-      "domain": "www.reddit.com",
-      "url": "https://www.reddit.com/r/framing/comments/1dydu4h/need_a_true_11_x_17_frames/",
-      "title": "Need a true 11\" x 17\" frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 11,
-      "domain": "www.braesidedisplays.com",
-      "url": "https://www.braesidedisplays.com/products/11-x-17-slide-in-poster-frame-double-sided?srsltid=AfmBOop7P8SVifYPoRO43aJ_C-URSvUiqESa9QMv0VCfTitXtRZhVqPi",
-      "title": "11\" x 17\" Slide-In Poster Frame, Double Sided",
-      "is_americanflat": false
-    },
-    {
-      "position": 12,
-      "domain": "www.reddit.com",
-      "url": "https://www.reddit.com/r/framing/comments/nk6kmw/frame_size_for_11_x_17_print/",
-      "title": "Frame size for 11 x 17 print?",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/0b10f0ab3aa04ef29ecdfcdfa685c9a7",
-      "title": "Watch 11x17 Gold Picture Frame - Solid Wood Poster ...",
-      "is_americanflat": false
-    }
-  ],
-  "11x17 frame": [
     {
       "position": 2,
       "domain": "www.amazon.com",
@@ -1506,23 +1427,23 @@
     },
     {
       "position": 3,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/pages/11x17-poster-frame?srsltid=AfmBOoqMR7FLtsZoH8Z6seEEH8HuidVAWXoNrhXo7dv1apGvFGHHZJrQ",
-      "title": "11x17 Poster Frames | 11x17 Wood Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 4,
       "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/11x17-frames?srsltid=AfmBOoqUi1IO5Nzo4__YLeJ0d4Zaj-7RJ-10HfzD9NM1YD0CjI4wOalQ",
+      "url": "https://americanflat.com/collections/11x17-frames?srsltid=AfmBOop5W34UfWKz5Ap_pCSVfsK0ZpRyZyuGGfRt-V_GVyOdciUsKLEB",
       "title": "Shop 11x17 Picture Frames",
       "is_americanflat": true
     },
     {
+      "position": 4,
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/pages/11x17-poster-frame?srsltid=AfmBOoovAeRfB1a3NxvKD1quH5CDDa4sVUpa4q9NpdX4AqBqPGVZMcAu",
+      "title": "11x17 Poster Frames | 11x17 Wood Frames",
+      "is_americanflat": false
+    },
+    {
       "position": 7,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/11x17_picture_frames?srsltid=AfmBOoqy2B_B-fFUEkt8TI3FJ7WFRHKcVAP1C2bmdFQKOokKaZFehAQ8",
-      "title": "11x17 Picture Frames, 11x17 Poster Frames - ArtToFrame",
+      "domain": "www.reddit.com",
+      "url": "https://www.reddit.com/r/framing/comments/1dydu4h/need_a_true_11_x_17_frames/",
+      "title": "Need a true 11\" x 17\" frames",
       "is_americanflat": false
     },
     {
@@ -1533,10 +1454,82 @@
       "is_americanflat": false
     },
     {
+      "position": 9,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/live/video/0b10f0ab3aa04ef29ecdfcdfa685c9a7",
+      "title": "Watch 11x17 Gold Picture Frame - Solid Wood Poster Frames ...",
+      "is_americanflat": false
+    },
+    {
       "position": 10,
+      "domain": "www.reddit.com",
+      "url": "https://www.reddit.com/r/framing/comments/nk6kmw/frame_size_for_11_x_17_print/",
+      "title": "Frame size for 11 x 17 print?",
+      "is_americanflat": false
+    },
+    {
+      "position": 12,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/11x17_picture_frames?srsltid=AfmBOor9q_tExtEypy6Us2EjIjBbbZX-02wwh320HID3bS-wUhkOvRe7",
+      "title": "11x17 Picture Frames, 11x17 Poster Frames - ArtToFrame",
+      "is_americanflat": false
+    },
+    {
+      "position": 13,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/product/arttoframes-11x17-inch-picture-frame-this-125-inch-custom-mdf-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-regular-glass-and-corrugated-a46hi-151617780482392086",
+      "title": "ArtToFrames 11x17 Inch Picture Frame, This 1.25 ...",
+      "is_americanflat": false
+    }
+  ],
+  "11x17 frame": [
+    {
+      "position": 1,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/11x17-frame/s?k=11x17+frame",
+      "title": "11x17 Frame",
+      "is_americanflat": false
+    },
+    {
+      "position": 3,
       "domain": "www.reddit.com",
       "url": "https://www.reddit.com/r/framing/comments/1dydu4h/need_a_true_11_x_17_frames/",
       "title": "Need a true 11\" x 17\" frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 6,
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/pages/11x17-poster-frame?srsltid=AfmBOooTIwUUUSVt6_IdcVHb1iOQXYqRNajuncn4mwnHzrOC_iG8xmhZ",
+      "title": "11x17 Poster Frames | 11x17 Wood Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
+      "domain": "www.reddit.com",
+      "url": "https://www.reddit.com/r/framing/comments/nk6kmw/frame_size_for_11_x_17_print/",
+      "title": "Frame size for 11 x 17 print?",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/11x17-frames?srsltid=AfmBOoolj2vQIKSIV0wUDKpn1rjYjC-s99_iKXkD8tnSaBbdZLjp13yf",
+      "title": "Shop 11x17 Picture Frames",
+      "is_americanflat": true
+    },
+    {
+      "position": 9,
+      "domain": "www.target.com",
+      "url": "https://www.target.com/s/11x17+frames",
+      "title": "11x17 Frames | Oak, Metal, Black & White Options",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/11x17_picture_frames?srsltid=AfmBOor75rYzEb7NqyQ-_w8D1JDUwYRyUbNNy6zw2vEXnlzPy4XOOT5v",
+      "title": "11x17 Picture Frames, 11x17 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
@@ -1548,13 +1541,6 @@
     },
     {
       "position": 12,
-      "domain": "www.modernmemorydesign.com",
-      "url": "https://www.modernmemorydesign.com/collections/modern-gallery-11x17-frame-with-glass-frame-store-11-x-17-photo?srsltid=AfmBOooCVJ4WTQ95ADb0WvIstv6cNCS1d6XCpCOaxCDzoepS0bz-C8Nq",
-      "title": "11x17 Picture Frames Custom Framed",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
       "domain": "www.michaels.com",
       "url": "https://www.michaels.com/product/arttoframes-11x17-inch-picture-frame-this-125-inch-custom-mdf-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-regular-glass-and-corrugated-a46hi-151617780482392086",
       "title": "ArtToFrames 11x17 Inch Picture Frame ... - Michaels",
@@ -1565,101 +1551,36 @@
     {
       "position": 3,
       "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOoqELdiCAc3Wr0oRj_OxadFaDXLyKtTfe6wgW8eznIC3T8Gkh1nW",
+      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOooVCpgEg_5Nkk8bmCJpZqArJrzUa09b5f70kgB91r9vGdCc8tEa",
       "title": "Shop 18x24 Picture Frames",
       "is_americanflat": true
     },
     {
       "position": 4,
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOoqYjpz1KHQZbVXSWpoTIj1dCC51vibkflC720fvKGwH9FCdQD9i",
+      "title": "18x24 Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 5,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/24x18-frame/s?k=24x18+frame",
       "title": "24x18 Frame",
       "is_americanflat": false
     },
     {
-      "position": 5,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOor06YJRkpGbPHiDFtHZZSDodtppYLU-izPMH4KvKDfTdpQnd-Wf",
-      "title": "18\" x 24\" Picture Frames",
-      "is_americanflat": false
-    },
-    {
       "position": 6,
-      "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/browse/home/18x24-frames/4044_133012_672579_7340945",
-      "title": "18x24 Frames in Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 7,
       "domain": "www.ikea.com",
       "url": "https://www.ikea.com/us/en/p/roedalm-frame-for-9-pictures-black-70553709/",
       "title": "RÖDALM frame for 9 pictures, black, 18x24\"",
       "is_americanflat": false
     },
     {
-      "position": 8,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOoqSkcfB_DSYdknvA2-MBMg5uFvOU0T1UXuEshsSYcSMnYJYX_zU",
-      "title": "18x24 Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
+      "position": 7,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=NvKXTt09TNA",
       "title": "Should You Buy? upsimples 18 x24 Poster Frame",
-      "is_americanflat": false
-    },
-    {
-      "position": 11,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOopZOKqY3TU81cxGeRtZmdIGh6KSEd-FkDKGu1-khFjCdLOkTIsD",
-      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
-      "title": "18x24 Picture Frames",
-      "is_americanflat": false
-    }
-  ],
-  "18 x 24 frame": [
-    {
-      "position": 2,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOorIcQQeRnSqo4xNP9x_p5tVgTGkxXoQAmIb3NLnarC0iDcXENgq",
-      "title": "18x24 Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 3,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
-      "title": "18x24 Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 4,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/stores/Americanflat/page/E99BE036-821C-437C-B9F8-BE9B691F4C74",
-      "title": "Americanflat: 18x24",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOooi9K6sPWFmltQtr07rvZQ1G0144wslc0l6X5KTGGHMClF6Nl1v",
-      "title": "18\" x 24\" Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOop1gDa6p_1pgqvsRC8ao2qOBgmVFuXkH1t4gXrLMRgmiyT-idut",
-      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
@@ -1670,82 +1591,147 @@
       "is_americanflat": false
     },
     {
-      "position": 13,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=NvKXTt09TNA",
-      "title": "Should You Buy? upsimples 18 x24 Poster Frame",
-      "is_americanflat": false
-    },
-    {
-      "position": 14,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOorIYsAuZLbNy3fvD4-YeyEKY6mhdrdAw0o3c0EClF8-IqSWTfug",
-      "title": "Shop 18x24 Picture Frames",
-      "is_americanflat": true
-    },
-    {
-      "position": 15,
-      "domain": "goldenstateart.com",
-      "url": "https://goldenstateart.com/collections/picture-frames-size-18x24?srsltid=AfmBOopeKVNwhk0Mjl7iePA-rca_FcJ7KYy_PCJSWNhuw-4i25l-dMIk",
-      "title": "Picture Frames Size 18x24",
-      "is_americanflat": false
-    }
-  ],
-  "18x24 frame": [
-    {
-      "position": 2,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOoqZfthZJBhss2q4UGwvEBu9u2ja3sB5i9TxBFRs48NQBfCHehh-",
-      "title": "18\" x 24\" Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 3,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/poster-frame-18x24/s?k=poster+frame+18x24",
-      "title": "Poster Frame 18x24",
-      "is_americanflat": false
-    },
-    {
-      "position": 4,
+      "position": 10,
       "domain": "www.michaels.com",
       "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
       "title": "18x24 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 7,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOoqNpMzjy7rc473mtTlev5nTsyY4S38HC_egHfNLL2Qu7fe0wDd7",
-      "title": "Shop 18x24 Picture Frames",
-      "is_americanflat": true
-    },
-    {
-      "position": 8,
-      "domain": "www.homedepot.com",
-      "url": "https://www.homedepot.com/b/Home-Decor-Frames-Albums-Picture-Frames/18-x-24/N-5yc1vZcf9mZ1z189hi",
-      "title": "18\" x 24\" - Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 10,
+      "position": 11,
       "domain": "www.target.com",
       "url": "https://www.target.com/s/frames+18x24",
       "title": "18x24 Picture Frames | Oak, Metal, Black Wooden",
       "is_americanflat": false
     },
     {
-      "position": 11,
+      "position": 12,
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOoqhKp50Gq-a2nykcNpyg9tXVOXu5XwKuU0P2DEM4-grvIdy9M2N",
+      "title": "18\" x 24\" Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 13,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOoo7o667e7fikeFrLX83r2As7CumqhywtR77tZLF7CPA0NXidYZP",
+      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
+      "is_americanflat": false
+    }
+  ],
+  "18 x 24 frame": [
+    {
+      "position": 2,
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOoqmonfbwuegEWvQLPC2A1RCfnGd-NvsCYVErI7ddk6Ns3nCfZRp",
+      "title": "18\" x 24\" Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 3,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
+      "title": "18x24 Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 5,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/poster-frame-18x24/s?k=poster+frame+18x24",
+      "title": "Poster Frame 18x24",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
+      "domain": "www.target.com",
+      "url": "https://www.target.com/s/frames+18x24",
+      "title": "18x24 Picture Frames | Oak, Metal, Black Wooden",
+      "is_americanflat": false
+    },
+    {
+      "position": 9,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOopJ40ACbeoIX86Ezruei8NmOLoSTB4AyPaThj73m7YPtXVq1HAF",
+      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
       "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/browse/home/18x24-frames/4044_133012_672579_7340945",
+      "url": "https://www.walmart.com/browse/photo-center/18x24-frames/5426_672579_7340945",
       "title": "18x24 Frames in Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 12,
+      "domain": "www.homedepot.com",
+      "url": "https://www.homedepot.com/b/Home-Decor-Frames-Albums-Picture-Frames/18-x-24/N-5yc1vZcf9mZ1z189hi",
+      "title": "18\" x 24\" - Picture Frames",
+      "is_americanflat": false
+    }
+  ],
+  "18x24 frame": [
+    {
+      "position": 1,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOory-iI5KkepRG83_iVSg_dOUhedV2FXarAx-U6Fzd3lpSoshFtt",
+      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOoqbB4riP9zKAgzmcFIuBzhsiN7XLLBGhPgk0S7_pTQveN82WnNA",
       "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
+      "is_americanflat": false
+    },
+    {
+      "position": 2,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOoo6AGuYS5VyxcjKK00SUr44CS3vPolRHZjrO76sndWSz2V9IEPg",
+      "title": "Shop 18x24 Picture Frames",
+      "is_americanflat": true
+    },
+    {
+      "position": 3,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
+      "title": "18x24 Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 6,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/poster-frame-18x24/s?k=poster+frame+18x24",
+      "title": "Poster Frame 18x24",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
+      "domain": "www.target.com",
+      "url": "https://www.target.com/s/frames+18x24",
+      "title": "18x24 Picture Frames | Oak, Metal, Black Wooden",
+      "is_americanflat": false
+    },
+    {
+      "position": 12,
+      "domain": "www.walmart.com",
+      "url": "https://www.walmart.com/browse/photo-center/18x24-frames/5426_672579_7340945",
+      "title": "18x24 Frames in Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 13,
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOooALYgWSrmj--81FG9XeDs0efFxk-VTAbe7SnsvZVfqX3yx2742",
+      "title": "18\" x 24\" Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 14,
+      "domain": "www.homedepot.com",
+      "url": "https://www.homedepot.com/b/Home-Decor-Frames-Albums-Picture-Frames/18-x-24/N-5yc1vZcf9mZ1z189hi",
+      "title": "18\" x 24\" - Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 15,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/product/modern-black-18x24-picture-frame-galley-wall-decor-poster-art-frame-212921206441869325",
+      "title": "Galley Wall Decor Poster & Art Frame, Color: White",
       "is_americanflat": false
     }
   ],
@@ -1753,64 +1739,57 @@
     {
       "position": 2,
       "domain": "frameusa.com",
-      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOorKT2f9tIFoAErvJbRzhtYn6UdbD_-RG9jDvnO1g-PfYprlbE2z",
+      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOopcyPi26St5az252iN14Y2lwm_j5CiNNFAwYN7Je-VqLgr-YwzB",
       "title": "18x24 Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 3,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOoqdkdMvR-K-36jwBzH6TJSu2eaNFuS3ZRXQZ8y-dI_dRvO7XBni",
+      "title": "Shop 18x24 Picture Frames",
+      "is_americanflat": true
+    },
+    {
+      "position": 4,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOorGHCwy62Q2Ziw0Bmf3PD_-rJKW9RjfLse6xcKrUdHevs2NYY9y",
+      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
+      "is_americanflat": false
+    },
+    {
+      "position": 5,
       "domain": "www.michaels.com",
       "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
       "title": "18x24 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 4,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/stores/Americanflat/page/E99BE036-821C-437C-B9F8-BE9B691F4C74",
-      "title": "Americanflat: 18x24",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
-      "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/browse/home/18x24-frames/4044_133012_672579_7340945",
-      "title": "18x24 Frames in Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
+      "position": 6,
       "domain": "www.target.com",
       "url": "https://www.target.com/s/frames+18x24",
       "title": "18x24 Picture Frames | Oak, Metal, Black Wooden",
       "is_americanflat": false
     },
     {
-      "position": 9,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=NvKXTt09TNA",
-      "title": "Should You Buy? upsimples 18 x24 Poster Frame",
+      "position": 7,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/Americanflat/page/E99BE036-821C-437C-B9F8-BE9B691F4C74",
+      "title": "Americanflat: 18x24",
       "is_americanflat": false
     },
     {
-      "position": 10,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOorJ4xIXFsnJjfG6ZldTV055xwQfN-Egacr7NSMamBGciflWtFPI",
-      "title": "Shop 18x24 Picture Frames",
-      "is_americanflat": true
-    },
-    {
-      "position": 11,
+      "position": 8,
       "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOooGTIstYkMFpjFfLyBcEUNiR7ms6CZQ9UghArTwfw0Yv4oj2BMO",
+      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOooBfysq0Rk3bnudcHw8HMcyAxWrUBFSg8t7xlJeYvLuQwDJ6TCE",
       "title": "18\" x 24\" Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 12,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOorCdmOSZ-p2NF26J3mlecTH-7PIqSLlj0JbyHTxZG6mwu3zd6oG",
-      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
+      "position": 9,
+      "domain": "www.walmart.com",
+      "url": "https://www.walmart.com/browse/photo-center/18x24-frames/5426_672579_7340945",
+      "title": "18x24 Frames in Picture Frames",
       "is_americanflat": false
     }
   ],
@@ -1818,64 +1797,64 @@
     {
       "position": 2,
       "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOoqQPV79ieUcLgz6J2rse3lglOEOnHekiKR_eKe50ITSBzKFd1OG",
+      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOooQBHyH8w2GaVhJzU7ReECHobqTXqqlz5wAPtMjxoWB8ytmbBi7",
       "title": "18\" x 24\" Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 3,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOopCl7keA_wunJnTlEwXKrcEPx7c6JALyZ-NxoDBN3oRkOGiwJNr",
-      "title": "Shop 18x24 Picture Frames",
-      "is_americanflat": true
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOooicELc3IrysHgVtpzWeIyjimgpnTKkV4oxWCDjpTbiCx42chqg",
+      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
+      "is_americanflat": false
     },
     {
       "position": 4,
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOooUeD4rs3AudGh5dDGpcLylWfDLQR3BrjCq7u5OujEIbLVrwdUa",
+      "title": "18x24 Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 6,
+      "domain": "thedisplayguys.com",
+      "url": "https://thedisplayguys.com/collections/18-x-24-picture-frames?srsltid=AfmBOorwjicnQsZvupTVcTK-0dhgLip8yU1dPgnTxLkV6uMWXDYgPsJ7",
+      "title": "18\" x 24\" Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/24x18-frame/s?k=24x18+frame",
       "title": "24x18 Frame",
       "is_americanflat": false
     },
     {
-      "position": 8,
-      "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/browse/home/18x24-frames/4044_133012_672579_7340945",
-      "title": "18x24 Frames in Picture Frames",
-      "is_americanflat": false
-    },
-    {
       "position": 9,
-      "domain": "www.ikea.com",
-      "url": "https://www.ikea.com/us/en/p/roedalm-frame-for-9-pictures-black-70553709/",
-      "title": "RÖDALM frame for 9 pictures, black, 18x24\"",
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
+      "title": "18x24 Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 10,
-      "domain": "thedisplayguys.com",
-      "url": "https://thedisplayguys.com/collections/18-x-24-picture-frames?srsltid=AfmBOorVKL0NNT8k8vhDHWSwBYeTAdyFOAWOh9gzeQJwhvCyffIA_Hl8",
-      "title": "18\" x 24\" Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 11,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOoqmStkSB1sndH63A1B2A03DSrbNFg2glam0enoopunEE2bVj5hY",
-      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
-      "is_americanflat": false
-    },
-    {
-      "position": 12,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=NvKXTt09TNA",
       "title": "Should You Buy? upsimples 18 x24 Poster Frame",
       "is_americanflat": false
     },
     {
+      "position": 11,
+      "domain": "www.ikea.com",
+      "url": "https://www.ikea.com/us/en/p/roedalm-frame-for-9-pictures-black-70553709/",
+      "title": "RÖDALM frame for 9 pictures, black, 18x24\"",
+      "is_americanflat": false
+    },
+    {
       "position": 13,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
-      "title": "18x24 Picture Frames",
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/Americanflat/page/E99BE036-821C-437C-B9F8-BE9B691F4C74",
+      "title": "Americanflat: 18x24",
       "is_americanflat": false
     }
   ],
@@ -1888,38 +1867,38 @@
       "is_americanflat": false
     },
     {
-      "position": 4,
+      "position": 3,
       "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/shadowbox-picture-frames?srsltid=AfmBOorr7WYwg0iSDzmM48H2j-tFzeJCLXVuC7bKx7R7patJ4v5it9iP",
+      "url": "https://americanflat.com/collections/shadowbox-picture-frames?srsltid=AfmBOoojJXATUXfvk6AdSd0TNNBCS2LgMIqLp4BefwuDAd34kjcTy62n",
       "title": "Shadowbox Picture Frames",
       "is_americanflat": true
     },
     {
       "position": 7,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/shadowbox-frames?srsltid=AfmBOopX0FFZnFem-3uVXgfvHElfKp6zjML_nzprnqNTzZOGVC9Ut9eF",
+      "url": "https://www.arttoframe.com/shadowbox-frames?srsltid=AfmBOorSimAIYa1ayWIhFQbXPW_tcZTeZODXbyocbQL97Yd_H9AQDjlN",
       "title": "Custom Made Shadow Box Frames | Baby Memory Boxes",
       "is_americanflat": false
     },
     {
-      "position": 9,
+      "position": 8,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shadow-boxes-display-cases/shadow-boxes",
+      "title": "Shadow Box Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
       "domain": "www.myrepurposedlife.com",
       "url": "https://www.myrepurposedlife.com/easy-shadow-box-from-a-picture-frame/",
       "title": "Easy Shadow Box from a Picture Frame",
       "is_americanflat": false
     },
     {
-      "position": 10,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=HTKf0ZzMNok",
-      "title": "How To Turn a Frame into a Shadow Box (concise)",
-      "is_americanflat": false
-    },
-    {
       "position": 11,
-      "domain": "www.graduationmall.com",
-      "url": "https://www.graduationmall.com/collections/shadow-box-frame?srsltid=AfmBOor89zbvugoNU4X4yFPXShnymBdChf8DYFKUIzQmHITi06b2YmkT",
-      "title": "Shadow Box Frames",
+      "domain": "www.whitewall.com",
+      "url": "https://www.whitewall.com/us/magazine/guides/products/frames/what-is-a-shadow-box",
+      "title": "What is a Shadow Box Frame?",
       "is_americanflat": false
     },
     {
@@ -1928,36 +1907,22 @@
       "url": "https://www.pinterest.com/pin/shadow-box-design--5770305768665464/",
       "title": "Shadow Box Design",
       "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "www.whitewall.com",
-      "url": "https://www.whitewall.com/us/magazine/guides/products/frames/what-is-a-shadow-box",
-      "title": "What is a Shadow Box Frame?",
-      "is_americanflat": false
     }
   ],
   "frame for 11x14": [
     {
       "position": 3,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOopy25nIe05NWNBaSSkr2Hw9P_DgcvnUG6_oRYKGbYdAPkP-Uou-",
+      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOorms2cdDTth5R1bNpAHSvVn2_r9csCEjVWjcmmhP-awFs_7oc3Q",
       "title": "11x14 Picture Frames, 11x14 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
       "position": 5,
       "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/11x14-frames?srsltid=AfmBOoqcc6MVQLyzq7V-IiBvFANOtgpgW7Y5u3DxRmFE4Uf_maRzDHu1",
+      "url": "https://americanflat.com/collections/11x14-frames?srsltid=AfmBOopAl-f_YVjHjXqaeNJj48RZIVEhN9pITZhAWgsKW3lqrJPtkujR",
       "title": "Shop 11x14 Picture Frames",
       "is_americanflat": true
-    },
-    {
-      "position": 6,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/11x14-picture-frames?srsltid=AfmBOoqIv_zmc7sADLliXKWTkZTD2PjQWpstyXOpOHhIBY_YDifb9XYp",
-      "title": "11\" x 14\" Picture Frames",
-      "is_americanflat": false
     },
     {
       "position": 7,
@@ -1968,44 +1933,44 @@
     },
     {
       "position": 8,
-      "domain": "www.craigframes.com",
-      "url": "https://www.craigframes.com/products/matted-picture-frame-11x14-1inch-white-mat?srsltid=AfmBOooGiDvnOHSwNmYYkpl0IK--tGqEo40hvtf8dA8v6zD236P9qW-H",
-      "title": "Matted Picture Frame With 11x14 Opening and 1\" Border",
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/11x14-picture-frames?srsltid=AfmBOoqDkoCMZq3His6YYwyB83I4VYe9-7UgkHsIrZHhzeVQOdVmo8c0",
+      "title": "11\" x 14\" Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 9,
+      "domain": "www.craigframes.com",
+      "url": "https://www.craigframes.com/products/matted-picture-frame-11x14-1inch-white-mat?srsltid=AfmBOoohiSKh3mhQpuZkMU-Q5KxjLUjeXUewVRT0gFXXt5t-zvsrEFMB",
+      "title": "Matted Picture Frame With 11x14 Opening and 1\" Border",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
       "domain": "www.dollartree.com",
       "url": "https://www.dollartree.com/picture-frames/11x14-picture-frames",
       "title": "11x14 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 10,
-      "domain": "frameamo.com",
-      "url": "https://frameamo.com/blogs/how-tos-and-tutorials/11x14-frame-sizing-guide-how-to-mat-and-display-your-11x14-or-smaller-artwork?srsltid=AfmBOop0-F2A2o3k8rDEOM9WteCFGfF9yJhq_sjAFiYYFmaga1aLxaKG",
-      "title": "11x14 Frame Sizing Guide: How to Mat and Display Your ...",
-      "is_americanflat": false
-    },
-    {
       "position": 11,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/stores/MatBoardCenter/page/43FC5B40-FCD8-4CED-B59B-174B0DD751A7",
-      "title": "Mat Board Center: 11x14 Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
       "domain": "www.michaels.com",
       "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/11x14-frames",
       "title": "11x14 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 14,
+      "position": 12,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=nLnzH_jEib8",
       "title": "Gorgeous 11x14 Wooden Matted Picture Frame!",
+      "is_americanflat": false
+    },
+    {
+      "position": 14,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/MatBoardCenter/page/43FC5B40-FCD8-4CED-B59B-174B0DD751A7",
+      "title": "11x14 Frames - Mat Board Center",
       "is_americanflat": false
     }
   ],
@@ -2020,33 +1985,26 @@
     {
       "position": 3,
       "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOopJmq9XurE4a0O0AqltBARd_1axtkZTozniFsyA0NbkGa7vZFvc",
+      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOopuDHE7ueF3ACDuBs-aELfIR992I10i7OhWWzkLrOdNQzLwTw-C",
       "title": "Shop 18x24 Picture Frames",
       "is_americanflat": true
     },
     {
       "position": 4,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOoo7u0dPRYOY4h8Mi9qfBry0_MOoQJipw06eH1eTHwTyL5qSKEXJ",
-      "title": "18\" x 24\" Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
-      "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/browse/home/18x24-frames/4044_133012_672579_7340945",
-      "title": "18x24 Frames in Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 6,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
-      "title": "18x24 Picture Frames",
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/24x18_picture_frames?srsltid=AfmBOorhO5U_vLH9Y8WR-TnMLHBDvu-5LcqyZNsGhdHcbeWFVkaPArZL",
+      "title": "24x18 Picture Frames, 24x18 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
       "position": 7,
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOoqv6JTHz9HDYEFFldNfD8Hy914EWWsfZNkrNXg8Guwnfzh-90WD",
+      "title": "18\" x 24\" Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
       "domain": "www.youtube.com",
       "url": "https://www.youtube.com/watch?v=NvKXTt09TNA",
       "title": "Should You Buy? upsimples 18 x24 Poster Frame",
@@ -2054,16 +2012,67 @@
     },
     {
       "position": 9,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/24x18_picture_frames?srsltid=AfmBOoo0XH4--2vYQUS4PLI8nYlTqHre9YCfRzUqrO8nfw5PDp3UUiQG",
-      "title": "24x18 Picture Frames, 24x18 Poster Frames - ArtToFrame",
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOoosbndY6R0jfXDOVgSigjQfAuPsBWEUKSsz6JgrJ8E7dKfQsCXd",
+      "title": "18x24 Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 10,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
+      "title": "18x24 Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 12,
+      "domain": "www.ikea.com",
+      "url": "https://www.ikea.com/us/en/p/roedalm-frame-for-9-pictures-black-70553709/",
+      "title": "RÖDALM frame for 9 pictures, black, 18x24\"",
+      "is_americanflat": false
+    },
+    {
+      "position": 13,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/Americanflat/page/E99BE036-821C-437C-B9F8-BE9B691F4C74",
+      "title": "Americanflat: 18x24",
+      "is_americanflat": false
+    },
+    {
+      "position": 14,
       "domain": "thedisplayguys.com",
-      "url": "https://thedisplayguys.com/collections/18-x-24-picture-frames?srsltid=AfmBOoqSTAAQ_bxdBOI9qK-PlT1_vKM9wG-wZXWCRH0glRS6rz0z2g_z",
+      "url": "https://thedisplayguys.com/collections/18-x-24-picture-frames?srsltid=AfmBOopmRcfWir6g4hPopu4XnTh1UjvVwY-E6rwkk8bNYTrSbH1pjy7Z",
       "title": "18\" x 24\" Picture Frames",
+      "is_americanflat": false
+    }
+  ],
+  "18x24 poster frame": [
+    {
+      "position": 2,
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOor6NWHQrXDmgIb4R9Mqf5RDvI7DAmRKwfY1TOp74fg0bgva8TIC",
+      "title": "18x24 Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOopkssPfWFpNWvNYrUvy4nC2nJ-sXAiEKU1rdVDigQYpBs7OxHAD",
+      "title": "18\" x 24\" Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
+      "title": "18x24 Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 9,
+      "domain": "www.youtube.com",
+      "url": "https://www.youtube.com/watch?v=NvKXTt09TNA",
+      "title": "Should You Buy? upsimples 18 x24 Poster Frame",
       "is_americanflat": false
     },
     {
@@ -2075,197 +2084,146 @@
     },
     {
       "position": 12,
-      "domain": "www.target.com",
-      "url": "https://www.target.com/s/frames+18x24",
-      "title": "18x24 Picture Frames | Oak, Metal, Black Wooden",
-      "is_americanflat": false
-    }
-  ],
-  "18x24 poster frame": [
-    {
-      "position": 1,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/poster-frame-18x24/s?k=poster+frame+18x24",
-      "title": "Poster Frame 18x24",
-      "is_americanflat": false
-    },
-    {
-      "position": 3,
       "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOoob6mwxOjFg5vWGGI_MUvSqCjL9dMLaBXgQQBu9p4gr2A-j-KRY",
+      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOorhYwqA9ht9_7oyj7MXWxvkEJc2iGDIWC00yC8XCrlo42nLr8oj",
       "title": "Shop 18x24 Picture Frames",
       "is_americanflat": true
     },
     {
-      "position": 4,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOoor4EcNkzQdcKYf3ZWfTLcluDeAu277WeVQva4uW1exqC5hVZao",
-      "title": "18\" x 24\" Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
-      "title": "18x24 Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
-      "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/browse/home/18x24-frames/4044_133012_672579_7340945",
-      "title": "18x24 Frames in Picture Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 11,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOopclBQ0gAHORdNN6Do7Rq2aB0lifl2I4zAYAmG-zVJK-21DMN06",
-      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/stores/Americanflat/page/E99BE036-821C-437C-B9F8-BE9B691F4C74",
-      "title": "Americanflat: 18x24",
+      "position": 14,
+      "domain": "www.ikea.com",
+      "url": "https://www.ikea.com/us/en/p/roedalm-frame-for-9-pictures-black-70553709/",
+      "title": "RÖDALM frame for 9 pictures, black, 18x24\"",
       "is_americanflat": false
     },
     {
       "position": 15,
-      "domain": "www.target.com",
-      "url": "https://www.target.com/s/frames+18x24",
-      "title": "18x24 Picture Frames | Oak, Metal, Black Wooden",
+      "domain": "www.walmart.com",
+      "url": "https://www.walmart.com/ip/Mainstays-18x24-Rounded-Black-Poster-Frame/883230",
+      "title": "Mainstays 18x24 Black Rounded Poster Frame for Artwork ...",
       "is_americanflat": false
     },
     {
       "position": 16,
-      "domain": "www.lowes.com",
-      "url": "https://www.lowes.com/pd/SECO-Snap-Frame-18-In-x-24-In-White/ar-ma",
-      "title": "https://www.lowes.com/pd/SECO-Snap-Frame-18-In-x-2...",
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOooFNUo3gdWzN86jEUv2QKjiQs_lrYJo7es0xEsFwU_mShljgSrd",
+      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
       "is_americanflat": false
     }
   ],
   "picture frames for 11x17": [
     {
       "position": 2,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/pages/11x17-poster-frame?srsltid=AfmBOooQyDaI4Oj2JcPs-U_RtWDHSHA-7-mKtenb2PBPwZH8DWAOVMq2",
-      "title": "11x17 Poster Frames | 11x17 Wood Frames",
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/11x17_picture_frames?srsltid=AfmBOoqfdcPwsYyvMxjGRVAbB-CWAqkG3LUjK1m7iYkyrdtdcJqotslF",
+      "title": "11x17 Picture Frames, 11x17 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
       "position": 3,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/11x17_picture_frames?srsltid=AfmBOop3QAgigLPfI4As0Pb4K9DrlT6Myem_Oq_MA7zFdhTbW_f9qq2v",
-      "title": "11x17 Picture Frames, 11x17 Poster Frames - ArtToFrame",
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/pages/11x17-poster-frame?srsltid=AfmBOoqG7361xuNTGe_h6Fl4G65DqF2UM1bjvC4cJfxDsQM0hQAuLemu",
+      "title": "11x17 Poster Frames | 11x17 Wood Frames",
       "is_americanflat": false
     },
     {
       "position": 5,
       "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/upsimples-11x17-Picture-Frames-Gallery/dp/B07Z4PVDSC",
-      "title": "upsimples 11x17 Picture Frame Set of 5, Display ...",
+      "url": "https://www.amazon.com/11x17-frame/s?k=11x17+frame",
+      "title": "11x17 Frame",
       "is_americanflat": false
     },
     {
       "position": 6,
-      "domain": "www.reddit.com",
-      "url": "https://www.reddit.com/r/framing/comments/nk6kmw/frame_size_for_11_x_17_print/",
-      "title": "Frame size for 11 x 17 print?",
-      "is_americanflat": false
-    },
-    {
-      "position": 7,
       "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/11x17-frames?srsltid=AfmBOooHN94E39VbuZsk0tpGL-VJ8GLYeMk87BlgnpYbiE0ntBfXUvKL",
+      "url": "https://americanflat.com/collections/11x17-frames?srsltid=AfmBOor8tHCaE5an39hAOLghSQ38bda-oKfp_cqWhcdSprjROlGUQaIX",
       "title": "Shop 11x17 Picture Frames",
       "is_americanflat": true
     },
     {
-      "position": 8,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/product/arttoframes-11x17-inch-picture-frame-this-125-inch-custom-mdf-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-regular-glass-and-corrugated-a46hi-151617780482392086",
-      "title": "ArtToFrames 11x17 Inch Picture Frame, This 1.25 ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
-      "domain": "www.framedestination.com",
-      "url": "https://www.framedestination.com/ctg/picture-frames/size/11x17?srsltid=AfmBOoqNjdnT2I6qwr0J8quHkT5m3jEr61_GUNILCatdrILeh_OkPCQa",
-      "title": "11x17 Picture Frames & Poster Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 10,
-      "domain": "www.target.com",
-      "url": "https://www.target.com/s/11x17+frames",
-      "title": "11x17 Frames | Oak, Metal, Black & White Options",
-      "is_americanflat": false
-    },
-    {
-      "position": 11,
+      "position": 7,
       "domain": "www.reddit.com",
       "url": "https://www.reddit.com/r/framing/comments/1dydu4h/need_a_true_11_x_17_frames/",
       "title": "Need a true 11\" x 17\" frames",
       "is_americanflat": false
     },
     {
-      "position": 13,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=KEKA8vpW3y4",
-      "title": "Langdon House Picture/Poster Frame 11x17 Prima Collection",
+      "position": 8,
+      "domain": "www.target.com",
+      "url": "https://www.target.com/s/11x17+frames",
+      "title": "11x17 Frames | Oak, Metal, Black & White Options",
+      "is_americanflat": false
+    },
+    {
+      "position": 9,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/product/arttoframes-11x17-inch-picture-frame-this-125-inch-custom-mdf-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-regular-glass-and-corrugated-a46hi-151617780482392086",
+      "title": "ArtToFrames 11x17 Inch Picture Frame, This 1.25 ...",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
+      "domain": "www.framedestination.com",
+      "url": "https://www.framedestination.com/ctg/picture-frames/size/11x17?srsltid=AfmBOorjRmiE6jebJVpA2PB529_utixWDNIGzN7Qt1qstrBvfUVqkrCB",
+      "title": "11x17 Picture Frames & Poster Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 11,
+      "domain": "www.walmart.com",
+      "url": "https://www.walmart.com/c/kp/11x17-frames",
+      "title": "11x17 Frames for Wall and Table Display",
       "is_americanflat": false
     }
   ],
   "16x16": [
     {
-      "position": 2,
-      "domain": "www.pixilart.com",
-      "url": "https://www.pixilart.com/gallery/tags/16x16",
-      "title": "16x16",
+      "position": 1,
+      "domain": "www.nationsphotolab.com",
+      "url": "https://www.nationsphotolab.com/products/prints-16x16?srsltid=AfmBOor85ue01Bt9d690dbTgFeVp5FcuEpeEjcBhfC2YMX0hGVX4Yl0N",
+      "title": "Shop 16x16 Size Photo Prints",
       "is_americanflat": false
     },
     {
-      "position": 3,
+      "position": 2,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/16x16_picture_frames?srsltid=AfmBOoqqVbop7Z1MYVnuSWhzgZIvmRmRCyEJBTs2tj2Os2tR7_rXwq3A",
+      "url": "https://www.arttoframe.com/16x16_picture_frames?srsltid=AfmBOoryVJoWbcYqIahRmkV8L7H688rG5HqBfmKZ5K2zqNPePw7Xyq0_",
       "title": "16x16 Picture Frames, 16x16 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
       "position": 4,
+      "domain": "math.answers.com",
+      "url": "https://math.answers.com/other-math/What_is_the_answer_to_16x16",
+      "title": "What is the answer to 16x16?",
+      "is_americanflat": false
+    },
+    {
+      "position": 5,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/16x16-picture-frame/s?k=16x16+picture+frame",
       "title": "16x16 Picture Frame",
       "is_americanflat": false
     },
     {
-      "position": 5,
+      "position": 6,
+      "domain": "www.pixilart.com",
+      "url": "https://www.pixilart.com/gallery/tags/16x16",
+      "title": "16x16",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
       "domain": "itch.io",
       "url": "https://itch.io/game-assets/tag-16x16",
       "title": "Top game assets tagged 16x16",
       "is_americanflat": false
     },
     {
-      "position": 6,
-      "domain": "www.tovphotography.com",
-      "url": "https://www.tovphotography.com/product-page/9-boxes-16x16-inch-frame",
-      "title": "9 Boxes 16x16 inch Frame",
-      "is_americanflat": false
-    },
-    {
-      "position": 7,
-      "domain": "www.pixilart.com",
-      "url": "https://www.pixilart.com/draw/16x16-986134dfbb",
-      "title": "Editing 16x16 - Free online pixel art drawing tool",
-      "is_americanflat": false
-    },
-    {
       "position": 8,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=lWmO4iTQsW4",
-      "title": "Top 10 16x16 Living Room Layout Ideas",
+      "domain": "stock.adobe.com",
+      "url": "https://stock.adobe.com/search?k=16x16",
+      "title": "16X16 Images – Browse 1429 Stock Photos, Vectors, and ...",
       "is_americanflat": false
     },
     {
@@ -2277,9 +2235,16 @@
     },
     {
       "position": 10,
-      "domain": "itch.io",
-      "url": "https://itch.io/game-assets/tag-16x16/tag-furniture",
-      "title": "Top game assets tagged 16x16 and furniture",
+      "domain": "www.pinterest.com",
+      "url": "https://www.pinterest.com/ideas/16x16-picture/941601289421/",
+      "title": "16x16 Picture",
+      "is_americanflat": false
+    },
+    {
+      "position": 11,
+      "domain": "oppositewall.com",
+      "url": "https://oppositewall.com/products/solid-oak-frame-16x16-in",
+      "title": "Picture Frame - Solid Oak - Natural Wood, 16x16 inch",
       "is_americanflat": false
     }
   ],
@@ -2294,159 +2259,94 @@
     {
       "position": 5,
       "domain": "frameusa.com",
-      "url": "https://frameusa.com/collections/8-5x11-picture-frames?srsltid=AfmBOopJUHEXjyZzdLxlgn8xFr7qtwiWtJeDlIxH8eloI1ocS7sIDyT_",
+      "url": "https://frameusa.com/collections/8-5x11-picture-frames?srsltid=AfmBOopECHqsnFI8TxFFR7gEoZHT1aOjDgE9Q2yrrsMkuBCGW6nGPHyz",
       "title": "8.5x11 Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 6,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/8.5x11_picture_frames?srsltid=AfmBOorLKcm2IkdqZUc58yikETLwwikxKA0d72XqJKgWEc_gvjZWCZv2",
+      "title": "8.5x11 Picture Frames, 8.5x11 Poster Frames - ArtToFrame",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/Giftgarden/page/1524304D-B5FF-4BC5-BF28-030B9DDE2D9E",
+      "title": "Giftgarden: 8.5x11 Picture Frame",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
       "domain": "www.walmart.com",
       "url": "https://www.walmart.com/c/kp/8.5%22-x-11%22%22-frames%22",
       "title": "Shop 8.5 x 11 Inch Frames for Photos & Documents",
       "is_americanflat": false
     },
     {
-      "position": 7,
-      "domain": "www.target.com",
-      "url": "https://www.target.com/s/document+frames",
-      "title": "Document Frames - Wood & Black 8.5x11 Sizes",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
-      "domain": "canada.michaels.com",
-      "url": "https://canada.michaels.com/product/aspect-85-x-11-white-narrow-frame-by-studio-decor-10504969",
-      "title": "Aspect 8.5\" x 11\" White Narrow Frame by Studio Décor®",
-      "is_americanflat": false
-    },
-    {
       "position": 9,
-      "domain": "www.hobbylobby.com",
-      "url": "https://www.hobbylobby.com/home-decor-frames/frames-framing-supplies/wall-frames/black-flat-certificate-frame---11-x-8-1-2/p/81022196?srsltid=AfmBOooQVAxwbPjBitEU-tL-Pdu3OhwYlM8EhLZPaDZGvlJey-HtxZnD",
-      "title": "Black Flat Certificate Frame - 11\" x 8 1/2\"",
-      "is_americanflat": false
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/8-5x11-frames?srsltid=AfmBOop3i6aX9fc7iWK7Wx1LTpEgqFxIYBmxdpu_9lKO-GanFftIJadW",
+      "title": "Shop 8.5x11 Picture Frames",
+      "is_americanflat": true
     },
     {
       "position": 10,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=2GNqlply-Eo",
-      "title": "Hoikwo 8.5x11 Picture Frames Set 18 Pack Black",
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/product/black-85-x-11-document-frame-with-mat-by-studio-decor-10107681",
+      "title": "Black 8.5\" x 11\" Document Frame with Mat by Studio Décor®",
       "is_americanflat": false
     },
     {
       "position": 12,
-      "domain": "www.staples.ca",
-      "url": "https://www.staples.ca/search?query=picture%20frames%208%205%20x%2011",
-      "title": "picture frames 8 5 x 11",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/07806662e50b4ca69698146ad13ae4e8",
-      "title": "Watch ELSKER&HOME 8.5x11 Picture Frame - Certificate ...",
+      "domain": "hallofframes.com",
+      "url": "https://hallofframes.com/frame-size/8-5x11/?srsltid=AfmBOoq-5ggCySc2daa7yCIT_mWBfe-6V-1tB9hDzgx1epYR2WSQGhRC",
+      "title": "Find 8.5x11 Document Frames | The Shop at Hall of Frames",
       "is_americanflat": false
     }
   ],
   "frames for a gallery wall": [
     {
-      "position": 3,
+      "position": 2,
       "domain": "frameology.com",
-      "url": "https://frameology.com/collections/gallery-walls?srsltid=AfmBOopoigiCEVhnw1yWuxqsrC35gWz3sK6vDFRCwKp5VPmJM9FGObL6",
+      "url": "https://frameology.com/collections/gallery-walls?srsltid=AfmBOop8yeeT5JtUwprO_vNYUl4QADFCLnLaMxlLUqdWF8PgvQiAHdcx",
       "title": "Top Rated: Personalized Gallery Walls & Picture Frame Sets",
       "is_americanflat": false
     },
     {
-      "position": 4,
-      "domain": "www.kateandlaurel.com",
-      "url": "https://www.kateandlaurel.com/collections/wall-frame-sets?srsltid=AfmBOoqjTTr_8uc7a_9Wcx3HkMDPBnuZs-DQnaE2kBvGiSd05_gv-hNL",
-      "title": "Gallery Wall Picture Frame Set for Living Room Decor",
+      "position": 3,
+      "domain": "www.framebridge.com",
+      "url": "https://www.framebridge.com/collections/gallery-walls?srsltid=AfmBOorII9UN2-hoOoKNqHp2VLXobz35-7WEmwTZo2QyrIvuIbjdLaIP",
+      "title": "Curated Gallery Walls: Custom Layouts & Easy Hanging",
       "is_americanflat": false
     },
     {
       "position": 5,
-      "domain": "www.framebridge.com",
-      "url": "https://www.framebridge.com/collections/gallery-walls?srsltid=AfmBOoof3NVdB6IvJVrdemriElpuiElX2Cw2tNOJ6K7IWt7B1B1gv2U4",
-      "title": "Curated Gallery Walls: Custom Layouts & Easy Hanging",
+      "domain": "www.kateandlaurel.com",
+      "url": "https://www.kateandlaurel.com/collections/wall-frame-sets?srsltid=AfmBOoopO9oMjNOEdZkwOjOHsC_YiKoYF6Jhc2fj7VaFc8huuPtzjxEW",
+      "title": "Gallery Wall Picture Frame Set for Living Room Decor",
       "is_americanflat": false
     },
     {
       "position": 6,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOooCzZ3CuZfc2C220aa2zvEzTbJqxGQOtRL_RMK7g0-AuIHPOpms",
-      "title": "Shop Gallery Wall Frame Sets",
-      "is_americanflat": true
-    },
-    {
-      "position": 7,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/shop/frames/gallery-wall-frames",
-      "title": "Gallery Wall Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
-      "domain": "www.westelm.com",
-      "url": "https://www.westelm.com/shop/wall-decor-mirrors/gallery-wall-frames/",
-      "title": "Gallery Wall Frames for Your Modern Home",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
-      "domain": "www.artifactuprising.com",
-      "url": "https://www.artifactuprising.com/frames/gallery-wall?srsltid=AfmBOoq0Zp3cavWqBsZ-kYUaEx4C_lK04iVrD06Ev3K-B9DN3kXXsipk",
-      "title": "Gallery Wall Frames and Curated Photo Sets for a Unique ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 10,
-      "domain": "www.pinterest.com",
-      "url": "https://www.pinterest.com/pin/beyond-the-kitchen-artsy-fartsy-edition--68748683684/",
-      "title": "Beyond the Kitchen: Artsy Fartsy Edition | Love and Olive Oil",
-      "is_americanflat": false
-    },
-    {
-      "position": 11,
-      "domain": "www.ikea.com",
-      "url": "https://www.ikea.com/us/en/cat/collage-photo-frames-10789/",
-      "title": "Gallery wall & collage picture frames",
-      "is_americanflat": false
-    }
-  ],
-  "gallery wall frame": [
-    {
-      "position": 2,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOorSG0mEZaqoii9xYSCGaJnvsUJ-nX8K4wExYpiP2he_VvPHj3Yc",
-      "title": "Shop Gallery Wall Frame Sets",
-      "is_americanflat": true
-    },
-    {
-      "position": 3,
-      "domain": "frameology.com",
-      "url": "https://frameology.com/collections/gallery-walls?srsltid=AfmBOorbf4_usvYUzMEbAGBtNlgtC8x_p3gsq5LOSIORMZ7_5HFhXG2_",
-      "title": "Top Rated: Personalized Gallery Walls & Picture Frame Sets",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
-      "domain": "www.framebridge.com",
-      "url": "https://www.framebridge.com/collections/gallery-walls?srsltid=AfmBOoq3lsSfJOUzS0evnhx57hU_nPPK6juYcyR71KIXGCE8ShzQ5vUh",
-      "title": "Curated Gallery Walls: Custom Layouts & Easy Hanging",
+      "domain": "thediyplaybook.com",
+      "url": "https://thediyplaybook.com/frames-for-gallery-wall/",
+      "title": "The Best Picture Frames To Buy For Your Gallery Wall",
       "is_americanflat": false
     },
     {
       "position": 7,
-      "domain": "www.kateandlaurel.com",
-      "url": "https://www.kateandlaurel.com/collections/wall-frame-sets?srsltid=AfmBOorViNx9Br4mbQkfUK4h1_Ei1lrPCDwRBnCzvDZBYX3JwIJGhWcD",
-      "title": "Gallery Wall Picture Frame Set for Living Room Decor",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/stores/GalleryPerfect/page/DF64A135-AE17-4C45-A530-9EE68469727C",
       "title": "Gallery Perfect: Set of Nine",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
+      "domain": "www.reddit.com",
+      "url": "https://www.reddit.com/r/framing/comments/1s3eeuq/what_frames_do_you_recommend_for_a_gallery_wall/",
+      "title": "What frames do you recommend for a gallery wall?",
       "is_americanflat": false
     },
     {
@@ -2458,9 +2358,67 @@
     },
     {
       "position": 10,
-      "domain": "www.ikea.com",
-      "url": "https://www.ikea.com/us/en/cat/collage-photo-frames-10789/",
-      "title": "Gallery wall & collage picture frames",
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOopbC5vN6CpE-Vy2bKtIttMjRO3YfOeXUeA__8TQjZIRADO3QfVE",
+      "title": "Shop Gallery Wall Frame Sets",
+      "is_americanflat": true
+    },
+    {
+      "position": 11,
+      "domain": "stylebyemilyhenderson.com",
+      "url": "https://stylebyemilyhenderson.com/how-to-make-a-gallery-wall",
+      "title": "How To Actually Make A Gallery Wall: Our No-Fail Formula ...",
+      "is_americanflat": false
+    }
+  ],
+  "gallery wall frame": [
+    {
+      "position": 2,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOopA3-0cK-M_opY-piJdBbrjyIbzbIqf3ErmtdbP94CCqpiFBxD3",
+      "title": "Shop Gallery Wall Frame Sets",
+      "is_americanflat": true
+    },
+    {
+      "position": 3,
+      "domain": "www.framebridge.com",
+      "url": "https://www.framebridge.com/collections/gallery-walls?srsltid=AfmBOoq9ujXDOVenAmitp-tfJXkeI5UnPqh2hbGuTl3mM0YFsyUTQi-e",
+      "title": "Curated Gallery Walls: Custom Layouts & Easy Hanging",
+      "is_americanflat": false
+    },
+    {
+      "position": 4,
+      "domain": "frameology.com",
+      "url": "https://frameology.com/collections/gallery-walls?srsltid=AfmBOoqONfwn3USIBlCJKERREQswIIYOFu267rLbOse12loseWt8gHoq",
+      "title": "Top Rated: Personalized Gallery Walls & Picture Frame Sets",
+      "is_americanflat": false
+    },
+    {
+      "position": 6,
+      "domain": "www.kateandlaurel.com",
+      "url": "https://www.kateandlaurel.com/collections/wall-frame-sets?srsltid=AfmBOoor_TW86jYfKkEfVMQM4xSx1CA_Y23FIT_JC6hrYV7yaimS4NoD",
+      "title": "Gallery Wall Picture Frame Set for Living Room Decor",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
+      "domain": "www.cb2.com",
+      "url": "https://www.cb2.com/accessories/frames/1?srsltid=AfmBOorxbhTTTKezLq8-yKH9eYwuhNS4qeiQA8ACOdORR51VfSh-KKzR",
+      "title": "Unique Picture Frames & Modern Gallery Wall Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 9,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/GalleryPerfect/page/DF64A135-AE17-4C45-A530-9EE68469727C",
+      "title": "Gallery Perfect: Set of Nine",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
+      "domain": "www.pinterest.com",
+      "url": "https://www.pinterest.com/pin/diy-gallery-wall-ideas--1055599908274617/",
+      "title": "DIY GALLERY WALL IDEAS",
       "is_americanflat": false
     },
     {
@@ -2472,126 +2430,126 @@
     },
     {
       "position": 12,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=HfgdN2Wscnk",
-      "title": "How to Create a Stunning Gallery Wall on a Budget Using ...",
+      "domain": "www.ikea.com",
+      "url": "https://www.ikea.com/us/en/cat/collage-photo-frames-10789/",
+      "title": "Gallery wall & collage picture frames",
       "is_americanflat": false
     }
   ],
   "11x14 photo frame with mat": [
     {
-      "position": 3,
-      "domain": "www.craigframes.com",
-      "url": "https://www.craigframes.com/products/matted-picture-frame-11x14-2inch-white-mat?srsltid=AfmBOopWffh6LdxpOwuUhp-Oo09FVQrReRZZlbCGSP6CIvv1qta9ZpRH",
-      "title": "Matted Picture Frame With 11x14 Opening and 2\" Border",
-      "is_americanflat": false
-    },
-    {
-      "position": 4,
-      "domain": "www.matboardandmore.com",
-      "url": "https://www.matboardandmore.com/shop/matted-frames",
-      "title": "Matted Frames 11x14\". 16x20\", 18x24\"",
-      "is_americanflat": false
-    },
-    {
-      "position": 5,
+      "position": 1,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/upsimples-Picture-Display-Pictures-Without/dp/B0BQR2BQYZ",
       "title": "upsimples 11x14 Picture Frame, Display Pictures 8x10 with ...",
       "is_americanflat": false
     },
     {
-      "position": 7,
+      "position": 3,
+      "domain": "www.craigframes.com",
+      "url": "https://www.craigframes.com/products/matted-picture-frame-11x14-2inch-white-mat?srsltid=AfmBOopXeHRegF-iCQKnR_O_jUx35J13y34NCSeZQk0IsF4TPr9ARP5S",
+      "title": "Matted Picture Frame With 11x14 Opening and 2\" Border",
+      "is_americanflat": false
+    },
+    {
+      "position": 5,
       "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/11x14-frames?srsltid=AfmBOop2VEJ7rUuO2LIC6Uaibp9B8UP0zxOA_ll5hbGl5qpdxR4tWWmt",
+      "url": "https://americanflat.com/collections/11x14-frames?srsltid=AfmBOoq6_q8AktmqwIjP-UcgGpptWfdkczZJrRmrq54vKNsJrkgPAOoJ",
       "title": "Shop 11x14 Picture Frames",
       "is_americanflat": true
     },
     {
-      "position": 8,
+      "position": 6,
+      "domain": "www.matboardandmore.com",
+      "url": "https://www.matboardandmore.com/shop/matted-frames",
+      "title": "Matted Frames 11x14\". 16x20\", 18x24\"",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOorDbgqFfQthpg17l37ZdLOg6UPOc1u2ogh4arLxJlRLOvImECJg",
+      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOorHlmkTuNzRgqLGyli4-emgVozNEWFeaK6a4v1S1SK_Fmk-GmJ_",
       "title": "11x14 Picture Frames, 11x14 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
-      "position": 9,
+      "position": 8,
       "domain": "www.dollartree.com",
       "url": "https://www.dollartree.com/picture-frames/11x14-picture-frames",
       "title": "11x14 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 12,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/stores/MatBoardCenter/page/43FC5B40-FCD8-4CED-B59B-174B0DD751A7",
-      "title": "Mat Board Center: 11x14 Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/collections/11x14-picture-frames?srsltid=AfmBOoo_6Y9qSTSSenZA547-Q_pbSd2fNBVNA3xXQIRxTMnMhGnVGNm3",
-      "title": "11x14 Picture Frame with Mat",
-      "is_americanflat": false
-    },
-    {
-      "position": 14,
+      "position": 9,
       "domain": "www.target.com",
       "url": "https://www.target.com/s/11+x+14+photo+frame+wall",
       "title": "11 x 14 photo frame wall",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/MatBoardCenter/page/43FC5B40-FCD8-4CED-B59B-174B0DD751A7",
+      "title": "11x14 Frames - Mat Board Center",
+      "is_americanflat": false
+    },
+    {
+      "position": 11,
+      "domain": "www.northlandframesandgifts.com",
+      "url": "https://www.northlandframesandgifts.com/11x14-picture-frame-with-matboard-holds-one-5x7-image/?srsltid=AfmBOorzRqmPEYF0uwDtCMwqYuvv2sXqSGEgh1g-5J_JcRZeFCMXaDnr",
+      "title": "11x14 Picture Frame Matboard- Holds One 5x7 Image",
       "is_americanflat": false
     }
   ],
   "11x14 picture frame with mat": [
     {
       "position": 2,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/collections/11x14-picture-frames?srsltid=AfmBOoq_iN7xMIZKEeArbgDa3pKFlELVaMtFcLsP1gGWh0uIKhCo5onJ",
-      "title": "11x14 Picture Frame with Mat",
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOooj_Yr22ojIzubuX60Mzri62z4dazlenx2lbPpJPNRV8dWSzdGo",
+      "title": "11x14 Picture Frames, 11x14 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
-      "position": 5,
+      "position": 3,
       "domain": "www.craigframes.com",
-      "url": "https://www.craigframes.com/products/matted-picture-frame-11x14-1inch-white-mat?srsltid=AfmBOorviepnqpieq-IVhMU94VYBfJCbPgycij73C5x_WFs8cnAviwWI",
+      "url": "https://www.craigframes.com/products/matted-picture-frame-11x14-1inch-white-mat?srsltid=AfmBOoog9gDE8ryvvDhqv7s5vtEMHqAf8k7HR7uRzE3NECFQ8sNGtmPF",
       "title": "Matted Picture Frame With 11x14 Opening and 1\" Border",
       "is_americanflat": false
     },
     {
       "position": 6,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOoo2qCzgRvo9gvtHuVler6AB2igT_FWlDI9VWTjqpmV9GtdRTUvO",
-      "title": "11x14 Picture Frames, 11x14 Poster Frames - ArtToFrame",
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/collections/11x14-picture-frames?srsltid=AfmBOorm8WBIKSs-ECsjy1Zuau1F7qD_Jk43LWv89rZ9jnSTZ3bk0cJx",
+      "title": "11x14 Picture Frame with Mat",
       "is_americanflat": false
     },
     {
-      "position": 8,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/stores/MatBoardCenter/page/43FC5B40-FCD8-4CED-B59B-174B0DD751A7",
-      "title": "Mat Board Center: 11x14 Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/11x14-frames?srsltid=AfmBOop_dBiyB4HB4F16TDXQr-cpT7nZ6O2j4OQBNsd7sYlLKabGnBNF",
-      "title": "Shop 11x14 Picture Frames",
-      "is_americanflat": true
-    },
-    {
-      "position": 10,
+      "position": 7,
       "domain": "www.michaels.com",
       "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/11x14-frames",
       "title": "11x14 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 12,
+      "position": 9,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/MatBoardCenter/page/43FC5B40-FCD8-4CED-B59B-174B0DD751A7",
+      "title": "Mat Board Center: 11x14 Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 10,
       "domain": "www.target.com",
       "url": "https://www.target.com/s/matted+frame+11x14+opening",
       "title": "matted frame 11x14 opening",
       "is_americanflat": false
+    },
+    {
+      "position": 11,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/11x14-frames?srsltid=AfmBOooVWAiTwjWJKMg9PdArSMPTz1rRK86vvj4R-_7h1MdhGir1c67k",
+      "title": "Shop 11x14 Picture Frames",
+      "is_americanflat": true
     },
     {
       "position": 13,
@@ -2611,130 +2569,109 @@
   "11x14": [
     {
       "position": 4,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/11x14-frames?srsltid=AfmBOoqqNRDr6snSKi7cYWGAv0MXFTeLGjf11p4IlJsvPGXHKfDNUos-",
+      "title": "Shop 11x14 Picture Frames",
+      "is_americanflat": true
+    },
+    {
+      "position": 5,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOooJqMstB2gUAS9KYRxcBYBSnwpt9IkfNHxId31vq_gz-j9MfF-j",
+      "title": "11x14 Picture Frames, 11x14 Poster Frames - ArtToFrame",
+      "is_americanflat": false
+    },
+    {
+      "position": 6,
+      "domain": "www.nationsphotolab.com",
+      "url": "https://www.nationsphotolab.com/products/prints-11x14?srsltid=AfmBOop-c4JCfSJLVvyvRfivFbDAdXEpGNgyGWTQx5MFoy7TBrOXG0gr",
+      "title": "11x14 Prints | Order Professional Photo Prints",
+      "is_americanflat": false
+    },
+    {
+      "position": 7,
+      "domain": "www.facebook.com",
+      "url": "https://www.facebook.com/mlashea.johnson/videos/poster-board-ideas-199-11x14-poster-at-walgreens/732933602734196/",
+      "title": "Poster Board Ideas! ($1.99 11x14 poster at Walgreens) | Shea ...",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
+      "domain": "www.craigframes.com",
+      "url": "https://www.craigframes.com/products/matted-picture-frame-11x14-1inch-white-mat?srsltid=AfmBOoqOUfInZqvHQEhD1mBbth7B48UBY44c2ztdKr855F7oYevZ4p0S",
+      "title": "Matted Picture Frame With 11x14 Opening and 1\" Border",
+      "is_americanflat": false
+    },
+    {
+      "position": 9,
+      "domain": "photos3.walmart.com",
+      "url": "https://photos3.walmart.com/category/306-full-photo--designed-canvas?size=11x14&srsltid=AfmBOoom5UaD_PPxX12VzGC10L0k_Mi3Gp_pNb2itxNHWnrg3f9DHqVX",
+      "title": "11x14 Canvas Prints",
+      "is_americanflat": false
+    },
+    {
+      "position": 11,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/upsimples-Picture-Display-Pictures-Without/dp/B0BQR2BQYZ",
       "title": "upsimples 11x14 Picture Frame, Display Pictures 8x10 with ...",
       "is_americanflat": false
     },
     {
-      "position": 5,
-      "domain": "www.nationsphotolab.com",
-      "url": "https://www.nationsphotolab.com/products/prints-11x14?srsltid=AfmBOoqBWVDSfINGoY-AYQDAXsQStFcDZKn35xZ6_dary41Eipddnu8j",
-      "title": "11x14 Prints | Order Professional Photo Prints",
-      "is_americanflat": false
-    },
-    {
-      "position": 6,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/11x14-frames?srsltid=AfmBOorM1YId62p13-5AQd2SFSFhYILc8CnHnUjVvJCD8vQoH7S1FMna",
-      "title": "Shop 11x14 Picture Frames",
-      "is_americanflat": true
-    },
-    {
-      "position": 7,
-      "domain": "frameamo.com",
-      "url": "https://frameamo.com/blogs/how-tos-and-tutorials/11x14-frame-sizing-guide-how-to-mat-and-display-your-11x14-or-smaller-artwork?srsltid=AfmBOoqiTY7cKb6VzRYq_HKw_-tMy7RwsVRkQw1U8PVPuNLubHMsKVf0",
-      "title": "11x14 Frame Sizing Guide: How to Mat and Display Your ...",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
-      "domain": "photos3.walmart.com",
-      "url": "https://photos3.walmart.com/category/142-full-photo--designed-custom-posters?size=11x14&srsltid=AfmBOorcrg6be8GE6-hxQJZo-x7FyIXJ6Cpvq6NhVnDjo_NtkTjA8-As",
-      "title": "11x14 Poster Printing",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
-      "domain": "www.snapfish.com",
-      "url": "https://www.snapfish.com/large-print-11x14",
-      "title": "11x14 Poster Prints | Large Photo Prints",
-      "is_americanflat": false
-    },
-    {
-      "position": 10,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/11x14_picture_frames?srsltid=AfmBOop1rZbOBk_8I1fJw6PniJybsXUv5eRhRLEXkhDlzME7rKv7Q8Px",
-      "title": "11x14 Picture Frames, 11x14 Poster Frames - ArtToFrame",
-      "is_americanflat": false
-    },
-    {
       "position": 12,
-      "domain": "www.craigframes.com",
-      "url": "https://www.craigframes.com/products/matted-picture-frame-11x14-1inch-white-mat?srsltid=AfmBOoqVKX8ACxzgK_rApIvVf_3G4pPBxJg8h0bZJtWplRntr0V62vJn",
-      "title": "Matted Picture Frame With 11x14 Opening and 1\" Border",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/11x14-picture-frames?srsltid=AfmBOop4h5gGzBx1c75E8y4Q2lu4V0VAthm5ZoRqCv-mJzwWc5OinMLB",
-      "title": "11\" x 14\" Picture Frames",
+      "domain": "www.dollartree.com",
+      "url": "https://www.dollartree.com/picture-frames/11x14-picture-frames",
+      "title": "11x14 Picture Frames",
       "is_americanflat": false
     }
   ],
   "18 x 24": [
     {
-      "position": 3,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOorTu2x68zMsde5eIg_4WAAa2cfc9L04uopzEenzcEtD1_FLTb-t",
-      "title": "18\" x 24\" Picture Frames",
+      "position": 1,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOopLxGLsCeL0TeEbe9r5fZM2X0vDYSooF3q-_7SOwaJa-YmehqeI",
+      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
-      "position": 4,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOor6-1JFPeQS3TTwUJmtIgsQPJsvuDH9W-yr6EWdv-n6LMRSSQDL",
-      "title": "Shop 18x24 Picture Frames",
-      "is_americanflat": true
-    },
-    {
-      "position": 5,
+      "position": 3,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/24x18-frame/s?k=24x18+frame",
       "title": "24x18 Frame",
       "is_americanflat": false
     },
     {
-      "position": 6,
-      "domain": "www.instagram.com",
-      "url": "https://www.instagram.com/reel/DA9nPLnPsQw/?hl=en",
-      "title": "I just got the new 18 x 24 inch poster samples and they look ...",
+      "position": 5,
+      "domain": "www.walmart.com",
+      "url": "https://www.walmart.com/browse/photo-center/18x24-frames/5426_672579_7340945",
+      "title": "18x24 Frames in Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 7,
-      "domain": "www.youtube.com",
-      "url": "https://www.youtube.com/watch?v=RsjsVKnD9Ak",
-      "title": "18x24 Art Unboxing Video for Framed Giclee Print On ...",
+      "position": 6,
+      "domain": "www.lowes.com",
+      "url": "https://www.lowes.com/pd/SECO-Snap-Frame-18-In-x-24-In-White/it-ch",
+      "title": "https://www.lowes.com/pd/SECO-Snap-Frame-18-In-x-2...",
       "is_americanflat": false
     },
     {
       "position": 8,
-      "domain": "posterstore.com",
-      "url": "https://posterstore.com/posters-prints/sizes/18-x-24-in/",
-      "title": "Buy prints in size 18\" x 24\" in online at Posterstore.com",
-      "is_americanflat": false
-    },
-    {
-      "position": 9,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOooRikMIARV_KkMDjrYVWXv0Or8AJCZ7Tqg-p-ZePp6qCSgkxXL8",
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
       "title": "18x24 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 10,
-      "domain": "printedmint.com",
-      "url": "https://printedmint.com/shop/poster-18-x-24-372",
-      "title": "Poster - 18\" x 24\"",
+      "position": 9,
+      "domain": "www.target.com",
+      "url": "https://www.target.com/s/frames+18x24",
+      "title": "18x24 Picture Frames | Oak, Metal, Black Wooden",
       "is_americanflat": false
     },
     {
-      "position": 11,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOorHWabh4CczotlpLpKp1JrAwfRCK3C9aggOO3wx8TzQT-yJrVLf",
-      "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
+      "position": 10,
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/stores/Americanflat/page/E99BE036-821C-437C-B9F8-BE9B691F4C74",
+      "title": "Americanflat: 18x24",
       "is_americanflat": false
     }
   ],
@@ -2747,21 +2684,21 @@
       "is_americanflat": false
     },
     {
-      "position": 3,
+      "position": 5,
       "domain": "frameusa.com",
-      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOoqqB4aAA-drH7A4Y5LDnj27vf_KP-yb5garQz7P_1ntqI1Q8BBf",
+      "url": "https://frameusa.com/collections/18x24-picture-frames?srsltid=AfmBOoqBtFF9PvgIxphMLQlv_bAbgdptJUGksTXT94iBj1NOWVfT43le",
       "title": "18x24 Picture Frames",
       "is_americanflat": false
     },
     {
-      "position": 4,
-      "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/browse/home/18x24-frames/4044_133012_672579_7340945",
-      "title": "18x24 Frames in Picture Frames",
-      "is_americanflat": false
+      "position": 7,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/18x24-frames?srsltid=AfmBOop-VWPWFGgYXTivhFw5ZlHn7yjzSwjAko6l3BL6FgQNcdu1ilSp",
+      "title": "Shop 18x24 Picture Frames",
+      "is_americanflat": true
     },
     {
-      "position": 10,
+      "position": 8,
       "domain": "www.michaels.com",
       "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
       "title": "18x24 Picture Frames",
@@ -2770,14 +2707,21 @@
     {
       "position": 11,
       "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOor-IKXkbyYrKKZKmeH0yCROi1zIcS5mQnfFc07fZmDikqpBk87F",
+      "url": "https://www.pictureframes.com/custom-framing/18x24-picture-frames?srsltid=AfmBOoqRl0G3tKSyfvkeyt4EOXf8XuFdXAxPJ8vIWFlYKnt4LvNrzLkj",
       "title": "18\" x 24\" Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 12,
+      "domain": "www.walmart.com",
+      "url": "https://www.walmart.com/browse/photo-center/18x24-frames/5426_672579_7340945",
+      "title": "18x24 Frames in Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 13,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOooM4Dlavvxv22jSe8iYf8ntuVS1VyJ4hkEVoxAFaEUp4tJq6mzg",
+      "url": "https://www.arttoframe.com/18x24_picture_frames?srsltid=AfmBOoq5j4Cepm3GoJTYvnp9ERvwUxoYw711mwqLnOMDX6bPGSkF3w8A",
       "title": "18x24 Picture Frames, 18x24 Poster Frames - ArtToFrame",
       "is_americanflat": false
     }
@@ -2785,58 +2729,58 @@
   "frames wall": [
     {
       "position": 3,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/shop/frames/gallery-wall-frames",
-      "title": "Gallery Wall Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 4,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/wall-frames/s?k=wall+frames",
       "title": "Wall Frames",
       "is_americanflat": false
     },
     {
+      "position": 5,
+      "domain": "frameology.com",
+      "url": "https://frameology.com/collections/wall-picture-frames?srsltid=AfmBOorRdtZzFEoeK24KVkDVCiT0i-CyRgklMVBn6u5pKJppcI1h5CEe",
+      "title": "Easy to Hang - Custom Wall Picture Frames",
+      "is_americanflat": false
+    },
+    {
       "position": 6,
-      "domain": "www.pinterest.com",
-      "url": "https://www.pinterest.com/ideas/wall-frame-design-ideas-living-room/951729287713/",
-      "title": "Wall Frame Design Ideas Living Room",
+      "domain": "www.kateandlaurel.com",
+      "url": "https://www.kateandlaurel.com/collections/wall-frame-sets?srsltid=AfmBOoopBzmJRi0R4r7gbhZRqnHzMrHHIrRW1eefiRMmPsE79_lOo4jB",
+      "title": "Gallery Wall Picture Frame Set for Living Room Decor",
       "is_americanflat": false
     },
     {
       "position": 7,
-      "domain": "www.framebridge.com",
-      "url": "https://www.framebridge.com/collections/gallery-walls?srsltid=AfmBOooxgZc0jESahCDb-MhQoBpgpOFsc4cLUusptRqU-e6JoLKJWc2z",
-      "title": "Curated Gallery Walls: Custom Layouts & Easy Hanging",
+      "domain": "www.pinterest.com",
+      "url": "https://www.pinterest.com/pin/diy-gallery-wall-ideas--1055599908274617/",
+      "title": "DIY GALLERY WALL IDEAS",
       "is_americanflat": false
     },
     {
       "position": 8,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/type/gallery-wall-picture-frames?srsltid=AfmBOop8eezSOoLIYxxwpsY5abRtBazMPqd75F_JJ1Z9hWRRbWkBJKVw",
-      "title": "Gallery Wall Picture Frames",
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/Best-Sellers-Wall-Tabletop-Picture-Frames/zgbs/home-garden/3735611",
+      "title": "Best Wall & Tabletop Picture Frames",
       "is_americanflat": false
     },
     {
       "position": 9,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/gallery-wall-frame-set?srsltid=AfmBOorALN8l8ci6Wb_JVSHzLOATVqjZybyubnVh9Bo5nWGGHYzLI2i8",
-      "title": "Shop Gallery Wall Frame Sets",
-      "is_americanflat": true
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/type/gallery-wall-picture-frames?srsltid=AfmBOopEv4e4ztYMlUBhb_RCzserJj_qgUfEhFtpgRlbUpDmWVOCjGOs",
+      "title": "Gallery Wall Picture Frames",
+      "is_americanflat": false
     },
     {
       "position": 10,
-      "domain": "hallofframes.com",
-      "url": "https://hallofframes.com/product-category/wall-frames/?srsltid=AfmBOooapWuTxE9VAGw7boqKxMA1uCW46vWOq738NhglNqNBpEx1Pbws",
-      "title": "Shop our large assortment of picture frames - Hall of Frames",
+      "domain": "www.westelm.com",
+      "url": "https://www.westelm.com/shop/wall-decor-mirrors/gallery-wall-frames/",
+      "title": "Gallery Wall Frames for Your Modern Home",
       "is_americanflat": false
     },
     {
       "position": 11,
-      "domain": "www.kateandlaurel.com",
-      "url": "https://www.kateandlaurel.com/collections/picture-frames?srsltid=AfmBOopcmuULlf4eTwqEBeK7i0pU9iZf-Knn90YvX32N1PQLme4qa8ge",
-      "title": "Picture Frames – kateandlaurel",
+      "domain": "www.framebridge.com",
+      "url": "https://www.framebridge.com/collections/gallery-walls?srsltid=AfmBOoosl6R5vVBpIu8TYCl2zicPyCfGdXfSmvas6wSMEL784c4PK3dq",
+      "title": "Curated Gallery Walls: Custom Layouts & Easy Hanging",
       "is_americanflat": false
     }
   ],
@@ -2844,22 +2788,29 @@
     {
       "position": 2,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/16x16_picture_frames?srsltid=AfmBOoq6DrunF6uJ2SZFu2HzeW6RKjt5WgZJhObATBORK29f_GVElLyZ",
+      "url": "https://www.arttoframe.com/16x16_picture_frames?srsltid=AfmBOorTYFgSmAPUrXI-okx-tXSQYbCVI0kQVG8R6OWUlcGKjeDyJ_Qx",
       "title": "16x16 Picture Frames, 16x16 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
       "position": 3,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/16x16-frames?srsltid=AfmBOop8UJ7X0tQMJdkrCYdzPjGFQbCKPDcZByQI8U1NMFTRDtqMh1O6",
-      "title": "Shop 16x16 Picture Frames",
-      "is_americanflat": true
+      "domain": "www.amazon.com",
+      "url": "https://www.amazon.com/16x16-frame/s?k=16x16+frame",
+      "title": "16x16 Frame",
+      "is_americanflat": false
     },
     {
       "position": 4,
-      "domain": "www.michaels.com",
-      "url": "https://www.michaels.com/product/arttoframes-16x16-inch-picture-frame-this-125-inch-custom-wood-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-regular-glass-and-corrugated-backing-a17ls-158304608740458500",
-      "title": "ArtToFrames 16x16 Inch Picture Frame, ...",
+      "domain": "www.walmart.com",
+      "url": "https://www.walmart.com/c/kp/16x16-frame",
+      "title": "16x16 Frames for Photos and Art",
+      "is_americanflat": false
+    },
+    {
+      "position": 5,
+      "domain": "www.target.com",
+      "url": "https://www.target.com/s/16x16+poster+frame",
+      "title": "16x16 Poster Frame - Black & White Options",
       "is_americanflat": false
     },
     {
@@ -2871,20 +2822,13 @@
     },
     {
       "position": 7,
-      "domain": "www.target.com",
-      "url": "https://www.target.com/s/16x16+poster+frame",
-      "title": "16x16 Poster Frame - Black & White Options",
-      "is_americanflat": false
-    },
-    {
-      "position": 8,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/live/video/0944b57656b042a6ba03f10b24047f97",
       "title": "Watch Review of 16x16 Picture Frame Set of 3 Oak on ...",
       "is_americanflat": false
     },
     {
-      "position": 9,
+      "position": 10,
       "domain": "www.homedepot.com",
       "url": "https://www.homedepot.com/b/Home-Decor-Frames-Albums-Picture-Frames/16-x-16/N-5yc1vZcf9mZ1z1s0a6",
       "title": "16\" x 16\" - Picture Frames",
@@ -2899,9 +2843,9 @@
     },
     {
       "position": 12,
-      "domain": "www.walmart.com",
-      "url": "https://www.walmart.com/c/kp/16x16-frame",
-      "title": "16x16 Frames for Photos and Art",
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/product/arttoframes-16x16-inch-picture-frame-this-125-inch-custom-wood-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-regular-glass-and-corrugated-backing-a17ls-158304608740458500",
+      "title": "ArtToFrames 16x16 Inch Picture Frame, ...",
       "is_americanflat": false
     },
     {
@@ -2915,23 +2859,23 @@
   "9x12 frame": [
     {
       "position": 2,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/9x12_picture_frames?srsltid=AfmBOoqztpajV65i3YsfUnTR-S6QVxK5RoaFVoY5J1nIR2dljXNGGFBj",
-      "title": "9x12 Picture Frames, 9x12 Poster Frames - ArtToFrame",
+      "domain": "www.target.com",
+      "url": "https://www.target.com/s/michaels+9x12+frame",
+      "title": "Michaels 9x12 Frames | Picture Frames for Sale",
       "is_americanflat": false
     },
     {
       "position": 3,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/9x12-picture-frames?srsltid=AfmBOoqylU6hunwcv95SWpeynNOPrWwll5ZMn8RPZTjBAf10qGVOq3KV",
-      "title": "9\" x 12\" Picture Frames",
-      "is_americanflat": false
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/9x12-frames?srsltid=AfmBOorH45YIehG-qH5RVdRgoeopMC70aSdrdzuwy53-klYI0VzYoH_J",
+      "title": "9x12 Picture Frames - Various Colors & Styles Available",
+      "is_americanflat": true
     },
     {
       "position": 5,
-      "domain": "www.target.com",
-      "url": "https://www.target.com/s/michaels+9x12+frame",
-      "title": "Michaels 9x12 Frames | Picture Frames for Sale",
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/9x12_picture_frames?srsltid=AfmBOopt8Acq2aVkI3zln2PMB0rATqYUtUdgcy5gzhfGYWhhg7UYhWh_",
+      "title": "9x12 Picture Frames, 9x12 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
@@ -2942,68 +2886,61 @@
       "is_americanflat": false
     },
     {
+      "position": 7,
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/9x12-picture-frames?srsltid=AfmBOoqg_ogFmMsvuRH764knyWtytjWVu12rVpN5VUMlsyEa8js771Sx",
+      "title": "9\" x 12\" Picture Frames",
+      "is_americanflat": false
+    },
+    {
       "position": 8,
       "domain": "www.dickblick.com",
-      "url": "https://www.dickblick.com/categories/framing/frames-by-size/9x12-frames/?srsltid=AfmBOoqQslF_azKx8SdwSm8Ud0QzM8zclyV5FfR8uZnvynLLNxV5inWd",
+      "url": "https://www.dickblick.com/categories/framing/frames-by-size/9x12-frames/?srsltid=AfmBOoqc_lqSURztpViMoO3TM2VPCDMFzurbROaFVNgm9qjCzR4tmGhe",
       "title": "9\" x 12\" Frames",
       "is_americanflat": false
     },
     {
       "position": 10,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/0d1047bcc11b4eb38298cfe365e3449b?ref_=dp_vse_rvc_3",
-      "title": "Watch Best Picture Frame? | 9x12 Black Plastic Photo Frame ...",
+      "domain": "www.walmart.com",
+      "url": "https://www.walmart.com/c/kp/picture-frames-9-x-12",
+      "title": "Picture Frames 9 x 12 for Home Display",
       "is_americanflat": false
     },
     {
-      "position": 11,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/stores/WHOLESALEARTSANDFRAMES/page/2E08BB10-51AE-4055-A117-A8174629A5CD",
-      "title": "WHOLESALE ARTS AND FRAMES : 9x12 Frames",
-      "is_americanflat": false
-    },
-    {
-      "position": 13,
-      "domain": "www.wayfair.com",
-      "url": "https://www.wayfair.com/decor-pillows/sb1/9-x-12-picture-frames-c215460-a5375~268518.html",
-      "title": "9\" x 12\" Picture Frames You'll Love",
+      "position": 12,
+      "domain": "www.etsy.com",
+      "url": "https://www.etsy.com/market/9x12_picture_frame",
+      "title": "9x12 Picture Frame",
       "is_americanflat": false
     },
     {
       "position": 14,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/9x12-frames?srsltid=AfmBOoopQDZcMjozq1GAxPdgsYMguMkCBAp6b2ADep7c40W7g_oGvqV-",
-      "title": "9x12 Picture Frames - Various Colors & Styles Available",
-      "is_americanflat": true
+      "domain": "www.wayfair.com",
+      "url": "https://www.wayfair.com/decor-pillows/sb1/9-x-12-picture-frames-c215460-a5375~268518.html",
+      "title": "9\" x 12\" Picture Frames You'll Love",
+      "is_americanflat": false
     }
   ],
   "9x12 picture frame": [
     {
-      "position": 1,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/9x12-frames?srsltid=AfmBOorTcnrufLecOSc7QZpbVnD-26PX-Gjs2Dus-4wXNaKKuCe3Teqe",
-      "title": "9x12 Picture Frames - Various Colors & Styles Available",
-      "is_americanflat": true
-    },
-    {
-      "position": 3,
-      "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/9x12_picture_frames?srsltid=AfmBOoqYcooXERa6iqQ57cH968gQNLd9ogLMPpr9_c6EC0YMN9BYF0JP",
-      "title": "9x12 Picture Frames, 9x12 Poster Frames - ArtToFrame",
-      "is_americanflat": false
-    },
-    {
-      "position": 4,
+      "position": 2,
       "domain": "www.target.com",
       "url": "https://www.target.com/s/michaels+9x12+frame",
       "title": "Michaels 9x12 Frames | Picture Frames for Sale",
       "is_americanflat": false
     },
     {
-      "position": 6,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/9x12-picture-frames?srsltid=AfmBOoqLomPNsivINauCte6HwpLjQlhiGkotsvQuFNU9MRIeOIRE05-o",
-      "title": "9\" x 12\" Picture Frames",
+      "position": 3,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/9x12-frames?srsltid=AfmBOoo-c4yFLGnAE7dHq8A3p2tkMGKsSqBVixmgRWiT4crakRd29aX0",
+      "title": "9x12 Picture Frames - Various Colors & Styles Available",
+      "is_americanflat": true
+    },
+    {
+      "position": 4,
+      "domain": "www.arttoframe.com",
+      "url": "https://www.arttoframe.com/9x12_picture_frames?srsltid=AfmBOoqMctRavGflcUEsaWwcWTrxncipXvETpJyu0BS0oltPwI4diVxA",
+      "title": "9x12 Picture Frames, 9x12 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
@@ -3011,6 +2948,13 @@
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/9x12-frame/s?k=9x12+frame",
       "title": "9x12 Frame",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
+      "domain": "www.ebay.com",
+      "url": "https://www.ebay.com/b/9-x-12-in-Suitable-for-Photo-Picture-Frames/79654/bn_7116571022",
+      "title": "9 x 12 in Suitable for Photo Picture Frames for sale",
       "is_americanflat": false
     },
     {
@@ -3022,67 +2966,74 @@
     },
     {
       "position": 11,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/0d1047bcc11b4eb38298cfe365e3449b?ref_=dp_vse_rvc_3",
-      "title": "Watch Best Picture Frame? | 9x12 Black Plastic Photo Frame ...",
+      "domain": "www.wayfair.com",
+      "url": "https://www.wayfair.com/decor-pillows/sb1/9-x-12-picture-frames-c215460-a5375~268518.html",
+      "title": "9\" x 12\" Picture Frames You'll Love",
       "is_americanflat": false
     },
     {
-      "position": 12,
+      "position": 13,
       "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/stores/WHOLESALEARTSANDFRAMES/page/2E08BB10-51AE-4055-A117-A8174629A5CD",
-      "title": "WHOLESALE ARTS AND FRAMES : 9x12 Frames",
+      "url": "https://www.amazon.com/stores/Americanflat/page/9C0F6B59-5671-4649-BF31-8BB9ABFE2107",
+      "title": "Americanflat: 9x12",
       "is_americanflat": false
     },
     {
       "position": 14,
-      "domain": "www.wayfair.com",
-      "url": "https://www.wayfair.com/decor-pillows/sb1/9-x-12-picture-frames-c215460-a5375~268518.html",
-      "title": "9\" x 12\" Picture Frames You'll Love",
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/9x12-picture-frames?srsltid=AfmBOoqNxcuy2aepUp7XUhC9JYz6p_IhWS3M2zd0h11_IRp2uT5-nv3v",
+      "title": "9\" x 12\" Picture Frames",
       "is_americanflat": false
     }
   ],
   "picture frame 9 x 12": [
     {
-      "position": 6,
-      "domain": "americanflat.com",
-      "url": "https://americanflat.com/collections/9x12-frames?srsltid=AfmBOop03ObhzhQHCFjPbwAbmr8ZszwkWsS8_dOwf4dVVNtjNO3i-CFg",
-      "title": "9x12 Picture Frames - Various Colors & Styles Available",
-      "is_americanflat": true
-    },
-    {
-      "position": 7,
+      "position": 1,
       "domain": "www.amazon.com",
       "url": "https://www.amazon.com/9x12-frame/s?k=9x12+frame",
       "title": "9x12 Frame",
       "is_americanflat": false
     },
     {
-      "position": 8,
-      "domain": "www.pictureframes.com",
-      "url": "https://www.pictureframes.com/custom-framing/9x12-picture-frames?srsltid=AfmBOooiKTnqpntCjA5Pjjt05f6pusYr49KwP0tMYmtLtkdzDN_4_Cdx",
-      "title": "9\" x 12\" Picture Frames",
-      "is_americanflat": false
+      "position": 4,
+      "domain": "americanflat.com",
+      "url": "https://americanflat.com/collections/9x12-frames?srsltid=AfmBOoqN6PHT2taNV4qrLwZuROPL-lKcMsw04Y5o2KzkjqDmDaRySfMV",
+      "title": "9x12 Picture Frames - Various Colors & Styles Available",
+      "is_americanflat": true
     },
     {
-      "position": 9,
+      "position": 6,
       "domain": "www.target.com",
       "url": "https://www.target.com/s/michaels+9x12+frame",
       "title": "Michaels 9x12 Frames | Picture Frames for Sale",
       "is_americanflat": false
     },
     {
-      "position": 10,
+      "position": 7,
+      "domain": "www.pictureframes.com",
+      "url": "https://www.pictureframes.com/custom-framing/9x12-picture-frames?srsltid=AfmBOopHgSV4VFZcodyrjZm0BDsfBmBJ3xb2WjaUfxlZj7w7WCm8y55Z",
+      "title": "9\" x 12\" Picture Frames",
+      "is_americanflat": false
+    },
+    {
+      "position": 8,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/9x12_picture_frames?srsltid=AfmBOoqkVeL4NM_qU68TYqDBwJ3eStmis5uRjxqbUsPt_vlWlN2Za4Ss",
+      "url": "https://www.arttoframe.com/9x12_picture_frames?srsltid=AfmBOoph1EueAUKktCpscmA6uXOCLhKo0QU1i-aRWzFswGUs-_tK1AeG",
       "title": "9x12 Picture Frames, 9x12 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
     {
+      "position": 9,
+      "domain": "www.ebay.com",
+      "url": "https://www.ebay.com/b/9-x-12-in-Suitable-for-Photo-Picture-Frames/79654/bn_7116571022",
+      "title": "9 x 12 in Suitable for Photo Picture Frames for sale",
+      "is_americanflat": false
+    },
+    {
       "position": 11,
-      "domain": "www.modernmemorydesign.com",
-      "url": "https://www.modernmemorydesign.com/collections/modern-gallery-9x12-frames-with-glass-9-x-12-picture-frame?srsltid=AfmBOop1sApc05_ByOvLGE3jbYpFDab8iMuXwxUs9_Md-tG2nxSRE35T",
-      "title": "Shop 9x12 Picture frame - Custom Frame for Wall Art Decor",
+      "domain": "www.wayfair.com",
+      "url": "https://www.wayfair.com/decor-pillows/sb1/9-x-12-picture-frames-c215460-a5375~268518.html",
+      "title": "9\" x 12\" Picture Frames You'll Love",
       "is_americanflat": false
     },
     {
@@ -3094,16 +3045,9 @@
     },
     {
       "position": 13,
-      "domain": "www.wayfair.com",
-      "url": "https://www.wayfair.com/decor-pillows/sb1/9-x-12-picture-frames-c215460-a5375~268518.html",
-      "title": "9\" x 12\" Picture Frames You'll Love",
-      "is_americanflat": false
-    },
-    {
-      "position": 14,
-      "domain": "www.amazon.com",
-      "url": "https://www.amazon.com/live/video/0d1047bcc11b4eb38298cfe365e3449b?ref_=dp_vse_rvc_3",
-      "title": "Watch Best Picture Frame? | 9x12 Black Plastic Photo Frame ...",
+      "domain": "www.dickblick.com",
+      "url": "https://www.dickblick.com/categories/framing/frames-by-size/9x12-frames/?srsltid=AfmBOoqfGlPKlpdCzo-qqrKByBXQe_1u8ekBOnT2lqqKmHdeKWOyVeVr",
+      "title": "9\" x 12\" Frames",
       "is_americanflat": false
     }
   ],
@@ -3118,7 +3062,7 @@
     {
       "position": 4,
       "domain": "www.arttoframe.com",
-      "url": "https://www.arttoframe.com/11x17_picture_frames?srsltid=AfmBOoqBHiz8gAft-v-5wMaZ3cHGVT0GBRXGT--eD1Zyw1WwH0D_9ER0",
+      "url": "https://www.arttoframe.com/11x17_picture_frames?srsltid=AfmBOorI8P6tWfGjY5lbN5frftI2ywiUSBdA-8IdWbhrdCrA6FB2V2lL",
       "title": "11x17 Picture Frames, 11x17 Poster Frames - ArtToFrame",
       "is_americanflat": false
     },
@@ -3137,24 +3081,24 @@
       "is_americanflat": false
     },
     {
-      "position": 8,
-      "domain": "www.braesidedisplays.com",
-      "url": "https://www.braesidedisplays.com/products/11-x-17-slide-in-poster-frame-double-sided?srsltid=AfmBOoq53_J5xdo2tWndehIX1ySt5Z5VytGkJrk9ohLEyyLD-0xPeVVY",
-      "title": "11\" x 17\" Slide-In Poster Frame, Double Sided",
+      "position": 7,
+      "domain": "www.michaels.com",
+      "url": "https://www.michaels.com/product/gallery-wall-17x11-picture-frame-black-17x11-frame-17-x-11-poster-frames-17-x-11-212920514952134666",
+      "title": "Gallery Wall 17x11 Picture Frame Black ...",
       "is_americanflat": false
     },
     {
-      "position": 9,
-      "domain": "www.target.com",
-      "url": "https://www.target.com/s/11x17+frames",
-      "title": "11x17 Frames | Oak, Metal, Black & White Options",
+      "position": 8,
+      "domain": "frameusa.com",
+      "url": "https://frameusa.com/pages/11x17-poster-frame?srsltid=AfmBOoodtRWIGKO-D6FXE-luId4pm5ormqNtp0JaANB_ULN8eEJKAZpf",
+      "title": "11x17 Poster Frames | 11x17 Wood Frames",
       "is_americanflat": false
     },
     {
       "position": 10,
-      "domain": "frameusa.com",
-      "url": "https://frameusa.com/pages/11x17-poster-frame?srsltid=AfmBOopbXT-_atwLncAJkJhr4nCHsY3hwyo0q65HhuSNcWV56QyUIImC",
-      "title": "11x17 Poster Frames | 11x17 Wood Frames",
+      "domain": "www.target.com",
+      "url": "https://www.target.com/s/11x17+frames",
+      "title": "11x17 Frames | Oak, Metal, Black & White Options",
       "is_americanflat": false
     },
     {
@@ -3167,15 +3111,15 @@
     {
       "position": 12,
       "domain": "www.framedestination.com",
-      "url": "https://www.framedestination.com/ctg/picture-frames/size/11x17?srsltid=AfmBOop6blkc06Stmz20YfTKo9nh9rUfc29-oO-uH3GtuNH-LcDEV_cO",
+      "url": "https://www.framedestination.com/ctg/picture-frames/size/11x17?srsltid=AfmBOoqbgBhP5R-s7esz8qjlM4GzRn_hwccHspPFzLAK1n12lYlLVRUJ",
       "title": "11x17 Picture Frames & Poster Frames",
       "is_americanflat": false
     },
     {
       "position": 13,
-      "domain": "www.pfile.com",
-      "url": "https://www.pfile.com/prod_detail_list/11x17-Picture-Frames?srsltid=AfmBOop5IU7utMHfavK2fDlWIkcqH62KDMrtPZn5D0gOln8WiMcwL6i5",
-      "title": "11x17 Picture Frames – Bulk Orders",
+      "domain": "www.hobbylobby.com",
+      "url": "https://www.hobbylobby.com/home-decor-frames/frames-framing-supplies/picture-frames/quick-wall-picture-frame/p/fr15005?srsltid=AfmBOopHcf70ZkS6AQWC0J5SV6gMPY8O9v_Va81wei_ilJ-HDxMCI77T",
+      "title": "Quick Wall Picture Frame",
       "is_americanflat": false
     }
   ]

@@ -3,33 +3,33 @@
     {
       "domain": "americanflat.com",
       "rank": 354,
-      "backlinks": 2014,
-      "referring_domains": 327,
-      "referring_main_domains": 317,
+      "backlinks": 2018,
+      "referring_domains": 330,
+      "referring_main_domains": 320,
       "is_target": true
     },
     {
       "domain": "arttoframe.com",
       "rank": 290,
-      "backlinks": 6899,
-      "referring_domains": 1431,
-      "referring_main_domains": 1271,
+      "backlinks": 6904,
+      "referring_domains": 1433,
+      "referring_main_domains": 1273,
       "is_target": false
     },
     {
       "domain": "modernmemorydesign.com",
       "rank": 243,
-      "backlinks": 2977,
-      "referring_domains": 634,
-      "referring_main_domains": 585,
+      "backlinks": 3011,
+      "referring_domains": 633,
+      "referring_main_domains": 584,
       "is_target": false
     },
     {
       "domain": "pictureframes.com",
       "rank": 274,
-      "backlinks": 8274,
-      "referring_domains": 1580,
-      "referring_main_domains": 1512,
+      "backlinks": 8323,
+      "referring_domains": 1584,
+      "referring_main_domains": 1515,
       "is_target": false
     }
   ],
@@ -263,6 +263,24 @@
       "first_seen": "2021-10-25"
     },
     {
+      "domain": "talentedladiesclub.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "domain": "remoterocketship.com",
+      "rank": 0,
+      "backlinks": 2,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "domain": "successfulblackparenting.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-14"
+    },
+    {
       "domain": "bathroomremodelinginfortworth.com",
       "rank": 0,
       "backlinks": 1,
@@ -315,24 +333,6 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-06-20"
-    },
-    {
-      "domain": "jake.eu",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-19"
-    },
-    {
-      "domain": "mommyhoodlife.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-19"
-    },
-    {
-      "domain": "eliterankdirectory.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-18"
     }
   ],
   "anchors": [
@@ -412,6 +412,11 @@
       "referring_domains": 1
     },
     {
+      "anchor": "Website",
+      "backlinks": 9,
+      "referring_domains": 7
+    },
+    {
       "anchor": "Mandy Buchanan  Americanflat",
       "backlinks": 9,
       "referring_domains": 7
@@ -430,11 +435,6 @@
       "anchor": "Black Poster Frames | Shatter-Resistant Glass. Hanging Hardware Includ –  Americanfl…",
       "backlinks": 7,
       "referring_domains": 1
-    },
-    {
-      "anchor": "Visit Website",
-      "backlinks": 7,
-      "referring_domains": 4
     }
   ],
   "history": [
@@ -536,6 +536,24 @@
     }
   ],
   "gained": [
+    {
+      "domain": "talentedladiesclub.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "domain": "remoterocketship.com",
+      "rank": 0,
+      "backlinks": 2,
+      "first_seen": "2026-07-17"
+    },
+    {
+      "domain": "successfulblackparenting.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-14"
+    },
     {
       "domain": "bathroomremodelinginfortworth.com",
       "rank": 0,
@@ -667,27 +685,15 @@
       "rank": 51,
       "backlinks": 1,
       "first_seen": "2026-05-14"
-    },
-    {
-      "domain": "impocoolmom.org",
-      "rank": 51,
-      "backlinks": 1,
-      "first_seen": "2026-05-14"
-    },
-    {
-      "domain": "womanaroundtown.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-05-13"
-    },
-    {
-      "domain": "hellobetty.co",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-05-13"
     }
   ],
   "lost": [
+    {
+      "domain": "bye.fyi",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-07-18"
+    },
     {
       "domain": "atimeoutformommy.com",
       "rank": 25,
@@ -739,7 +745,7 @@
     {
       "domain": "quero.party",
       "rank": 0,
-      "backlinks": 2,
+      "backlinks": 1,
       "lost_date": "2026-06-01"
     },
     {
@@ -831,13 +837,7 @@
       "rank": 0,
       "backlinks": 1,
       "lost_date": "2026-01-07"
-    },
-    {
-      "domain": "amflat.myshopify.com",
-      "rank": 149,
-      "backlinks": 207,
-      "lost_date": "2025-12-26"
     }
   ],
-  "generated_at": "2026-07-13T17:57:41+00:00"
+  "generated_at": "2026-07-20T15:56:14+00:00"
 }
