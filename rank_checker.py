@@ -27,6 +27,7 @@ import json
 import base64
 import argparse
 import requests
+from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime
 from dotenv import load_dotenv
 
@@ -43,8 +44,13 @@ DFS_ENDPOINT     = "https://api.dataforseo.com/v3/serp/google/organic/live/advan
 LOCATION_CODE    = 2840  # United States
 LANGUAGE_CODE    = "en"
 RESULTS_PER_PAGE = 100   # SERP depth to scan
-DELAY_SECONDS    = 0.0   # DataForSEO live has generous rate limits; no delay needed
 MAX_POSITION     = 100   # report as "Not ranked" if beyond this
+# DataForSEO live SERP calls are slow (~15-20s each), so we run them
+# concurrently. Live-endpoint batching (multiple tasks per POST) isn't
+# supported — only the first task runs — so we parallelise single-keyword
+# requests instead. 20 workers is well within the account's simultaneous-
+# request limit and turns a ~88-min sequential run into a few minutes.
+MAX_WORKERS      = 20
 
 # ─── HELPERS ──────────────────────────────────────────────────────────────────
 
@@ -175,30 +181,34 @@ def run(domain: str, keywords_file: str, output: str, top: int | None, dry_run: 
     print(f"  Dry run  : {dry_run}")
     print(f"{'='*60}\n")
 
-    results = []
-    for i, kw in enumerate(keywords, 1):
+    def build_row(kw: dict) -> dict:
         keyword = kw["keyword"]
-        print(f"[{i:>3}/{len(keywords)}] {keyword:<50}", end="", flush=True)
-
         if dry_run:
-            row = {**kw, "position": None, "position_label": "DRY RUN", "url": "",
-                   "in_featured": False, "total_results": "", "error": "", "checked_at": datetime.now().isoformat()}
-        else:
-            data = check_ranking(keyword, domain)
-            row = {
-                **kw,
-                "position":       data["position"],
-                "position_label": position_label(data["position"]),
-                "url":            data["url"],
-                "in_featured":    data["in_featured"],
-                "total_results":  data["total_results"],
-                "error":          data["error"],
-                "checked_at":     datetime.now().isoformat(),
-            }
-            time.sleep(DELAY_SECONDS)
+            return {**kw, "position": None, "position_label": "DRY RUN", "url": "",
+                    "in_featured": False, "total_results": "", "error": "",
+                    "checked_at": datetime.now().isoformat()}
+        data = check_ranking(keyword, domain)
+        row = {
+            **kw,
+            "position":       data["position"],
+            "position_label": position_label(data["position"]),
+            "url":            data["url"],
+            "in_featured":    data["in_featured"],
+            "total_results":  data["total_results"],
+            "error":          data["error"],
+            "checked_at":     datetime.now().isoformat(),
+        }
+        print(f"  {keyword:<48} {row['position_label']}", flush=True)
+        return row
 
-        results.append(row)
-        print(row["position_label"])
+    # Run concurrently — ThreadPoolExecutor.map preserves input order, so the
+    # output CSV stays aligned with keywords.csv. Progress lines print as
+    # each finishes (interleaved, which is fine for CI logs).
+    if dry_run:
+        results = [build_row(kw) for kw in keywords]
+    else:
+        with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
+            results = list(ex.map(build_row, keywords))
 
     # ── Write CSV ──
     fieldnames = ["keyword", "category", "priority", "position", "position_label",
