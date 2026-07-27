@@ -1,13 +1,13 @@
 {
   "target": "americanflat.com",
-  "total_ranked_keywords": 7495,
+  "total_ranked_keywords": 7517,
   "analyzed_keywords": 1000,
-  "estimated_monthly_traffic": 160897,
+  "estimated_monthly_traffic": 161226,
   "position_bands": {
-    "top3": 243,
-    "page1": 385,
+    "top3": 245,
+    "page1": 384,
     "page2": 176,
-    "page3plus": 196
+    "page3plus": 195
   },
-  "generated_at": "2026-07-20T15:55:52+00:00"
+  "generated_at": "2026-07-27T16:26:17+00:00"
 }

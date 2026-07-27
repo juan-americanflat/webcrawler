@@ -3,33 +3,33 @@
     {
       "domain": "americanflat.com",
       "rank": 354,
-      "backlinks": 2018,
-      "referring_domains": 330,
-      "referring_main_domains": 320,
+      "backlinks": 2024,
+      "referring_domains": 333,
+      "referring_main_domains": 323,
       "is_target": true
     },
     {
       "domain": "arttoframe.com",
       "rank": 290,
-      "backlinks": 6904,
-      "referring_domains": 1433,
-      "referring_main_domains": 1273,
+      "backlinks": 6914,
+      "referring_domains": 1434,
+      "referring_main_domains": 1274,
       "is_target": false
     },
     {
       "domain": "modernmemorydesign.com",
-      "rank": 243,
-      "backlinks": 3011,
-      "referring_domains": 633,
-      "referring_main_domains": 584,
+      "rank": 244,
+      "backlinks": 3019,
+      "referring_domains": 637,
+      "referring_main_domains": 588,
       "is_target": false
     },
     {
       "domain": "pictureframes.com",
-      "rank": 274,
-      "backlinks": 8323,
-      "referring_domains": 1584,
-      "referring_main_domains": 1515,
+      "rank": 275,
+      "backlinks": 8374,
+      "referring_domains": 1585,
+      "referring_main_domains": 1516,
       "is_target": false
     }
   ],
@@ -42,7 +42,7 @@
     },
     {
       "domain": "pinterest.com",
-      "rank": 294,
+      "rank": 293,
       "backlinks": 1,
       "first_seen": "2023-11-18"
     },
@@ -123,6 +123,12 @@
       "rank": 26,
       "backlinks": 2,
       "first_seen": "2025-10-23"
+    },
+    {
+      "domain": "contentcreators.com",
+      "rank": 23,
+      "backlinks": 1,
+      "first_seen": "2026-07-24"
     },
     {
       "domain": "shibleysmiles.com",
@@ -263,6 +269,24 @@
       "first_seen": "2021-10-25"
     },
     {
+      "domain": "gedd.it",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-27"
+    },
+    {
+      "domain": "ready.pro",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-26"
+    },
+    {
+      "domain": "17track.net",
+      "rank": 0,
+      "backlinks": 8,
+      "first_seen": "2026-07-24"
+    },
+    {
       "domain": "talentedladiesclub.com",
       "rank": 0,
       "backlinks": 1,
@@ -271,7 +295,7 @@
     {
       "domain": "remoterocketship.com",
       "rank": 0,
-      "backlinks": 2,
+      "backlinks": 1,
       "first_seen": "2026-07-17"
     },
     {
@@ -305,34 +329,10 @@
       "first_seen": "2026-07-01"
     },
     {
-      "domain": "genniferrose.com",
-      "rank": 0,
-      "backlinks": 2,
-      "first_seen": "2026-06-30"
-    },
-    {
       "domain": "urls-shortener.eu",
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-06-23"
-    },
-    {
-      "domain": "bullocksbuzz.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-21"
-    },
-    {
-      "domain": "workreap.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-20"
-    },
-    {
-      "domain": "adventuresfrugalmom.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-20"
     }
   ],
   "anchors": [
@@ -344,7 +344,7 @@
     {
       "anchor": "americanflat.com",
       "backlinks": 238,
-      "referring_domains": 50
+      "referring_domains": 51
     },
     {
       "anchor": "Americanflat",
@@ -397,6 +397,11 @@
       "referring_domains": 9
     },
     {
+      "anchor": "https://www.americanflat.com",
+      "backlinks": 10,
+      "referring_domains": 3
+    },
+    {
       "anchor": "Funny Bathroom Signs 3PK - Just Roll With It, I Like Big Tubs and Hell –  Americanfl…",
       "backlinks": 10,
       "referring_domains": 1
@@ -412,13 +417,13 @@
       "referring_domains": 1
     },
     {
-      "anchor": "Website",
+      "anchor": "Mandy Buchanan  Americanflat",
       "backlinks": 9,
       "referring_domains": 7
     },
     {
-      "anchor": "Mandy Buchanan  Americanflat",
-      "backlinks": 9,
+      "anchor": "Website",
+      "backlinks": 8,
       "referring_domains": 7
     },
     {
@@ -430,11 +435,6 @@
       "anchor": "SHOP NOW",
       "backlinks": 8,
       "referring_domains": 2
-    },
-    {
-      "anchor": "Black Poster Frames | Shatter-Resistant Glass. Hanging Hardware Includ –  Americanfl…",
-      "backlinks": 7,
-      "referring_domains": 1
     }
   ],
   "history": [
@@ -537,6 +537,30 @@
   ],
   "gained": [
     {
+      "domain": "gedd.it",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-27"
+    },
+    {
+      "domain": "ready.pro",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-26"
+    },
+    {
+      "domain": "17track.net",
+      "rank": 0,
+      "backlinks": 8,
+      "first_seen": "2026-07-24"
+    },
+    {
+      "domain": "contentcreators.com",
+      "rank": 23,
+      "backlinks": 1,
+      "first_seen": "2026-07-24"
+    },
+    {
       "domain": "talentedladiesclub.com",
       "rank": 0,
       "backlinks": 1,
@@ -545,7 +569,7 @@
     {
       "domain": "remoterocketship.com",
       "rank": 0,
-      "backlinks": 2,
+      "backlinks": 1,
       "first_seen": "2026-07-17"
     },
     {
@@ -577,12 +601,6 @@
       "rank": 0,
       "backlinks": 2,
       "first_seen": "2026-07-01"
-    },
-    {
-      "domain": "genniferrose.com",
-      "rank": 0,
-      "backlinks": 2,
-      "first_seen": "2026-06-30"
     },
     {
       "domain": "urls-shortener.eu",
@@ -667,27 +685,33 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-05-18"
-    },
-    {
-      "domain": "wonvision.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-05-18"
-    },
-    {
-      "domain": "ecstasycoffee.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-05-16"
-    },
-    {
-      "domain": "theacftcalculator.us",
-      "rank": 51,
-      "backlinks": 1,
-      "first_seen": "2026-05-14"
     }
   ],
   "lost": [
+    {
+      "domain": "remoterocketship.com",
+      "rank": 0,
+      "backlinks": 2,
+      "lost_date": "2026-07-24"
+    },
+    {
+      "domain": "anchorurl.cloud",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-07-24"
+    },
+    {
+      "domain": "skyfiveproperties.com",
+      "rank": 0,
+      "backlinks": 9,
+      "lost_date": "2026-07-20"
+    },
+    {
+      "domain": "genniferrose.com",
+      "rank": 0,
+      "backlinks": 2,
+      "lost_date": "2026-07-20"
+    },
     {
       "domain": "bye.fyi",
       "rank": 0,
@@ -705,12 +729,6 @@
       "rank": 0,
       "backlinks": 1,
       "lost_date": "2026-07-07"
-    },
-    {
-      "domain": "skyfiveproperties.com",
-      "rank": 0,
-      "backlinks": 8,
-      "lost_date": "2026-06-30"
     },
     {
       "domain": "homelovr.com",
@@ -779,12 +797,6 @@
       "lost_date": "2026-05-16"
     },
     {
-      "domain": "remoterocketship.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-05-03"
-    },
-    {
       "domain": "imagetou.com",
       "rank": 16,
       "backlinks": 2,
@@ -825,19 +837,7 @@
       "rank": 0,
       "backlinks": 1,
       "lost_date": "2026-02-07"
-    },
-    {
-      "domain": "snagden.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-01-25"
-    },
-    {
-      "domain": "oppwiser.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-01-07"
     }
   ],
-  "generated_at": "2026-07-20T15:56:14+00:00"
+  "generated_at": "2026-07-27T16:26:59+00:00"
 }

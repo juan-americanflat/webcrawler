@@ -121,12 +121,12 @@
     "position": 13,
     "url": "https://americanflat.com/collections/8-5x11-frames",
     "search_volume": 14800,
-    "cpc": 0.6800000071525574,
+    "cpc": 0.7599999904632568,
     "competition": "HIGH",
     "traffic_estimate": 222,
     "keyword_difficulty": 0,
     "intent": "commercial",
-    "traffic_value": 10064,
+    "traffic_value": 11248,
     "priority_score": 11988
   },
   {
@@ -186,12 +186,12 @@
     "position": 11,
     "url": "https://americanflat.com/collections/11x17-frames",
     "search_volume": 18100,
-    "cpc": 0.5400000214576721,
+    "cpc": 0.6399999856948853,
     "competition": "HIGH",
     "traffic_estimate": 271.5,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 9774,
+    "traffic_value": 11584,
     "priority_score": 9050
   },
   {
@@ -238,12 +238,12 @@
     "position": 12,
     "url": "https://americanflat.com/collections/11x17-frames",
     "search_volume": 18100,
-    "cpc": 0.5400000214576721,
+    "cpc": 0.6399999856948853,
     "competition": "HIGH",
     "traffic_estimate": 271.5,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 9774,
+    "traffic_value": 11584,
     "priority_score": 8598
   },
   {
@@ -368,12 +368,12 @@
     "position": 18,
     "url": "https://americanflat.com/collections/11x17-frames",
     "search_volume": 18100,
-    "cpc": 0.5400000214576721,
+    "cpc": 0.6399999856948853,
     "competition": "HIGH",
     "traffic_estimate": 106.8,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 9774,
+    "traffic_value": 11584,
     "priority_score": 7059
   },
   {
@@ -446,12 +446,12 @@
     "position": 17,
     "url": "https://americanflat.com/collections/8x8-frames",
     "search_volume": 8100,
-    "cpc": 0.5699999928474426,
+    "cpc": 0.5600000023841858,
     "competition": "HIGH",
     "traffic_estimate": 91.5,
     "keyword_difficulty": 0,
     "intent": "transactional",
-    "traffic_value": 4617,
+    "traffic_value": 4536,
     "priority_score": 5670
   },
   {
@@ -472,12 +472,12 @@
     "position": 22,
     "url": "https://americanflat.com/collections/8x12-frames",
     "search_volume": 12100,
-    "cpc": 0.47999998927116394,
+    "cpc": 0.5099999904632568,
     "competition": "HIGH",
     "traffic_estimate": 52.0,
     "keyword_difficulty": 0,
     "intent": "transactional",
-    "traffic_value": 5808,
+    "traffic_value": 6171,
     "priority_score": 5445
   },
   {
@@ -511,12 +511,12 @@
     "position": 18,
     "url": "https://americanflat.com/collections/18x18-frames",
     "search_volume": 14800,
-    "cpc": 13.079999923706055,
+    "cpc": 4.079999923706055,
     "competition": "LOW",
     "traffic_estimate": 82.9,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 193584,
+    "traffic_value": 60384,
     "priority_score": 4810
   },
   {
@@ -524,12 +524,12 @@
     "position": 18,
     "url": "https://americanflat.com/collections/16x24-frames",
     "search_volume": 8100,
-    "cpc": 0.47999998927116394,
+    "cpc": 0.5099999904632568,
     "competition": "HIGH",
     "traffic_estimate": 47.8,
     "keyword_difficulty": 0,
     "intent": "commercial",
-    "traffic_value": 3888,
+    "traffic_value": 4131,
     "priority_score": 4738
   },
   {
@@ -602,12 +602,12 @@
     "position": 14,
     "url": "https://americanflat.com/collections/18x24-frames",
     "search_volume": 9900,
-    "cpc": 0.7200000286102295,
-    "competition": "LOW",
+    "cpc": 1.0800000429153442,
+    "competition": "MEDIUM",
     "traffic_estimate": 253.4,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 7128,
+    "traffic_value": 10692,
     "priority_score": 4208
   },
   {
@@ -615,12 +615,12 @@
     "position": 12,
     "url": "https://americanflat.com/collections/16x16-frames",
     "search_volume": 4400,
-    "cpc": 0.7599999904632568,
+    "cpc": 0.6100000143051147,
     "competition": "HIGH",
     "traffic_estimate": 66,
     "keyword_difficulty": 0,
     "intent": "transactional",
-    "traffic_value": 3344,
+    "traffic_value": 2684,
     "priority_score": 4180
   },
   {
@@ -628,12 +628,12 @@
     "position": 17,
     "url": "https://americanflat.com/collections/24x30-frames",
     "search_volume": 6600,
-    "cpc": 0.75,
+    "cpc": 0.7099999785423279,
     "competition": "HIGH",
     "traffic_estimate": 60.1,
     "keyword_difficulty": 0,
     "intent": "commercial",
-    "traffic_value": 4950,
+    "traffic_value": 4686,
     "priority_score": 4158
   },
   {
@@ -693,12 +693,12 @@
     "position": 21,
     "url": "https://americanflat.com/collections/16x20-picture-frames",
     "search_volume": 8100,
-    "cpc": 0.5600000023841858,
+    "cpc": 0.5299999713897705,
     "competition": "HIGH",
     "traffic_estimate": 34.8,
     "keyword_difficulty": 0,
     "intent": "transactional",
-    "traffic_value": 4536,
+    "traffic_value": 4293,
     "priority_score": 4050
   },
   {
@@ -784,12 +784,12 @@
     "position": 19,
     "url": "https://americanflat.com/collections/16x24-frames",
     "search_volume": 12100,
-    "cpc": 0.44999998807907104,
+    "cpc": 0.4699999988079071,
     "competition": "HIGH",
     "traffic_estimate": 90.8,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 5445,
+    "traffic_value": 5687,
     "priority_score": 3630
   },
   {
@@ -810,12 +810,25 @@
     "position": 20,
     "url": "https://americanflat.com/collections/11x14-frames",
     "search_volume": 6600,
-    "cpc": 0.800000011920929,
+    "cpc": 0.8600000143051147,
     "competition": "HIGH",
     "traffic_estimate": 33.7,
     "keyword_difficulty": 0,
     "intent": "transactional",
-    "traffic_value": 5280,
+    "traffic_value": 5676,
+    "priority_score": 3630
+  },
+  {
+    "keyword": "wall frame pic",
+    "position": 20,
+    "url": "https://americanflat.com/collections/picture-frames",
+    "search_volume": 6600,
+    "cpc": 2.009999990463257,
+    "competition": "HIGH",
+    "traffic_estimate": 28.4,
+    "keyword_difficulty": 0,
+    "intent": "transactional",
+    "traffic_value": 13266,
     "priority_score": 3630
   },
   {
@@ -832,29 +845,16 @@
     "priority_score": 3594
   },
   {
-    "keyword": "wall frame pic",
-    "position": 20,
-    "url": "https://americanflat.com/collections/picture-frames",
-    "search_volume": 6600,
-    "cpc": 2.009999990463257,
-    "competition": "HIGH",
-    "traffic_estimate": 28.4,
-    "keyword_difficulty": 2,
-    "intent": "transactional",
-    "traffic_value": 13266,
-    "priority_score": 3557
-  },
-  {
     "keyword": "8.5x11 frame",
     "position": 23,
     "url": "https://americanflat.com/collections/8-5x11-frames",
     "search_volume": 14800,
-    "cpc": 0.6800000071525574,
+    "cpc": 0.7599999904632568,
     "competition": "HIGH",
     "traffic_estimate": 40.0,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 10064,
+    "traffic_value": 11248,
     "priority_score": 3552
   },
   {
@@ -875,12 +875,12 @@
     "position": 14,
     "url": "https://americanflat.com/collections/16x24-frames",
     "search_volume": 8100,
-    "cpc": 0.47999998927116394,
+    "cpc": 0.5099999904632568,
     "competition": "HIGH",
     "traffic_estimate": 121.5,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 3888,
+    "traffic_value": 4131,
     "priority_score": 3442
   },
   {
@@ -901,12 +901,12 @@
     "position": 17,
     "url": "https://americanflat.com/collections/16x24-frames",
     "search_volume": 8100,
-    "cpc": 0.47999998927116394,
+    "cpc": 0.5099999904632568,
     "competition": "HIGH",
     "traffic_estimate": 121.5,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 3888,
+    "traffic_value": 4131,
     "priority_score": 3402
   },
   {
@@ -940,12 +940,12 @@
     "position": 20,
     "url": "https://americanflat.com/collections/16x20-picture-frames",
     "search_volume": 12100,
-    "cpc": 0.25999999046325684,
+    "cpc": 0.30000001192092896,
     "competition": "MEDIUM",
     "traffic_estimate": 110.1,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 3146,
+    "traffic_value": 3630,
     "priority_score": 3328
   },
   {
@@ -1135,12 +1135,12 @@
     "position": 19,
     "url": "https://americanflat.com/collections/6x8-frames",
     "search_volume": 8100,
-    "cpc": 0.6200000047683716,
+    "cpc": 0.5699999928474426,
     "competition": "HIGH",
     "traffic_estimate": 60.8,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 5022,
+    "traffic_value": 4617,
     "priority_score": 2430
   },
   {
@@ -1161,12 +1161,12 @@
     "position": 13,
     "url": "https://americanflat.com/collections/22x28-frames",
     "search_volume": 4400,
-    "cpc": 0.6600000262260437,
+    "cpc": 0.8399999737739563,
     "competition": "HIGH",
     "traffic_estimate": 86.7,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 2904,
+    "traffic_value": 3696,
     "priority_score": 2376
   },
   {
@@ -1187,12 +1187,12 @@
     "position": 19,
     "url": "https://americanflat.com/collections/18x24-frames",
     "search_volume": 4400,
-    "cpc": 0.9700000286102295,
+    "cpc": 1.100000023841858,
     "competition": "HIGH",
     "traffic_estimate": 24.6,
     "keyword_difficulty": 0,
     "intent": "commercial",
-    "traffic_value": 4268,
+    "traffic_value": 4840,
     "priority_score": 2376
   },
   {
@@ -1252,12 +1252,12 @@
     "position": 20,
     "url": "https://americanflat.com/collections/8x12-frames",
     "search_volume": 8100,
-    "cpc": 11.479999542236328,
+    "cpc": 1.2000000476837158,
     "competition": "LOW",
     "traffic_estimate": 34.8,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 92988,
+    "traffic_value": 9720,
     "priority_score": 2228
   },
   {
@@ -1317,12 +1317,12 @@
     "position": 15,
     "url": "https://americanflat.com/collections/22x28-frames",
     "search_volume": 4400,
-    "cpc": 0.6600000262260437,
+    "cpc": 0.8399999737739563,
     "competition": "HIGH",
     "traffic_estimate": 40.0,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 2904,
+    "traffic_value": 3696,
     "priority_score": 2112
   },
   {
@@ -1369,12 +1369,12 @@
     "position": 28,
     "url": "https://americanflat.com/blogs/americanflat-blog/framing-101-understanding-standard-frame-sizes-and-how-to-measure-them",
     "search_volume": 27100,
-    "cpc": 0.23999999463558197,
+    "cpc": 0.20999999344348907,
     "competition": "HIGH",
     "traffic_estimate": 59.6,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 6504,
+    "traffic_value": 5691,
     "priority_score": 2032
   },
   {
@@ -1408,12 +1408,12 @@
     "position": 21,
     "url": "https://americanflat.com/collections/6x8-frames",
     "search_volume": 8100,
-    "cpc": 0.6200000047683716,
+    "cpc": 0.5699999928474426,
     "competition": "HIGH",
     "traffic_estimate": 41.3,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 5022,
+    "traffic_value": 4617,
     "priority_score": 2025
   },
   {
@@ -1421,12 +1421,12 @@
     "position": 21,
     "url": "https://americanflat.com/collections/11x14-frames",
     "search_volume": 6600,
-    "cpc": 0.800000011920929,
+    "cpc": 0.8600000143051147,
     "competition": "HIGH",
     "traffic_estimate": 33.7,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 5280,
+    "traffic_value": 5676,
     "priority_score": 1980
   },
   {
@@ -1434,12 +1434,12 @@
     "position": 21,
     "url": "https://americanflat.com/collections/18x24-frames",
     "search_volume": 4400,
-    "cpc": 0.9700000286102295,
+    "cpc": 1.100000023841858,
     "competition": "HIGH",
     "traffic_estimate": 22.4,
     "keyword_difficulty": 0,
     "intent": "commercial",
-    "traffic_value": 4268,
+    "traffic_value": 4840,
     "priority_score": 1980
   },
   {
@@ -1486,12 +1486,12 @@
     "position": 13,
     "url": "https://americanflat.com/collections/18x24-frames",
     "search_volume": 3600,
-    "cpc": 0.5099999904632568,
+    "cpc": 0.5799999833106995,
     "competition": "HIGH",
     "traffic_estimate": 54,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 1836,
+    "traffic_value": 2088,
     "priority_score": 1944
   },
   {
@@ -1551,12 +1551,12 @@
     "position": 22,
     "url": "https://americanflat.com/collections/20x20-frames",
     "search_volume": 8100,
-    "cpc": 1.0199999809265137,
+    "cpc": 1.6800000667572021,
     "competition": "LOW",
     "traffic_estimate": 34.8,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 8262,
+    "traffic_value": 13608,
     "priority_score": 1822
   },
   {
@@ -1577,12 +1577,12 @@
     "position": 22,
     "url": "https://americanflat.com/collections/18x24-frames",
     "search_volume": 4400,
-    "cpc": 0.9700000286102295,
+    "cpc": 1.100000023841858,
     "competition": "HIGH",
     "traffic_estimate": 18.9,
     "keyword_difficulty": 0,
     "intent": "commercial",
-    "traffic_value": 4268,
+    "traffic_value": 4840,
     "priority_score": 1782
   },
   {
@@ -1629,12 +1629,12 @@
     "position": 15,
     "url": "https://americanflat.com/collections/18x24-frames",
     "search_volume": 3600,
-    "cpc": 0.5099999904632568,
+    "cpc": 0.5799999833106995,
     "competition": "HIGH",
     "traffic_estimate": 54,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 1836,
+    "traffic_value": 2088,
     "priority_score": 1728
   },
   {
@@ -1655,12 +1655,12 @@
     "position": 13,
     "url": "https://americanflat.com/collections/12x15-frames",
     "search_volume": 1900,
-    "cpc": 0.47999998927116394,
+    "cpc": 0.5899999737739563,
     "competition": "HIGH",
     "traffic_estimate": 28.5,
     "keyword_difficulty": 0,
     "intent": "transactional",
-    "traffic_value": 912,
+    "traffic_value": 1121,
     "priority_score": 1710
   },
   {
@@ -1668,12 +1668,12 @@
     "position": 21,
     "url": "https://americanflat.com/collections/gallery-wall-frame-sets-oversized-mat-displays",
     "search_volume": 6600,
-    "cpc": 1.7699999809265137,
+    "cpc": 1.8799999952316284,
     "competition": "HIGH",
     "traffic_estimate": 28.4,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 11682,
+    "traffic_value": 12408,
     "priority_score": 1650
   },
   {
@@ -1707,12 +1707,12 @@
     "position": 21,
     "url": "https://americanflat.com/collections/27x40-frames",
     "search_volume": 5400,
-    "cpc": 0.46000000834465027,
+    "cpc": 0.44999998807907104,
     "competition": "HIGH",
     "traffic_estimate": 27.5,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 2484,
+    "traffic_value": 2430,
     "priority_score": 1620
   },
   {
@@ -1785,12 +1785,12 @@
     "position": 24,
     "url": "https://americanflat.com/collections/12x16-frames",
     "search_volume": 8100,
-    "cpc": 0.5899999737739563,
+    "cpc": 0.6600000262260437,
     "competition": "HIGH",
     "traffic_estimate": 34.8,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 4779,
+    "traffic_value": 5346,
     "priority_score": 1418
   },
   {
@@ -1811,12 +1811,12 @@
     "position": 24,
     "url": "https://americanflat.com/collections/6x8-frames",
     "search_volume": 8100,
-    "cpc": 0.6200000047683716,
+    "cpc": 0.5699999928474426,
     "competition": "HIGH",
     "traffic_estimate": 26.7,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 5022,
+    "traffic_value": 4617,
     "priority_score": 1418
   },
   {
@@ -1941,12 +1941,12 @@
     "position": 13,
     "url": "https://americanflat.com/collections/12x18-frames",
     "search_volume": 2900,
-    "cpc": 0.41999998688697815,
+    "cpc": 0.46000000834465027,
     "competition": "HIGH",
     "traffic_estimate": 43.5,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 1218,
+    "traffic_value": 1334,
     "priority_score": 1305
   },
   {
@@ -1963,29 +1963,29 @@
     "priority_score": 1305
   },
   {
-    "keyword": "picture frames 19 x 13",
-    "position": 11,
-    "url": "https://americanflat.com/collections/13x19-frames",
-    "search_volume": 1300,
-    "cpc": 0.5899999737739563,
-    "competition": "HIGH",
-    "traffic_estimate": 25.6,
+    "keyword": "20 x 30 inch photo frame",
+    "position": 23,
+    "url": "https://americanflat.com/collections/20x30-frames",
+    "search_volume": 5400,
+    "cpc": 0.7099999785423279,
+    "competition": "MEDIUM",
+    "traffic_estimate": 23.2,
     "keyword_difficulty": 0,
-    "intent": "transactional",
-    "traffic_value": 767,
-    "priority_score": 1300
+    "intent": "navigational",
+    "traffic_value": 3834,
+    "priority_score": 1296
   },
   {
     "keyword": "40x27 picture frame",
     "position": 23,
     "url": "https://americanflat.com/collections/27x40-frames",
     "search_volume": 5400,
-    "cpc": 0.46000000834465027,
+    "cpc": 0.44999998807907104,
     "competition": "HIGH",
     "traffic_estimate": 17.8,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 2484,
+    "traffic_value": 2430,
     "priority_score": 1296
   },
   {
@@ -2019,26 +2019,13 @@
     "position": 17,
     "url": "https://americanflat.com/collections/20x30-frames",
     "search_volume": 3600,
-    "cpc": 1.0700000524520874,
+    "cpc": 1.7100000381469727,
     "competition": "LOW",
     "traffic_estimate": 20.2,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 3852,
+    "traffic_value": 6156,
     "priority_score": 1260
-  },
-  {
-    "keyword": "5x7 5 frame",
-    "position": 18,
-    "url": "https://americanflat.com/collections/5-x-7-picture-frames",
-    "search_volume": 1900,
-    "cpc": 1.0099999904632568,
-    "competition": "HIGH",
-    "traffic_estimate": 17.3,
-    "keyword_difficulty": 0,
-    "intent": "transactional",
-    "traffic_value": 1919,
-    "priority_score": 1235
   },
   {
     "keyword": "12x18 frame matted",
@@ -2110,12 +2097,12 @@
     "position": 18,
     "url": "https://americanflat.com/collections/12x12-frames",
     "search_volume": 3600,
-    "cpc": 0.6399999856948853,
+    "cpc": 0.699999988079071,
     "competition": "HIGH",
     "traffic_estimate": 20.2,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 2304,
+    "traffic_value": 2520,
     "priority_score": 1170
   },
   {
@@ -2123,12 +2110,12 @@
     "position": 15,
     "url": "https://americanflat.com/collections/24x24-frames",
     "search_volume": 2900,
-    "cpc": 0.800000011920929,
+    "cpc": 0.7099999785423279,
     "competition": "HIGH",
     "traffic_estimate": 32.8,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 2320,
+    "traffic_value": 2059,
     "priority_score": 1160
   },
   {
@@ -2162,12 +2149,12 @@
     "position": 12,
     "url": "https://americanflat.com/collections/20x24-frames",
     "search_volume": 1300,
-    "cpc": 0.6899999976158142,
+    "cpc": 0.8199999928474426,
     "competition": "HIGH",
     "traffic_estimate": 25.6,
     "keyword_difficulty": 0,
     "intent": "commercial",
-    "traffic_value": 897,
+    "traffic_value": 1066,
     "priority_score": 1112
   },
   {
@@ -2175,12 +2162,12 @@
     "position": 21,
     "url": "https://americanflat.com/collections/12x18-frames",
     "search_volume": 4400,
-    "cpc": 0.5299999713897705,
+    "cpc": 0.6299999952316284,
     "competition": "HIGH",
     "traffic_estimate": 24.6,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 2332,
+    "traffic_value": 2772,
     "priority_score": 1100
   },
   {
@@ -2201,12 +2188,12 @@
     "position": 12,
     "url": "https://americanflat.com/collections/9x11-frames",
     "search_volume": 1900,
-    "cpc": 0.5600000023841858,
+    "cpc": 0.6200000047683716,
     "competition": "HIGH",
     "traffic_estimate": 48.6,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 1064,
+    "traffic_value": 1178,
     "priority_score": 1083
   },
   {
@@ -2223,19 +2210,6 @@
     "priority_score": 1080
   },
   {
-    "keyword": "20 x 30 inch photo frame",
-    "position": 23,
-    "url": "https://americanflat.com/collections/20x30-frames",
-    "search_volume": 4400,
-    "cpc": 0.6899999976158142,
-    "competition": "MEDIUM",
-    "traffic_estimate": 18.9,
-    "keyword_difficulty": 0,
-    "intent": "navigational",
-    "traffic_value": 3036,
-    "priority_score": 1056
-  },
-  {
     "keyword": "wall picture frame sizes",
     "position": 23,
     "url": "https://americanflat.com/blogs/americanflat-blog/framing-101-understanding-standard-frame-sizes-and-how-to-measure-them",
@@ -2249,16 +2223,29 @@
     "priority_score": 1044
   },
   {
+    "keyword": "5x7 5 frame",
+    "position": 18,
+    "url": "https://americanflat.com/collections/5-x-7-picture-frames",
+    "search_volume": 1600,
+    "cpc": 0.8999999761581421,
+    "competition": "HIGH",
+    "traffic_estimate": 14.6,
+    "keyword_difficulty": 0,
+    "intent": "transactional",
+    "traffic_value": 1440,
+    "priority_score": 1040
+  },
+  {
     "keyword": "14x18 frame",
     "position": 17,
     "url": "https://americanflat.com/collections/14x18-frames",
     "search_volume": 2900,
-    "cpc": 0.5299999713897705,
+    "cpc": 0.5,
     "competition": "HIGH",
     "traffic_estimate": 32.8,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 1537,
+    "traffic_value": 1450,
     "priority_score": 1015
   },
   {
@@ -2279,12 +2266,12 @@
     "position": 17,
     "url": "https://americanflat.com/collections/16x24-frames",
     "search_volume": 2400,
-    "cpc": 0.4300000071525574,
+    "cpc": 0.49000000953674316,
     "competition": "HIGH",
     "traffic_estimate": 21.8,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 1032,
+    "traffic_value": 1176,
     "priority_score": 1008
   },
   {
@@ -2298,6 +2285,19 @@
     "keyword_difficulty": 0,
     "intent": "transactional",
     "traffic_value": 580,
+    "priority_score": 1000
+  },
+  {
+    "keyword": "picture frames 19 x 13",
+    "position": 11,
+    "url": "https://americanflat.com/collections/13x19-frames",
+    "search_volume": 1000,
+    "cpc": 0.7099999785423279,
+    "competition": "HIGH",
+    "traffic_estimate": 19.7,
+    "keyword_difficulty": 0,
+    "intent": "transactional",
+    "traffic_value": 710,
     "priority_score": 1000
   },
   {
@@ -2331,12 +2331,12 @@
     "position": 21,
     "url": "https://americanflat.com/collections/gallery-wall-frame-sets-oversized-mat-displays",
     "search_volume": 3600,
-    "cpc": 1.100000023841858,
+    "cpc": 1.0199999809265137,
     "competition": "HIGH",
     "traffic_estimate": 21.2,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 3960,
+    "traffic_value": 3672,
     "priority_score": 900
   },
   {
@@ -2357,12 +2357,12 @@
     "position": 13,
     "url": "https://americanflat.com/collections/16x20-picture-frames",
     "search_volume": 1000,
-    "cpc": 0.5299999713897705,
+    "cpc": 0.5099999904632568,
     "competition": "HIGH",
     "traffic_estimate": 15,
     "keyword_difficulty": 0,
     "intent": "transactional",
-    "traffic_value": 530,
+    "traffic_value": 510,
     "priority_score": 900
   },
   {
@@ -2370,12 +2370,12 @@
     "position": 23,
     "url": "https://americanflat.com/collections/20x30-frames",
     "search_volume": 4400,
-    "cpc": 0.5600000023841858,
+    "cpc": 0.5199999809265137,
     "competition": "HIGH",
     "traffic_estimate": 18.9,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 2464,
+    "traffic_value": 2288,
     "priority_score": 880
   },
   {
@@ -2435,12 +2435,12 @@
     "position": 16,
     "url": "https://americanflat.com/collections/11x14-frames",
     "search_volume": 1900,
-    "cpc": 0.7300000190734863,
+    "cpc": 0.6899999976158142,
     "competition": "HIGH",
     "traffic_estimate": 14.2,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 1387,
+    "traffic_value": 1311,
     "priority_score": 855
   },
   {
@@ -2519,19 +2519,6 @@
     "keyword_difficulty": 0,
     "intent": "navigational",
     "traffic_value": 2376,
-    "priority_score": 792
-  },
-  {
-    "keyword": "fancy gold frame",
-    "position": 13,
-    "url": "https://americanflat.com/collections/gold-picture-frames",
-    "search_volume": 880,
-    "cpc": 0.5199999809265137,
-    "competition": "HIGH",
-    "traffic_estimate": 17.3,
-    "keyword_difficulty": 0,
-    "intent": "transactional",
-    "traffic_value": 458,
     "priority_score": 792
   },
   {
@@ -2656,12 +2643,12 @@
     "position": 16,
     "url": "https://americanflat.com/collections/11x16",
     "search_volume": 1900,
-    "cpc": 0.550000011920929,
+    "cpc": 0.6299999952316284,
     "competition": "HIGH",
     "traffic_estimate": 17.3,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 1045,
+    "traffic_value": 1197,
     "priority_score": 712
   },
   {
@@ -2682,12 +2669,12 @@
     "position": 13,
     "url": "https://americanflat.com/collections/12x17-frames",
     "search_volume": 1300,
-    "cpc": 0.5400000214576721,
+    "cpc": 0.47999998927116394,
     "competition": "HIGH",
     "traffic_estimate": 19.5,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 702,
+    "traffic_value": 624,
     "priority_score": 702
   },
   {
@@ -2708,12 +2695,12 @@
     "position": 13,
     "url": "https://americanflat.com/collections/12x18-frames",
     "search_volume": 1300,
-    "cpc": 0.8999999761581421,
+    "cpc": 0.5099999904632568,
     "competition": "HIGH",
     "traffic_estimate": 14.7,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 1170,
+    "traffic_value": 663,
     "priority_score": 702
   },
   {
@@ -2721,12 +2708,12 @@
     "position": 19,
     "url": "https://americanflat.com/collections/gold-picture-frames",
     "search_volume": 1900,
-    "cpc": 0.6899999976158142,
+    "cpc": 0.5600000023841858,
     "competition": "HIGH",
     "traffic_estimate": 14.2,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 1311,
+    "traffic_value": 1064,
     "priority_score": 684
   },
   {
@@ -2821,6 +2808,19 @@
     "priority_score": 648
   },
   {
+    "keyword": "fancy gold frame",
+    "position": 13,
+    "url": "https://americanflat.com/collections/gold-picture-frames",
+    "search_volume": 720,
+    "cpc": 0.2800000011920929,
+    "competition": "HIGH",
+    "traffic_estimate": 14.2,
+    "keyword_difficulty": 0,
+    "intent": "transactional",
+    "traffic_value": 202,
+    "priority_score": 648
+  },
+  {
     "keyword": "17x22 frame",
     "position": 15,
     "url": "https://americanflat.com/collections/17x22-frames",
@@ -2838,12 +2838,12 @@
     "position": 18,
     "url": "https://americanflat.com/collections/16x24-frames",
     "search_volume": 1900,
-    "cpc": 0.3199999928474426,
+    "cpc": 0.3700000047683716,
     "competition": "HIGH",
     "traffic_estimate": 14.2,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 608,
+    "traffic_value": 703,
     "priority_score": 618
   },
   {
@@ -2864,13 +2864,26 @@
     "position": 12,
     "url": "https://americanflat.com/collections/kids-art-frames",
     "search_volume": 720,
-    "cpc": 1.159999966621399,
+    "cpc": 1.5399999618530273,
     "competition": "HIGH",
     "traffic_estimate": 18.4,
     "keyword_difficulty": 0,
     "intent": "commercial",
-    "traffic_value": 835,
+    "traffic_value": 1109,
     "priority_score": 616
+  },
+  {
+    "keyword": "buy shadow box",
+    "position": 14,
+    "url": "https://americanflat.com/collections/shadowbox-picture-frames",
+    "search_volume": 720,
+    "cpc": 0.5199999809265137,
+    "competition": "HIGH",
+    "traffic_estimate": 14.2,
+    "keyword_difficulty": 0,
+    "intent": "transactional",
+    "traffic_value": 374,
+    "priority_score": 612
   },
   {
     "keyword": "18 x 12 frame",
@@ -2916,26 +2929,13 @@
     "position": 12,
     "url": "https://americanflat.com/collections/13x16-frames",
     "search_volume": 1000,
-    "cpc": 0.7300000190734863,
+    "cpc": 0.6899999976158142,
     "competition": "HIGH",
     "traffic_estimate": 19.7,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 730,
+    "traffic_value": 690,
     "priority_score": 570
-  },
-  {
-    "keyword": "buy shadow box",
-    "position": 14,
-    "url": "https://americanflat.com/collections/shadowbox-picture-frames",
-    "search_volume": 720,
-    "cpc": 0.5199999809265137,
-    "competition": "HIGH",
-    "traffic_estimate": 14.2,
-    "keyword_difficulty": 7,
-    "intent": "transactional",
-    "traffic_value": 374,
-    "priority_score": 569
   },
   {
     "keyword": "5 x 7 black frame",
@@ -3098,13 +3098,26 @@
     "position": 13,
     "url": "https://americanflat.com/collections/13x18-frames",
     "search_volume": 880,
-    "cpc": 0.4699999988079071,
+    "cpc": 0.47999998927116394,
     "competition": "HIGH",
     "traffic_estimate": 13.2,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 414,
+    "traffic_value": 422,
     "priority_score": 475
+  },
+  {
+    "keyword": "floating frames for canvases",
+    "position": 30,
+    "url": "https://americanflat.com/products/canvas-floating-frame-without-mat",
+    "search_volume": 9900,
+    "cpc": 1.6399999856948853,
+    "competition": "HIGH",
+    "traffic_estimate": 20.8,
+    "keyword_difficulty": 0,
+    "intent": "commercial",
+    "traffic_value": 16236,
+    "priority_score": 446
   },
   {
     "keyword": "16x24",
@@ -3124,12 +3137,12 @@
     "position": 11,
     "url": "https://americanflat.com/collections/17x22-frames",
     "search_volume": 880,
-    "cpc": 0.3400000035762787,
+    "cpc": 0.23999999463558197,
     "competition": "LOW",
     "traffic_estimate": 17.3,
     "keyword_difficulty": 0,
     "intent": "informational",
-    "traffic_value": 299,
+    "traffic_value": 211,
     "priority_score": 440
   },
   {
@@ -3150,12 +3163,12 @@
     "position": 27,
     "url": "https://americanflat.com/collections/picture-frames",
     "search_volume": 5400,
-    "cpc": 0.9300000071525574,
+    "cpc": 2.559999942779541,
     "competition": "HIGH",
     "traffic_estimate": 13.0,
     "keyword_difficulty": 20,
     "intent": "informational",
-    "traffic_value": 5022,
+    "traffic_value": 13824,
     "priority_score": 432
   },
   {
@@ -3198,19 +3211,6 @@
     "priority_score": 375
   },
   {
-    "keyword": "floating frames for canvases",
-    "position": 30,
-    "url": "https://americanflat.com/products/canvas-floating-frame-without-mat",
-    "search_volume": 9900,
-    "cpc": 1.6399999856948853,
-    "competition": "HIGH",
-    "traffic_estimate": 20.8,
-    "keyword_difficulty": 17,
-    "intent": "commercial",
-    "traffic_value": 16236,
-    "priority_score": 370
-  },
-  {
     "keyword": "8x12 inch photo frame",
     "position": 30,
     "url": "https://americanflat.com/collections/8x12-frames",
@@ -3228,12 +3228,12 @@
     "position": 11,
     "url": "https://americanflat.com/collections/19x25-frames",
     "search_volume": 590,
-    "cpc": 0.7099999785423279,
+    "cpc": 0.75,
     "competition": "HIGH",
     "traffic_estimate": 11.6,
     "keyword_difficulty": 0,
     "intent": "navigational",
-    "traffic_value": 419,
+    "traffic_value": 442,
     "priority_score": 354
   },
   {
@@ -3370,13 +3370,13 @@
     "keyword": "picture photo frames",
     "position": 30,
     "url": "https://americanflat.com/collections/picture-frames",
-    "search_volume": 6600,
-    "cpc": 3.8899998664855957,
+    "search_volume": 5400,
+    "cpc": 3.7100000381469727,
     "competition": "HIGH",
-    "traffic_estimate": 17.8,
+    "traffic_estimate": 14.6,
     "keyword_difficulty": 19,
     "intent": "informational",
-    "traffic_value": 25674,
-    "priority_score": 134
+    "traffic_value": 20034,
+    "priority_score": 109
   }
 ]
