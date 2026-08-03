@@ -3,33 +3,33 @@
     {
       "domain": "americanflat.com",
       "rank": 354,
-      "backlinks": 2024,
-      "referring_domains": 333,
-      "referring_main_domains": 323,
+      "backlinks": 1981,
+      "referring_domains": 326,
+      "referring_main_domains": 317,
       "is_target": true
     },
     {
       "domain": "arttoframe.com",
-      "rank": 290,
-      "backlinks": 6914,
-      "referring_domains": 1434,
-      "referring_main_domains": 1274,
+      "rank": 280,
+      "backlinks": 6825,
+      "referring_domains": 1410,
+      "referring_main_domains": 1250,
       "is_target": false
     },
     {
       "domain": "modernmemorydesign.com",
-      "rank": 244,
-      "backlinks": 3019,
-      "referring_domains": 637,
-      "referring_main_domains": 588,
+      "rank": 239,
+      "backlinks": 2889,
+      "referring_domains": 604,
+      "referring_main_domains": 555,
       "is_target": false
     },
     {
       "domain": "pictureframes.com",
-      "rank": 275,
-      "backlinks": 8374,
-      "referring_domains": 1585,
-      "referring_main_domains": 1516,
+      "rank": 274,
+      "backlinks": 8237,
+      "referring_domains": 1549,
+      "referring_main_domains": 1479,
       "is_target": false
     }
   ],
@@ -59,22 +59,10 @@
       "first_seen": "2026-04-09"
     },
     {
-      "domain": "couponwallet.org",
-      "rank": 96,
-      "backlinks": 3,
-      "first_seen": "2025-07-09"
-    },
-    {
       "domain": "supportforstepdads.com",
       "rank": 68,
       "backlinks": 2,
       "first_seen": "2024-06-15"
-    },
-    {
-      "domain": "designjobs.careers",
-      "rank": 52,
-      "backlinks": 8,
-      "first_seen": "2026-06-16"
     },
     {
       "domain": "theacftcalculator.us",
@@ -107,6 +95,12 @@
       "first_seen": "2023-10-27"
     },
     {
+      "domain": "designjobs.careers",
+      "rank": 50,
+      "backlinks": 6,
+      "first_seen": "2026-06-18"
+    },
+    {
       "domain": "joinleisure.com",
       "rank": 35,
       "backlinks": 2,
@@ -123,6 +117,12 @@
       "rank": 26,
       "backlinks": 2,
       "first_seen": "2025-10-23"
+    },
+    {
+      "domain": "wutawhelp.org",
+      "rank": 23,
+      "backlinks": 1,
+      "first_seen": "2026-08-01"
     },
     {
       "domain": "contentcreators.com",
@@ -155,18 +155,6 @@
       "first_seen": "2025-07-31"
     },
     {
-      "domain": "emikorainbow.com",
-      "rank": 23,
-      "backlinks": 6,
-      "first_seen": "2024-03-03"
-    },
-    {
-      "domain": "epictures.homes",
-      "rank": 21,
-      "backlinks": 289,
-      "first_seen": "2025-04-14"
-    },
-    {
       "domain": "thefuturepositive.com",
       "rank": 21,
       "backlinks": 2,
@@ -177,6 +165,18 @@
       "rank": 19,
       "backlinks": 2,
       "first_seen": "2025-01-02"
+    },
+    {
+      "domain": "epictures.homes",
+      "rank": 17,
+      "backlinks": 260,
+      "first_seen": "2025-04-14"
+    },
+    {
+      "domain": "emikorainbow.com",
+      "rank": 15,
+      "backlinks": 5,
+      "first_seen": "2024-03-03"
     },
     {
       "domain": "clay.earth",
@@ -201,6 +201,12 @@
       "rank": 8,
       "backlinks": 2,
       "first_seen": "2024-03-27"
+    },
+    {
+      "domain": "shinesto.com",
+      "rank": 7,
+      "backlinks": 1,
+      "first_seen": "2026-08-01"
     },
     {
       "domain": "wiza.co",
@@ -257,16 +263,40 @@
       "first_seen": "2024-02-20"
     },
     {
-      "domain": "getemail.io",
-      "rank": 7,
-      "backlinks": 1,
-      "first_seen": "2023-08-10"
-    },
-    {
       "domain": "morningsonmacedonia.com",
       "rank": 6,
       "backlinks": 5,
       "first_seen": "2021-10-25"
+    },
+    {
+      "domain": "summarizereviews.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-03"
+    },
+    {
+      "domain": "edecorhomes.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-02"
+    },
+    {
+      "domain": "7figuresellersummit.com",
+      "rank": 0,
+      "backlinks": 2,
+      "first_seen": "2026-08-01"
+    },
+    {
+      "domain": "unhappyhipsters.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-31"
+    },
+    {
+      "domain": "nicholls.edu",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-27"
     },
     {
       "domain": "gedd.it",
@@ -303,66 +333,36 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-07-14"
-    },
-    {
-      "domain": "bathroomremodelinginfortworth.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-07-11"
-    },
-    {
-      "domain": "wearethemighty.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-07-09"
-    },
-    {
-      "domain": "drjack.world",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-07-03"
-    },
-    {
-      "domain": "cro.media",
-      "rank": 0,
-      "backlinks": 2,
-      "first_seen": "2026-07-01"
-    },
-    {
-      "domain": "urls-shortener.eu",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-23"
     }
   ],
   "anchors": [
     {
       "anchor": "(empty / branded)",
-      "backlinks": 976,
-      "referring_domains": 40
+      "backlinks": 973,
+      "referring_domains": 38
     },
     {
       "anchor": "americanflat.com",
-      "backlinks": 238,
-      "referring_domains": 51
+      "backlinks": 233,
+      "referring_domains": 46
     },
     {
       "anchor": "Americanflat",
-      "backlinks": 47,
-      "referring_domains": 25
+      "backlinks": 46,
+      "referring_domains": 26
     },
     {
       "anchor": "americanflat",
-      "backlinks": 37,
+      "backlinks": 33,
       "referring_domains": 31
     },
     {
-      "anchor": "Picture Frames",
+      "anchor": "Wall Art",
       "backlinks": 22,
       "referring_domains": 2
     },
     {
-      "anchor": "Wall Art",
+      "anchor": "Picture Frames",
       "backlinks": 22,
       "referring_domains": 2
     },
@@ -393,8 +393,8 @@
     },
     {
       "anchor": "www.americanflat.com",
-      "backlinks": 12,
-      "referring_domains": 9
+      "backlinks": 11,
+      "referring_domains": 8
     },
     {
       "anchor": "https://www.americanflat.com",
@@ -402,28 +402,18 @@
       "referring_domains": 3
     },
     {
-      "anchor": "Funny Bathroom Signs 3PK - Just Roll With It, I Like Big Tubs and Hell –  Americanfl…",
-      "backlinks": 10,
-      "referring_domains": 1
-    },
-    {
       "anchor": "LEARN MORE",
       "backlinks": 10,
       "referring_domains": 2
     },
     {
-      "anchor": "Wall Art Set of 6 Prints - 6 Piece Gallery Wall Art Set Outer Space  Astronaut – Ame…",
+      "anchor": "Funny Bathroom Signs 3PK - Just Roll With It, I Like Big Tubs and Hell –  Americanfl…",
       "backlinks": 9,
       "referring_domains": 1
     },
     {
       "anchor": "Mandy Buchanan  Americanflat",
       "backlinks": 9,
-      "referring_domains": 7
-    },
-    {
-      "anchor": "Website",
-      "backlinks": 8,
       "referring_domains": 7
     },
     {
@@ -435,17 +425,19 @@
       "anchor": "SHOP NOW",
       "backlinks": 8,
       "referring_domains": 2
+    },
+    {
+      "anchor": "Visit Website",
+      "backlinks": 7,
+      "referring_domains": 4
+    },
+    {
+      "anchor": "Website",
+      "backlinks": 7,
+      "referring_domains": 6
     }
   ],
   "history": [
-    {
-      "date": "2025-07-31",
-      "referring_domains": 484,
-      "new_referring_domains": 9,
-      "lost_referring_domains": 4,
-      "new_backlinks": 67,
-      "lost_backlinks": 6
-    },
     {
       "date": "2025-08-31",
       "referring_domains": 436,
@@ -533,9 +525,59 @@
       "lost_referring_domains": 10,
       "new_backlinks": 18,
       "lost_backlinks": 23
+    },
+    {
+      "date": "2026-07-31",
+      "referring_domains": 320,
+      "new_referring_domains": 8,
+      "lost_referring_domains": 11,
+      "new_backlinks": 20,
+      "lost_backlinks": 45
     }
   ],
   "gained": [
+    {
+      "domain": "summarizereviews.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-03"
+    },
+    {
+      "domain": "edecorhomes.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-02"
+    },
+    {
+      "domain": "shinesto.com",
+      "rank": 7,
+      "backlinks": 1,
+      "first_seen": "2026-08-01"
+    },
+    {
+      "domain": "7figuresellersummit.com",
+      "rank": 0,
+      "backlinks": 2,
+      "first_seen": "2026-08-01"
+    },
+    {
+      "domain": "wutawhelp.org",
+      "rank": 23,
+      "backlinks": 1,
+      "first_seen": "2026-08-01"
+    },
+    {
+      "domain": "unhappyhipsters.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-31"
+    },
+    {
+      "domain": "nicholls.edu",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-07-27"
+    },
     {
       "domain": "gedd.it",
       "rank": 0,
@@ -643,51 +685,27 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-06-18"
-    },
-    {
-      "domain": "designjobs.careers",
-      "rank": 52,
-      "backlinks": 8,
-      "first_seen": "2026-06-16"
-    },
-    {
-      "domain": "way2check.cv",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-10"
-    },
-    {
-      "domain": "artfasad.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-04"
-    },
-    {
-      "domain": "shopmy.us",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-04"
-    },
-    {
-      "domain": "themartinezcasita.com",
-      "rank": 0,
-      "backlinks": 2,
-      "first_seen": "2026-06-04"
-    },
-    {
-      "domain": "presonus.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-01"
-    },
-    {
-      "domain": "spinchill.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-05-18"
     }
   ],
   "lost": [
+    {
+      "domain": "designjobs.careers",
+      "rank": 0,
+      "backlinks": 2,
+      "lost_date": "2026-08-02"
+    },
+    {
+      "domain": "emikorainbow.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-08-01"
+    },
+    {
+      "domain": "ecstasycoffee.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-07-28"
+    },
     {
       "domain": "remoterocketship.com",
       "rank": 0,
@@ -703,7 +721,7 @@
     {
       "domain": "skyfiveproperties.com",
       "rank": 0,
-      "backlinks": 9,
+      "backlinks": 7,
       "lost_date": "2026-07-20"
     },
     {
@@ -819,25 +837,7 @@
       "rank": 0,
       "backlinks": 1,
       "lost_date": "2026-02-21"
-    },
-    {
-      "domain": "thededicatedhouse.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-02-19"
-    },
-    {
-      "domain": "farmfreshtherapy.com",
-      "rank": 7,
-      "backlinks": 1,
-      "lost_date": "2026-02-10"
-    },
-    {
-      "domain": "edecorhomes.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-02-07"
     }
   ],
-  "generated_at": "2026-07-27T16:26:59+00:00"
+  "generated_at": "2026-08-03T16:31:01+00:00"
 }
