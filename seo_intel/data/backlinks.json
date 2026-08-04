@@ -3,7 +3,7 @@
     {
       "domain": "americanflat.com",
       "rank": 354,
-      "backlinks": 1981,
+      "backlinks": 1982,
       "referring_domains": 326,
       "referring_main_domains": 317,
       "is_target": true
@@ -11,9 +11,9 @@
     {
       "domain": "arttoframe.com",
       "rank": 280,
-      "backlinks": 6825,
-      "referring_domains": 1410,
-      "referring_main_domains": 1250,
+      "backlinks": 6826,
+      "referring_domains": 1411,
+      "referring_main_domains": 1251,
       "is_target": false
     },
     {
@@ -27,9 +27,9 @@
     {
       "domain": "pictureframes.com",
       "rank": 274,
-      "backlinks": 8237,
-      "referring_domains": 1549,
-      "referring_main_domains": 1479,
+      "backlinks": 8244,
+      "referring_domains": 1550,
+      "referring_main_domains": 1480,
       "is_target": false
     }
   ],
@@ -269,9 +269,15 @@
       "first_seen": "2021-10-25"
     },
     {
-      "domain": "summarizereviews.com",
+      "domain": "finnandemma.mom",
       "rank": 0,
       "backlinks": 1,
+      "first_seen": "2026-08-03"
+    },
+    {
+      "domain": "summarizereviews.com",
+      "rank": 0,
+      "backlinks": 2,
       "first_seen": "2026-08-03"
     },
     {
@@ -327,12 +333,6 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-07-17"
-    },
-    {
-      "domain": "successfulblackparenting.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-07-14"
     }
   ],
   "anchors": [
@@ -343,8 +343,8 @@
     },
     {
       "anchor": "americanflat.com",
-      "backlinks": 233,
-      "referring_domains": 46
+      "backlinks": 231,
+      "referring_domains": 45
     },
     {
       "anchor": "Americanflat",
@@ -357,12 +357,12 @@
       "referring_domains": 31
     },
     {
-      "anchor": "Wall Art",
+      "anchor": "Picture Frames",
       "backlinks": 22,
       "referring_domains": 2
     },
     {
-      "anchor": "Picture Frames",
+      "anchor": "Wall Art",
       "backlinks": 22,
       "referring_domains": 2
     },
@@ -427,14 +427,14 @@
       "referring_domains": 2
     },
     {
+      "anchor": "View Website",
+      "backlinks": 7,
+      "referring_domains": 2
+    },
+    {
       "anchor": "Visit Website",
       "backlinks": 7,
       "referring_domains": 4
-    },
-    {
-      "anchor": "Website",
-      "backlinks": 7,
-      "referring_domains": 6
     }
   ],
   "history": [
@@ -537,9 +537,15 @@
   ],
   "gained": [
     {
-      "domain": "summarizereviews.com",
+      "domain": "finnandemma.mom",
       "rank": 0,
       "backlinks": 1,
+      "first_seen": "2026-08-03"
+    },
+    {
+      "domain": "summarizereviews.com",
+      "rank": 0,
+      "backlinks": 2,
       "first_seen": "2026-08-03"
     },
     {
@@ -639,12 +645,6 @@
       "first_seen": "2026-07-03"
     },
     {
-      "domain": "cro.media",
-      "rank": 0,
-      "backlinks": 2,
-      "first_seen": "2026-07-01"
-    },
-    {
       "domain": "urls-shortener.eu",
       "rank": 0,
       "backlinks": 1,
@@ -688,6 +688,12 @@
     }
   ],
   "lost": [
+    {
+      "domain": "cro.media",
+      "rank": 0,
+      "backlinks": 2,
+      "lost_date": "2026-08-03"
+    },
     {
       "domain": "designjobs.careers",
       "rank": 0,
@@ -831,13 +837,7 @@
       "rank": 0,
       "backlinks": 1,
       "lost_date": "2026-03-21"
-    },
-    {
-      "domain": "urls-shortener.eu",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-02-21"
     }
   ],
-  "generated_at": "2026-08-03T16:31:01+00:00"
+  "generated_at": "2026-08-04T21:02:52+00:00"
 }
