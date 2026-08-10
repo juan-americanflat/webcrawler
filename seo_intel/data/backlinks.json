@@ -3,33 +3,33 @@
     {
       "domain": "americanflat.com",
       "rank": 354,
-      "backlinks": 1982,
-      "referring_domains": 326,
-      "referring_main_domains": 317,
+      "backlinks": 1993,
+      "referring_domains": 333,
+      "referring_main_domains": 324,
       "is_target": true
     },
     {
       "domain": "arttoframe.com",
       "rank": 280,
-      "backlinks": 6826,
-      "referring_domains": 1411,
-      "referring_main_domains": 1251,
+      "backlinks": 6866,
+      "referring_domains": 1422,
+      "referring_main_domains": 1255,
       "is_target": false
     },
     {
       "domain": "modernmemorydesign.com",
       "rank": 239,
-      "backlinks": 2889,
-      "referring_domains": 604,
-      "referring_main_domains": 555,
+      "backlinks": 2902,
+      "referring_domains": 612,
+      "referring_main_domains": 556,
       "is_target": false
     },
     {
       "domain": "pictureframes.com",
-      "rank": 274,
-      "backlinks": 8244,
-      "referring_domains": 1550,
-      "referring_main_domains": 1480,
+      "rank": 277,
+      "backlinks": 8257,
+      "referring_domains": 1555,
+      "referring_main_domains": 1484,
       "is_target": false
     }
   ],
@@ -191,6 +191,12 @@
       "first_seen": "2024-08-14"
     },
     {
+      "domain": "ghrnet.org",
+      "rank": 11,
+      "backlinks": 3,
+      "first_seen": "2026-08-10"
+    },
+    {
       "domain": "mollyinmaine.com",
       "rank": 9,
       "backlinks": 2,
@@ -269,6 +275,48 @@
       "first_seen": "2021-10-25"
     },
     {
+      "domain": "freehire.me",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-10"
+    },
+    {
+      "domain": "homesforsaleoldgreenwichct.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-09"
+    },
+    {
+      "domain": "brightonco.gov",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-08"
+    },
+    {
+      "domain": "luxurytravelmagazine.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-06"
+    },
+    {
+      "domain": "ggmap.us.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-06"
+    },
+    {
+      "domain": "bazerdaily.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-06"
+    },
+    {
+      "domain": "ourfamilylifestyle.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-05"
+    },
+    {
       "domain": "finnandemma.mom",
       "rank": 0,
       "backlinks": 1,
@@ -285,66 +333,18 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-08-02"
-    },
-    {
-      "domain": "7figuresellersummit.com",
-      "rank": 0,
-      "backlinks": 2,
-      "first_seen": "2026-08-01"
-    },
-    {
-      "domain": "unhappyhipsters.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-07-31"
-    },
-    {
-      "domain": "nicholls.edu",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-07-27"
-    },
-    {
-      "domain": "gedd.it",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-07-27"
-    },
-    {
-      "domain": "ready.pro",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-07-26"
-    },
-    {
-      "domain": "17track.net",
-      "rank": 0,
-      "backlinks": 8,
-      "first_seen": "2026-07-24"
-    },
-    {
-      "domain": "talentedladiesclub.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-07-17"
-    },
-    {
-      "domain": "remoterocketship.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-07-17"
     }
   ],
   "anchors": [
     {
       "anchor": "(empty / branded)",
-      "backlinks": 973,
-      "referring_domains": 38
+      "backlinks": 978,
+      "referring_domains": 39
     },
     {
       "anchor": "americanflat.com",
-      "backlinks": 231,
-      "referring_domains": 45
+      "backlinks": 230,
+      "referring_domains": 44
     },
     {
       "anchor": "Americanflat",
@@ -537,6 +537,54 @@
   ],
   "gained": [
     {
+      "domain": "ghrnet.org",
+      "rank": 11,
+      "backlinks": 3,
+      "first_seen": "2026-08-10"
+    },
+    {
+      "domain": "freehire.me",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-10"
+    },
+    {
+      "domain": "homesforsaleoldgreenwichct.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-09"
+    },
+    {
+      "domain": "brightonco.gov",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-08"
+    },
+    {
+      "domain": "luxurytravelmagazine.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-06"
+    },
+    {
+      "domain": "ggmap.us.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-06"
+    },
+    {
+      "domain": "bazerdaily.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-06"
+    },
+    {
+      "domain": "ourfamilylifestyle.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-05"
+    },
+    {
       "domain": "finnandemma.mom",
       "rank": 0,
       "backlinks": 1,
@@ -637,57 +685,15 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-07-09"
-    },
-    {
-      "domain": "drjack.world",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-07-03"
-    },
-    {
-      "domain": "urls-shortener.eu",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-23"
-    },
-    {
-      "domain": "bullocksbuzz.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-21"
-    },
-    {
-      "domain": "workreap.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-20"
-    },
-    {
-      "domain": "adventuresfrugalmom.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-20"
-    },
-    {
-      "domain": "jake.eu",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-19"
-    },
-    {
-      "domain": "mommyhoodlife.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-19"
-    },
-    {
-      "domain": "eliterankdirectory.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-06-18"
     }
   ],
   "lost": [
+    {
+      "domain": "wallpapers.pro",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-08-10"
+    },
     {
       "domain": "cro.media",
       "rank": 0,
@@ -831,13 +837,7 @@
       "rank": 0,
       "backlinks": 2,
       "lost_date": "2026-04-12"
-    },
-    {
-      "domain": "picnicseason.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-03-21"
     }
   ],
-  "generated_at": "2026-08-04T21:02:52+00:00"
+  "generated_at": "2026-08-10T15:05:30+00:00"
 }
