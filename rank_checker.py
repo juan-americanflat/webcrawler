@@ -55,6 +55,36 @@ POST_BATCH_SIZE  = 100    # task_post accepts up to 100 tasks per request
 POLL_INTERVAL    = 20     # seconds between tasks_ready polls
 COLLECT_TIMEOUT  = 45*60  # give the queue up to 45 min before flagging timeouts
 
+# ── Austerity mode (temporary, self-expiring) ────────────────────────────────
+# Balance can't be topped up before Sep 2026, so SCHEDULED runs are thinned
+# until then: high tier Mon/Wed/Fri only, medium Mondays only, low paused,
+# and depth trimmed to 50 ($0.003/kw). Manual workflow_dispatch runs are
+# unaffected. This block is a no-op from 2026-09-01 — safe to delete after.
+AUSTERITY_UNTIL  = "2026-09-01"
+AUSTERITY_DEPTH  = 50
+
+def austerity_schedule_action(priority: str) -> str | None:
+    """For SCHEDULED runs during austerity, return 'skip' when this tier
+    shouldn't run today, or None to proceed (at reduced depth)."""
+    if os.environ.get("GITHUB_EVENT_NAME") != "schedule":
+        return None
+    today = datetime.utcnow()
+    if today.strftime("%Y-%m-%d") >= AUSTERITY_UNTIL:
+        return None
+    wd = today.weekday()  # Mon=0
+    if priority == "high" and wd not in (0, 2, 4):
+        return "skip"
+    if priority == "medium" and wd != 0:
+        return "skip"
+    if priority == "low":
+        return "skip"
+    return None
+
+
+def austerity_depth_active() -> bool:
+    return (os.environ.get("GITHUB_EVENT_NAME") == "schedule"
+            and datetime.utcnow().strftime("%Y-%m-%d") < AUSTERITY_UNTIL)
+
 # ─── HELPERS ──────────────────────────────────────────────────────────────────
 
 def load_keywords(filepath: str) -> list[dict]:
@@ -110,7 +140,7 @@ def _err(msg: str) -> dict:
     return {"position": None, "url": "", "in_featured": False, "total_results": "", "error": msg}
 
 
-def post_tasks(keywords: list[str]) -> tuple[dict, dict]:
+def post_tasks(keywords: list[str], depth: int = RESULTS_PER_PAGE) -> tuple[dict, dict]:
     """POST all keywords to the standard queue in batches.
 
     Returns (id_map, errors): id_map is {task_id: keyword} for successfully
@@ -126,7 +156,7 @@ def post_tasks(keywords: list[str]) -> tuple[dict, dict]:
             "keyword": kw,
             "location_code": LOCATION_CODE,
             "language_code": LANGUAGE_CODE,
-            "depth": RESULTS_PER_PAGE,
+            "depth": depth,
         } for kw in batch]
         try:
             resp = requests.post(
@@ -232,12 +262,31 @@ def position_label(pos: int | None) -> str:
     return f"#{pos}"
 
 
-def run(domain: str, keywords_file: str, output: str, top: int | None, dry_run: bool, priority: str = "all"):
+FIELDNAMES = ["keyword", "category", "priority", "position", "position_label",
+              "url", "in_featured", "total_results", "error", "checked_at"]
+
+
+def run(domain: str, keywords_file: str, output: str, top: int | None, dry_run: bool,
+        priority: str = "all", depth: int | None = None):
     output_file = output
     if (not DFS_LOGIN or not DFS_PASSWORD) and not dry_run:
         print("\n❌  DATAFORSEO_LOGIN / DATAFORSEO_PASSWORD not set. Add them to .env or env vars.")
         print("    (Use the API password from your DataForSEO dashboard, not the login password.)\n")
         return
+
+    # Austerity: scheduled runs may skip today entirely. Write a header-only
+    # CSV so the workflow's merge step sees "no tier rows" and exits cleanly.
+    if austerity_schedule_action(priority) == "skip":
+        with open(output_file, "w", newline="", encoding="utf-8") as f:
+            csv.DictWriter(f, fieldnames=FIELDNAMES).writeheader()
+        print(f"⏸  Austerity mode (until {AUSTERITY_UNTIL}): tier '{priority}' "
+              f"skipped today to conserve API balance. Wrote empty {output_file}.")
+        return
+
+    if depth is None:
+        depth = AUSTERITY_DEPTH if austerity_depth_active() else RESULTS_PER_PAGE
+    if depth != RESULTS_PER_PAGE:
+        print(f"⏸  Austerity depth: scanning top {depth} (not {RESULTS_PER_PAGE}).")
 
     keywords = load_keywords(keywords_file)
     # --priority filters the keyword list BEFORE --top is applied. The
@@ -274,7 +323,7 @@ def run(domain: str, keywords_file: str, output: str, top: int | None, dry_run: 
         # Standard queue: post everything up front (cost charged here), then
         # poll until the queue has processed all tasks (typically minutes).
         print("Posting to DataForSEO standard queue…", flush=True)
-        id_map, post_errors = post_tasks([k["keyword"] for k in keywords])
+        id_map, post_errors = post_tasks([k["keyword"] for k in keywords], depth=depth)
         print(f"Queued {len(id_map)} tasks; waiting for results…", flush=True)
         by_kw = collect_results(id_map, domain)
         by_kw.update(post_errors)
@@ -294,10 +343,8 @@ def run(domain: str, keywords_file: str, output: str, top: int | None, dry_run: 
             })
 
     # ── Write CSV ──
-    fieldnames = ["keyword", "category", "priority", "position", "position_label",
-                  "url", "in_featured", "total_results", "error", "checked_at"]
     with open(output_file, "w", newline="", encoding="utf-8") as f:
-        writer = csv.DictWriter(f, fieldnames=fieldnames)
+        writer = csv.DictWriter(f, fieldnames=FIELDNAMES)
         writer.writeheader()
         writer.writerows(results)
 
@@ -341,6 +388,9 @@ if __name__ == "__main__":
                         choices=["all", "high", "medium", "low"],
                         help="Only check keywords with this priority tier (default: all). "
                              "Used by the GitHub Action to run tiers on different schedules.")
+    parser.add_argument("--depth",    type=int, default=None,
+                        help="SERP depth to scan (default: 100; scheduled runs "
+                             "use 50 during austerity mode)")
     parser.add_argument("--dry-run",  action="store_true",      help="Skip API calls, just test the pipeline")
     args = parser.parse_args()
 
@@ -351,4 +401,5 @@ if __name__ == "__main__":
         top=args.top,
         dry_run=args.dry_run,
         priority=args.priority,
+        depth=args.depth,
     )

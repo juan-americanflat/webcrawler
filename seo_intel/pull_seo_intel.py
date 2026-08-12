@@ -722,6 +722,16 @@ def main() -> None:
                     help="Comma list: movers,overview,ranked,opportunities,competitors,gap,pagegaps,backlinks,serp")
     args = ap.parse_args()
 
+    # Austerity (self-expiring): the DataForSEO balance can't be topped up
+    # before Sep 2026, so SCHEDULED weekly pulls are paused until then to
+    # keep the remaining balance for the (thinned) daily rank checker.
+    # Manual workflow_dispatch runs still work. No-op from 2026-09-01.
+    if (os.environ.get("GITHUB_EVENT_NAME") == "schedule"
+            and datetime.now(timezone.utc).strftime("%Y-%m-%d") < "2026-09-01"):
+        print("⏸  Austerity mode (until 2026-09-01): scheduled SEO-intel pull "
+              "skipped to conserve API balance. Dispatch manually if needed.")
+        return
+
     if not LOGIN or not PASSWORD:
         sys.exit("DATAFORSEO_LOGIN / DATAFORSEO_PASSWORD not set in .env")
 
