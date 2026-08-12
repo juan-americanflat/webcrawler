@@ -20,8 +20,11 @@ pip install requests python-dotenv
 ### 2. DataForSEO credentials
 - Get your **API login + API password** from https://app.dataforseo.com (API Access).
 - The API password is distinct from your dashboard login password.
-- Live SERP is ~$0.002/keyword. At the tiered cadence below (~6,900
-  checks/month) that's ~$14/month.
+- Checks go through the **standard (async) queue**: $0.006/keyword at
+  depth 100 — beware that the LIVE endpoint costs $0.02/keyword at the
+  same depth (DataForSEO prices per 10 results; the oft-quoted $0.002 is
+  depth=10 only). At the tiered cadence below (~8,100 checks/month) the
+  queue costs ~$49/month; live would be ~$160/month.
 
 ### 3. Create a `.env` file in the same folder
 ```
@@ -55,7 +58,7 @@ python rank_checker.py --priority medium   # 179 keywords
 python rank_checker.py --priority low      # 33 keywords
 ```
 The GitHub Action uses this on a tiered schedule (see below) to keep
-DataForSEO SERP spend predictable (~$14/month at ~6,900 checks).
+DataForSEO SERP spend predictable (~$49/month at ~8,100 queue checks).
 
 ### Test the pipeline without using API credits
 ```bash
