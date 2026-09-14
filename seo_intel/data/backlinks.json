@@ -3,7 +3,7 @@
     {
       "domain": "americanflat.com",
       "rank": 353,
-      "backlinks": 2019,
+      "backlinks": 2020,
       "referring_domains": 343,
       "referring_main_domains": 333,
       "is_target": true
@@ -11,25 +11,25 @@
     {
       "domain": "arttoframe.com",
       "rank": 281,
-      "backlinks": 6928,
+      "backlinks": 6927,
       "referring_domains": 1404,
       "referring_main_domains": 1236,
       "is_target": false
     },
     {
       "domain": "modernmemorydesign.com",
-      "rank": 226,
-      "backlinks": 2700,
-      "referring_domains": 550,
-      "referring_main_domains": 494,
+      "rank": 225,
+      "backlinks": 2699,
+      "referring_domains": 549,
+      "referring_main_domains": 493,
       "is_target": false
     },
     {
       "domain": "frameusa.com",
       "rank": 298,
-      "backlinks": 2597,
-      "referring_domains": 866,
-      "referring_main_domains": 839,
+      "backlinks": 2598,
+      "referring_domains": 870,
+      "referring_main_domains": 843,
       "is_target": false
     }
   ],
@@ -287,6 +287,18 @@
       "first_seen": "2021-10-25"
     },
     {
+      "domain": "profitsurgeseo.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-10"
+    },
+    {
+      "domain": "jobgether.com",
+      "rank": 0,
+      "backlinks": 4,
+      "first_seen": "2026-09-10"
+    },
+    {
       "domain": "genniferrose.com",
       "rank": 0,
       "backlinks": 2,
@@ -321,18 +333,6 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-08-30"
-    },
-    {
-      "domain": "radiookapi.net",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-28"
-    },
-    {
-      "domain": "uncledspizza.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-28"
     }
   ],
   "anchors": [
@@ -353,8 +353,8 @@
     },
     {
       "anchor": "Americanflat",
-      "backlinks": 48,
-      "referring_domains": 26
+      "backlinks": 50,
+      "referring_domains": 27
     },
     {
       "anchor": "americanflat",
@@ -402,14 +402,19 @@
       "referring_domains": 8
     },
     {
+      "anchor": "High Quality Dofollow Backlinks DA 50 PA 40 Premium PBN Network Service americanflat.com Rank First Page Google Fast SEO Link Building Buy Backlinks Online Cheap",
+      "backlinks": 10,
+      "referring_domains": 10
+    },
+    {
+      "anchor": "Website",
+      "backlinks": 10,
+      "referring_domains": 7
+    },
+    {
       "anchor": "LEARN MORE",
       "backlinks": 10,
       "referring_domains": 2
-    },
-    {
-      "anchor": "High Quality Dofollow Backlinks DA 50 PA 40 Premium PBN Network Service americanflat.com Rank First Page Google Fast SEO Link Building Buy Backlinks Online Cheap",
-      "backlinks": 9,
-      "referring_domains": 9
     },
     {
       "anchor": "https://www.americanflat.com",
@@ -429,11 +434,6 @@
     {
       "anchor": "SHOP NOW",
       "backlinks": 8,
-      "referring_domains": 2
-    },
-    {
-      "anchor": "View Website",
-      "backlinks": 7,
       "referring_domains": 2
     }
   ],
@@ -525,9 +525,29 @@
       "lost_referring_domains": 11,
       "new_backlinks": 20,
       "lost_backlinks": 45
+    },
+    {
+      "date": "2026-08-31",
+      "referring_domains": 343,
+      "new_referring_domains": 36,
+      "lost_referring_domains": 13,
+      "new_backlinks": 132,
+      "lost_backlinks": 92
     }
   ],
   "gained": [
+    {
+      "domain": "profitsurgeseo.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-10"
+    },
+    {
+      "domain": "jobgether.com",
+      "rank": 0,
+      "backlinks": 4,
+      "first_seen": "2026-09-10"
+    },
     {
       "domain": "genniferrose.com",
       "rank": 0,
@@ -607,12 +627,6 @@
       "first_seen": "2026-08-22"
     },
     {
-      "domain": "cro.media",
-      "rank": 0,
-      "backlinks": 4,
-      "first_seen": "2026-08-21"
-    },
-    {
       "domain": "seo-expert-service.com",
       "rank": 0,
       "backlinks": 1,
@@ -623,6 +637,12 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-08-20"
+    },
+    {
+      "domain": "betwinnermirror.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-08-19"
     },
     {
       "domain": "betulcrime.com",
@@ -657,7 +677,7 @@
     {
       "domain": "remoteok.com",
       "rank": 0,
-      "backlinks": 2,
+      "backlinks": 3,
       "first_seen": "2026-08-13"
     },
     {
@@ -665,31 +685,31 @@
       "rank": 11,
       "backlinks": 3,
       "first_seen": "2026-08-10"
-    },
-    {
-      "domain": "freehire.me",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-10"
-    },
-    {
-      "domain": "homesforsaleoldgreenwichct.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-09"
     }
   ],
   "lost": [
     {
-      "domain": "illustrarch.com",
+      "domain": "ashleywinndesign.com",
       "rank": 0,
       "backlinks": 1,
-      "lost_date": "2026-09-02"
+      "lost_date": "2026-09-11"
+    },
+    {
+      "domain": "michaelhelwiginteriors.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-09-11"
     },
     {
       "domain": "cro.media",
       "rank": 0,
-      "backlinks": 3,
+      "backlinks": 7,
+      "lost_date": "2026-09-10"
+    },
+    {
+      "domain": "illustrarch.com",
+      "rank": 0,
+      "backlinks": 1,
       "lost_date": "2026-09-02"
     },
     {
@@ -817,19 +837,7 @@
       "rank": 23,
       "backlinks": 1,
       "lost_date": "2026-05-31"
-    },
-    {
-      "domain": "ready.pro",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-05-27"
-    },
-    {
-      "domain": "gripelements.com",
-      "rank": 23,
-      "backlinks": 1,
-      "lost_date": "2026-05-23"
     }
   ],
-  "generated_at": "2026-09-07T18:40:43+00:00"
+  "generated_at": "2026-09-14T19:11:49+00:00"
 }
