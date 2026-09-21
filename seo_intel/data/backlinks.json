@@ -3,33 +3,33 @@
     {
       "domain": "americanflat.com",
       "rank": 353,
-      "backlinks": 2020,
-      "referring_domains": 343,
-      "referring_main_domains": 333,
+      "backlinks": 2055,
+      "referring_domains": 355,
+      "referring_main_domains": 345,
       "is_target": true
     },
     {
       "domain": "arttoframe.com",
       "rank": 281,
-      "backlinks": 6927,
-      "referring_domains": 1404,
-      "referring_main_domains": 1236,
+      "backlinks": 6961,
+      "referring_domains": 1420,
+      "referring_main_domains": 1252,
       "is_target": false
     },
     {
       "domain": "modernmemorydesign.com",
-      "rank": 225,
-      "backlinks": 2699,
-      "referring_domains": 549,
-      "referring_main_domains": 493,
+      "rank": 224,
+      "backlinks": 2716,
+      "referring_domains": 554,
+      "referring_main_domains": 498,
       "is_target": false
     },
     {
-      "domain": "frameusa.com",
-      "rank": 298,
-      "backlinks": 2598,
-      "referring_domains": 870,
-      "referring_main_domains": 843,
+      "domain": "pictureframes.com",
+      "rank": 275,
+      "backlinks": 7765,
+      "referring_domains": 1508,
+      "referring_main_domains": 1434,
       "is_target": false
     }
   ],
@@ -42,7 +42,7 @@
     },
     {
       "domain": "pinterest.com",
-      "rank": 293,
+      "rank": 292,
       "backlinks": 1,
       "first_seen": "2023-11-18"
     },
@@ -185,6 +185,12 @@
       "first_seen": "2025-01-02"
     },
     {
+      "domain": "kovascapehomedecor.com",
+      "rank": 14,
+      "backlinks": 5,
+      "first_seen": "2026-09-20"
+    },
+    {
       "domain": "7figuresellersummit.com",
       "rank": 14,
       "backlinks": 4,
@@ -287,52 +293,46 @@
       "first_seen": "2021-10-25"
     },
     {
-      "domain": "profitsurgeseo.com",
+      "domain": "yellii.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-10"
+      "first_seen": "2026-09-21"
     },
     {
-      "domain": "jobgether.com",
+      "domain": "couponly.ai",
       "rank": 0,
-      "backlinks": 4,
-      "first_seen": "2026-09-10"
+      "backlinks": 8,
+      "first_seen": "2026-09-20"
     },
     {
-      "domain": "genniferrose.com",
-      "rank": 0,
-      "backlinks": 2,
-      "first_seen": "2026-09-03"
-    },
-    {
-      "domain": "aventure.vc",
-      "rank": 0,
-      "backlinks": 2,
-      "first_seen": "2026-09-02"
-    },
-    {
-      "domain": "eden-court.co.uk",
+      "domain": "artnet.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-02"
+      "first_seen": "2026-09-20"
     },
     {
-      "domain": "askology.biz",
+      "domain": "ylutag.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-08-30"
+      "first_seen": "2026-09-19"
     },
     {
-      "domain": "fittyfoody.com",
+      "domain": "apsoz.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-08-30"
+      "first_seen": "2026-09-19"
     },
     {
-      "domain": "fashionclothingnews.com",
+      "domain": "five.co.in",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-08-30"
+      "first_seen": "2026-09-19"
+    },
+    {
+      "domain": "hotfri.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-18"
     }
   ],
   "anchors": [
@@ -343,8 +343,8 @@
     },
     {
       "anchor": "americanflat.com",
-      "backlinks": 225,
-      "referring_domains": 41
+      "backlinks": 228,
+      "referring_domains": 43
     },
     {
       "anchor": "here",
@@ -353,13 +353,13 @@
     },
     {
       "anchor": "Americanflat",
-      "backlinks": 50,
-      "referring_domains": 27
+      "backlinks": 51,
+      "referring_domains": 28
     },
     {
       "anchor": "americanflat",
-      "backlinks": 34,
-      "referring_domains": 32
+      "backlinks": 42,
+      "referring_domains": 39
     },
     {
       "anchor": "Wall Art",
@@ -370,6 +370,11 @@
       "anchor": "Picture Frames",
       "backlinks": 22,
       "referring_domains": 2
+    },
+    {
+      "anchor": "Website",
+      "backlinks": 20,
+      "referring_domains": 7
     },
     {
       "anchor": "Contact Us",
@@ -405,11 +410,6 @@
       "anchor": "High Quality Dofollow Backlinks DA 50 PA 40 Premium PBN Network Service americanflat.com Rank First Page Google Fast SEO Link Building Buy Backlinks Online Cheap",
       "backlinks": 10,
       "referring_domains": 10
-    },
-    {
-      "anchor": "Website",
-      "backlinks": 10,
-      "referring_domains": 7
     },
     {
       "anchor": "LEARN MORE",
@@ -537,6 +537,84 @@
   ],
   "gained": [
     {
+      "domain": "yellii.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-21"
+    },
+    {
+      "domain": "couponly.ai",
+      "rank": 0,
+      "backlinks": 8,
+      "first_seen": "2026-09-20"
+    },
+    {
+      "domain": "artnet.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-20"
+    },
+    {
+      "domain": "kovascapehomedecor.com",
+      "rank": 14,
+      "backlinks": 5,
+      "first_seen": "2026-09-20"
+    },
+    {
+      "domain": "ylutag.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-19"
+    },
+    {
+      "domain": "apsoz.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-19"
+    },
+    {
+      "domain": "five.co.in",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-19"
+    },
+    {
+      "domain": "hotfri.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-18"
+    },
+    {
+      "domain": "dotpim.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-18"
+    },
+    {
+      "domain": "zlutag.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-18"
+    },
+    {
+      "domain": "bestfloridaseo.info",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-18"
+    },
+    {
+      "domain": "faucre.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-18"
+    },
+    {
+      "domain": "99backlinksbuy.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-09-18"
+    },
+    {
       "domain": "profitsurgeseo.com",
       "rank": 0,
       "backlinks": 1,
@@ -545,7 +623,7 @@
     {
       "domain": "jobgether.com",
       "rank": 0,
-      "backlinks": 4,
+      "backlinks": 10,
       "first_seen": "2026-09-10"
     },
     {
@@ -607,87 +685,15 @@
       "rank": 30,
       "backlinks": 74,
       "first_seen": "2026-08-27"
-    },
-    {
-      "domain": "quotesblom.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-26"
-    },
-    {
-      "domain": "theforbestimes.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-24"
-    },
-    {
-      "domain": "simplycodes.com",
-      "rank": 0,
-      "backlinks": 2,
-      "first_seen": "2026-08-22"
-    },
-    {
-      "domain": "seo-expert-service.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-20"
-    },
-    {
-      "domain": "offerscreator.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-20"
-    },
-    {
-      "domain": "betwinnermirror.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-19"
-    },
-    {
-      "domain": "betulcrime.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-15"
-    },
-    {
-      "domain": "turbojobapply.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-15"
-    },
-    {
-      "domain": "supply-rank.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-08-15"
-    },
-    {
-      "domain": "purdue.edu",
-      "rank": 0,
-      "backlinks": 2,
-      "first_seen": "2026-08-14"
-    },
-    {
-      "domain": "momschoiceawards.com",
-      "rank": 0,
-      "backlinks": 4,
-      "first_seen": "2026-08-13"
-    },
-    {
-      "domain": "remoteok.com",
-      "rank": 0,
-      "backlinks": 3,
-      "first_seen": "2026-08-13"
-    },
-    {
-      "domain": "ghrnet.org",
-      "rank": 11,
-      "backlinks": 3,
-      "first_seen": "2026-08-10"
     }
   ],
   "lost": [
+    {
+      "domain": "kevinszabojrplumbing.net",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-09-20"
+    },
     {
       "domain": "ashleywinndesign.com",
       "rank": 0,
@@ -831,13 +837,7 @@
       "rank": 0,
       "backlinks": 1,
       "lost_date": "2026-06-15"
-    },
-    {
-      "domain": "thecheeryhome.com",
-      "rank": 23,
-      "backlinks": 1,
-      "lost_date": "2026-05-31"
     }
   ],
-  "generated_at": "2026-09-14T19:11:49+00:00"
+  "generated_at": "2026-09-21T19:13:42+00:00"
 }
