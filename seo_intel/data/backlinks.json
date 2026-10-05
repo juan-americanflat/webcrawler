@@ -3,33 +3,33 @@
     {
       "domain": "americanflat.com",
       "rank": 353,
-      "backlinks": 2144,
-      "referring_domains": 440,
-      "referring_main_domains": 430,
+      "backlinks": 2480,
+      "referring_domains": 795,
+      "referring_main_domains": 785,
       "is_target": true
     },
     {
       "domain": "arttoframe.com",
       "rank": 281,
-      "backlinks": 7053,
-      "referring_domains": 1489,
-      "referring_main_domains": 1320,
+      "backlinks": 7348,
+      "referring_domains": 1860,
+      "referring_main_domains": 1691,
       "is_target": false
     },
     {
       "domain": "modernmemorydesign.com",
-      "rank": 224,
-      "backlinks": 2785,
-      "referring_domains": 619,
-      "referring_main_domains": 562,
+      "rank": 217,
+      "backlinks": 2862,
+      "referring_domains": 978,
+      "referring_main_domains": 922,
       "is_target": false
     },
     {
       "domain": "pictureframes.com",
-      "rank": 275,
-      "backlinks": 7845,
-      "referring_domains": 1579,
-      "referring_main_domains": 1504,
+      "rank": 274,
+      "backlinks": 7840,
+      "referring_domains": 1827,
+      "referring_main_domains": 1757,
       "is_target": false
     }
   ],
@@ -63,6 +63,12 @@
       "rank": 68,
       "backlinks": 2,
       "first_seen": "2024-06-15"
+    },
+    {
+      "domain": "loopabroad.com",
+      "rank": 59,
+      "backlinks": 150,
+      "first_seen": "2026-08-27"
     },
     {
       "domain": "theacftcalculator.us",
@@ -101,22 +107,10 @@
       "first_seen": "2026-06-18"
     },
     {
-      "domain": "joinleisure.com",
-      "rank": 35,
-      "backlinks": 2,
-      "first_seen": "2023-11-17"
-    },
-    {
       "domain": "cbinsights.com",
       "rank": 34,
       "backlinks": 4,
       "first_seen": "2023-11-22"
-    },
-    {
-      "domain": "loopabroad.com",
-      "rank": 32,
-      "backlinks": 78,
-      "first_seen": "2026-08-27"
     },
     {
       "domain": "gsnmagazine.com",
@@ -141,12 +135,6 @@
       "rank": 23,
       "backlinks": 1,
       "first_seen": "2025-11-19"
-    },
-    {
-      "domain": "mlz.com.tr",
-      "rank": 23,
-      "backlinks": 6,
-      "first_seen": "2025-09-24"
     },
     {
       "domain": "sianvictoria.com",
@@ -233,12 +221,6 @@
       "first_seen": "2026-08-01"
     },
     {
-      "domain": "daltxrealestate.com",
-      "rank": 7,
-      "backlinks": 2,
-      "first_seen": "2026-04-28"
-    },
-    {
       "domain": "oldhousetonewhome.net",
       "rank": 7,
       "backlinks": 1,
@@ -255,12 +237,6 @@
       "rank": 7,
       "backlinks": 1,
       "first_seen": "2025-10-23"
-    },
-    {
-      "domain": "epictures.homes",
-      "rank": 7,
-      "backlinks": 192,
-      "first_seen": "2025-04-14"
     },
     {
       "domain": "threewayproduct.com",
@@ -293,53 +269,82 @@
       "first_seen": "2021-10-25"
     },
     {
-      "domain": "blogdachecker.store",
+      "domain": "qualitylinkbuilding.shop",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "domainbacklinkgenerator.online",
+      "domain": "domaindapachecker.space",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "findwebsitebacklinks.shop",
+      "domain": "pachecker.store",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "websitesseochecker.online",
+      "domain": "seobacklink.shop",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "dacheckertool.store",
+      "domain": "dadpchecker.shop",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "seocheckertool.space",
+      "domain": "seolink.online",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "seoblogchecker.site",
+      "domain": "rankcheckertool.store",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
+    },
+    {
+      "domain": "webbacklinkschecker.store",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-10-05"
+    },
+    {
+      "domain": "websitedapachecker.site",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-10-05"
+    },
+    {
+      "domain": "backlinkservices.website",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-10-05"
+    },
+    {
+      "domain": "automatedbacklinkbuilder.website",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-10-05"
     }
   ],
   "anchors": [
     {
       "anchor": "(empty / branded)",
-      "backlinks": 985,
-      "referring_domains": 43
+      "backlinks": 983,
+      "referring_domains": 36
+    },
+    {
+      "anchor": "Rank Higher with Professional Link Building and Backlinks americanflat.com",
+      "backlinks": 448,
+      "referring_domains": 444
     },
     {
       "anchor": "americanflat.com",
@@ -347,23 +352,18 @@
       "referring_domains": 42
     },
     {
-      "anchor": "Rank Higher with Professional Link Building and Backlinks americanflat.com",
-      "backlinks": 82,
-      "referring_domains": 82
-    },
-    {
       "anchor": "here",
-      "backlinks": 78,
+      "backlinks": 150,
       "referring_domains": 1
     },
     {
       "anchor": "Americanflat",
-      "backlinks": 53,
-      "referring_domains": 30
+      "backlinks": 52,
+      "referring_domains": 29
     },
     {
       "anchor": "americanflat",
-      "backlinks": 43,
+      "backlinks": 42,
       "referring_domains": 40
     },
     {
@@ -378,8 +378,13 @@
     },
     {
       "anchor": "Website",
-      "backlinks": 19,
+      "backlinks": 21,
       "referring_domains": 7
+    },
+    {
+      "anchor": "High Quality Dofollow Backlinks DA 50 PA 40 Premium PBN Network Service americanflat.com Rank First Page Google Fast SEO Link Building Buy Backlinks Online Cheap",
+      "backlinks": 16,
+      "referring_domains": 16
     },
     {
       "anchor": "Contact Us",
@@ -397,19 +402,14 @@
       "referring_domains": 2
     },
     {
-      "anchor": "High Quality Dofollow Backlinks DA 50 PA 40 Premium PBN Network Service americanflat.com Rank First Page Google Fast SEO Link Building Buy Backlinks Online Cheap",
-      "backlinks": 13,
-      "referring_domains": 13
-    },
-    {
-      "anchor": "curated gallery wall frame set from Americanflat",
-      "backlinks": 12,
-      "referring_domains": 2
-    },
-    {
       "anchor": "Shop Now",
       "backlinks": 12,
       "referring_domains": 2
+    },
+    {
+      "anchor": "curated gallery wall frame set from Americanflat",
+      "backlinks": 11,
+      "referring_domains": 1
     },
     {
       "anchor": "www.americanflat.com",
@@ -438,14 +438,6 @@
     }
   ],
   "history": [
-    {
-      "date": "2025-09-30",
-      "referring_domains": 436,
-      "new_referring_domains": 10,
-      "lost_referring_domains": 4,
-      "new_backlinks": 188,
-      "lost_backlinks": 9
-    },
     {
       "date": "2025-10-31",
       "referring_domains": 419,
@@ -533,161 +525,193 @@
       "lost_referring_domains": 13,
       "new_backlinks": 132,
       "lost_backlinks": 92
+    },
+    {
+      "date": "2026-09-30",
+      "referring_domains": 530,
+      "new_referring_domains": 204,
+      "lost_referring_domains": 14,
+      "new_backlinks": 318,
+      "lost_backlinks": 116
     }
   ],
   "gained": [
     {
-      "domain": "blogdachecker.store",
+      "domain": "qualitylinkbuilding.shop",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "domainbacklinkgenerator.online",
+      "domain": "domaindapachecker.space",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "findwebsitebacklinks.shop",
+      "domain": "pachecker.store",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "websitesseochecker.online",
+      "domain": "seobacklink.shop",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "dacheckertool.store",
+      "domain": "dadpchecker.shop",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "seocheckertool.space",
+      "domain": "seolink.online",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "seoblogchecker.site",
+      "domain": "rankcheckertool.store",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "checkinboundlinks.website",
+      "domain": "webbacklinkschecker.store",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "daandpacheckerfree.space",
+      "domain": "websitedapachecker.site",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "seostatschecker.online",
+      "domain": "backlinkservices.website",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "serprankchecker.site",
+      "domain": "automatedbacklinkbuilder.website",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "highdapachecker.space",
+      "domain": "topseochecker.website",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "boost-traffic.com",
+      "domain": "serpchecker.space",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "dadomainchecker.store",
+      "domain": "dacheckerinbulk.store",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "urlrankingchecker.space",
+      "domain": "backlinkgeneration.online",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "seorankchecker.website",
+      "domain": "linkbuildingplatform.site",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "serpcheckeronline.shop",
+      "domain": "domainbacklinkgenerator.space",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "dapaprochecker.space",
+      "domain": "buyingbacklinks.site",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "linkingdomainchecker.shop",
+      "domain": "dacheckeronlinefree.store",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "domainrankingchecker.website",
+      "domain": "seopagerankchecker.website",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "seorankchecker.site",
+      "domain": "prlinkbuilding.space",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "seopadachecker.space",
+      "domain": "siterankcheckerfree.shop",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-28"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "digitseotools.info",
+      "domain": "automaticbacklinkgenerator.website",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-27"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "freeseorankchecker.site",
+      "domain": "generatehighqualitybacklinks.shop",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-27"
+      "first_seen": "2026-10-05"
     },
     {
-      "domain": "checkerbacklinks.website",
+      "domain": "trustflowchecker.space",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-09-27"
+      "first_seen": "2026-10-05"
     }
   ],
   "lost": [
+    {
+      "domain": "mantaw.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-10-03"
+    },
+    {
+      "domain": "loopabroad.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-10-01"
+    },
+    {
+      "domain": "daltxrealestate.com",
+      "rank": 7,
+      "backlinks": 2,
+      "lost_date": "2026-10-01"
+    },
+    {
+      "domain": "mommyhoodlife.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-09-29"
+    },
     {
       "domain": "urls-shortener.eu",
       "rank": 0,
@@ -769,7 +793,7 @@
     {
       "domain": "skyfiveproperties.com",
       "rank": 0,
-      "backlinks": 8,
+      "backlinks": 6,
       "lost_date": "2026-08-12"
     },
     {
@@ -813,31 +837,7 @@
       "rank": 0,
       "backlinks": 1,
       "lost_date": "2026-07-07"
-    },
-    {
-      "domain": "homelovr.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-06-27"
-    },
-    {
-      "domain": "180marketing.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-06-22"
-    },
-    {
-      "domain": "way2check.cv",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-06-16"
-    },
-    {
-      "domain": "gcu.edu.pk",
-      "rank": 0,
-      "backlinks": 2,
-      "lost_date": "2026-06-15"
     }
   ],
-  "generated_at": "2026-09-28T20:28:27+00:00"
+  "generated_at": "2026-10-05T21:26:18+00:00"
 }
