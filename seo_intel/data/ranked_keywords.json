@@ -1251,15 +1251,6 @@
     "traffic_estimate": 246.6
   },
   {
-    "keyword": "24 18 picture frame",
-    "position": 8,
-    "url": "https://americanflat.com/collections/18x24-frames",
-    "search_volume": 3600,
-    "cpc": 0.6600000262260437,
-    "competition": "HIGH",
-    "traffic_estimate": 237.2
-  },
-  {
     "keyword": "18 x 12 picture frame",
     "position": 7,
     "url": "https://americanflat.com/collections/12x18-frames",
@@ -4554,15 +4545,6 @@
     "traffic_estimate": 41.3
   },
   {
-    "keyword": "20x30 inch photo frame",
-    "position": 19,
-    "url": "https://americanflat.com/collections/20x30-frames",
-    "search_volume": 5400,
-    "cpc": 0.6600000262260437,
-    "competition": "HIGH",
-    "traffic_estimate": 40.5
-  },
-  {
     "keyword": "8x12 frame",
     "position": 25,
     "url": "https://americanflat.com/collections/8x12-frames",
@@ -5234,15 +5216,6 @@
     "url": "https://americanflat.com/collections/11x17-frames",
     "search_volume": 3600,
     "cpc": 0.6299999952316284,
-    "competition": "HIGH",
-    "traffic_estimate": 32.8
-  },
-  {
-    "keyword": "20 x20 frame",
-    "position": 13,
-    "url": "https://americanflat.com/collections/20x20-frames",
-    "search_volume": 3600,
-    "cpc": 0.949999988079071,
     "competition": "HIGH",
     "traffic_estimate": 32.8
   },
@@ -6026,15 +5999,6 @@
     "url": "https://americanflat.com/collections/20x24-frames",
     "search_volume": 1300,
     "cpc": 0.8299999833106995,
-    "competition": "HIGH",
-    "traffic_estimate": 25.6
-  },
-  {
-    "keyword": "what is a floating picture frame",
-    "position": 13,
-    "url": "https://americanflat.com/products/americanflat-fusion-float-frame-floating-slide-in-with-mat-acrylic",
-    "search_volume": 1300,
-    "cpc": 0.9100000262260437,
     "competition": "HIGH",
     "traffic_estimate": 25.6
   },
@@ -7956,47 +7920,11 @@
     "traffic_estimate": 15.5
   },
   {
-    "keyword": "12 x 18 black frame",
-    "position": 4,
-    "url": "https://americanflat.com/collections/12x18-frames",
-    "search_volume": 50,
-    "cpc": 1.2999999523162842,
-    "competition": "HIGH",
-    "traffic_estimate": 15.2
-  },
-  {
-    "keyword": "13x19 picture",
-    "position": 3,
-    "url": "https://americanflat.com/collections/13x19-frames",
-    "search_volume": 50,
-    "cpc": 0.36000001430511475,
-    "competition": "HIGH",
-    "traffic_estimate": 15.2
-  },
-  {
-    "keyword": "16 inch picture frame",
-    "position": 3,
-    "url": "https://americanflat.com/collections/16x16-frames",
-    "search_volume": 50,
-    "cpc": 0.4699999988079071,
-    "competition": "HIGH",
-    "traffic_estimate": 15.2
-  },
-  {
-    "keyword": "18x24 gallery frame",
+    "keyword": "18x24 black poster frame",
     "position": 3,
     "url": "https://americanflat.com/collections/18x24-frames",
     "search_volume": 50,
-    "cpc": 3.819999933242798,
-    "competition": "HIGH",
-    "traffic_estimate": 15.2
-  },
-  {
-    "keyword": "20x30 frame comparison",
-    "position": 2,
-    "url": "https://americanflat.com/blogs/americanflat-blog/20x30-frame-comparison-guide",
-    "search_volume": 50,
-    "cpc": 0.10000000149011612,
+    "cpc": 0.8600000143051147,
     "competition": "HIGH",
     "traffic_estimate": 15.2
   },
@@ -8019,29 +7947,38 @@
     "traffic_estimate": 15.2
   },
   {
-    "keyword": "adjustable display easel",
-    "position": 3,
-    "url": "https://americanflat.com/products/black-adjustable-tabletop-easel-stand-for-frames",
-    "search_volume": 50,
-    "cpc": 1.090000033378601,
-    "competition": "HIGH",
-    "traffic_estimate": 15.2
-  },
-  {
-    "keyword": "childrens artwork storage frame",
-    "position": 4,
-    "url": "https://americanflat.com/products/americanflat-kids-art-frame-holds-100-photos-modern-premium-quality",
-    "search_volume": 50,
-    "cpc": 2.819999933242798,
-    "competition": "HIGH",
-    "traffic_estimate": 15.2
-  },
-  {
-    "keyword": "document frame with mat",
+    "keyword": "8 by 8 photo frame",
     "position": 2,
-    "url": "https://americanflat.com/products/americanflat-diploma-frame-with-8-5x11-mat-shatter-resistant-glass",
+    "url": "https://americanflat.com/collections/8x8-frames",
     "search_volume": 50,
-    "cpc": 1.2200000286102295,
+    "cpc": 1.0299999713897705,
+    "competition": "HIGH",
+    "traffic_estimate": 15.2
+  },
+  {
+    "keyword": "8.5 x11 frame near me",
+    "position": 7,
+    "url": "https://americanflat.com/collections/8-5x11-frames",
+    "search_volume": 50,
+    "cpc": 0.3100000023841858,
+    "competition": "HIGH",
+    "traffic_estimate": 15.2
+  },
+  {
+    "keyword": "8.5x11 frame near me",
+    "position": 7,
+    "url": "https://americanflat.com/collections/8-5x11-frames",
+    "search_volume": 50,
+    "cpc": 0.3100000023841858,
+    "competition": "HIGH",
+    "traffic_estimate": 15.2
+  },
+  {
+    "keyword": "8x8 picture frame nearby",
+    "position": 9,
+    "url": "https://americanflat.com/collections/8x8-frames",
+    "search_volume": 50,
+    "cpc": 0.23000000417232513,
     "competition": "HIGH",
     "traffic_estimate": 15.2
   },
@@ -8996,6 +8933,69 @@
     "url": "https://americanflat.com/collections/16x16-frames",
     "search_volume": 40,
     "cpc": 0.9200000166893005,
+    "competition": "HIGH",
+    "traffic_estimate": 12.2
+  },
+  {
+    "keyword": "16x16 frame on wall",
+    "position": 3,
+    "url": "https://americanflat.com/collections/16x16-frames",
+    "search_volume": 40,
+    "cpc": 0.20999999344348907,
+    "competition": "HIGH",
+    "traffic_estimate": 12.2
+  },
+  {
+    "keyword": "16x16 inch photo frame",
+    "position": 1,
+    "url": "https://americanflat.com/collections/16x16-frames",
+    "search_volume": 40,
+    "cpc": 0.5299999713897705,
+    "competition": "HIGH",
+    "traffic_estimate": 12.2
+  },
+  {
+    "keyword": "16x16 inch picture frame",
+    "position": 1,
+    "url": "https://americanflat.com/collections/16x16-frames",
+    "search_volume": 40,
+    "cpc": 0.5299999713897705,
+    "competition": "HIGH",
+    "traffic_estimate": 12.2
+  },
+  {
+    "keyword": "16x16 wall frames",
+    "position": 2,
+    "url": "https://americanflat.com/collections/16x16-frames",
+    "search_volume": 40,
+    "cpc": 0.9200000166893005,
+    "competition": "HIGH",
+    "traffic_estimate": 12.2
+  },
+  {
+    "keyword": "16x20 collage picture frame",
+    "position": 4,
+    "url": "https://americanflat.com/products/americanflat-16x20-collage-picture-frame-fits-one-6x8-four-5x7-and-four-4x4-photos-or-one-16x20-photo",
+    "search_volume": 40,
+    "cpc": 1.809999942779541,
+    "competition": "HIGH",
+    "traffic_estimate": 12.2
+  },
+  {
+    "keyword": "18 x 24 brown frame",
+    "position": 4,
+    "url": "https://americanflat.com/collections/18x24-frames",
+    "search_volume": 40,
+    "cpc": 0.5199999809265137,
+    "competition": "HIGH",
+    "traffic_estimate": 12.2
+  },
+  {
+    "keyword": "18x24 poster frame near me",
+    "position": 9,
+    "url": "https://americanflat.com/collections/18x24-frames",
+    "search_volume": 40,
+    "cpc": 0.20000000298023224,
     "competition": "HIGH",
     "traffic_estimate": 12.2
   }

@@ -1170,19 +1170,6 @@
     "priority_score": 1958
   },
   {
-    "keyword": "20x30 inch photo frame",
-    "position": 19,
-    "url": "https://americanflat.com/collections/20x30-frames",
-    "search_volume": 5400,
-    "cpc": 0.6600000262260437,
-    "competition": "HIGH",
-    "traffic_estimate": 40.5,
-    "keyword_difficulty": 0,
-    "intent": "navigational",
-    "traffic_value": 3564,
-    "priority_score": 1944
-  },
-  {
     "keyword": "frame wall",
     "position": 12,
     "url": "https://americanflat.com/collections/gallery-wall-frame-set",
@@ -1193,19 +1180,6 @@
     "keyword_difficulty": 7,
     "intent": "informational",
     "traffic_value": 3652,
-    "priority_score": 1944
-  },
-  {
-    "keyword": "20 x20 frame",
-    "position": 13,
-    "url": "https://americanflat.com/collections/20x20-frames",
-    "search_volume": 3600,
-    "cpc": 0.949999988079071,
-    "competition": "HIGH",
-    "traffic_estimate": 32.8,
-    "keyword_difficulty": 0,
-    "intent": "navigational",
-    "traffic_value": 3420,
     "priority_score": 1944
   },
   {
@@ -2288,19 +2262,6 @@
     "priority_score": 702
   },
   {
-    "keyword": "floating mount picture frame",
-    "position": 12,
-    "url": "https://americanflat.com/products/floating-picture-frame-without-mat",
-    "search_volume": 720,
-    "cpc": 1.5299999713897705,
-    "competition": "HIGH",
-    "traffic_estimate": 18.4,
-    "keyword_difficulty": 0,
-    "intent": "transactional",
-    "traffic_value": 1102,
-    "priority_score": 684
-  },
-  {
     "keyword": "8x 12",
     "position": 14,
     "url": "https://americanflat.com/collections/8x12-frames",
@@ -2312,6 +2273,19 @@
     "intent": "informational",
     "traffic_value": 0,
     "priority_score": 680
+  },
+  {
+    "keyword": "floating mount picture frame",
+    "position": 12,
+    "url": "https://americanflat.com/products/floating-picture-frame-without-mat",
+    "search_volume": 720,
+    "cpc": 1.5299999713897705,
+    "competition": "HIGH",
+    "traffic_estimate": 18.4,
+    "keyword_difficulty": 2,
+    "intent": "transactional",
+    "traffic_value": 1102,
+    "priority_score": 670
   },
   {
     "keyword": "white picture frames 16 x 20",
@@ -2403,19 +2377,6 @@
     "intent": "navigational",
     "traffic_value": 710,
     "priority_score": 600
-  },
-  {
-    "keyword": "what is a floating picture frame",
-    "position": 13,
-    "url": "https://americanflat.com/products/americanflat-fusion-float-frame-floating-slide-in-with-mat-acrylic",
-    "search_volume": 1300,
-    "cpc": 0.9100000262260437,
-    "competition": "HIGH",
-    "traffic_estimate": 25.6,
-    "keyword_difficulty": 0,
-    "intent": "informational",
-    "traffic_value": 1183,
-    "priority_score": 585
   },
   {
     "keyword": "picture frames 20 by 30",

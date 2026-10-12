@@ -1,168 +1,136 @@
 {
   "window_days": 7,
   "summary": {
-    "improved": 20,
-    "declined": 7,
-    "new": 21,
-    "lost": 67
+    "improved": 16,
+    "declined": 9,
+    "new": 64,
+    "lost": 25
   },
   "improved": [
     {
-      "keyword": "certificate frame 11x14",
-      "current": 7,
-      "prior": 21,
+      "keyword": "how to choose picture frame",
+      "current": 6,
+      "prior": 47,
+      "category": "educational",
+      "priority": "medium",
+      "delta": 41
+    },
+    {
+      "keyword": "shadow box picture frame",
+      "current": 4,
+      "prior": 34,
       "category": "specialty frames",
-      "priority": "high",
-      "delta": 14
+      "priority": "medium",
+      "delta": 30
     },
     {
-      "keyword": "acrylic picture frame",
-      "current": 38,
-      "prior": 50,
-      "category": "material",
-      "priority": "high",
-      "delta": 12
+      "keyword": "walnut picture frame",
+      "current": 12,
+      "prior": 37,
+      "category": "color/style",
+      "priority": "medium",
+      "delta": 25
     },
     {
-      "keyword": "30x40 picture frame",
-      "current": 11,
-      "prior": 21,
+      "keyword": "27x40 picture frame",
+      "current": 2,
+      "prior": 23,
       "category": "size - extra large",
       "priority": "high",
-      "delta": 10
+      "delta": 21
     },
     {
-      "keyword": "glossy picture frame",
-      "current": 28,
-      "prior": 35,
-      "category": "color/style",
-      "priority": "low",
-      "delta": 7
-    },
-    {
-      "keyword": "gallery wall 10 frames",
-      "current": 14,
-      "prior": 20,
-      "category": "gallery wall",
-      "priority": "medium",
-      "delta": 6
-    },
-    {
-      "keyword": "11x14 picture frame white",
-      "current": 7,
-      "prior": 12,
-      "category": "size - standard",
-      "priority": "high",
-      "delta": 5
-    },
-    {
-      "keyword": "gallery wall frame set",
+      "keyword": "children's art frame",
       "current": 2,
-      "prior": 6,
-      "category": "core - brand",
+      "prior": 21,
+      "category": "use case - family/kids",
       "priority": "high",
-      "delta": 4
-    },
-    {
-      "keyword": "5x7 picture frame",
-      "current": 13,
-      "prior": 17,
-      "category": "size - standard",
-      "priority": "high",
-      "delta": 4
-    },
-    {
-      "keyword": "6x7 picture frame",
-      "current": 18,
-      "prior": 22,
-      "category": "size - odd/custom",
-      "priority": "low",
-      "delta": 4
-    },
-    {
-      "keyword": "5x7 frame",
-      "current": 27,
-      "prior": 31,
-      "category": "size - standard",
-      "priority": "high",
-      "delta": 4
+      "delta": 19
     },
     {
       "keyword": "gallery wall kit black frames",
-      "current": 17,
-      "prior": 20,
+      "current": 1,
+      "prior": 17,
       "category": "long tail - sets",
       "priority": "medium",
-      "delta": 3
+      "delta": 16
     },
     {
-      "keyword": "picture frames for hallway",
-      "current": 22,
-      "prior": 25,
-      "category": "long tail - room/use",
-      "priority": "medium",
-      "delta": 3
+      "keyword": "20x30 picture frame",
+      "current": 7,
+      "prior": 22,
+      "category": "size - large",
+      "priority": "high",
+      "delta": 15
     },
     {
-      "keyword": "11x16 picture frame",
-      "current": 24,
-      "prior": 26,
-      "category": "size - odd/custom",
+      "keyword": "art print frames",
+      "current": 80,
+      "prior": 93,
+      "category": "use case - art",
+      "priority": "high",
+      "delta": 13
+    },
+    {
+      "keyword": "6x4 picture frame",
+      "current": 27,
+      "prior": 35,
+      "category": "size - small",
       "priority": "low",
-      "delta": 2
+      "delta": 8
     },
     {
-      "keyword": "kids drawing frame",
-      "current": 5,
-      "prior": 7,
-      "category": "use case - family/kids",
+      "keyword": "large picture frames for wall",
+      "current": 45,
+      "prior": 49,
+      "category": "long tail - room/use",
       "priority": "high",
-      "delta": 2
+      "delta": 4
     },
     {
-      "keyword": "5x7 picture frame black",
-      "current": 3,
-      "prior": 5,
-      "category": "size - standard",
-      "priority": "high",
-      "delta": 2
-    },
-    {
-      "keyword": "8x12 picture frame",
-      "current": 25,
-      "prior": 26,
-      "category": "size - square/medium",
+      "keyword": "5x7 picture frame set",
+      "current": 20,
+      "prior": 24,
+      "category": "multi-pack/sets",
       "priority": "medium",
-      "delta": 1
+      "delta": 4
     },
     {
-      "keyword": "gold photo frame",
-      "current": 3,
-      "prior": 4,
+      "keyword": "gold picture frame",
+      "current": 10,
+      "prior": 13,
       "category": "color/style",
       "priority": "high",
-      "delta": 1
+      "delta": 3
     },
     {
-      "keyword": "gallery wall white frames",
-      "current": 23,
-      "prior": 24,
-      "category": "gallery wall",
+      "keyword": "certificate frame 11x14",
+      "current": 4,
+      "prior": 7,
+      "category": "specialty frames",
       "priority": "high",
-      "delta": 1
+      "delta": 3
     },
     {
-      "keyword": "11x17 frame",
-      "current": 2,
-      "prior": 3,
+      "keyword": "5x7 frame",
+      "current": 24,
+      "prior": 27,
       "category": "size - standard",
+      "priority": "high",
+      "delta": 3
+    },
+    {
+      "keyword": "print frame",
+      "current": 81,
+      "prior": 83,
+      "category": "use case - art",
       "priority": "medium",
-      "delta": 1
+      "delta": 2
     },
     {
       "keyword": "11x14 picture frame set",
-      "current": 4,
-      "prior": 5,
+      "current": 3,
+      "prior": 4,
       "category": "multi-pack/sets",
       "priority": "medium",
       "delta": 1
@@ -170,387 +138,431 @@
   ],
   "declined": [
     {
-      "keyword": "picture frames for wall",
-      "current": 67,
-      "prior": 6,
-      "category": "core - brand",
+      "keyword": "kids artwork frame",
+      "current": 51,
+      "prior": 5,
+      "category": "use case - family/kids",
       "priority": "high",
-      "delta": -61
+      "delta": -46
     },
     {
-      "keyword": "walnut picture frame",
-      "current": 37,
-      "prior": 32,
-      "category": "color/style",
-      "priority": "medium",
-      "delta": -5
-    },
-    {
-      "keyword": "6x4 picture frame",
-      "current": 35,
-      "prior": 31,
-      "category": "size - small",
-      "priority": "low",
-      "delta": -4
-    },
-    {
-      "keyword": "gold picture frame",
-      "current": 13,
-      "prior": 11,
-      "category": "color/style",
+      "keyword": "kids drawing frame",
+      "current": 24,
+      "prior": 5,
+      "category": "use case - family/kids",
       "priority": "high",
-      "delta": -2
-    },
-    {
-      "keyword": "reversible picture frame",
-      "current": 13,
-      "prior": 11,
-      "category": "features",
-      "priority": "medium",
-      "delta": -2
-    },
-    {
-      "keyword": "picture frame with matting",
-      "current": 26,
-      "prior": 25,
-      "category": "features",
-      "priority": "high",
-      "delta": -1
+      "delta": -19
     },
     {
       "keyword": "11x17 picture frame",
-      "current": 8,
-      "prior": 7,
+      "current": 21,
+      "prior": 8,
       "category": "size - standard",
       "priority": "medium",
+      "delta": -13
+    },
+    {
+      "keyword": "what size frame for 11x14 print",
+      "current": 6,
+      "prior": 2,
+      "category": "educational",
+      "priority": "high",
+      "delta": -4
+    },
+    {
+      "keyword": "gallery wall frame set",
+      "current": 4,
+      "prior": 2,
+      "category": "core - brand",
+      "priority": "high",
+      "delta": -2
+    },
+    {
+      "keyword": "5x7 photo frame",
+      "current": 17,
+      "prior": 15,
+      "category": "size - standard",
+      "priority": "high",
+      "delta": -2
+    },
+    {
+      "keyword": "8x12 picture frame",
+      "current": 26,
+      "prior": 25,
+      "category": "size - square/medium",
+      "priority": "medium",
+      "delta": -1
+    },
+    {
+      "keyword": "11x16 picture frame",
+      "current": 25,
+      "prior": 24,
+      "category": "size - odd/custom",
+      "priority": "low",
+      "delta": -1
+    },
+    {
+      "keyword": "11x14 picture frame gold",
+      "current": 9,
+      "prior": 8,
+      "category": "size - standard",
+      "priority": "high",
       "delta": -1
     }
   ],
   "new": [
     {
-      "keyword": "brushed gold picture frame",
-      "current": 2,
-      "prior": null,
-      "category": "color/style",
-      "priority": "medium"
-    },
-    {
-      "keyword": "5x7 black picture frame set",
-      "current": 2,
-      "prior": null,
-      "category": "long tail - sets",
-      "priority": "high"
-    },
-    {
-      "keyword": "diploma frame 11x14",
-      "current": 5,
-      "prior": null,
-      "category": "specialty frames",
-      "priority": "high"
-    },
-    {
-      "keyword": "11x14 picture frame gold",
-      "current": 8,
-      "prior": null,
-      "category": "size - standard",
-      "priority": "high"
-    },
-    {
-      "keyword": "coordinating picture frames",
-      "current": 12,
-      "prior": null,
-      "category": "multi-pack/sets",
-      "priority": "medium"
-    },
-    {
-      "keyword": "float frame",
-      "current": 12,
-      "prior": null,
-      "category": "specialty frames",
-      "priority": "high"
-    },
-    {
-      "keyword": "5x7 photo frame",
-      "current": 15,
-      "prior": null,
-      "category": "size - standard",
-      "priority": "high"
-    },
-    {
-      "keyword": "wide border picture frame",
-      "current": 15,
-      "prior": null,
-      "category": "long tail - style/decor",
-      "priority": "medium"
-    },
-    {
-      "keyword": "11x14 light wood picture frame",
-      "current": 16,
-      "prior": null,
-      "category": "size - standard",
-      "priority": "medium"
-    },
-    {
-      "keyword": "11x14 walnut picture frame",
-      "current": 19,
-      "prior": null,
-      "category": "size - standard",
-      "priority": "medium"
-    },
-    {
-      "keyword": "children's art frame",
-      "current": 21,
-      "prior": null,
-      "category": "use case - family/kids",
-      "priority": "high"
-    },
-    {
-      "keyword": "20x30 picture frame",
-      "current": 22,
-      "prior": null,
-      "category": "size - large",
-      "priority": "high"
-    },
-    {
-      "keyword": "27x40 picture frame",
-      "current": 23,
-      "prior": null,
-      "category": "size - extra large",
-      "priority": "high"
-    },
-    {
-      "keyword": "5x7 picture frame set",
-      "current": 24,
-      "prior": null,
-      "category": "multi-pack/sets",
-      "priority": "medium"
-    },
-    {
-      "keyword": "7x5 picture frame",
-      "current": 26,
-      "prior": null,
-      "category": "size - small",
-      "priority": "low"
-    },
-    {
-      "keyword": "best picture frames",
-      "current": 28,
-      "prior": null,
-      "category": "buying intent",
-      "priority": "high"
-    },
-    {
-      "keyword": "1x2 picture frame",
-      "current": 30,
-      "prior": null,
-      "category": "size - small",
-      "priority": "low"
-    },
-    {
-      "keyword": "how to choose picture frame",
-      "current": 47,
-      "prior": null,
-      "category": "educational",
-      "priority": "medium"
-    },
-    {
-      "keyword": "large picture frames for wall",
-      "current": 49,
-      "prior": null,
-      "category": "long tail - room/use",
-      "priority": "high"
-    },
-    {
-      "keyword": "print frame",
-      "current": 83,
-      "prior": null,
-      "category": "use case - art",
-      "priority": "medium"
-    },
-    {
-      "keyword": "art print frames",
-      "current": 93,
-      "prior": null,
-      "category": "use case - art",
-      "priority": "high"
-    }
-  ],
-  "lost": [
-    {
-      "keyword": "photo frames",
-      "current": null,
-      "prior": 1,
-      "category": "core - brand",
-      "priority": "high"
-    },
-    {
       "keyword": "americanflat frames",
-      "current": null,
-      "prior": 1,
+      "current": 1,
+      "prior": null,
       "category": "core - brand",
       "priority": "high"
     },
     {
       "keyword": "americanflat picture frames",
-      "current": null,
-      "prior": 1,
+      "current": 1,
+      "prior": null,
       "category": "core - brand",
       "priority": "high"
     },
     {
       "keyword": "gallery wall frames",
-      "current": null,
-      "prior": 2,
+      "current": 1,
+      "prior": null,
       "category": "core - brand",
       "priority": "high"
     },
     {
-      "keyword": "8.5x11 picture frame",
-      "current": null,
-      "prior": 2,
-      "category": "size - standard",
-      "priority": "medium"
-    },
-    {
-      "keyword": "8.5x11 frame",
-      "current": null,
-      "prior": 2,
-      "category": "size - standard",
-      "priority": "medium"
-    },
-    {
-      "keyword": "18x24 picture frame",
-      "current": null,
-      "prior": 3,
-      "category": "size - standard",
-      "priority": "high"
-    },
-    {
-      "keyword": "11x14 photo frame",
-      "current": null,
-      "prior": 3,
-      "category": "size - standard",
-      "priority": "high"
-    },
-    {
-      "keyword": "18x24 photo frame",
-      "current": null,
-      "prior": 3,
-      "category": "size - standard",
-      "priority": "high"
-    },
-    {
-      "keyword": "16x16 picture frame",
-      "current": null,
-      "prior": 3,
+      "keyword": "22x28 picture frame",
+      "current": 2,
+      "prior": null,
       "category": "size - large",
       "priority": "medium"
     },
     {
-      "keyword": "13x19 picture frame",
-      "current": null,
-      "prior": 3,
-      "category": "size - odd/custom",
-      "priority": "low"
-    },
-    {
-      "keyword": "18x24 frame",
-      "current": null,
-      "prior": 3,
-      "category": "size - standard",
+      "keyword": "gallery wall mixed frames",
+      "current": 2,
+      "prior": null,
+      "category": "gallery wall",
       "priority": "high"
     },
     {
       "keyword": "wall frames",
-      "current": null,
-      "prior": 4,
+      "current": 3,
+      "prior": null,
       "category": "core - brand",
       "priority": "high"
     },
     {
+      "keyword": "picture frames set",
+      "current": 3,
+      "prior": null,
+      "category": "core - brand",
+      "priority": "high"
+    },
+    {
+      "keyword": "6x6 picture frame",
+      "current": 3,
+      "prior": null,
+      "category": "size - small",
+      "priority": "medium"
+    },
+    {
       "keyword": "9x11 picture frame",
-      "current": null,
-      "prior": 4,
+      "current": 3,
+      "prior": null,
       "category": "size - square/medium",
       "priority": "medium"
     },
     {
-      "keyword": "18x24 poster frame",
-      "current": null,
-      "prior": 4,
-      "category": "size - extra large",
+      "keyword": "20x20 picture frame",
+      "current": 3,
+      "prior": null,
+      "category": "size - large",
       "priority": "medium"
     },
     {
-      "keyword": "picture frame",
-      "current": null,
-      "prior": 5,
+      "keyword": "picture frames",
+      "current": 4,
+      "prior": null,
       "category": "core - brand",
       "priority": "high"
     },
     {
       "keyword": "12x18 picture frame",
-      "current": null,
-      "prior": 5,
+      "current": 4,
+      "prior": null,
       "category": "size - large",
       "priority": "high"
     },
     {
-      "keyword": "same size picture frames set",
-      "current": null,
-      "prior": 5,
+      "keyword": "best gallery wall frames",
+      "current": 4,
+      "prior": null,
+      "category": "buying intent",
+      "priority": "medium"
+    },
+    {
+      "keyword": "12x16 picture frame",
+      "current": 5,
+      "prior": null,
+      "category": "size - large",
+      "priority": "high"
+    },
+    {
+      "keyword": "matching picture frames set",
+      "current": 5,
+      "prior": null,
       "category": "multi-pack/sets",
       "priority": "medium"
     },
     {
-      "keyword": "gallery wall frames set",
-      "current": null,
-      "prior": 6,
-      "category": "gallery wall",
+      "keyword": "11x14 frame",
+      "current": 5,
+      "prior": null,
+      "category": "size - standard",
       "priority": "high"
     },
     {
-      "keyword": "picture frames set",
-      "current": null,
-      "prior": 8,
-      "category": "core - brand",
+      "keyword": "17x22 picture frame",
+      "current": 5,
+      "prior": null,
+      "category": "size - standard",
+      "priority": "medium"
+    },
+    {
+      "keyword": "8.5x11 picture frame",
+      "current": 6,
+      "prior": null,
+      "category": "size - standard",
+      "priority": "medium"
+    },
+    {
+      "keyword": "11x14 picture frame black",
+      "current": 7,
+      "prior": null,
+      "category": "size - standard",
       "priority": "high"
     },
     {
-      "keyword": "gallery wall kit white frames",
-      "current": null,
-      "prior": 8,
-      "category": "long tail - sets",
+      "keyword": "18x24 picture frame with mat",
+      "current": 7,
+      "prior": null,
+      "category": "size - standard",
       "priority": "medium"
     },
     {
-      "keyword": "24x24 picture frame",
-      "current": null,
-      "prior": 9,
-      "category": "size - large",
+      "keyword": "4x6 picture frame set",
+      "current": 7,
+      "prior": null,
+      "category": "multi-pack/sets",
       "priority": "medium"
     },
     {
-      "keyword": "picture frame sizes guide",
-      "current": null,
-      "prior": 9,
-      "category": "educational",
-      "priority": "medium"
+      "keyword": "modern picture frames",
+      "current": 8,
+      "prior": null,
+      "category": "long tail - style/decor",
+      "priority": "high"
     },
     {
-      "keyword": "natural oak picture frame",
+      "keyword": "picture frames without mat",
+      "current": 8,
+      "prior": null,
+      "category": "features",
+      "priority": "high"
+    },
+    {
+      "keyword": "silver picture frame",
+      "current": 9,
+      "prior": null,
+      "category": "color/style",
+      "priority": "high"
+    },
+    {
+      "keyword": "picture frame acrylic front",
+      "current": 9,
+      "prior": null,
+      "category": "features",
+      "priority": "medium"
+    }
+  ],
+  "lost": [
+    {
+      "keyword": "brushed gold picture frame",
       "current": null,
-      "prior": 10,
+      "prior": 2,
       "category": "color/style",
       "priority": "medium"
     },
     {
-      "keyword": "photography frame",
+      "keyword": "11x14 picture frame",
       "current": null,
-      "prior": 11,
-      "category": "use case - art",
+      "prior": 3,
+      "category": "size - standard",
+      "priority": "high"
+    },
+    {
+      "keyword": "8x8 picture frame",
+      "current": null,
+      "prior": 3,
+      "category": "size - square/medium",
       "priority": "medium"
+    },
+    {
+      "keyword": "gold photo frame",
+      "current": null,
+      "prior": 3,
+      "category": "color/style",
+      "priority": "high"
+    },
+    {
+      "keyword": "5x7 picture frame black",
+      "current": null,
+      "prior": 3,
+      "category": "size - standard",
+      "priority": "high"
+    },
+    {
+      "keyword": "gallery wall frame sizes",
+      "current": null,
+      "prior": 4,
+      "category": "gallery wall",
+      "priority": "high"
+    },
+    {
+      "keyword": "diploma frame 11x14",
+      "current": null,
+      "prior": 5,
+      "category": "specialty frames",
+      "priority": "high"
+    },
+    {
+      "keyword": "11x14 picture frame white",
+      "current": null,
+      "prior": 7,
+      "category": "size - standard",
+      "priority": "high"
+    },
+    {
+      "keyword": "coordinating picture frames",
+      "current": null,
+      "prior": 12,
+      "category": "multi-pack/sets",
+      "priority": "medium"
+    },
+    {
+      "keyword": "float frame",
+      "current": null,
+      "prior": 12,
+      "category": "specialty frames",
+      "priority": "high"
+    },
+    {
+      "keyword": "reversible picture frame",
+      "current": null,
+      "prior": 13,
+      "category": "features",
+      "priority": "medium"
+    },
+    {
+      "keyword": "gallery wall 10 frames",
+      "current": null,
+      "prior": 14,
+      "category": "gallery wall",
+      "priority": "medium"
+    },
+    {
+      "keyword": "wide border picture frame",
+      "current": null,
+      "prior": 15,
+      "category": "long tail - style/decor",
+      "priority": "medium"
+    },
+    {
+      "keyword": "11x14 light wood picture frame",
+      "current": null,
+      "prior": 16,
+      "category": "size - standard",
+      "priority": "medium"
+    },
+    {
+      "keyword": "6x7 picture frame",
+      "current": null,
+      "prior": 18,
+      "category": "size - odd/custom",
+      "priority": "low"
+    },
+    {
+      "keyword": "11x14 walnut picture frame",
+      "current": null,
+      "prior": 19,
+      "category": "size - standard",
+      "priority": "medium"
+    },
+    {
+      "keyword": "picture frames for hallway",
+      "current": null,
+      "prior": 22,
+      "category": "long tail - room/use",
+      "priority": "medium"
+    },
+    {
+      "keyword": "floating photo frame",
+      "current": null,
+      "prior": 23,
+      "category": "specialty frames",
+      "priority": "high"
+    },
+    {
+      "keyword": "7x5 picture frame",
+      "current": null,
+      "prior": 26,
+      "category": "size - small",
+      "priority": "low"
+    },
+    {
+      "keyword": "picture frame with matting",
+      "current": null,
+      "prior": 26,
+      "category": "features",
+      "priority": "high"
+    },
+    {
+      "keyword": "glossy picture frame",
+      "current": null,
+      "prior": 28,
+      "category": "color/style",
+      "priority": "low"
+    },
+    {
+      "keyword": "best picture frames",
+      "current": null,
+      "prior": 28,
+      "category": "buying intent",
+      "priority": "high"
+    },
+    {
+      "keyword": "1x2 picture frame",
+      "current": null,
+      "prior": 30,
+      "category": "size - small",
+      "priority": "low"
+    },
+    {
+      "keyword": "acrylic picture frame",
+      "current": null,
+      "prior": 38,
+      "category": "material",
+      "priority": "high"
+    },
+    {
+      "keyword": "picture frames for wall",
+      "current": null,
+      "prior": 67,
+      "category": "core - brand",
+      "priority": "high"
     }
   ],
-  "generated_at": "2026-10-05T21:25:44+00:00"
+  "generated_at": "2026-10-12T22:02:02+00:00"
 }
