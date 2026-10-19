@@ -43,18 +43,18 @@
       "their_url": "https://www.arttoframe.com/"
     },
     {
-      "keyword": "picture frame in frames",
-      "search_volume": 33100,
-      "their_position": 10,
-      "our_position": null,
-      "their_url": "https://www.arttoframe.com/"
-    },
-    {
       "keyword": "10x8 frame",
       "search_volume": 33100,
       "their_position": 2,
       "our_position": null,
       "their_url": "https://www.arttoframe.com/10x8_picture_frames"
+    },
+    {
+      "keyword": "picture frame in frames",
+      "search_volume": 33100,
+      "their_position": 10,
+      "our_position": null,
+      "their_url": "https://www.arttoframe.com/"
     },
     {
       "keyword": "picture frame shops near me",
@@ -288,11 +288,11 @@
       "their_url": "https://www.arttoframe.com/8x10_picture_frames"
     },
     {
-      "keyword": "picture frames 8 x 6",
+      "keyword": "cheap photo frames",
       "search_volume": 8100,
-      "their_position": 9,
+      "their_position": 5,
       "our_position": null,
-      "their_url": "https://www.arttoframe.com/6x8_picture_frames"
+      "their_url": "https://www.arttoframe.com/picture-frames"
     },
     {
       "keyword": "poster frames 24x36",
@@ -302,23 +302,23 @@
       "their_url": "https://www.arttoframe.com/24x36_picture_frames"
     },
     {
-      "keyword": "cheap photo frames",
+      "keyword": "picture frames 8 x 6",
       "search_volume": 8100,
-      "their_position": 5,
+      "their_position": 9,
       "our_position": null,
-      "their_url": "https://www.arttoframe.com/picture-frames"
-    },
-    {
-      "keyword": "picture frame for 8x10 photo",
-      "search_volume": 8100,
-      "their_position": 6,
-      "our_position": null,
-      "their_url": "https://www.arttoframe.com/8x10_picture_frames"
+      "their_url": "https://www.arttoframe.com/6x8_picture_frames"
     },
     {
       "keyword": "picture frames for 8x10",
       "search_volume": 8100,
       "their_position": 5,
+      "our_position": null,
+      "their_url": "https://www.arttoframe.com/8x10_picture_frames"
+    },
+    {
+      "keyword": "picture frame for 8x10 photo",
+      "search_volume": 8100,
+      "their_position": 6,
       "our_position": null,
       "their_url": "https://www.arttoframe.com/8x10_picture_frames"
     },
@@ -393,16 +393,16 @@
       "their_url": "https://www.arttoframe.com/20x28_picture_frames"
     },
     {
-      "keyword": "paintings and frames",
+      "keyword": "frame shop",
       "search_volume": 6600,
-      "their_position": 14,
+      "their_position": 11,
       "our_position": null,
       "their_url": "https://www.arttoframe.com/"
     },
     {
-      "keyword": "frame shop",
+      "keyword": "paintings and frames",
       "search_volume": 6600,
-      "their_position": 11,
+      "their_position": 14,
       "our_position": null,
       "their_url": "https://www.arttoframe.com/"
     },
@@ -472,14 +472,7 @@
       "their_url": "https://www.modernmemorydesign.com/blogs/news/common-frame-sizes-the-2026-guide-to-standard-picture-dimensions"
     },
     {
-      "keyword": "photo frames big",
-      "search_volume": 12100,
-      "their_position": 6,
-      "our_position": null,
-      "their_url": "https://www.modernmemorydesign.com/collections/large-picture-frames-sizes-big-picture-frames-for-wall"
-    },
-    {
-      "keyword": "photo frame big",
+      "keyword": "photo frames large",
       "search_volume": 12100,
       "their_position": 14,
       "our_position": null,
@@ -493,7 +486,14 @@
       "their_url": "https://www.modernmemorydesign.com/collections/large-picture-frames-sizes-big-picture-frames-for-wall"
     },
     {
-      "keyword": "photo frames large",
+      "keyword": "photo frames big",
+      "search_volume": 12100,
+      "their_position": 6,
+      "our_position": null,
+      "their_url": "https://www.modernmemorydesign.com/collections/large-picture-frames-sizes-big-picture-frames-for-wall"
+    },
+    {
+      "keyword": "photo frame big",
       "search_volume": 12100,
       "their_position": 14,
       "our_position": null,
@@ -563,18 +563,11 @@
       "their_url": "https://www.modernmemorydesign.com/products/picture-frame-glass-replacement"
     },
     {
-      "keyword": "frames for tvs",
+      "keyword": "frame for television",
       "search_volume": 3600,
-      "their_position": 10,
+      "their_position": 17,
       "our_position": null,
       "their_url": "https://www.modernmemorydesign.com/collections/custom-tv-frames-stylish-picture-frames-for-samsung-and-flat-screen-tvs"
-    },
-    {
-      "keyword": "poster frame sizes",
-      "search_volume": 3600,
-      "their_position": 16,
-      "our_position": null,
-      "their_url": "https://www.modernmemorydesign.com/blogs/news/common-frame-sizes-the-2026-guide-to-standard-picture-dimensions"
     },
     {
       "keyword": "how big is 8x10 picture",
@@ -582,6 +575,13 @@
       "their_position": 14,
       "our_position": null,
       "their_url": "https://www.modernmemorydesign.com/blogs/news/the-essential-guide-to-the-8x10-frame-styles-sizes-and-expert-tips"
+    },
+    {
+      "keyword": "poster frame sizes",
+      "search_volume": 3600,
+      "their_position": 16,
+      "our_position": null,
+      "their_url": "https://www.modernmemorydesign.com/blogs/news/common-frame-sizes-the-2026-guide-to-standard-picture-dimensions"
     },
     {
       "keyword": "television frames",
@@ -601,6 +601,13 @@
       "keyword": "frame for tv",
       "search_volume": 3600,
       "their_position": 18,
+      "our_position": null,
+      "their_url": "https://www.modernmemorydesign.com/collections/custom-tv-frames-stylish-picture-frames-for-samsung-and-flat-screen-tvs"
+    },
+    {
+      "keyword": "frames for tvs",
+      "search_volume": 3600,
+      "their_position": 10,
       "our_position": null,
       "their_url": "https://www.modernmemorydesign.com/collections/custom-tv-frames-stylish-picture-frames-for-samsung-and-flat-screen-tvs"
     },
@@ -635,14 +642,14 @@
       "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
     },
     {
-      "keyword": "art frame shop near me",
+      "keyword": "painting frame shops near me",
       "search_volume": 40500,
       "their_position": 6,
       "our_position": null,
       "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
     },
     {
-      "keyword": "painting frame shops near me",
+      "keyword": "art frame shop near me",
       "search_volume": 40500,
       "their_position": 6,
       "our_position": null,
@@ -654,20 +661,6 @@
       "their_position": 3,
       "our_position": null,
       "their_url": "https://www.pictureframes.com/custom-framing/16x20-picture-frames"
-    },
-    {
-      "keyword": "8x10 frames",
-      "search_volume": 33100,
-      "their_position": 3,
-      "our_position": null,
-      "their_url": "https://www.pictureframes.com/custom-framing/8x10-picture-frames"
-    },
-    {
-      "keyword": "8x10 frame",
-      "search_volume": 33100,
-      "their_position": 3,
-      "our_position": null,
-      "their_url": "https://www.pictureframes.com/custom-framing/8x10-picture-frames"
     },
     {
       "keyword": "picture frames near me",
@@ -682,6 +675,20 @@
       "their_position": 11,
       "our_position": null,
       "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
+    },
+    {
+      "keyword": "8x10 frames",
+      "search_volume": 33100,
+      "their_position": 3,
+      "our_position": null,
+      "their_url": "https://www.pictureframes.com/custom-framing/8x10-picture-frames"
+    },
+    {
+      "keyword": "8x10 frame",
+      "search_volume": 33100,
+      "their_position": 3,
+      "our_position": null,
+      "their_url": "https://www.pictureframes.com/custom-framing/8x10-picture-frames"
     },
     {
       "keyword": "frames for photoshoot",
@@ -719,6 +726,13 @@
       "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
     },
     {
+      "keyword": "36x24 frame",
+      "search_volume": 27100,
+      "their_position": 3,
+      "our_position": null,
+      "their_url": "https://www.pictureframes.com/custom-framing/24x36-picture-frames"
+    },
+    {
       "keyword": "picture frames 36 x 24",
       "search_volume": 27100,
       "their_position": 2,
@@ -729,13 +743,6 @@
       "keyword": "24x36 photo frame",
       "search_volume": 27100,
       "their_position": 2,
-      "our_position": null,
-      "their_url": "https://www.pictureframes.com/custom-framing/24x36-picture-frames"
-    },
-    {
-      "keyword": "36x24 frame",
-      "search_volume": 27100,
-      "their_position": 3,
       "our_position": null,
       "their_url": "https://www.pictureframes.com/custom-framing/24x36-picture-frames"
     },
@@ -752,13 +759,6 @@
       "their_position": 2,
       "our_position": null,
       "their_url": "https://www.pictureframes.com/custom-framing/24x36-picture-frames"
-    },
-    {
-      "keyword": "customizable frame",
-      "search_volume": 22200,
-      "their_position": 3,
-      "our_position": null,
-      "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
     },
     {
       "keyword": "36x24 poster frame",
@@ -789,6 +789,13 @@
       "their_url": "https://www.pictureframes.com/custom-framing/24x36-picture-frames"
     },
     {
+      "keyword": "customizable frame",
+      "search_volume": 22200,
+      "their_position": 3,
+      "our_position": null,
+      "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
+    },
+    {
       "keyword": "custom frame",
       "search_volume": 22200,
       "their_position": 1,
@@ -810,11 +817,11 @@
       "their_url": "https://www.pictureframes.com/custom-framing/material/wood-picture-frames"
     },
     {
-      "keyword": "woodworking frames",
+      "keyword": "custom made photo frame",
       "search_volume": 14800,
-      "their_position": 5,
+      "their_position": 4,
       "our_position": null,
-      "their_url": "https://www.pictureframes.com/custom-framing/material/wood-picture-frames"
+      "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
     },
     {
       "keyword": "canvas frame",
@@ -838,13 +845,6 @@
       "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
     },
     {
-      "keyword": "custom made picture frame",
-      "search_volume": 14800,
-      "their_position": 4,
-      "our_position": null,
-      "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
-    },
-    {
       "keyword": "canvas frames",
       "search_volume": 14800,
       "their_position": 2,
@@ -852,7 +852,7 @@
       "their_url": "https://www.pictureframes.com/custom-framing/type/canvas-frames"
     },
     {
-      "keyword": "custom made photo frame",
+      "keyword": "custom made picture frame",
       "search_volume": 14800,
       "their_position": 4,
       "our_position": null,
@@ -880,6 +880,13 @@
       "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
     },
     {
+      "keyword": "woodworking frames",
+      "search_volume": 14800,
+      "their_position": 5,
+      "our_position": null,
+      "their_url": "https://www.pictureframes.com/custom-framing/material/wood-picture-frames"
+    },
+    {
       "keyword": "custom picture framer",
       "search_volume": 14800,
       "their_position": 2,
@@ -894,18 +901,18 @@
       "their_url": "https://www.pictureframes.com/custom-framing/material/wood-picture-frames"
     },
     {
-      "keyword": "photo frames big",
-      "search_volume": 12100,
-      "their_position": 12,
-      "our_position": null,
-      "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
-    },
-    {
       "keyword": "16 x 20 frame",
       "search_volume": 12100,
       "their_position": 6,
       "our_position": null,
       "their_url": "https://www.pictureframes.com/custom-framing/16x20-picture-frames"
+    },
+    {
+      "keyword": "photo frames big",
+      "search_volume": 12100,
+      "their_position": 12,
+      "our_position": null,
+      "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
     },
     {
       "keyword": "huge photo frame",
@@ -964,18 +971,18 @@
       "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
     },
     {
-      "keyword": "photo frame 10 x 8",
-      "search_volume": 8100,
-      "their_position": 19,
-      "our_position": null,
-      "their_url": "https://www.pictureframes.com/custom-framing/8x10-picture-frames"
-    },
-    {
       "keyword": "affordable picture frames",
       "search_volume": 8100,
       "their_position": 13,
       "our_position": null,
       "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
+    },
+    {
+      "keyword": "photo frame 10 x 8",
+      "search_volume": 8100,
+      "their_position": 19,
+      "our_position": null,
+      "their_url": "https://www.pictureframes.com/custom-framing/8x10-picture-frames"
     },
     {
       "keyword": "8 by 10 picture frame",
@@ -1020,6 +1027,13 @@
       "their_url": "https://www.pictureframes.com/custom-framing/8x10-picture-frames"
     },
     {
+      "keyword": "painting and frame",
+      "search_volume": 6600,
+      "their_position": 9,
+      "our_position": null,
+      "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
+    },
+    {
       "keyword": "frames for canvas artwork",
       "search_volume": 6600,
       "their_position": 6,
@@ -1027,18 +1041,11 @@
       "their_url": "https://www.pictureframes.com/custom-framing/type/canvas-frames"
     },
     {
-      "keyword": "paintings and frames",
+      "keyword": "frame shop",
       "search_volume": 6600,
-      "their_position": 2,
+      "their_position": 5,
       "our_position": null,
       "their_url": "https://www.pictureframes.com/custom-framing/all-frames"
-    },
-    {
-      "keyword": "frames for canvas paintings",
-      "search_volume": 6600,
-      "their_position": 6,
-      "our_position": null,
-      "their_url": "https://www.pictureframes.com/custom-framing/type/canvas-frames"
     }
   ]
 }
