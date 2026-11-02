@@ -3,33 +3,33 @@
     {
       "domain": "americanflat.com",
       "rank": 353,
-      "backlinks": 6413,
-      "referring_domains": 3053,
-      "referring_main_domains": 3042,
+      "backlinks": 3673,
+      "referring_domains": 418,
+      "referring_main_domains": 407,
       "is_target": true
     },
     {
+      "domain": "michaels.com",
+      "rank": 478,
+      "backlinks": 846267,
+      "referring_domains": 66460,
+      "referring_main_domains": 63209,
+      "is_target": false
+    },
+    {
       "domain": "arttoframe.com",
-      "rank": 281,
-      "backlinks": 9938,
-      "referring_domains": 4122,
-      "referring_main_domains": 3936,
+      "rank": 282,
+      "backlinks": 7189,
+      "referring_domains": 1446,
+      "referring_main_domains": 1276,
       "is_target": false
     },
     {
       "domain": "modernmemorydesign.com",
-      "rank": 216,
-      "backlinks": 5229,
-      "referring_domains": 3161,
-      "referring_main_domains": 3104,
-      "is_target": false
-    },
-    {
-      "domain": "pictureframes.com",
-      "rank": 277,
-      "backlinks": 10178,
-      "referring_domains": 3985,
-      "referring_main_domains": 3913,
+      "rank": 217,
+      "backlinks": 2499,
+      "referring_domains": 536,
+      "referring_main_domains": 479,
       "is_target": false
     }
   ],
@@ -72,9 +72,27 @@
     },
     {
       "domain": "loopabroad.com",
-      "rank": 60,
-      "backlinks": 155,
+      "rank": 61,
+      "backlinks": 157,
       "first_seen": "2026-08-27"
+    },
+    {
+      "domain": "housedat.com",
+      "rank": 56,
+      "backlinks": 38,
+      "first_seen": "2026-10-09"
+    },
+    {
+      "domain": "theysentit.com",
+      "rank": 51,
+      "backlinks": 1,
+      "first_seen": "2026-11-02"
+    },
+    {
+      "domain": "framesonthewall.com",
+      "rank": 51,
+      "backlinks": 5,
+      "first_seen": "2026-10-31"
     },
     {
       "domain": "theacftcalculator.us",
@@ -108,15 +126,9 @@
     },
     {
       "domain": "designjobs.careers",
-      "rank": 50,
-      "backlinks": 6,
+      "rank": 44,
+      "backlinks": 4,
       "first_seen": "2026-06-18"
-    },
-    {
-      "domain": "housedat.com",
-      "rank": 49,
-      "backlinks": 31,
-      "first_seen": "2026-10-09"
     },
     {
       "domain": "cbinsights.com",
@@ -311,36 +323,19 @@
       "first_seen": "2021-10-25"
     },
     {
-      "domain": "webranking.store",
+      "domain": "realarb.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-11-02"
     },
     {
-      "domain": "goodwebsitetraffic.shop",
+      "domain": "freewebseochecker.space",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "domain": "seotrafficimprove.shop",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-10-26"
-    },
-    {
-      "domain": "seoandbacklinks.space",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-11-02"
     }
   ],
   "anchors": [
-    {
-      "anchor": "Rank Higher with Professional Link Building and Backlinks americanflat.com",
-      "backlinks": 2830,
-      "referring_domains": 2657
-    },
     {
       "anchor": "(empty / branded)",
       "backlinks": 2419,
@@ -348,41 +343,46 @@
     },
     {
       "anchor": "americanflat.com",
-      "backlinks": 241,
-      "referring_domains": 47
+      "backlinks": 257,
+      "referring_domains": 54
     },
     {
       "anchor": "here",
-      "backlinks": 155,
+      "backlinks": 157,
       "referring_domains": 1
     },
     {
       "anchor": "Americanflat",
-      "backlinks": 79,
+      "backlinks": 77,
       "referring_domains": 33
     },
     {
       "anchor": "americanflat",
-      "backlinks": 52,
-      "referring_domains": 49
+      "backlinks": 64,
+      "referring_domains": 61
     },
     {
       "anchor": "View",
+      "backlinks": 38,
+      "referring_domains": 1
+    },
+    {
+      "anchor": "Visit official website ↗",
       "backlinks": 31,
       "referring_domains": 1
     },
     {
       "anchor": "High Quality Dofollow Backlinks DA 50 PA 40 Premium PBN Network Service americanflat.com Rank First Page Google Fast SEO Link Building Buy Backlinks Online Cheap",
-      "backlinks": 28,
-      "referring_domains": 28
+      "backlinks": 29,
+      "referring_domains": 29
     },
     {
-      "anchor": "Picture Frames",
+      "anchor": "Wall Art",
       "backlinks": 22,
       "referring_domains": 2
     },
     {
-      "anchor": "Wall Art",
+      "anchor": "Picture Frames",
       "backlinks": 22,
       "referring_domains": 2
     },
@@ -417,6 +417,11 @@
       "referring_domains": 2
     },
     {
+      "anchor": "Source ↗",
+      "backlinks": 11,
+      "referring_domains": 2
+    },
+    {
       "anchor": "curated gallery wall frame set from Americanflat",
       "backlinks": 11,
       "referring_domains": 1
@@ -430,22 +435,9 @@
       "anchor": "https://www.americanflat.com",
       "backlinks": 9,
       "referring_domains": 2
-    },
-    {
-      "anchor": "Mandy Buchanan  Americanflat",
-      "backlinks": 9,
-      "referring_domains": 7
     }
   ],
   "history": [
-    {
-      "date": "2025-10-31",
-      "referring_domains": 419,
-      "new_referring_domains": 8,
-      "lost_referring_domains": 20,
-      "new_backlinks": 309,
-      "lost_backlinks": 316
-    },
     {
       "date": "2025-11-30",
       "referring_domains": 404,
@@ -537,157 +529,181 @@
   ],
   "gained": [
     {
-      "domain": "webranking.store",
+      "domain": "realarb.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-11-02"
     },
     {
-      "domain": "goodwebsitetraffic.shop",
-      "rank": 0,
+      "domain": "theysentit.com",
+      "rank": 51,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-11-02"
     },
     {
-      "domain": "seotrafficimprove.shop",
+      "domain": "freewebseochecker.space",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-11-02"
     },
     {
-      "domain": "seoandbacklinks.space",
+      "domain": "woombie.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-11-01"
     },
     {
-      "domain": "seokeywords.space",
+      "domain": "datawebot.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-11-01"
     },
     {
-      "domain": "pageanalyzer.store",
+      "domain": "wethrift.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-11-01"
     },
     {
-      "domain": "dapacheckermultiple.store",
+      "domain": "michaelhelwiginteriors.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-11-01"
     },
     {
-      "domain": "doyouwantmoretraffic.shop",
+      "domain": "urls-shortener.eu",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-31"
     },
     {
-      "domain": "webtrafficfreetool.shop",
+      "domain": "zomatt.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-31"
     },
     {
-      "domain": "ranktools.online",
+      "domain": "websquemolan.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-31"
     },
     {
-      "domain": "urlanalytics.shop",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "domain": "framesonthewall.com",
+      "rank": 51,
+      "backlinks": 5,
+      "first_seen": "2026-10-31"
     },
     {
-      "domain": "bestlinkbuilding.shop",
+      "domain": "webrankingsolutionbacklinks.com",
       "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "backlinks": 6,
+      "first_seen": "2026-10-30"
     },
     {
-      "domain": "freetraffichits.space",
+      "domain": "dhgate.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-29"
     },
     {
-      "domain": "websitetrafficoverview.online",
+      "domain": "beststartup.us",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-29"
     },
     {
-      "domain": "pagereport.store",
+      "domain": "worldtopbacklinks.com",
       "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "backlinks": 6,
+      "first_seen": "2026-10-29"
     },
     {
-      "domain": "websiteaudiencechecker.shop",
+      "domain": "wowqualitybacklinks.com",
       "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "backlinks": 6,
+      "first_seen": "2026-10-29"
     },
     {
-      "domain": "freesitetrafficchecker.website",
+      "domain": "webranksdirectory.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-29"
     },
     {
-      "domain": "backlinkshome.info",
+      "domain": "webbacklinkskbuy.com",
       "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "backlinks": 6,
+      "first_seen": "2026-10-29"
     },
     {
-      "domain": "keywordtool.site",
+      "domain": "on-demand-seo-backlinks.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-29"
     },
     {
-      "domain": "seoanalysis.online",
+      "domain": "ultimate-backlink-solution.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-28"
     },
     {
-      "domain": "highdomainauthoritybacklinks.online",
+      "domain": "plazop.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-28"
     },
     {
-      "domain": "pageranking.space",
+      "domain": "gigbic.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-28"
     },
     {
-      "domain": "urlanalysis.online",
+      "domain": "yelpad.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-27"
     },
     {
-      "domain": "websitetrafficranking.shop",
+      "domain": "dealuxa.com",
       "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "backlinks": 41,
+      "first_seen": "2026-10-27"
     },
     {
-      "domain": "ranktracking.space",
+      "domain": "aeroleads.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-10-26"
+      "first_seen": "2026-10-25"
     }
   ],
   "lost": [
+    {
+      "domain": "bye.fyi",
+      "rank": 0,
+      "backlinks": 2,
+      "lost_date": "2026-11-02"
+    },
+    {
+      "domain": "drjack.world",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-10-31"
+    },
+    {
+      "domain": "yukai.uk",
+      "rank": 0,
+      "backlinks": 2,
+      "lost_date": "2026-10-28"
+    },
+    {
+      "domain": "designjobs.careers",
+      "rank": 5,
+      "backlinks": 3,
+      "lost_date": "2026-10-27"
+    },
     {
       "domain": "artfasad.com",
       "rank": 0,
@@ -733,7 +749,7 @@
     {
       "domain": "urls-shortener.eu",
       "rank": 0,
-      "backlinks": 2,
+      "backlinks": 1,
       "lost_date": "2026-09-26"
     },
     {
@@ -750,12 +766,6 @@
     },
     {
       "domain": "ashleywinndesign.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-09-11"
-    },
-    {
-      "domain": "michaelhelwiginteriors.com",
       "rank": 0,
       "backlinks": 1,
       "lost_date": "2026-09-11"
@@ -819,25 +829,7 @@
       "rank": 0,
       "backlinks": 1,
       "lost_date": "2026-08-10"
-    },
-    {
-      "domain": "designjobs.careers",
-      "rank": 0,
-      "backlinks": 2,
-      "lost_date": "2026-08-02"
-    },
-    {
-      "domain": "ecstasycoffee.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-07-28"
-    },
-    {
-      "domain": "anchorurl.cloud",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-07-24"
     }
   ],
-  "generated_at": "2026-10-26T19:49:40+00:00"
+  "generated_at": "2026-11-02T22:40:35+00:00"
 }
