@@ -112,7 +112,7 @@
       "competitors": [
         "arttoframe.com"
       ],
-      "best_traffic": 1315,
+      "best_traffic": 1314,
       "example_url": "https://www.arttoframe.com/40x52_picture_frames",
       "example_competitor": "arttoframe.com"
     },
@@ -339,7 +339,7 @@
       "competitors": [
         "arttoframe.com"
       ],
-      "best_traffic": 673,
+      "best_traffic": 676,
       "example_url": "https://www.arttoframe.com/13x12_picture_frames",
       "example_competitor": "arttoframe.com"
     },
@@ -1187,6 +1187,16 @@
       "example_competitor": "arttoframe.com"
     },
     {
+      "topic": "17x14",
+      "kind": "novel-size",
+      "competitors": [
+        "arttoframe.com"
+      ],
+      "best_traffic": 339,
+      "example_url": "https://www.arttoframe.com/17x14_picture_frames",
+      "example_competitor": "arttoframe.com"
+    },
+    {
       "topic": "23x16",
       "kind": "novel-size",
       "competitors": [
@@ -1307,16 +1317,6 @@
       "example_competitor": "modernmemorydesign.com"
     },
     {
-      "topic": "23x35",
-      "kind": "novel-size",
-      "competitors": [
-        "modernmemorydesign.com"
-      ],
-      "best_traffic": 92,
-      "example_url": "https://www.modernmemorydesign.com/products/23x35-picture-frame-black-23x35-frame-23-x-35-inch-poster-frames-23-x-35",
-      "example_competitor": "modernmemorydesign.com"
-    },
-    {
       "topic": "16x45",
       "kind": "novel-size",
       "competitors": [
@@ -1367,6 +1367,16 @@
       "example_competitor": "modernmemorydesign.com"
     },
     {
+      "topic": "23x35",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 79,
+      "example_url": "https://www.modernmemorydesign.com/products/23x35-picture-frame-black-23x35-frame-23-x-35-inch-poster-frames-23-x-35",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
       "topic": "38x25",
       "kind": "novel-size",
       "competitors": [
@@ -1394,6 +1404,16 @@
       ],
       "best_traffic": 65,
       "example_url": "https://www.modernmemorydesign.com/products/25x37-picture-frame-black-25x37-frame-25-x-37-poster-frames-25-x-37",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
+      "topic": "45x30",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 65,
+      "example_url": "https://www.modernmemorydesign.com/products/45x30-picture-frames-brown-wood-45x30-frame-45-x-30-frames",
       "example_competitor": "modernmemorydesign.com"
     },
     {
@@ -1434,16 +1454,6 @@
       ],
       "best_traffic": 64,
       "example_url": "https://www.modernmemorydesign.com/collections/puzzle-picture-frames-for-puzzle-20x27-13x39-18x24-19x28-20x28-38x26",
-      "example_competitor": "modernmemorydesign.com"
-    },
-    {
-      "topic": "45x30",
-      "kind": "novel-size",
-      "competitors": [
-        "modernmemorydesign.com"
-      ],
-      "best_traffic": 63,
-      "example_url": "https://www.modernmemorydesign.com/products/45x30-picture-frames-brown-wood-45x30-frame-45-x-30-frames",
       "example_competitor": "modernmemorydesign.com"
     },
     {
@@ -1572,7 +1582,7 @@
       "competitors": [
         "modernmemorydesign.com"
       ],
-      "best_traffic": 55,
+      "best_traffic": 54,
       "example_url": "https://www.modernmemorydesign.com/products/30x42-picture-frame-black-30x42-frame-30-x-42-poster-frames-30-x-42",
       "example_competitor": "modernmemorydesign.com"
     },
@@ -1757,6 +1767,16 @@
       "example_competitor": "modernmemorydesign.com"
     },
     {
+      "topic": "12x13",
+      "kind": "novel-size",
+      "competitors": [
+        "modernmemorydesign.com"
+      ],
+      "best_traffic": 42,
+      "example_url": "https://www.modernmemorydesign.com/products/12x13-picture-frame-black-12x13-frame-12-x-13-poster-frames-12-x-13",
+      "example_competitor": "modernmemorydesign.com"
+    },
+    {
       "topic": "21x30",
       "kind": "novel-size",
       "competitors": [
@@ -1837,16 +1857,6 @@
       "example_competitor": "modernmemorydesign.com"
     },
     {
-      "topic": "12x13",
-      "kind": "novel-size",
-      "competitors": [
-        "modernmemorydesign.com"
-      ],
-      "best_traffic": 39,
-      "example_url": "https://www.modernmemorydesign.com/products/12x13-picture-frame-black-12x13-frame-12-x-13-poster-frames-12-x-13",
-      "example_competitor": "modernmemorydesign.com"
-    },
-    {
       "topic": "28x42",
       "kind": "novel-size",
       "competitors": [
@@ -1860,14 +1870,14 @@
   "_our_pages": [
     {
       "url": "https://americanflat.com/collections/picture-frames",
-      "keywords": 716,
-      "traffic_estimate": 6407,
+      "keywords": 714,
+      "traffic_estimate": 6405,
       "topics": []
     },
     {
       "url": "https://americanflat.com/collections/11x14-frames",
       "keywords": 234,
-      "traffic_estimate": 3266,
+      "traffic_estimate": 3259,
       "topics": [
         "11x14"
       ]
@@ -1875,31 +1885,23 @@
     {
       "url": "https://americanflat.com/collections/18x24-frames",
       "keywords": 247,
-      "traffic_estimate": 3175,
+      "traffic_estimate": 3177,
       "topics": [
         "18x24"
       ]
     },
     {
       "url": "https://americanflat.com/collections/12x18-frames",
-      "keywords": 162,
+      "keywords": 160,
       "traffic_estimate": 2768,
       "topics": [
         "12x18"
       ]
     },
     {
-      "url": "https://americanflat.com/collections/11x17-frames",
-      "keywords": 104,
-      "traffic_estimate": 2481,
-      "topics": [
-        "11x17"
-      ]
-    },
-    {
       "url": "https://americanflat.com/collections/gallery-wall-frame-set",
       "keywords": 223,
-      "traffic_estimate": 2395,
+      "traffic_estimate": 2396,
       "topics": [
         "gallery wall"
       ]
@@ -1907,7 +1909,7 @@
     {
       "url": "https://americanflat.com/collections/5-x-7-picture-frames",
       "keywords": 173,
-      "traffic_estimate": 1944,
+      "traffic_estimate": 1896,
       "topics": [
         "5x7"
       ]
@@ -1915,9 +1917,17 @@
     {
       "url": "https://americanflat.com/collections/16x20-picture-frames",
       "keywords": 53,
-      "traffic_estimate": 1883,
+      "traffic_estimate": 1884,
       "topics": [
         "16x20"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/11x17-frames",
+      "keywords": 103,
+      "traffic_estimate": 1354,
+      "topics": [
+        "11x17"
       ]
     },
     {
@@ -1934,14 +1944,6 @@
       "traffic_estimate": 1031,
       "topics": [
         "8x8"
-      ]
-    },
-    {
-      "url": "https://americanflat.com/collections/14-x-22-picture-frames",
-      "keywords": 28,
-      "traffic_estimate": 1017,
-      "topics": [
-        "14x22"
       ]
     },
     {
@@ -1963,17 +1965,17 @@
     {
       "url": "https://americanflat.com/collections/20x30-frames",
       "keywords": 81,
-      "traffic_estimate": 753,
+      "traffic_estimate": 752,
       "topics": [
         "20x30"
       ]
     },
     {
-      "url": "https://americanflat.com/collections/shadowbox-picture-frames",
-      "keywords": 131,
-      "traffic_estimate": 730,
+      "url": "https://americanflat.com/collections/14-x-22-picture-frames",
+      "keywords": 28,
+      "traffic_estimate": 682,
       "topics": [
-        "shadow box"
+        "14x22"
       ]
     },
     {
@@ -1986,17 +1988,9 @@
     },
     {
       "url": "https://americanflat.com/collections/gold-picture-frames",
-      "keywords": 165,
+      "keywords": 164,
       "traffic_estimate": 578,
       "topics": []
-    },
-    {
-      "url": "https://americanflat.com/collections/12x15-frames",
-      "keywords": 36,
-      "traffic_estimate": 513,
-      "topics": [
-        "12x15"
-      ]
     },
     {
       "url": "https://americanflat.com/collections/4-x-6-picture-frames",
@@ -2007,9 +2001,17 @@
       ]
     },
     {
+      "url": "https://americanflat.com/collections/12x15-frames",
+      "keywords": 36,
+      "traffic_estimate": 469,
+      "topics": [
+        "12x15"
+      ]
+    },
+    {
       "url": "https://americanflat.com/blogs/americanflat-blog/is-16x20-a-standard-frame-size",
       "keywords": 88,
-      "traffic_estimate": 458,
+      "traffic_estimate": 461,
       "topics": [
         "16x20"
       ]
@@ -2034,15 +2036,15 @@
     {
       "url": "https://americanflat.com/collections/8x12-frames",
       "keywords": 91,
-      "traffic_estimate": 397,
+      "traffic_estimate": 394,
       "topics": [
         "8x12"
       ]
     },
     {
       "url": "https://americanflat.com/collections/9x12-frames",
-      "keywords": 74,
-      "traffic_estimate": 389,
+      "keywords": 73,
+      "traffic_estimate": 388,
       "topics": [
         "9x12"
       ]
@@ -2070,6 +2072,14 @@
       ]
     },
     {
+      "url": "https://americanflat.com/collections/shadowbox-picture-frames",
+      "keywords": 130,
+      "traffic_estimate": 279,
+      "topics": [
+        "shadow box"
+      ]
+    },
+    {
       "url": "https://americanflat.com/collections/13x19-frames",
       "keywords": 97,
       "traffic_estimate": 270,
@@ -2088,7 +2098,7 @@
     {
       "url": "https://americanflat.com/collections/12x12-frames",
       "keywords": 104,
-      "traffic_estimate": 239,
+      "traffic_estimate": 237,
       "topics": [
         "12x12"
       ]
@@ -2096,7 +2106,7 @@
     {
       "url": "https://americanflat.com/collections/8-5x11-frames",
       "keywords": 98,
-      "traffic_estimate": 236,
+      "traffic_estimate": 237,
       "topics": [
         "5x11"
       ]
@@ -2130,6 +2140,12 @@
       "topics": []
     },
     {
+      "url": "https://americanflat.com/collections/silver-picture-frames",
+      "keywords": 127,
+      "traffic_estimate": 210,
+      "topics": []
+    },
+    {
       "url": "https://americanflat.com/collections/24x36-picture-frames",
       "keywords": 12,
       "traffic_estimate": 198,
@@ -2138,15 +2154,9 @@
       ]
     },
     {
-      "url": "https://americanflat.com/collections/silver-picture-frames",
-      "keywords": 130,
-      "traffic_estimate": 196,
-      "topics": []
-    },
-    {
       "url": "https://americanflat.com/collections/22x28-frames",
-      "keywords": 74,
-      "traffic_estimate": 188,
+      "keywords": 73,
+      "traffic_estimate": 186,
       "topics": [
         "22x28"
       ]
@@ -2168,12 +2178,10 @@
       ]
     },
     {
-      "url": "https://americanflat.com/collections/6x6-frames",
-      "keywords": 20,
-      "traffic_estimate": 145,
-      "topics": [
-        "6x6"
-      ]
+      "url": "https://americanflat.com/blogs/americanflat-blog/framing-101-understanding-standard-frame-sizes-and-how-to-measure-them",
+      "keywords": 206,
+      "traffic_estimate": 148,
+      "topics": []
     },
     {
       "url": "https://americanflat.com/collections/9x11-frames",
@@ -2184,17 +2192,11 @@
       ]
     },
     {
-      "url": "https://americanflat.com/blogs/americanflat-blog/framing-101-understanding-standard-frame-sizes-and-how-to-measure-them",
-      "keywords": 206,
-      "traffic_estimate": 133,
-      "topics": []
-    },
-    {
-      "url": "https://americanflat.com/collections/10-x-12-picture-frames",
-      "keywords": 46,
-      "traffic_estimate": 133,
+      "url": "https://americanflat.com/collections/6x6-frames",
+      "keywords": 20,
+      "traffic_estimate": 143,
       "topics": [
-        "10x12"
+        "6x6"
       ]
     },
     {
@@ -2203,6 +2205,14 @@
       "traffic_estimate": 132,
       "topics": [
         "27x40"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/collections/10-x-12-picture-frames",
+      "keywords": 46,
+      "traffic_estimate": 130,
+      "topics": [
+        "10x12"
       ]
     },
     {
@@ -2241,16 +2251,8 @@
     {
       "url": "https://americanflat.com/collections/vintage-frames",
       "keywords": 217,
-      "traffic_estimate": 119,
+      "traffic_estimate": 116,
       "topics": []
-    },
-    {
-      "url": "https://americanflat.com/blogs/americanflat-blog/is-12x18-a-standard-picture-frame-size",
-      "keywords": 43,
-      "traffic_estimate": 108,
-      "topics": [
-        "12x18"
-      ]
     },
     {
       "url": "https://americanflat.com/blogs/americanflat-blog/is-12x16-a-standard-frame-size-for-photos-and-art",
@@ -2258,6 +2260,14 @@
       "traffic_estimate": 108,
       "topics": [
         "12x16"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/is-12x18-a-standard-picture-frame-size",
+      "keywords": 43,
+      "traffic_estimate": 108,
+      "topics": [
+        "12x18"
       ]
     },
     {
@@ -2300,18 +2310,18 @@
       "topics": []
     },
     {
-      "url": "https://americanflat.com/products/championship-ring-display-case-holds-3-9-or-20-rings-all-star-collection",
-      "keywords": 6,
-      "traffic_estimate": 64,
-      "topics": []
-    },
-    {
       "url": "https://americanflat.com/collections/walnut-frames",
       "keywords": 12,
       "traffic_estimate": 63,
       "topics": [
         "wood"
       ]
+    },
+    {
+      "url": "https://americanflat.com/products/championship-ring-display-case-holds-3-9-or-20-rings-all-star-collection",
+      "keywords": 6,
+      "traffic_estimate": 63,
+      "topics": []
     },
     {
       "url": "https://americanflat.com/products/30-inch-adjustable-wall-easel-black-modern-premium-quality",
@@ -2352,8 +2362,8 @@
     },
     {
       "url": "https://americanflat.com/blogs/americanflat-blog/the-importance-of-picture-frame-wire-how-to-tie-and-hang",
-      "keywords": 102,
-      "traffic_estimate": 40,
+      "keywords": 99,
+      "traffic_estimate": 39,
       "topics": []
     },
     {
@@ -2368,6 +2378,14 @@
       "traffic_estimate": 30,
       "topics": [
         "24x32"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-digital-picture-frame",
+      "keywords": 52,
+      "traffic_estimate": 28,
+      "topics": [
+        "digital"
       ]
     },
     {
@@ -2387,31 +2405,15 @@
       ]
     },
     {
-      "url": "https://americanflat.com/products/americanflat-digital-picture-frame",
-      "keywords": 52,
-      "traffic_estimate": 27,
-      "topics": [
-        "digital"
-      ]
-    },
-    {
       "url": "https://americanflat.com/collections/gold-picture-frames-1",
       "keywords": 36,
       "traffic_estimate": 25,
       "topics": []
     },
     {
-      "url": "https://americanflat.com/products/americanflat-50x60-fleece-throw-blanket-soft-and-breathable-throw-blanket-for-couch-bed-chair-fleece-blankets-perfect-for-home-bedroom-or-outdoor-use-white",
-      "keywords": 4,
-      "traffic_estimate": 24,
-      "topics": [
-        "50x60"
-      ]
-    },
-    {
       "url": "https://americanflat.com/collections/wall-art",
-      "keywords": 85,
-      "traffic_estimate": 23,
+      "keywords": 86,
+      "traffic_estimate": 22,
       "topics": []
     },
     {
@@ -2506,19 +2508,19 @@
       ]
     },
     {
-      "url": "https://americanflat.com/blogs/americanflat-blog/4x6-frame-size-guide",
-      "keywords": 26,
-      "traffic_estimate": 12,
-      "topics": [
-        "4x6"
-      ]
-    },
-    {
       "url": "https://americanflat.com/products/shadow-box-frame-front-loading-with-door-display-case-with-hanging-hardware-for-wall-and-tabletop",
       "keywords": 8,
       "traffic_estimate": 12,
       "topics": [
         "shadow box"
+      ]
+    },
+    {
+      "url": "https://americanflat.com/blogs/americanflat-blog/4x6-frame-size-guide",
+      "keywords": 26,
+      "traffic_estimate": 12,
+      "topics": [
+        "4x6"
       ]
     },
     {
@@ -2540,6 +2542,14 @@
       "keywords": 13,
       "traffic_estimate": 9,
       "topics": []
+    },
+    {
+      "url": "https://americanflat.com/products/americanflat-50x60-fleece-throw-blanket-soft-and-breathable-throw-blanket-for-couch-bed-chair-fleece-blankets-perfect-for-home-bedroom-or-outdoor-use-white",
+      "keywords": 4,
+      "traffic_estimate": 9,
+      "topics": [
+        "50x60"
+      ]
     },
     {
       "url": "https://americanflat.com/collections/silver-picture-frames-2",
@@ -2679,12 +2689,6 @@
       "topics": []
     },
     {
-      "url": "https://americanflat.com/collections/magnetic-picture-frames-for-fridge-and-locker",
-      "keywords": 6,
-      "traffic_estimate": 3,
-      "topics": []
-    },
-    {
       "url": "https://americanflat.com/products/americanflat-collage-frame-floating-effect-shatter-resistant-glass",
       "keywords": 4,
       "traffic_estimate": 3,
@@ -2696,7 +2700,13 @@
     {
       "url": "https://americanflat.com/pages/wholesale",
       "keywords": 7,
-      "traffic_estimate": 3,
+      "traffic_estimate": 2,
+      "topics": []
+    },
+    {
+      "url": "https://americanflat.com/collections/magnetic-picture-frames-for-fridge-and-locker",
+      "keywords": 6,
+      "traffic_estimate": 2,
       "topics": []
     },
     {
@@ -3152,20 +3162,20 @@
     "michaels.com": [
       {
         "url": "https://www.michaels.com/",
-        "keywords": 8627,
-        "traffic_estimate": 4968856,
+        "keywords": 8626,
+        "traffic_estimate": 4952739,
         "topics": []
       },
       {
         "url": "https://locations.michaels.com/",
         "keywords": 882,
-        "traffic_estimate": 546284,
+        "traffic_estimate": 544279,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/savings",
-        "keywords": 574,
-        "traffic_estimate": 285340,
+        "keywords": 575,
+        "traffic_estimate": 242827,
         "topics": []
       },
       {
@@ -3177,13 +3187,13 @@
       {
         "url": "https://careers.michaels.com/us/en/search-results",
         "keywords": 287,
-        "traffic_estimate": 34539,
+        "traffic_estimate": 34438,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/lp/welcome-joann",
-        "keywords": 2087,
-        "traffic_estimate": 32023,
+        "keywords": 2084,
+        "traffic_estimate": 32021,
         "topics": []
       },
       {
@@ -3200,32 +3210,32 @@
       },
       {
         "url": "https://www.michaels.com/shop/party",
-        "keywords": 1220,
-        "traffic_estimate": 23477,
+        "keywords": 1219,
+        "traffic_estimate": 22913,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/shop/party/balloons-accessories",
-        "keywords": 1050,
-        "traffic_estimate": 19522,
+        "keywords": 1048,
+        "traffic_estimate": 19568,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/return-policy",
         "keywords": 74,
-        "traffic_estimate": 13593,
+        "traffic_estimate": 13600,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/creditcard",
         "keywords": 74,
-        "traffic_estimate": 12372,
+        "traffic_estimate": 12373,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/weekly-ad",
-        "keywords": 173,
-        "traffic_estimate": 12062,
+        "keywords": 174,
+        "traffic_estimate": 12045,
         "topics": []
       },
       {
@@ -3235,33 +3245,33 @@
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/fabric-sewing-shop",
-        "keywords": 627,
-        "traffic_estimate": 10781,
-        "topics": []
-      },
-      {
         "url": "https://www.michaels.com/shop/holidays-occasions/christmas-trees",
-        "keywords": 3518,
-        "traffic_estimate": 10775,
+        "keywords": 3506,
+        "traffic_estimate": 10772,
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/fabric",
-        "keywords": 40,
-        "traffic_estimate": 10221,
+        "url": "https://www.michaels.com/shop/fabric-sewing-shop",
+        "keywords": 628,
+        "traffic_estimate": 10756,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/customer-care",
         "keywords": 103,
-        "traffic_estimate": 9570,
+        "traffic_estimate": 9414,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/shop/fabric",
+        "keywords": 39,
+        "traffic_estimate": 8608,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/shop/frames",
-        "keywords": 924,
-        "traffic_estimate": 8000,
+        "keywords": 921,
+        "traffic_estimate": 7996,
         "topics": []
       },
       {
@@ -3272,8 +3282,8 @@
       },
       {
         "url": "https://www.michaels.com/shop/art-supplies/artist-canvas",
-        "keywords": 698,
-        "traffic_estimate": 6621,
+        "keywords": 693,
+        "traffic_estimate": 6648,
         "topics": [
           "canvas"
         ]
@@ -3285,21 +3295,15 @@
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/party/party-decorations/pinatas",
-        "keywords": 460,
-        "traffic_estimate": 5790,
-        "topics": []
-      },
-      {
         "url": "https://www.michaels.com/teacher-discount",
         "keywords": 123,
-        "traffic_estimate": 5499,
+        "traffic_estimate": 5559,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/shop/art-supplies",
-        "keywords": 969,
-        "traffic_estimate": 4808,
+        "keywords": 968,
+        "traffic_estimate": 4793,
         "topics": []
       },
       {
@@ -3311,13 +3315,19 @@
       {
         "url": "https://www.michaels.com/classes",
         "keywords": 332,
-        "traffic_estimate": 4558,
+        "traffic_estimate": 4520,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/shop/party/party-decorations/pinatas",
+        "keywords": 458,
+        "traffic_estimate": 4488,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/product/20000-pcs-blue-resin-rhinestones-for-diy-crafting-bedazzler-kit-with-b7000-jewelry-glue-flatback-gems-for-clothing-shoes-tumblers-fabric-nail-art-assorted-sizes-3456mm-591923418552926225",
         "keywords": 15,
-        "traffic_estimate": 3710,
+        "traffic_estimate": 3711,
         "topics": []
       },
       {
@@ -3329,16 +3339,8 @@
       {
         "url": "https://www.michaels.com/shop/yarn-needlework/shop-all-yarn",
         "keywords": 331,
-        "traffic_estimate": 3499,
+        "traffic_estimate": 3500,
         "topics": []
-      },
-      {
-        "url": "https://www.michaels.com/shop/frames/shadow-boxes-display-cases/shadow-boxes",
-        "keywords": 258,
-        "traffic_estimate": 3406,
-        "topics": [
-          "shadow box"
-        ]
       },
       {
         "url": "https://www.michaels.com/lp/black-friday",
@@ -3348,26 +3350,32 @@
       },
       {
         "url": "https://www.michaels.com/shop/baking-kitchen",
-        "keywords": 1062,
+        "keywords": 1060,
         "traffic_estimate": 3299,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/lp/balloon-bundles",
-        "keywords": 339,
-        "traffic_estimate": 3031,
+        "keywords": 336,
+        "traffic_estimate": 2981,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/shop/art-supplies/paint-painting-supplies/fine-art-paint/acrylic-paint",
         "keywords": 246,
-        "traffic_estimate": 2963,
+        "traffic_estimate": 2967,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/shop/craft-machines/cricut",
-        "keywords": 421,
-        "traffic_estimate": 2888,
+        "keywords": 414,
+        "traffic_estimate": 2881,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/shop/floral/garlands",
+        "keywords": 92,
+        "traffic_estimate": 2871,
         "topics": []
       },
       {
@@ -3377,21 +3385,35 @@
         "topics": []
       },
       {
+        "url": "https://www.michaels.com/shop/frames/shadow-boxes-display-cases/shadow-boxes",
+        "keywords": 257,
+        "traffic_estimate": 2843,
+        "topics": [
+          "shadow box"
+        ]
+      },
+      {
         "url": "https://signon.michaels.com/",
         "keywords": 120,
         "traffic_estimate": 2731,
         "topics": []
       },
       {
+        "url": "https://www.michaels.com/shop/office-supplies",
+        "keywords": 155,
+        "traffic_estimate": 2697,
+        "topics": []
+      },
+      {
         "url": "https://www.michaels.com/shop/apparel-crafts/seasonal-apparel-costumes/adult-costumes",
-        "keywords": 953,
-        "traffic_estimate": 2667,
+        "keywords": 942,
+        "traffic_estimate": 2661,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/shop/crafts-hobbies/diamond-painting",
-        "keywords": 765,
-        "traffic_estimate": 2642,
+        "keywords": 763,
+        "traffic_estimate": 2622,
         "topics": []
       },
       {
@@ -3402,20 +3424,14 @@
       },
       {
         "url": "https://www.michaels.com/shop/fabric-sewing-shop/fabrics",
-        "keywords": 387,
-        "traffic_estimate": 2497,
-        "topics": []
-      },
-      {
-        "url": "https://www.michaels.com/shop/kids/building-toys/lego",
-        "keywords": 75,
-        "traffic_estimate": 2478,
+        "keywords": 386,
+        "traffic_estimate": 2491,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/shop/apparel-crafts/seasonal-apparel-costumes/adult-costume-accessories/wigs",
         "keywords": 351,
-        "traffic_estimate": 2475,
+        "traffic_estimate": 2474,
         "topics": []
       },
       {
@@ -3425,35 +3441,21 @@
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/office-supplies",
-        "keywords": 154,
-        "traffic_estimate": 2405,
+        "url": "https://www.michaels.com/shop/apparel-crafts/iron-ons-appliques",
+        "keywords": 345,
+        "traffic_estimate": 2282,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/makerplace/product/rick-roll-qr-patch-291313190312230912",
         "keywords": 8,
-        "traffic_estimate": 2344,
+        "traffic_estimate": 2266,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/lp/knit-and-sew-shop",
         "keywords": 352,
-        "traffic_estimate": 2325,
-        "topics": []
-      },
-      {
-        "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/16x20-frames",
-        "keywords": 268,
-        "traffic_estimate": 2306,
-        "topics": [
-          "16x20"
-        ]
-      },
-      {
-        "url": "https://www.michaels.com/shop/apparel-crafts/iron-ons-appliques",
-        "keywords": 346,
-        "traffic_estimate": 2274,
+        "traffic_estimate": 2239,
         "topics": []
       },
       {
@@ -3471,29 +3473,43 @@
         "topics": []
       },
       {
+        "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/16x20-frames",
+        "keywords": 268,
+        "traffic_estimate": 2154,
+        "topics": [
+          "16x20"
+        ]
+      },
+      {
         "url": "https://www.michaels.com/lp/party-kits/kpop-demon-hunters-party-kit",
         "keywords": 86,
-        "traffic_estimate": 2093,
+        "traffic_estimate": 2089,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/18x24-frames",
         "keywords": 221,
-        "traffic_estimate": 2084,
+        "traffic_estimate": 2086,
         "topics": [
           "18x24"
         ]
       },
       {
-        "url": "https://www.michaels.com/shop/kids/beads-jewelry/perler-beads",
-        "keywords": 128,
-        "traffic_estimate": 2025,
+        "url": "https://www.michaels.com/shop/papercraft/albums-refills",
+        "keywords": 264,
+        "traffic_estimate": 2084,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/parties",
-        "keywords": 194,
-        "traffic_estimate": 1999,
+        "keywords": 193,
+        "traffic_estimate": 2045,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/shop/apparel-crafts/t-shirts-clothing",
+        "keywords": 598,
+        "traffic_estimate": 1968,
         "topics": []
       },
       {
@@ -3503,14 +3519,8 @@
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/apparel-crafts/t-shirts-clothing",
-        "keywords": 599,
-        "traffic_estimate": 1946,
-        "topics": []
-      },
-      {
         "url": "https://www.michaels.com/product/arttoframes-14x14-inch-picture-frame-this-125-inch-custom-mdf-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-regular-glass-and-corrugated-a46jz-151617677403176983",
-        "keywords": 16,
+        "keywords": 15,
         "traffic_estimate": 1945,
         "topics": [
           "14x14",
@@ -3519,7 +3529,7 @@
       },
       {
         "url": "https://www.michaels.com/product/arttoframes-24x36-inch-picture-frame-this-125-inch-custom-mdf-poster-frame-is-available-in-multiple-colors-great-for-your-art-or-photos-comes-with-060-plexi-glass-and-corrugated-a46ro-150144139773706263",
-        "keywords": 137,
+        "keywords": 135,
         "traffic_estimate": 1931,
         "topics": [
           "24x36",
@@ -3529,7 +3539,7 @@
       {
         "url": "https://www.michaels.com/shop/frames/shadow-boxes-display-cases",
         "keywords": 452,
-        "traffic_estimate": 1902,
+        "traffic_estimate": 1897,
         "topics": [
           "shadow box"
         ]
@@ -3547,21 +3557,21 @@
         "topics": []
       },
       {
-        "url": "https://careers.michaels.com/us/en/lancaster-ca-distribution-center-jobs",
-        "keywords": 41,
-        "traffic_estimate": 1837,
-        "topics": []
-      },
-      {
         "url": "https://locations.michaels.com/md/frederick/9820",
         "keywords": 68,
         "traffic_estimate": 1834,
         "topics": []
       },
       {
+        "url": "https://careers.michaels.com/us/en/lancaster-ca-distribution-center-jobs",
+        "keywords": 41,
+        "traffic_estimate": 1819,
+        "topics": []
+      },
+      {
         "url": "https://locations.michaels.com/az/phoenix/",
         "keywords": 15,
-        "traffic_estimate": 1807,
+        "traffic_estimate": 1803,
         "topics": []
       },
       {
@@ -3572,26 +3582,28 @@
       },
       {
         "url": "https://www.michaels.com/product/shrinky-dinks-creative-pack-10189711",
-        "keywords": 75,
-        "traffic_estimate": 1741,
+        "keywords": 74,
+        "traffic_estimate": 1742,
         "topics": []
       },
       {
         "url": "https://locations.michaels.com/nv/reno/5801",
-        "keywords": 162,
+        "keywords": 161,
         "traffic_estimate": 1734,
         "topics": []
       },
       {
-        "url": "https://locations.michaels.com/pa/erie/2030",
-        "keywords": 81,
-        "traffic_estimate": 1671,
-        "topics": []
+        "url": "https://www.michaels.com/shop/kids/steam/school-project-supplies/poster-board",
+        "keywords": 281,
+        "traffic_estimate": 1731,
+        "topics": [
+          "poster"
+        ]
       },
       {
-        "url": "https://www.michaels.com/shop/storage",
-        "keywords": 307,
-        "traffic_estimate": 1652,
+        "url": "https://locations.michaels.com/pa/erie/2030",
+        "keywords": 80,
+        "traffic_estimate": 1671,
         "topics": []
       },
       {
@@ -3601,26 +3613,18 @@
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/papercraft/albums-refills",
-        "keywords": 266,
-        "traffic_estimate": 1643,
-        "topics": []
-      },
-      {
         "url": "https://www.michaels.com/shop/frames/poster-frames",
-        "keywords": 219,
-        "traffic_estimate": 1642,
+        "keywords": 218,
+        "traffic_estimate": 1637,
         "topics": [
           "poster"
         ]
       },
       {
-        "url": "https://www.michaels.com/shop/kids/steam/school-project-supplies/poster-board",
-        "keywords": 281,
-        "traffic_estimate": 1620,
-        "topics": [
-          "poster"
-        ]
+        "url": "https://www.michaels.com/shop/storage",
+        "keywords": 304,
+        "traffic_estimate": 1632,
+        "topics": []
       },
       {
         "url": "https://www.michaels.com/shop/holidays-occasions/christmas-trees/shop-all-christmas-trees",
@@ -3643,13 +3647,7 @@
       {
         "url": "https://www.michaels.com/shop/art-supplies/art-gift-sets/paint-by-numbers",
         "keywords": 80,
-        "traffic_estimate": 1555,
-        "topics": []
-      },
-      {
-        "url": "https://www.michaels.com/product/chenille-pipe-cleaners-100ct-by-creatology-10525063",
-        "keywords": 4,
-        "traffic_estimate": 1554,
+        "traffic_estimate": 1556,
         "topics": []
       },
       {
@@ -3659,45 +3657,33 @@
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/papercraft/planners/the-happy-planner",
-        "keywords": 144,
-        "traffic_estimate": 1526,
-        "topics": []
-      },
-      {
         "url": "https://www.michaels.com/shop/storage/storage-carts",
-        "keywords": 307,
-        "traffic_estimate": 1525,
+        "keywords": 306,
+        "traffic_estimate": 1534,
         "topics": []
       },
       {
         "url": "https://locations.michaels.com/pa/lancaster/5089",
         "keywords": 181,
-        "traffic_estimate": 1502,
-        "topics": []
-      },
-      {
-        "url": "https://www.michaels.com/shop/storage/plastic-storage-bins-totes",
-        "keywords": 1265,
-        "traffic_estimate": 1495,
+        "traffic_estimate": 1503,
         "topics": []
       },
       {
         "url": "https://locations.michaels.com/ca/los-angeles/5035",
         "keywords": 137,
-        "traffic_estimate": 1492,
+        "traffic_estimate": 1490,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/shop/storage/plastic-storage-bins-totes",
+        "keywords": 1264,
+        "traffic_estimate": 1489,
         "topics": []
       },
       {
         "url": "https://locations.michaels.com/TX/Waco/2047",
         "keywords": 14,
         "traffic_estimate": 1484,
-        "topics": []
-      },
-      {
-        "url": "https://locations.michaels.com/il/springfield/5164",
-        "keywords": 79,
-        "traffic_estimate": 1479,
         "topics": []
       },
       {
@@ -3708,8 +3694,8 @@
       },
       {
         "url": "https://www.michaels.com/shop/holidays-occasions/christmas/christmas-decorations/christmas-tree-toppers",
-        "keywords": 1046,
-        "traffic_estimate": 1474,
+        "keywords": 1045,
+        "traffic_estimate": 1461,
         "topics": []
       },
       {
@@ -3720,37 +3706,37 @@
       },
       {
         "url": "https://www.michaels.com/shop/holidays-occasions/christmas/christmas-tree-skirts-collars",
-        "keywords": 1003,
+        "keywords": 1005,
         "traffic_estimate": 1451,
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/fabric-sewing-shop/fabrics/fleece",
-        "keywords": 441,
-        "traffic_estimate": 1442,
+        "url": "https://locations.michaels.com/il/springfield/5164",
+        "keywords": 79,
+        "traffic_estimate": 1447,
         "topics": []
       },
       {
         "url": "https://locations.michaels.com/ne/omaha/1255",
         "keywords": 54,
-        "traffic_estimate": 1433,
+        "traffic_estimate": 1436,
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/holidays-occasions/christmas/outdoor-christmas-decorations",
-        "keywords": 353,
-        "traffic_estimate": 1424,
-        "topics": []
-      },
-      {
-        "url": "https://www.michaels.com/shop/holidays-occasions/halloween",
-        "keywords": 225,
-        "traffic_estimate": 1416,
+        "url": "https://www.michaels.com/shop/fabric-sewing-shop/fabrics/fleece",
+        "keywords": 438,
+        "traffic_estimate": 1435,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/learn-with-michaels",
         "keywords": 84,
+        "traffic_estimate": 1424,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/shop/holidays-occasions/halloween",
+        "keywords": 222,
         "traffic_estimate": 1415,
         "topics": []
       },
@@ -3761,15 +3747,9 @@
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/product/wheel-of-fortune-game-438829146189103104",
-        "keywords": 6,
-        "traffic_estimate": 1395,
-        "topics": []
-      },
-      {
         "url": "https://www.michaels.com/shop/fabric-sewing-shop/sewing-machines-accessories",
-        "keywords": 283,
-        "traffic_estimate": 1379,
+        "keywords": 282,
+        "traffic_estimate": 1384,
         "topics": []
       },
       {
@@ -3786,13 +3766,13 @@
       },
       {
         "url": "https://www.michaels.com/shop/beads-jewelry",
-        "keywords": 553,
-        "traffic_estimate": 1353,
+        "keywords": 550,
+        "traffic_estimate": 1351,
         "topics": []
       },
       {
         "url": "https://locations.michaels.com/GA/AUGUSTA/9875",
-        "keywords": 8,
+        "keywords": 7,
         "traffic_estimate": 1350,
         "topics": []
       },
@@ -3800,6 +3780,18 @@
         "url": "https://locations.michaels.com/al/mobile/5192",
         "keywords": 73,
         "traffic_estimate": 1349,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/shop/papercraft",
+        "keywords": 326,
+        "traffic_estimate": 1346,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/shop/holidays-occasions/christmas/christmas-lights",
+        "keywords": 1111,
+        "traffic_estimate": 1334,
         "topics": []
       },
       {
@@ -3829,19 +3821,13 @@
       {
         "url": "https://locations.michaels.com/mi/grand-rapids/8849",
         "keywords": 115,
-        "traffic_estimate": 1316,
+        "traffic_estimate": 1317,
         "topics": []
       },
       {
         "url": "https://locations.michaels.com/ia/ankeny/3733",
         "keywords": 75,
-        "traffic_estimate": 1309,
-        "topics": []
-      },
-      {
-        "url": "https://www.michaels.com/shop/papercraft",
-        "keywords": 327,
-        "traffic_estimate": 1309,
+        "traffic_estimate": 1311,
         "topics": []
       },
       {
@@ -3852,13 +3838,7 @@
       },
       {
         "url": "https://www.michaels.com/shop/crafts-hobbies/diamond-painting/diamond-painting-kits",
-        "keywords": 153,
-        "traffic_estimate": 1306,
-        "topics": []
-      },
-      {
-        "url": "https://www.michaels.com/shop/holidays-occasions/christmas/christmas-lights",
-        "keywords": 1114,
+        "keywords": 152,
         "traffic_estimate": 1306,
         "topics": []
       },
@@ -3869,28 +3849,24 @@
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/yarn-needlework",
-        "keywords": 177,
-        "traffic_estimate": 1290,
-        "topics": []
-      },
-      {
         "url": "https://locations.michaels.com/mo/springfield/9970",
         "keywords": 53,
         "traffic_estimate": 1287,
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/holidays-occasions/new-years-eve",
-        "keywords": 318,
-        "traffic_estimate": 1286,
+        "url": "https://locations.michaels.com/MN/ROCHESTER/2082",
+        "keywords": 40,
+        "traffic_estimate": 1283,
         "topics": []
       },
       {
-        "url": "https://locations.michaels.com/MN/ROCHESTER/2082",
-        "keywords": 40,
-        "traffic_estimate": 1282,
-        "topics": []
+        "url": "https://www.michaels.com/shop/crafts-hobbies/wood-blank-crafting-surfaces/crates-boxes/boxes",
+        "keywords": 748,
+        "traffic_estimate": 1280,
+        "topics": [
+          "wood"
+        ]
       },
       {
         "url": "https://careers.michaels.com/us/en/search-results?from=10&s=1",
@@ -3900,7 +3876,7 @@
       },
       {
         "url": "https://www.michaels.com/shop/frames/shop-by-frame-size/8x10-frames",
-        "keywords": 357,
+        "keywords": 355,
         "traffic_estimate": 1276,
         "topics": [
           "8x10"
@@ -3915,16 +3891,14 @@
       {
         "url": "https://locations.michaels.com/in/evansville/5817",
         "keywords": 153,
-        "traffic_estimate": 1269,
+        "traffic_estimate": 1270,
         "topics": []
       },
       {
-        "url": "https://www.michaels.com/shop/crafts-hobbies/wood-blank-crafting-surfaces/crates-boxes/boxes",
-        "keywords": 751,
-        "traffic_estimate": 1268,
-        "topics": [
-          "wood"
-        ]
+        "url": "https://locations.michaels.com/ny/new-york/1191",
+        "keywords": 190,
+        "traffic_estimate": 1254,
+        "topics": []
       },
       {
         "url": "https://www.michaels.com/product/birthday-tiaras-for-women-birthday-queen-crowns-for-women-birthday-sash-birthday-girl-crown-happy-birthday-queen-crown-and-tiara-crowns-for-women-black-happy-birthday-decorations-accessories-325619047977861121",
@@ -3934,31 +3908,25 @@
       },
       {
         "url": "https://locations.michaels.com/sc/greenville/6001",
-        "keywords": 121,
+        "keywords": 120,
         "traffic_estimate": 1249,
         "topics": []
       },
       {
         "url": "https://locations.michaels.com/wa/seattle/1327",
         "keywords": 94,
-        "traffic_estimate": 1244,
+        "traffic_estimate": 1248,
         "topics": []
       },
       {
-        "url": "https://locations.michaels.com/ny/new-york/1191",
-        "keywords": 190,
-        "traffic_estimate": 1240,
-        "topics": []
-      },
-      {
-        "url": "https://locations.michaels.com/pa/altoona/6708",
-        "keywords": 62,
-        "traffic_estimate": 1236,
+        "url": "https://locations.michaels.com/nh/concord/1543",
+        "keywords": 66,
+        "traffic_estimate": 1238,
         "topics": []
       },
       {
         "url": "https://www.michaels.com/shop/holidays-occasions/christmas/lemax-christmas-village",
-        "keywords": 257,
+        "keywords": 256,
         "traffic_estimate": 1233,
         "topics": []
       },
@@ -3969,15 +3937,21 @@
         "topics": []
       },
       {
-        "url": "https://locations.michaels.com/tx/austin/5114",
-        "keywords": 81,
+        "url": "https://locations.michaels.com/pa/altoona/6708",
+        "keywords": 62,
         "traffic_estimate": 1228,
         "topics": []
       },
       {
-        "url": "https://locations.michaels.com/sc/myrtle-beach/2056",
-        "keywords": 71,
+        "url": "https://locations.michaels.com/tx/austin/5114",
+        "keywords": 80,
         "traffic_estimate": 1227,
+        "topics": []
+      },
+      {
+        "url": "https://locations.michaels.com/sc/myrtle-beach/2056",
+        "keywords": 70,
+        "traffic_estimate": 1226,
         "topics": []
       },
       {
@@ -3988,7 +3962,7 @@
       },
       {
         "url": "https://locations.michaels.com/ks/wichita/9179",
-        "keywords": 110,
+        "keywords": 108,
         "traffic_estimate": 1218,
         "topics": []
       },
@@ -3996,12 +3970,6 @@
         "url": "https://locations.michaels.com/ne/lincoln/5112",
         "keywords": 52,
         "traffic_estimate": 1217,
-        "topics": []
-      },
-      {
-        "url": "https://www.michaels.com/shop/kids/steam/school-project-supplies/foam-board",
-        "keywords": 356,
-        "traffic_estimate": 1209,
         "topics": []
       },
       {
@@ -4017,14 +3985,20 @@
         "topics": []
       },
       {
-        "url": "https://locations.michaels.com/fl/tallahassee/1551",
-        "keywords": 96,
-        "traffic_estimate": 1195,
+        "url": "https://careers.michaels.com/us/en/jacksonville-fl-distribution-center-jobs",
+        "keywords": 77,
+        "traffic_estimate": 1197,
         "topics": []
       },
       {
-        "url": "https://careers.michaels.com/us/en/jacksonville-fl-distribution-center-jobs",
-        "keywords": 77,
+        "url": "https://www.michaels.com/shop/kids/steam/school-project-supplies/foam-board",
+        "keywords": 356,
+        "traffic_estimate": 1197,
+        "topics": []
+      },
+      {
+        "url": "https://locations.michaels.com/fl/tallahassee/1551",
+        "keywords": 96,
         "traffic_estimate": 1195,
         "topics": []
       },
@@ -4054,14 +4028,8 @@
       },
       {
         "url": "https://www.michaels.com/shop/fabric-sewing-shop/fabrics/cotton-cotton-blend-fabric",
-        "keywords": 537,
-        "traffic_estimate": 1165,
-        "topics": []
-      },
-      {
-        "url": "https://www.michaels.com/makerplace/seller-support-center/customer-support/purchases-faqs",
-        "keywords": 14,
-        "traffic_estimate": 1163,
+        "keywords": 535,
+        "traffic_estimate": 1164,
         "topics": []
       },
       {
@@ -4071,9 +4039,51 @@
         "topics": []
       },
       {
+        "url": "https://www.michaels.com/shop/apparel-crafts/fabric-paint",
+        "keywords": 209,
+        "traffic_estimate": 1160,
+        "topics": []
+      },
+      {
         "url": "https://locations.michaels.com/ga/atlanta/5195",
         "keywords": 47,
         "traffic_estimate": 1157,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/makerplace/seller-support-center/customer-support/purchases-faqs",
+        "keywords": 14,
+        "traffic_estimate": 1154,
+        "topics": []
+      },
+      {
+        "url": "https://locations.michaels.com/vt/south-burlington/2012",
+        "keywords": 31,
+        "traffic_estimate": 1151,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/shop/holidays-occasions/christmas/christmas-ornaments",
+        "keywords": 501,
+        "traffic_estimate": 1149,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/makerplace/product/owala-32-oz-snoopy-595563467805523968",
+        "keywords": 11,
+        "traffic_estimate": 1147,
+        "topics": []
+      },
+      {
+        "url": "https://locations.michaels.com/tx/lubbock/1010",
+        "keywords": 81,
+        "traffic_estimate": 1147,
+        "topics": []
+      },
+      {
+        "url": "https://www.michaels.com/shop/papercraft/tools-adhesives/paper-punches",
+        "keywords": 465,
+        "traffic_estimate": 1146,
         "topics": []
       }
     ],
@@ -4096,22 +4106,22 @@
       },
       {
         "url": "https://www.arttoframe.com/",
-        "keywords": 1458,
-        "traffic_estimate": 8784,
+        "keywords": 1449,
+        "traffic_estimate": 8680,
         "topics": []
       },
       {
         "url": "https://www.arttoframe.com/8x10_picture_frames",
-        "keywords": 478,
-        "traffic_estimate": 5677,
+        "keywords": 476,
+        "traffic_estimate": 5680,
         "topics": [
           "8x10"
         ]
       },
       {
         "url": "https://www.arttoframe.com/20x30_picture_frames",
-        "keywords": 159,
-        "traffic_estimate": 5337,
+        "keywords": 158,
+        "traffic_estimate": 5320,
         "topics": [
           "20x30"
         ]
@@ -4119,14 +4129,14 @@
       {
         "url": "https://www.arttoframe.com/16x20_picture_frames",
         "keywords": 277,
-        "traffic_estimate": 5018,
+        "traffic_estimate": 5024,
         "topics": [
           "16x20"
         ]
       },
       {
         "url": "https://www.arttoframe.com/14x14_picture_frames",
-        "keywords": 32,
+        "keywords": 31,
         "traffic_estimate": 4427,
         "topics": [
           "14x14"
@@ -4134,8 +4144,8 @@
       },
       {
         "url": "https://www.arttoframe.com/picture-frames",
-        "keywords": 429,
-        "traffic_estimate": 3349,
+        "keywords": 427,
+        "traffic_estimate": 3324,
         "topics": []
       },
       {
@@ -4163,33 +4173,33 @@
         ]
       },
       {
-        "url": "https://www.arttoframe.com/11x17_picture_frames",
-        "keywords": 84,
-        "traffic_estimate": 2232,
-        "topics": [
-          "11x17"
-        ]
-      },
-      {
         "url": "https://www.arttoframe.com/24x36_picture_frames",
-        "keywords": 223,
-        "traffic_estimate": 1841,
+        "keywords": 222,
+        "traffic_estimate": 1842,
         "topics": [
           "24x36"
         ]
       },
       {
         "url": "https://www.arttoframe.com/12x18_picture_frames",
-        "keywords": 153,
+        "keywords": 151,
         "traffic_estimate": 1746,
         "topics": [
           "12x18"
         ]
       },
       {
+        "url": "https://www.arttoframe.com/11x17_picture_frames",
+        "keywords": 83,
+        "traffic_estimate": 1685,
+        "topics": [
+          "11x17"
+        ]
+      },
+      {
         "url": "https://www.arttoframe.com/Gold-Picture-Frames",
         "keywords": 402,
-        "traffic_estimate": 1652,
+        "traffic_estimate": 1635,
         "topics": []
       },
       {
@@ -4210,8 +4220,8 @@
       },
       {
         "url": "https://www.arttoframe.com/collage-frames",
-        "keywords": 216,
-        "traffic_estimate": 1510,
+        "keywords": 215,
+        "traffic_estimate": 1511,
         "topics": [
           "collage"
         ]
@@ -4219,7 +4229,7 @@
       {
         "url": "https://www.arttoframe.com/11x14_picture_frames",
         "keywords": 291,
-        "traffic_estimate": 1508,
+        "traffic_estimate": 1502,
         "topics": [
           "11x14"
         ]
@@ -4274,8 +4284,8 @@
       },
       {
         "url": "https://www.arttoframe.com/40x52_picture_frames",
-        "keywords": 24,
-        "traffic_estimate": 1315,
+        "keywords": 23,
+        "traffic_estimate": 1314,
         "topics": [
           "40x52"
         ]
@@ -4338,8 +4348,8 @@
       },
       {
         "url": "https://www.arttoframe.com/12x12_picture_frames",
-        "keywords": 111,
-        "traffic_estimate": 991,
+        "keywords": 110,
+        "traffic_estimate": 962,
         "topics": [
           "12x12"
         ]
@@ -4394,18 +4404,10 @@
       },
       {
         "url": "https://www.arttoframe.com/8x12_picture_frames",
-        "keywords": 121,
-        "traffic_estimate": 834,
+        "keywords": 120,
+        "traffic_estimate": 828,
         "topics": [
           "8x12"
-        ]
-      },
-      {
-        "url": "https://www.arttoframe.com/22x28_picture_frames",
-        "keywords": 76,
-        "traffic_estimate": 823,
-        "topics": [
-          "22x28"
         ]
       },
       {
@@ -4414,6 +4416,14 @@
         "traffic_estimate": 816,
         "topics": [
           "11x25"
+        ]
+      },
+      {
+        "url": "https://www.arttoframe.com/22x28_picture_frames",
+        "keywords": 75,
+        "traffic_estimate": 815,
+        "topics": [
+          "22x28"
         ]
       },
       {
@@ -4475,7 +4485,7 @@
       {
         "url": "https://www.arttoframe.com/8x8_picture_frames",
         "keywords": 91,
-        "traffic_estimate": 700,
+        "traffic_estimate": 699,
         "topics": [
           "8x8"
         ]
@@ -4499,14 +4509,14 @@
       {
         "url": "https://www.arttoframe.com/13x12_picture_frames",
         "keywords": 5,
-        "traffic_estimate": 673,
+        "traffic_estimate": 676,
         "topics": [
           "13x12"
         ]
       },
       {
         "url": "https://www.arttoframe.com/40x40_picture_frames",
-        "keywords": 66,
+        "keywords": 65,
         "traffic_estimate": 669,
         "topics": [
           "40x40"
@@ -4569,14 +4579,6 @@
         ]
       },
       {
-        "url": "https://www.arttoframe.com/shadowbox-frames",
-        "keywords": 178,
-        "traffic_estimate": 631,
-        "topics": [
-          "shadow box"
-        ]
-      },
-      {
         "url": "https://www.arttoframe.com/13x24_picture_frames",
         "keywords": 10,
         "traffic_estimate": 611,
@@ -4635,7 +4637,7 @@
       {
         "url": "https://www.arttoframe.com/Black-Picture-Frames",
         "keywords": 220,
-        "traffic_estimate": 580,
+        "traffic_estimate": 579,
         "topics": []
       },
       {
@@ -4727,6 +4729,14 @@
         ]
       },
       {
+        "url": "https://www.arttoframe.com/shadowbox-frames",
+        "keywords": 178,
+        "traffic_estimate": 556,
+        "topics": [
+          "shadow box"
+        ]
+      },
+      {
         "url": "https://www.arttoframe.com/36x10_picture_frames",
         "keywords": 2,
         "traffic_estimate": 556,
@@ -4743,18 +4753,18 @@
         ]
       },
       {
-        "url": "https://www.arttoframe.com/puzzle_frames",
-        "keywords": 133,
-        "traffic_estimate": 547,
-        "topics": []
-      },
-      {
         "url": "https://www.arttoframe.com/17x16.5_picture_frames",
         "keywords": 3,
         "traffic_estimate": 545,
         "topics": [
           "17x16"
         ]
+      },
+      {
+        "url": "https://www.arttoframe.com/puzzle_frames",
+        "keywords": 133,
+        "traffic_estimate": 545,
+        "topics": []
       },
       {
         "url": "https://www.arttoframe.com/13x15-Black-picture-frame/FRBW72079",
@@ -5070,12 +5080,10 @@
         ]
       },
       {
-        "url": "https://www.arttoframe.com/20x28_picture_frames",
-        "keywords": 71,
+        "url": "https://www.arttoframe.com/glass-only/Regular-Glass",
+        "keywords": 146,
         "traffic_estimate": 394,
-        "topics": [
-          "20x28"
-        ]
+        "topics": []
       },
       {
         "url": "https://www.arttoframe.com/17x20_picture_frames",
@@ -5102,6 +5110,14 @@
         ]
       },
       {
+        "url": "https://www.arttoframe.com/20x28_picture_frames",
+        "keywords": 71,
+        "traffic_estimate": 390,
+        "topics": [
+          "20x28"
+        ]
+      },
+      {
         "url": "https://www.arttoframe.com/24x15_picture_frames",
         "keywords": 6,
         "traffic_estimate": 387,
@@ -5124,12 +5140,6 @@
         "topics": [
           "11x10"
         ]
-      },
-      {
-        "url": "https://www.arttoframe.com/glass-only/Regular-Glass",
-        "keywords": 148,
-        "traffic_estimate": 381,
-        "topics": []
       },
       {
         "url": "https://www.arttoframe.com/7x31_picture_frames",
@@ -5204,14 +5214,6 @@
         ]
       },
       {
-        "url": "https://www.arttoframe.com/14x22_picture_frames",
-        "keywords": 18,
-        "traffic_estimate": 362,
-        "topics": [
-          "14x22"
-        ]
-      },
-      {
         "url": "https://www.arttoframe.com/20x32_picture_frames",
         "keywords": 6,
         "traffic_estimate": 355,
@@ -5266,6 +5268,14 @@
         "topics": [
           "20x12"
         ]
+      },
+      {
+        "url": "https://www.arttoframe.com/17x14_picture_frames",
+        "keywords": 8,
+        "traffic_estimate": 339,
+        "topics": [
+          "17x14"
+        ]
       }
     ],
     "modernmemorydesign.com": [
@@ -5280,7 +5290,7 @@
       {
         "url": "https://www.modernmemorydesign.com/blogs/news/common-frame-sizes-the-2026-guide-to-standard-picture-dimensions",
         "keywords": 219,
-        "traffic_estimate": 773,
+        "traffic_estimate": 793,
         "topics": []
       },
       {
@@ -5334,7 +5344,7 @@
       },
       {
         "url": "https://www.modernmemorydesign.com/collections/modern-gallery-22x28-picture-frame-wall-22-x-28-frames",
-        "keywords": 49,
+        "keywords": 48,
         "traffic_estimate": 263,
         "topics": [
           "22x28"
@@ -5343,19 +5353,11 @@
       {
         "url": "https://www.modernmemorydesign.com/products/8x12-picture-frame-black-wood-8x12-frame-8-x-12-poster-frames-8-x-12",
         "keywords": 42,
-        "traffic_estimate": 229,
+        "traffic_estimate": 228,
         "topics": [
           "8x12",
           "poster",
           "wood"
-        ]
-      },
-      {
-        "url": "https://www.modernmemorydesign.com/collections/modern-gallery-11x17-frame-with-glass-frame-store-11-x-17-photo",
-        "keywords": 54,
-        "traffic_estimate": 228,
-        "topics": [
-          "11x17"
         ]
       },
       {
@@ -5378,7 +5380,7 @@
       },
       {
         "url": "https://www.modernmemorydesign.com/collections/12x18-frame-wood-with-glass-12-x-18-picture-frames",
-        "keywords": 75,
+        "keywords": 74,
         "traffic_estimate": 190,
         "topics": [
           "12x18",
@@ -5388,7 +5390,7 @@
       {
         "url": "https://www.modernmemorydesign.com/collections/custom-tv-frames-stylish-picture-frames-for-samsung-and-flat-screen-tvs",
         "keywords": 177,
-        "traffic_estimate": 187,
+        "traffic_estimate": 186,
         "topics": []
       },
       {
@@ -5473,6 +5475,14 @@
         ]
       },
       {
+        "url": "https://www.modernmemorydesign.com/collections/modern-gallery-11x17-frame-with-glass-frame-store-11-x-17-photo",
+        "keywords": 54,
+        "traffic_estimate": 137,
+        "topics": [
+          "11x17"
+        ]
+      },
+      {
         "url": "https://www.modernmemorydesign.com/blogs/news/the-ultimate-guide-to-16x20-frames-and-prints-2026",
         "keywords": 61,
         "traffic_estimate": 129,
@@ -5540,7 +5550,7 @@
       },
       {
         "url": "https://www.modernmemorydesign.com/collections/modern-large-square-40x40-frame-poster-print-40-x-40",
-        "keywords": 41,
+        "keywords": 40,
         "traffic_estimate": 114,
         "topics": [
           "40x40",
@@ -5566,7 +5576,7 @@
       },
       {
         "url": "https://www.modernmemorydesign.com/blogs/news/the-essential-guide-to-the-8x10-frame-styles-sizes-and-expert-tips",
-        "keywords": 114,
+        "keywords": 112,
         "traffic_estimate": 107,
         "topics": [
           "8x10"
@@ -5595,14 +5605,6 @@
         "topics": [
           "22x26",
           "poster"
-        ]
-      },
-      {
-        "url": "https://www.modernmemorydesign.com/collections/shadow-box-frame",
-        "keywords": 74,
-        "traffic_estimate": 100,
-        "topics": [
-          "shadow box"
         ]
       },
       {
@@ -5635,6 +5637,12 @@
       {
         "url": "https://www.modernmemorydesign.com/blogs/news/picture-framing-made-easy-and-at-cheap-prices",
         "keywords": 63,
+        "traffic_estimate": 97,
+        "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/large-picture-frames-sizes-big-picture-frames-for-wall",
+        "keywords": 92,
         "traffic_estimate": 94,
         "topics": []
       },
@@ -5648,18 +5656,11 @@
         ]
       },
       {
-        "url": "https://www.modernmemorydesign.com/collections/large-picture-frames-sizes-big-picture-frames-for-wall",
-        "keywords": 92,
-        "traffic_estimate": 93,
-        "topics": []
-      },
-      {
-        "url": "https://www.modernmemorydesign.com/products/23x35-picture-frame-black-23x35-frame-23-x-35-inch-poster-frames-23-x-35",
-        "keywords": 10,
+        "url": "https://www.modernmemorydesign.com/collections/shadow-box-frame",
+        "keywords": 74,
         "traffic_estimate": 92,
         "topics": [
-          "23x35",
-          "poster"
+          "shadow box"
         ]
       },
       {
@@ -5717,7 +5718,7 @@
       },
       {
         "url": "https://www.modernmemorydesign.com/blogs/news/photo-paper-finishes-the-ultimate-guide-to-choosing-the-right-surface-for-your-prints",
-        "keywords": 124,
+        "keywords": 125,
         "traffic_estimate": 81,
         "topics": []
       },
@@ -5732,7 +5733,7 @@
       },
       {
         "url": "https://www.modernmemorydesign.com/collections/large-modern-40x60-poster-frames-store-40-x-60-poster",
-        "keywords": 86,
+        "keywords": 85,
         "traffic_estimate": 81,
         "topics": [
           "40x60",
@@ -5757,28 +5758,19 @@
         ]
       },
       {
+        "url": "https://www.modernmemorydesign.com/products/23x35-picture-frame-black-23x35-frame-23-x-35-inch-poster-frames-23-x-35",
+        "keywords": 10,
+        "traffic_estimate": 79,
+        "topics": [
+          "23x35",
+          "poster"
+        ]
+      },
+      {
         "url": "https://www.modernmemorydesign.com/collections/decor-moulding-supply-picture-frame-moulding",
         "keywords": 30,
         "traffic_estimate": 76,
         "topics": []
-      },
-      {
-        "url": "https://www.modernmemorydesign.com/collections/modern-12x12-frame-gallery-wall-12-x-12-picture-frames",
-        "keywords": 85,
-        "traffic_estimate": 75,
-        "topics": [
-          "12x12",
-          "gallery wall"
-        ]
-      },
-      {
-        "url": "https://www.modernmemorydesign.com/products/12x15-picture-frame-black-12x15-frame-12-x-15-poster-frames-12-x-15",
-        "keywords": 15,
-        "traffic_estimate": 74,
-        "topics": [
-          "12x15",
-          "poster"
-        ]
       },
       {
         "url": "https://www.modernmemorydesign.com/collections/modern-17x17-picture-frames-wood-for-17x17-photo-17-x-17-frame",
@@ -5795,6 +5787,15 @@
         "traffic_estimate": 71,
         "topics": [
           "38x25",
+          "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/12x15-picture-frame-black-12x15-frame-12-x-15-poster-frames-12-x-15",
+        "keywords": 15,
+        "traffic_estimate": 71,
+        "topics": [
+          "12x15",
           "poster"
         ]
       },
@@ -5834,10 +5835,28 @@
         ]
       },
       {
+        "url": "https://www.modernmemorydesign.com/products/45x30-picture-frames-brown-wood-45x30-frame-45-x-30-frames",
+        "keywords": 7,
+        "traffic_estimate": 65,
+        "topics": [
+          "45x30",
+          "wood"
+        ]
+      },
+      {
         "url": "https://www.modernmemorydesign.com/collections/gold-picture-frames",
         "keywords": 68,
         "traffic_estimate": 65,
         "topics": []
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/collections/modern-12x12-frame-gallery-wall-12-x-12-picture-frames",
+        "keywords": 84,
+        "traffic_estimate": 65,
+        "topics": [
+          "12x12",
+          "gallery wall"
+        ]
       },
       {
         "url": "https://www.modernmemorydesign.com/collections/puzzle-picture-frames-for-puzzle-20x27-13x39-18x24-19x28-20x28-38x26",
@@ -5853,17 +5872,8 @@
         ]
       },
       {
-        "url": "https://www.modernmemorydesign.com/products/45x30-picture-frames-brown-wood-45x30-frame-45-x-30-frames",
-        "keywords": 7,
-        "traffic_estimate": 63,
-        "topics": [
-          "45x30",
-          "wood"
-        ]
-      },
-      {
         "url": "https://www.modernmemorydesign.com/collections/custom-framing-picture-frame-shop-albany-new-york",
-        "keywords": 56,
+        "keywords": 55,
         "traffic_estimate": 63,
         "topics": []
       },
@@ -5922,6 +5932,12 @@
         ]
       },
       {
+        "url": "https://www.modernmemorydesign.com/products/picture-frame-glass-replacement",
+        "keywords": 58,
+        "traffic_estimate": 60,
+        "topics": []
+      },
+      {
         "url": "https://www.modernmemorydesign.com/products/25x20-picture-frame-black-25x20-frame-25-x-20-inch-poster-frames-25-x-20",
         "keywords": 4,
         "traffic_estimate": 59,
@@ -5932,7 +5948,7 @@
       },
       {
         "url": "https://www.modernmemorydesign.com/collections/custom-quote-print-framed-canvas-quote-pint-and-custom-quote-poster-prints",
-        "keywords": 77,
+        "keywords": 76,
         "traffic_estimate": 59,
         "topics": [
           "canvas",
@@ -5976,12 +5992,6 @@
         ]
       },
       {
-        "url": "https://www.modernmemorydesign.com/products/picture-frame-glass-replacement",
-        "keywords": 59,
-        "traffic_estimate": 58,
-        "topics": []
-      },
-      {
         "url": "https://www.modernmemorydesign.com/products/22x15-picture-frame-black-22x15-frame-22-x-15-poster-frames-22-x-15",
         "keywords": 8,
         "traffic_estimate": 57,
@@ -6002,7 +6012,7 @@
       {
         "url": "https://www.modernmemorydesign.com/blogs/news/standard-picture-frame-sizes-dimensions-modern-memory-design",
         "keywords": 53,
-        "traffic_estimate": 56,
+        "traffic_estimate": 57,
         "topics": []
       },
       {
@@ -6064,8 +6074,8 @@
       },
       {
         "url": "https://www.modernmemorydesign.com/products/30x42-picture-frame-black-30x42-frame-30-x-42-poster-frames-30-x-42",
-        "keywords": 23,
-        "traffic_estimate": 55,
+        "keywords": 22,
+        "traffic_estimate": 54,
         "topics": [
           "30x42",
           "poster"
@@ -6138,12 +6148,6 @@
         "topics": []
       },
       {
-        "url": "https://www.modernmemorydesign.com/blogs/news/personal-wall-art-custom-poem-printed-and-framed",
-        "keywords": 8,
-        "traffic_estimate": 50,
-        "topics": []
-      },
-      {
         "url": "https://www.modernmemorydesign.com/products/33x24-picture-frames-brown-wood-33x24-frame-33-x-24-frames",
         "keywords": 2,
         "traffic_estimate": 49,
@@ -6170,13 +6174,10 @@
         ]
       },
       {
-        "url": "https://www.modernmemorydesign.com/collections/floating-frame-for-canvas-painting-print-art",
-        "keywords": 75,
-        "traffic_estimate": 48,
-        "topics": [
-          "canvas",
-          "floating"
-        ]
+        "url": "https://www.modernmemorydesign.com/blogs/news/personal-wall-art-custom-poem-printed-and-framed",
+        "keywords": 8,
+        "traffic_estimate": 49,
+        "topics": []
       },
       {
         "url": "https://www.modernmemorydesign.com/products/18x15-picture-frame-brown-wood-18x15-frame-18-x-15-frames",
@@ -6323,6 +6324,12 @@
         ]
       },
       {
+        "url": "https://www.modernmemorydesign.com/collections/license-plate-frames",
+        "keywords": 34,
+        "traffic_estimate": 44,
+        "topics": []
+      },
+      {
         "url": "https://www.modernmemorydesign.com/collections/modern-10x16-picture-frames-wood-for-10x16-photo-10-x-16-frame",
         "keywords": 7,
         "traffic_estimate": 44,
@@ -6376,6 +6383,15 @@
         ]
       },
       {
+        "url": "https://www.modernmemorydesign.com/products/12x13-picture-frame-black-12x13-frame-12-x-13-poster-frames-12-x-13",
+        "keywords": 5,
+        "traffic_estimate": 42,
+        "topics": [
+          "12x13",
+          "poster"
+        ]
+      },
+      {
         "url": "https://www.modernmemorydesign.com/collections/modern-35x35-picture-frames-wood-for-35x35-photo-35-x-35-frame",
         "keywords": 14,
         "traffic_estimate": 41,
@@ -6411,20 +6427,20 @@
         ]
       },
       {
+        "url": "https://www.modernmemorydesign.com/products/custom-24x36-photo-print-print-your-24x36-picture",
+        "keywords": 49,
+        "traffic_estimate": 41,
+        "topics": [
+          "24x36"
+        ]
+      },
+      {
         "url": "https://www.modernmemorydesign.com/collections/modern-40x45-picture-frames-wood-for-40x45-photo-40-x-45-frame",
         "keywords": 3,
         "traffic_estimate": 41,
         "topics": [
           "40x45",
           "wood"
-        ]
-      },
-      {
-        "url": "https://www.modernmemorydesign.com/products/custom-24x36-photo-print-print-your-24x36-picture",
-        "keywords": 49,
-        "traffic_estimate": 41,
-        "topics": [
-          "24x36"
         ]
       },
       {
@@ -6450,12 +6466,6 @@
           "8x8",
           "shadow box"
         ]
-      },
-      {
-        "url": "https://www.modernmemorydesign.com/collections/license-plate-frames",
-        "keywords": 34,
-        "traffic_estimate": 40,
-        "topics": []
       },
       {
         "url": "https://www.modernmemorydesign.com/products/wood-16-5x24-picture-frame-black-16-5-x-24-frame-inch-poster-1",
@@ -6513,20 +6523,12 @@
         ]
       },
       {
-        "url": "https://www.modernmemorydesign.com/products/12x13-picture-frame-black-12x13-frame-12-x-13-poster-frames-12-x-13",
-        "keywords": 5,
+        "url": "https://www.modernmemorydesign.com/collections/floating-frame-for-canvas-painting-print-art",
+        "keywords": 75,
         "traffic_estimate": 39,
         "topics": [
-          "12x13",
-          "poster"
-        ]
-      },
-      {
-        "url": "https://www.modernmemorydesign.com/products/6x6-picture-frame-black-6x6-frame-6-x-6-photo-frames-6-x-6-square",
-        "keywords": 37,
-        "traffic_estimate": 39,
-        "topics": [
-          "6x6"
+          "canvas",
+          "floating"
         ]
       },
       {
@@ -6553,6 +6555,16 @@
         "topics": [
           "28x42",
           "poster"
+        ]
+      },
+      {
+        "url": "https://www.modernmemorydesign.com/products/9x12-picture-frames-black-9x12-frame-wood-9-x-12-poster-frames-9-by-12",
+        "keywords": 16,
+        "traffic_estimate": 38,
+        "topics": [
+          "9x12",
+          "poster",
+          "wood"
         ]
       }
     ]

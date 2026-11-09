@@ -9,15 +9,6 @@
     "traffic_estimate": 2562.7
   },
   {
-    "keyword": "11x17 frame",
-    "position": 2,
-    "url": "https://americanflat.com/collections/11x17-frames",
-    "search_volume": 18100,
-    "cpc": 0.6499999761581421,
-    "competition": "HIGH",
-    "traffic_estimate": 1899.6
-  },
-  {
     "keyword": "frames",
     "position": 4,
     "url": "https://americanflat.com/collections/picture-frames",
@@ -108,6 +99,15 @@
     "traffic_estimate": 813.9
   },
   {
+    "keyword": "11x17 frame",
+    "position": 2,
+    "url": "https://americanflat.com/collections/11x17-frames",
+    "search_volume": 18100,
+    "cpc": 0.6499999761581421,
+    "competition": "HIGH",
+    "traffic_estimate": 773.1
+  },
+  {
     "keyword": "18x24 frame",
     "position": 3,
     "url": "https://americanflat.com/collections/18x24-frames",
@@ -144,15 +144,6 @@
     "traffic_estimate": 502.0
   },
   {
-    "keyword": "shadow box",
-    "position": 18,
-    "url": "https://americanflat.com/collections/shadowbox-picture-frames",
-    "search_volume": 90500,
-    "cpc": 0.49000000953674316,
-    "competition": "HIGH",
-    "traffic_estimate": 453.2
-  },
-  {
     "keyword": "11x14 frames",
     "position": 2,
     "url": "https://americanflat.com/collections/11x14-frames",
@@ -187,15 +178,6 @@
     "cpc": 0.75,
     "competition": "HIGH",
     "traffic_estimate": 343.7
-  },
-  {
-    "keyword": "14 x 22 picture frame",
-    "position": 1,
-    "url": "https://americanflat.com/collections/14-x-22-picture-frames",
-    "search_volume": 1000,
-    "cpc": 0.6299999952316284,
-    "competition": "HIGH",
-    "traffic_estimate": 335.8
   },
   {
     "keyword": "11 x 14 frame",
@@ -315,15 +297,6 @@
     "traffic_estimate": 211.9
   },
   {
-    "keyword": "12x15 frame",
-    "position": 2,
-    "url": "https://americanflat.com/collections/12x15-frames",
-    "search_volume": 1900,
-    "cpc": 0.699999988079071,
-    "competition": "HIGH",
-    "traffic_estimate": 199.4
-  },
-  {
     "keyword": "9x12 frame",
     "position": 3,
     "url": "https://americanflat.com/collections/9x12-frames",
@@ -421,6 +394,15 @@
     "cpc": 0.6499999761581421,
     "competition": "HIGH",
     "traffic_estimate": 160.9
+  },
+  {
+    "keyword": "12x15 frame",
+    "position": 2,
+    "url": "https://americanflat.com/collections/12x15-frames",
+    "search_volume": 1900,
+    "cpc": 0.699999988079071,
+    "competition": "HIGH",
+    "traffic_estimate": 154.7
   },
   {
     "keyword": "hookless shower curtain with snap in liner",
@@ -729,13 +711,13 @@
     "traffic_estimate": 86.1
   },
   {
-    "keyword": "wall frame 5x7",
-    "position": 4,
-    "url": "https://americanflat.com/collections/5-x-7-picture-frames",
-    "search_volume": 320,
-    "cpc": 1.059999942779541,
+    "keyword": "silver picture frames",
+    "position": 10,
+    "url": "https://americanflat.com/collections/silver-picture-frames",
+    "search_volume": 4400,
+    "cpc": 1.7300000190734863,
     "competition": "HIGH",
-    "traffic_estimate": 85.4
+    "traffic_estimate": 84.8
   },
   {
     "keyword": "american flat frames",
@@ -781,15 +763,6 @@
     "cpc": 0.30000001192092896,
     "competition": "HIGH",
     "traffic_estimate": 74.8
-  },
-  {
-    "keyword": "silver picture frames",
-    "position": 10,
-    "url": "https://americanflat.com/collections/silver-picture-frames",
-    "search_volume": 4400,
-    "cpc": 1.7300000190734863,
-    "competition": "HIGH",
-    "traffic_estimate": 72.5
   },
   {
     "keyword": "american flat",
@@ -981,6 +954,15 @@
     "traffic_estimate": 46.4
   },
   {
+    "keyword": "wall easel",
+    "position": 3,
+    "url": "https://americanflat.com/products/30-inch-adjustable-wall-easel-black-modern-premium-quality",
+    "search_volume": 720,
+    "cpc": 0.7599999904632568,
+    "competition": "HIGH",
+    "traffic_estimate": 46.2
+  },
+  {
     "keyword": "8 x 12",
     "position": 21,
     "url": "https://americanflat.com/collections/8x12-frames",
@@ -988,15 +970,6 @@
     "cpc": 0.2199999988079071,
     "competition": "LOW",
     "traffic_estimate": 45.8
-  },
-  {
-    "keyword": "wall easel",
-    "position": 3,
-    "url": "https://americanflat.com/products/30-inch-adjustable-wall-easel-black-modern-premium-quality",
-    "search_volume": 720,
-    "cpc": 0.7599999904632568,
-    "competition": "HIGH",
-    "traffic_estimate": 45.5
   },
   {
     "keyword": "8.5x11 frame",
@@ -1683,6 +1656,15 @@
     "traffic_estimate": 25.1
   },
   {
+    "keyword": "photo frame sizes",
+    "position": 44,
+    "url": "https://americanflat.com/blogs/americanflat-blog/framing-101-understanding-standard-frame-sizes-and-how-to-measure-them",
+    "search_volume": 33100,
+    "cpc": 0.28999999165534973,
+    "competition": "HIGH",
+    "traffic_estimate": 25.0
+  },
+  {
     "keyword": "22 by 28 frame",
     "position": 4,
     "url": "https://americanflat.com/collections/22x28-frames",
@@ -1953,6 +1935,15 @@
     "traffic_estimate": 20.6
   },
   {
+    "keyword": "wall and frames",
+    "position": 3,
+    "url": "https://americanflat.com/collections/gallery-wall-frame-set",
+    "search_volume": 8100,
+    "cpc": 1.4900000095367432,
+    "competition": "HIGH",
+    "traffic_estimate": 20.5
+  },
+  {
     "keyword": "vintage frames",
     "position": 34,
     "url": "https://americanflat.com/collections/vintage-frames",
@@ -1977,6 +1968,15 @@
     "search_volume": 480,
     "cpc": 2.380000114440918,
     "competition": "LOW",
+    "traffic_estimate": 20.4
+  },
+  {
+    "keyword": "wall frames 5 x 7",
+    "position": 3,
+    "url": "https://americanflat.com/collections/5-x-7-picture-frames",
+    "search_volume": 320,
+    "cpc": 1.059999942779541,
+    "competition": "HIGH",
     "traffic_estimate": 20.4
   },
   {
@@ -2142,6 +2142,15 @@
     "traffic_estimate": 18.9
   },
   {
+    "keyword": "wall frame 5x7",
+    "position": 4,
+    "url": "https://americanflat.com/collections/5-x-7-picture-frames",
+    "search_volume": 320,
+    "cpc": 1.059999942779541,
+    "competition": "HIGH",
+    "traffic_estimate": 18.8
+  },
+  {
     "keyword": "13x16",
     "position": 15,
     "url": "https://americanflat.com/collections/13x16-frames",
@@ -2183,15 +2192,6 @@
     "url": "https://americanflat.com/collections/9x12-frames",
     "search_volume": 880,
     "cpc": 0.8600000143051147,
-    "competition": "HIGH",
-    "traffic_estimate": 18.1
-  },
-  {
-    "keyword": "wall and frames",
-    "position": 3,
-    "url": "https://americanflat.com/collections/gallery-wall-frame-set",
-    "search_volume": 8100,
-    "cpc": 1.4900000095367432,
     "competition": "HIGH",
     "traffic_estimate": 18.1
   },
@@ -2520,15 +2520,6 @@
     "traffic_estimate": 15.4
   },
   {
-    "keyword": "50x60 fleece throws",
-    "position": 10,
-    "url": "https://americanflat.com/products/americanflat-50x60-fleece-throw-blanket-soft-and-breathable-throw-blanket-for-couch-bed-chair-fleece-blankets-perfect-for-home-bedroom-or-outdoor-use-white",
-    "search_volume": 390,
-    "cpc": 0.5299999713897705,
-    "competition": "HIGH",
-    "traffic_estimate": 15.3
-  },
-  {
     "keyword": "10x12 photo frames",
     "position": 5,
     "url": "https://americanflat.com/collections/10-x-12-picture-frames",
@@ -2671,15 +2662,6 @@
     "cpc": 1.8600000143051147,
     "competition": "HIGH",
     "traffic_estimate": 14.1
-  },
-  {
-    "keyword": "ring display case",
-    "position": 6,
-    "url": "https://americanflat.com/products/championship-ring-display-case-holds-3-9-or-20-rings-all-star-collection",
-    "search_volume": 1300,
-    "cpc": 0.6600000262260437,
-    "competition": "HIGH",
-    "traffic_estimate": 14.0
   },
   {
     "keyword": "americanflat poster frame",
@@ -2887,6 +2869,15 @@
     "cpc": 0.7699999809265137,
     "competition": "HIGH",
     "traffic_estimate": 12.4
+  },
+  {
+    "keyword": "ring display case",
+    "position": 6,
+    "url": "https://americanflat.com/products/championship-ring-display-case-holds-3-9-or-20-rings-all-star-collection",
+    "search_volume": 1300,
+    "cpc": 0.6600000262260437,
+    "competition": "HIGH",
+    "traffic_estimate": 12.3
   },
   {
     "keyword": "8x12 picture frame",
@@ -3218,15 +3209,6 @@
     "url": "https://americanflat.com/products/americanflat-acrylic-picture-frame",
     "search_volume": 1900,
     "cpc": 1.850000023841858,
-    "competition": "HIGH",
-    "traffic_estimate": 10.6
-  },
-  {
-    "keyword": "photo frame sizes",
-    "position": 44,
-    "url": "https://americanflat.com/blogs/americanflat-blog/framing-101-understanding-standard-frame-sizes-and-how-to-measure-them",
-    "search_volume": 33100,
-    "cpc": 0.28999999165534973,
     "competition": "HIGH",
     "traffic_estimate": 10.6
   },
@@ -3609,6 +3591,15 @@
     "traffic_estimate": 9.0
   },
   {
+    "keyword": "tabletop adjustable easel",
+    "position": 7,
+    "url": "https://americanflat.com/products/black-adjustable-tabletop-easel-stand-for-frames",
+    "search_volume": 210,
+    "cpc": 0.9800000190734863,
+    "competition": "HIGH",
+    "traffic_estimate": 9.0
+  },
+  {
     "keyword": "family handprint kit",
     "position": 4,
     "url": "https://americanflat.com/products/diy-family-handprint-kit-personalized-keepsake-frame-complete-set-with-paints-americanflat",
@@ -3686,15 +3677,6 @@
     "url": "https://americanflat.com/collections/diploma-frames",
     "search_volume": 170,
     "cpc": 0.9300000071525574,
-    "competition": "HIGH",
-    "traffic_estimate": 8.8
-  },
-  {
-    "keyword": "tabletop adjustable easel",
-    "position": 7,
-    "url": "https://americanflat.com/products/black-adjustable-tabletop-easel-stand-for-frames",
-    "search_volume": 210,
-    "cpc": 0.9800000190734863,
     "competition": "HIGH",
     "traffic_estimate": 8.8
   },
@@ -3893,15 +3875,6 @@
     "url": "https://americanflat.com/collections/silver-picture-frames",
     "search_volume": 480,
     "cpc": 0.9399999976158142,
-    "competition": "HIGH",
-    "traffic_estimate": 8.1
-  },
-  {
-    "keyword": "wall mounted picture frame",
-    "position": 3,
-    "url": "https://americanflat.com/collections/gallery-wall-frame-set",
-    "search_volume": 390,
-    "cpc": 0.8299999833106995,
     "competition": "HIGH",
     "traffic_estimate": 8.1
   },
@@ -4221,30 +4194,12 @@
     "traffic_estimate": 7.3
   },
   {
-    "keyword": "photo frame 11x14",
-    "position": 8,
-    "url": "https://americanflat.com/collections/11x14-frames",
-    "search_volume": 170,
-    "cpc": 0.5699999928474426,
-    "competition": "HIGH",
-    "traffic_estimate": 7.3
-  },
-  {
     "keyword": "24 by 24",
     "position": 2,
     "url": "https://americanflat.com/collections/24x24-frames",
     "search_volume": 320,
     "cpc": 0.8999999761581421,
     "competition": "LOW",
-    "traffic_estimate": 7.2
-  },
-  {
-    "keyword": "frame silver",
-    "position": 6,
-    "url": "https://americanflat.com/collections/silver-picture-frames",
-    "search_volume": 140,
-    "cpc": 0.8999999761581421,
-    "competition": "HIGH",
     "traffic_estimate": 7.2
   },
   {
@@ -4491,6 +4446,15 @@
     "traffic_estimate": 6.7
   },
   {
+    "keyword": "frame silver",
+    "position": 6,
+    "url": "https://americanflat.com/collections/silver-picture-frames",
+    "search_volume": 140,
+    "cpc": 0.8999999761581421,
+    "competition": "HIGH",
+    "traffic_estimate": 6.7
+  },
+  {
     "keyword": "shadow box framed artwork",
     "position": 7,
     "url": "https://americanflat.com/collections/shadowbox-picture-frames",
@@ -4505,6 +4469,15 @@
     "url": "https://americanflat.com/collections/gallery-wall-frame-set",
     "search_volume": 320,
     "cpc": 1.0099999904632568,
+    "competition": "HIGH",
+    "traffic_estimate": 6.6
+  },
+  {
+    "keyword": "wall mounted picture frame",
+    "position": 3,
+    "url": "https://americanflat.com/collections/gallery-wall-frame-set",
+    "search_volume": 390,
+    "cpc": 0.8299999833106995,
     "competition": "HIGH",
     "traffic_estimate": 6.6
   },
@@ -4545,15 +4518,6 @@
     "traffic_estimate": 6.5
   },
   {
-    "keyword": "square picture frames",
-    "position": 32,
-    "url": "https://americanflat.com/collections/picture-frames",
-    "search_volume": 3600,
-    "cpc": 0.8100000023841858,
-    "competition": "HIGH",
-    "traffic_estimate": 6.5
-  },
-  {
     "keyword": "13x16 frame",
     "position": 11,
     "url": "https://americanflat.com/collections/13x16-frames",
@@ -4581,6 +4545,15 @@
     "traffic_estimate": 6.5
   },
   {
+    "keyword": "square picture frames",
+    "position": 32,
+    "url": "https://americanflat.com/collections/picture-frames",
+    "search_volume": 3600,
+    "cpc": 0.8100000023841858,
+    "competition": "HIGH",
+    "traffic_estimate": 6.4
+  },
+  {
     "keyword": "8.5 x 11 frame white",
     "position": 9,
     "url": "https://americanflat.com/collections/8-5x11-frames",
@@ -4594,8 +4567,8 @@
     "position": 10,
     "url": "https://americanflat.com/blogs/americanflat-blog/20x30-frame-comparison-guide",
     "search_volume": 320,
-    "cpc": 0.23999999463558197,
-    "competition": "MEDIUM",
+    "cpc": 0.18000000715255737,
+    "competition": "HIGH",
     "traffic_estimate": 6.4
   },
   {
@@ -5166,15 +5139,6 @@
     "traffic_estimate": 5.4
   },
   {
-    "keyword": "frames 10 x 12",
-    "position": 3,
-    "url": "https://americanflat.com/collections/10-x-12-picture-frames",
-    "search_volume": 50,
-    "cpc": 1.2200000286102295,
-    "competition": "HIGH",
-    "traffic_estimate": 5.4
-  },
-  {
     "keyword": "11x14 black picture frame",
     "position": 13,
     "url": "https://americanflat.com/collections/11x14-frames",
@@ -5328,6 +5292,15 @@
     "traffic_estimate": 5.2
   },
   {
+    "keyword": "picture frame set wall",
+    "position": 5,
+    "url": "https://americanflat.com/collections/gallery-wall-frame-set",
+    "search_volume": 210,
+    "cpc": 0.9300000071525574,
+    "competition": "HIGH",
+    "traffic_estimate": 5.2
+  },
+  {
     "keyword": "frame set for gallery wall",
     "position": 10,
     "url": "https://americanflat.com/collections/gallery-wall-frame-sets-oversized-mat-displays",
@@ -5387,15 +5360,6 @@
     "url": "https://americanflat.com/collections/13x19-frames",
     "search_volume": 90,
     "cpc": 0.7599999904632568,
-    "competition": "HIGH",
-    "traffic_estimate": 5.1
-  },
-  {
-    "keyword": "picture frame set wall",
-    "position": 5,
-    "url": "https://americanflat.com/collections/gallery-wall-frame-set",
-    "search_volume": 210,
-    "cpc": 0.9300000071525574,
     "competition": "HIGH",
     "traffic_estimate": 5.1
   },
@@ -5468,6 +5432,15 @@
     "url": "https://americanflat.com/blogs/americanflat-blog/how-to-pick-the-right-frame-size-for-11x14-prints",
     "search_volume": 70,
     "cpc": 0.23000000417232513,
+    "competition": "HIGH",
+    "traffic_estimate": 4.9
+  },
+  {
+    "keyword": "16x20 inches",
+    "position": 4,
+    "url": "https://americanflat.com/blogs/americanflat-blog/is-16x20-a-standard-frame-size",
+    "search_volume": 210,
+    "cpc": 0.27000001072883606,
     "competition": "HIGH",
     "traffic_estimate": 4.9
   },
@@ -6174,6 +6147,15 @@
     "traffic_estimate": 4.1
   },
   {
+    "keyword": "where to buy picture frames",
+    "position": 37,
+    "url": "https://americanflat.com/collections/picture-frames",
+    "search_volume": 2900,
+    "cpc": 1.6399999856948853,
+    "competition": "HIGH",
+    "traffic_estimate": 4.1
+  },
+  {
     "keyword": "19x13 frame",
     "position": 21,
     "url": "https://americanflat.com/collections/13x19-frames",
@@ -6197,15 +6179,6 @@
     "url": "https://americanflat.com/collections/11x14-frames",
     "search_volume": 590,
     "cpc": 0.5199999809265137,
-    "competition": "HIGH",
-    "traffic_estimate": 4.1
-  },
-  {
-    "keyword": "where to buy picture frames",
-    "position": 37,
-    "url": "https://americanflat.com/collections/picture-frames",
-    "search_volume": 2900,
-    "cpc": 1.6399999856948853,
     "competition": "HIGH",
     "traffic_estimate": 4.1
   },
@@ -6287,6 +6260,15 @@
     "url": "https://americanflat.com/collections/12x18-frames",
     "search_volume": 70,
     "cpc": 0.6499999761581421,
+    "competition": "HIGH",
+    "traffic_estimate": 4.0
+  },
+  {
+    "keyword": "wood frame 22 x 28",
+    "position": 4,
+    "url": "https://americanflat.com/collections/22x28-frames",
+    "search_volume": 140,
+    "cpc": 1.3600000143051147,
     "competition": "HIGH",
     "traffic_estimate": 4.0
   },
@@ -6417,6 +6399,15 @@
     "traffic_estimate": 3.8
   },
   {
+    "keyword": "silver picture frame 11x14",
+    "position": 21,
+    "url": "https://americanflat.com/collections/silver-picture-frames",
+    "search_volume": 390,
+    "cpc": 1.1299999952316284,
+    "competition": "HIGH",
+    "traffic_estimate": 3.8
+  },
+  {
     "keyword": "picture frame for shirt",
     "position": 15,
     "url": "https://americanflat.com/products/black-tshirt-frame-without-mat-folding-insert",
@@ -6477,6 +6468,15 @@
     "search_volume": 590,
     "cpc": 0.05999999865889549,
     "competition": "LOW",
+    "traffic_estimate": 3.8
+  },
+  {
+    "keyword": "photo frame 11x14",
+    "position": 8,
+    "url": "https://americanflat.com/collections/11x14-frames",
+    "search_volume": 170,
+    "cpc": 0.5699999928474426,
+    "competition": "HIGH",
     "traffic_estimate": 3.8
   },
   {
@@ -6667,15 +6667,6 @@
     "cpc": 0.23999999463558197,
     "competition": "HIGH",
     "traffic_estimate": 3.7
-  },
-  {
-    "keyword": "white 11x14 frame with mat",
-    "position": 5,
-    "url": "https://americanflat.com/collections/11x14-frames",
-    "search_volume": 70,
-    "cpc": 0.4699999988079071,
-    "competition": "HIGH",
-    "traffic_estimate": 3.6
   },
   {
     "keyword": "11x14 frame with stand",
@@ -7281,15 +7272,6 @@
     "traffic_estimate": 3.2
   },
   {
-    "keyword": "wood frame 22 x 28",
-    "position": 4,
-    "url": "https://americanflat.com/collections/22x28-frames",
-    "search_volume": 140,
-    "cpc": 1.3600000143051147,
-    "competition": "HIGH",
-    "traffic_estimate": 3.2
-  },
-  {
     "keyword": "how to frame a wall",
     "position": 57,
     "url": "https://americanflat.com/collections/gallery-wall-frame-set",
@@ -7470,15 +7452,6 @@
     "traffic_estimate": 3.1
   },
   {
-    "keyword": "8x12 black picture frame",
-    "position": 11,
-    "url": "https://americanflat.com/collections/8x12-frames",
-    "search_volume": 140,
-    "cpc": 1.149999976158142,
-    "competition": "HIGH",
-    "traffic_estimate": 3.1
-  },
-  {
     "keyword": "12 by 18 poster frame",
     "position": 8,
     "url": "https://americanflat.com/collections/12x18-frames",
@@ -7646,6 +7619,15 @@
     "url": "https://americanflat.com/products/black-adjustable-tabletop-easel-stand-for-frames",
     "search_volume": 480,
     "cpc": 1.1299999952316284,
+    "competition": "HIGH",
+    "traffic_estimate": 3.0
+  },
+  {
+    "keyword": "studio decor 18 x 24 frame",
+    "position": 5,
+    "url": "https://americanflat.com/collections/18x24-frames",
+    "search_volume": 70,
+    "cpc": 0.800000011920929,
     "competition": "HIGH",
     "traffic_estimate": 3.0
   },
@@ -7889,15 +7871,6 @@
     "url": "https://americanflat.com/collections/8-5x11-frames",
     "search_volume": 14800,
     "cpc": 0.8500000238418579,
-    "competition": "HIGH",
-    "traffic_estimate": 2.8
-  },
-  {
-    "keyword": "16x20 inches",
-    "position": 4,
-    "url": "https://americanflat.com/blogs/americanflat-blog/is-16x20-a-standard-frame-size",
-    "search_volume": 210,
-    "cpc": 0.27000001072883606,
     "competition": "HIGH",
     "traffic_estimate": 2.8
   },
@@ -8460,15 +8433,6 @@
     "traffic_estimate": 2.5
   },
   {
-    "keyword": "walmart 11x17 frame",
-    "position": 31,
-    "url": "https://americanflat.com/collections/11x17-frames",
-    "search_volume": 480,
-    "cpc": 0.20000000298023224,
-    "competition": "HIGH",
-    "traffic_estimate": 2.5
-  },
-  {
     "keyword": "28x28 frame",
     "position": 22,
     "url": "https://americanflat.com/collections/22x28-frames",
@@ -8681,6 +8645,15 @@
     "url": "https://americanflat.com/collections/11x14-frames",
     "search_volume": 90,
     "cpc": 0.41999998688697815,
+    "competition": "HIGH",
+    "traffic_estimate": 2.4
+  },
+  {
+    "keyword": "shadow box floating frame",
+    "position": 9,
+    "url": "https://americanflat.com/collections/shadowbox-picture-frames",
+    "search_volume": 110,
+    "cpc": 0.5600000023841858,
     "competition": "HIGH",
     "traffic_estimate": 2.4
   },
@@ -8996,6 +8969,33 @@
     "url": "https://americanflat.com/collections/20x24-frames",
     "search_volume": 110,
     "cpc": 1.0800000429153442,
+    "competition": "HIGH",
+    "traffic_estimate": 2.3
+  },
+  {
+    "keyword": "gold a4 frame",
+    "position": 2,
+    "url": "https://americanflat.com/collections/gold-picture-frames",
+    "search_volume": 90,
+    "cpc": 1.2599999904632568,
+    "competition": "HIGH",
+    "traffic_estimate": 2.3
+  },
+  {
+    "keyword": "silver frame gallery wall",
+    "position": 4,
+    "url": "https://americanflat.com/collections/silver-picture-frames",
+    "search_volume": 90,
+    "cpc": 3.559999942779541,
+    "competition": "HIGH",
+    "traffic_estimate": 2.3
+  },
+  {
+    "keyword": "silver frames gallery wall",
+    "position": 3,
+    "url": "https://americanflat.com/collections/silver-picture-frames",
+    "search_volume": 90,
+    "cpc": 3.559999942779541,
     "competition": "HIGH",
     "traffic_estimate": 2.3
   }

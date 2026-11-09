@@ -26,19 +26,6 @@
     "priority_score": 30375
   },
   {
-    "keyword": "shadow box",
-    "position": 18,
-    "url": "https://americanflat.com/collections/shadowbox-picture-frames",
-    "search_volume": 90500,
-    "cpc": 0.49000000953674316,
-    "competition": "HIGH",
-    "traffic_estimate": 453.2,
-    "keyword_difficulty": 9,
-    "intent": "informational",
-    "traffic_value": 44345,
-    "priority_score": 26765
-  },
-  {
     "keyword": "poster frame",
     "position": 23,
     "url": "https://americanflat.com/collections/picture-frames",
@@ -46,10 +33,10 @@
     "cpc": 1.0099999904632568,
     "competition": "HIGH",
     "traffic_estimate": 38.0,
-    "keyword_difficulty": 11,
+    "keyword_difficulty": 12,
     "intent": "transactional",
     "traffic_value": 40905,
-    "priority_score": 14418
+    "priority_score": 14256
   },
   {
     "keyword": "photo frame",
@@ -273,6 +260,19 @@
     "priority_score": 5772
   },
   {
+    "keyword": "shadow box picture frames",
+    "position": 22,
+    "url": "https://americanflat.com/collections/shadowbox-picture-frames",
+    "search_volume": 27100,
+    "cpc": 0.5699999928474426,
+    "competition": "HIGH",
+    "traffic_estimate": 19.6,
+    "keyword_difficulty": 9,
+    "intent": "informational",
+    "traffic_value": 15447,
+    "priority_score": 5549
+  },
+  {
     "keyword": "8x12 picture frame",
     "position": 22,
     "url": "https://americanflat.com/collections/8x12-frames",
@@ -284,19 +284,6 @@
     "intent": "transactional",
     "traffic_value": 6897,
     "priority_score": 5445
-  },
-  {
-    "keyword": "shadow box picture frames",
-    "position": 22,
-    "url": "https://americanflat.com/collections/shadowbox-picture-frames",
-    "search_volume": 27100,
-    "cpc": 0.5699999928474426,
-    "competition": "HIGH",
-    "traffic_estimate": 19.6,
-    "keyword_difficulty": 12,
-    "intent": "informational",
-    "traffic_value": 15447,
-    "priority_score": 5366
   },
   {
     "keyword": "24x30 frame",
@@ -371,10 +358,10 @@
     "cpc": 0.5699999928474426,
     "competition": "HIGH",
     "traffic_estimate": 32.1,
-    "keyword_difficulty": 8,
+    "keyword_difficulty": 9,
     "intent": "informational",
     "traffic_value": 15447,
-    "priority_score": 4363
+    "priority_score": 4316
   },
   {
     "keyword": "16x24 frame",
@@ -2288,6 +2275,19 @@
     "priority_score": 330
   },
   {
+    "keyword": "american frame",
+    "position": 28,
+    "url": "https://americanflat.com/collections/picture-frames",
+    "search_volume": 5400,
+    "cpc": 2.819999933242798,
+    "competition": "HIGH",
+    "traffic_estimate": 13.0,
+    "keyword_difficulty": 19,
+    "intent": "informational",
+    "traffic_value": 15228,
+    "priority_score": 328
+  },
+  {
     "keyword": "11 x 8",
     "position": 21,
     "url": "https://americanflat.com/collections/8-5x11-frames",
@@ -2299,19 +2299,6 @@
     "intent": "informational",
     "traffic_value": 2431,
     "priority_score": 325
-  },
-  {
-    "keyword": "american frame",
-    "position": 28,
-    "url": "https://americanflat.com/collections/picture-frames",
-    "search_volume": 5400,
-    "cpc": 2.819999933242798,
-    "competition": "HIGH",
-    "traffic_estimate": 13.0,
-    "keyword_difficulty": 20,
-    "intent": "informational",
-    "traffic_value": 15228,
-    "priority_score": 324
   },
   {
     "keyword": "30 by 40 frame",
@@ -3250,6 +3237,19 @@
     "priority_score": 148
   },
   {
+    "keyword": "american picture frame",
+    "position": 11,
+    "url": "https://americanflat.com/",
+    "search_volume": 320,
+    "cpc": 2.7699999809265137,
+    "competition": "HIGH",
+    "traffic_estimate": 3.6,
+    "keyword_difficulty": 9,
+    "intent": "informational",
+    "traffic_value": 886,
+    "priority_score": 146
+  },
+  {
     "keyword": "now playing record holder",
     "position": 30,
     "url": "https://americanflat.com/products/now-playing-vinyl-record-stand",
@@ -3299,19 +3299,6 @@
     "keyword_difficulty": 0,
     "intent": "informational",
     "traffic_value": 189,
-    "priority_score": 144
-  },
-  {
-    "keyword": "american picture frame",
-    "position": 11,
-    "url": "https://americanflat.com/",
-    "search_volume": 320,
-    "cpc": 2.7699999809265137,
-    "competition": "HIGH",
-    "traffic_estimate": 3.6,
-    "keyword_difficulty": 10,
-    "intent": "informational",
-    "traffic_value": 886,
     "priority_score": 144
   },
   {
@@ -3495,6 +3482,19 @@
     "intent": "informational",
     "traffic_value": 0,
     "priority_score": 120
+  },
+  {
+    "keyword": "silver picture frame 11x14",
+    "position": 21,
+    "url": "https://americanflat.com/collections/silver-picture-frames",
+    "search_volume": 390,
+    "cpc": 1.1299999952316284,
+    "competition": "HIGH",
+    "traffic_estimate": 3.8,
+    "keyword_difficulty": 0,
+    "intent": "navigational",
+    "traffic_value": 441,
+    "priority_score": 117
   },
   {
     "keyword": "12x16 photo frame",
