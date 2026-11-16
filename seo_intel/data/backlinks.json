@@ -3,33 +3,33 @@
     {
       "domain": "americanflat.com",
       "rank": 353,
-      "backlinks": 3636,
-      "referring_domains": 421,
-      "referring_main_domains": 409,
+      "backlinks": 3648,
+      "referring_domains": 424,
+      "referring_main_domains": 412,
       "is_target": true
     },
     {
       "domain": "michaels.com",
       "rank": 477,
-      "backlinks": 796415,
-      "referring_domains": 62866,
-      "referring_main_domains": 59534,
+      "backlinks": 808489,
+      "referring_domains": 63256,
+      "referring_main_domains": 59900,
       "is_target": false
     },
     {
       "domain": "arttoframe.com",
       "rank": 281,
-      "backlinks": 7055,
-      "referring_domains": 1418,
-      "referring_main_domains": 1249,
+      "backlinks": 7095,
+      "referring_domains": 1425,
+      "referring_main_domains": 1255,
       "is_target": false
     },
     {
       "domain": "modernmemorydesign.com",
       "rank": 213,
-      "backlinks": 2227,
-      "referring_domains": 508,
-      "referring_main_domains": 451,
+      "backlinks": 2242,
+      "referring_domains": 509,
+      "referring_main_domains": 452,
       "is_target": false
     }
   ],
@@ -72,8 +72,8 @@
     },
     {
       "domain": "loopabroad.com",
-      "rank": 61,
-      "backlinks": 159,
+      "rank": 62,
+      "backlinks": 160,
       "first_seen": "2026-08-27"
     },
     {
@@ -129,6 +129,12 @@
       "rank": 30,
       "backlinks": 3,
       "first_seen": "2026-08-29"
+    },
+    {
+      "domain": "7figuresellersummit.com",
+      "rank": 30,
+      "backlinks": 6,
+      "first_seen": "2026-08-01"
     },
     {
       "domain": "ecofriendlylink.com",
@@ -207,12 +213,6 @@
       "rank": 14,
       "backlinks": 5,
       "first_seen": "2026-09-20"
-    },
-    {
-      "domain": "7figuresellersummit.com",
-      "rank": 14,
-      "backlinks": 4,
-      "first_seen": "2026-08-01"
     },
     {
       "domain": "clay.earth",
@@ -299,40 +299,40 @@
       "first_seen": "2021-10-25"
     },
     {
-      "domain": "get-top-rankings.com",
+      "domain": "theclintoncourier.net",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-11-09"
+      "first_seen": "2026-11-16"
     },
     {
-      "domain": "drcheckerbulk.shop",
+      "domain": "lorentius.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-11-09"
+      "first_seen": "2026-11-16"
     },
     {
-      "domain": "websitemonitor.store",
+      "domain": "theminee.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-11-08"
+      "first_seen": "2026-11-15"
     },
     {
-      "domain": "backlinkdachecker.shop",
+      "domain": "contactout.com",
       "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-08"
+      "backlinks": 2,
+      "first_seen": "2026-11-15"
     },
     {
-      "domain": "nzozgaudium.com.pl",
+      "domain": "theeverythingdepot.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-11-07"
+      "first_seen": "2026-11-13"
     },
     {
-      "domain": "seoserviceslinkbuilding.site",
+      "domain": "bespoke-bride.com",
       "rank": 0,
       "backlinks": 1,
-      "first_seen": "2026-11-07"
+      "first_seen": "2026-11-12"
     }
   ],
   "anchors": [
@@ -348,12 +348,12 @@
     },
     {
       "anchor": "here",
-      "backlinks": 159,
+      "backlinks": 160,
       "referring_domains": 1
     },
     {
       "anchor": "Americanflat",
-      "backlinks": 77,
+      "backlinks": 85,
       "referring_domains": 33
     },
     {
@@ -373,16 +373,16 @@
     },
     {
       "anchor": "High Quality Dofollow Backlinks DA 50 PA 40 Premium PBN Network Service americanflat.com Rank First Page Google Fast SEO Link Building Buy Backlinks Online Cheap",
-      "backlinks": 29,
-      "referring_domains": 29
+      "backlinks": 31,
+      "referring_domains": 31
     },
     {
-      "anchor": "Picture Frames",
+      "anchor": "Wall Art",
       "backlinks": 22,
       "referring_domains": 2
     },
     {
-      "anchor": "Wall Art",
+      "anchor": "Picture Frames",
       "backlinks": 22,
       "referring_domains": 2
     },
@@ -525,9 +525,77 @@
       "lost_referring_domains": 14,
       "new_backlinks": 318,
       "lost_backlinks": 116
+    },
+    {
+      "date": "2026-10-31",
+      "referring_domains": 428,
+      "new_referring_domains": 98,
+      "lost_referring_domains": 16,
+      "new_backlinks": 1743,
+      "lost_backlinks": 99
     }
   ],
   "gained": [
+    {
+      "domain": "theclintoncourier.net",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-16"
+    },
+    {
+      "domain": "lorentius.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-16"
+    },
+    {
+      "domain": "theminee.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-15"
+    },
+    {
+      "domain": "contactout.com",
+      "rank": 0,
+      "backlinks": 2,
+      "first_seen": "2026-11-15"
+    },
+    {
+      "domain": "theeverythingdepot.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-13"
+    },
+    {
+      "domain": "bespoke-bride.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-12"
+    },
+    {
+      "domain": "shortenurls.eu",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-11"
+    },
+    {
+      "domain": "kevinszabojrplumbing.net",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-10"
+    },
+    {
+      "domain": "topentreno.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-10"
+    },
+    {
+      "domain": "filmizleten.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-10"
+    },
     {
       "domain": "get-top-rankings.com",
       "rank": 0,
@@ -535,31 +603,7 @@
       "first_seen": "2026-11-09"
     },
     {
-      "domain": "drcheckerbulk.shop",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-09"
-    },
-    {
-      "domain": "websitemonitor.store",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-08"
-    },
-    {
-      "domain": "backlinkdachecker.shop",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-08"
-    },
-    {
       "domain": "nzozgaudium.com.pl",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-07"
-    },
-    {
-      "domain": "seoserviceslinkbuilding.site",
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-11-07"
@@ -631,12 +675,6 @@
       "first_seen": "2026-11-04"
     },
     {
-      "domain": "graduationcapandgown.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-03"
-    },
-    {
       "domain": "realarb.com",
       "rank": 0,
       "backlinks": 1,
@@ -647,39 +685,33 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-11-02"
-    },
-    {
-      "domain": "woombie.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-01"
-    },
-    {
-      "domain": "datawebot.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-01"
-    },
-    {
-      "domain": "wethrift.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-01"
-    },
-    {
-      "domain": "michaelhelwiginteriors.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-01"
-    },
-    {
-      "domain": "urls-shortener.eu",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-10-31"
     }
   ],
   "lost": [
+    {
+      "domain": "loopabroad.com",
+      "rank": 0,
+      "backlinks": 3,
+      "lost_date": "2026-11-15"
+    },
+    {
+      "domain": "yukai.uk",
+      "rank": 0,
+      "backlinks": 4,
+      "lost_date": "2026-11-15"
+    },
+    {
+      "domain": "shortenurls.eu",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-11-12"
+    },
+    {
+      "domain": "graduationcapandgown.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-11-10"
+    },
     {
       "domain": "americanspcc.org",
       "rank": 0,
@@ -693,12 +725,6 @@
       "lost_date": "2026-11-05"
     },
     {
-      "domain": "loopabroad.com",
-      "rank": 0,
-      "backlinks": 2,
-      "lost_date": "2026-11-03"
-    },
-    {
       "domain": "bye.fyi",
       "rank": 0,
       "backlinks": 2,
@@ -709,12 +735,6 @@
       "rank": 0,
       "backlinks": 1,
       "lost_date": "2026-10-31"
-    },
-    {
-      "domain": "yukai.uk",
-      "rank": 0,
-      "backlinks": 2,
-      "lost_date": "2026-10-28"
     },
     {
       "domain": "designjobs.careers",
@@ -771,12 +791,6 @@
       "lost_date": "2026-09-23"
     },
     {
-      "domain": "kevinszabojrplumbing.net",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-09-20"
-    },
-    {
       "domain": "ashleywinndesign.com",
       "rank": 0,
       "backlinks": 1,
@@ -823,13 +837,7 @@
       "rank": 0,
       "backlinks": 1,
       "lost_date": "2026-08-16"
-    },
-    {
-      "domain": "kickstartremote.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-08-14"
     }
   ],
-  "generated_at": "2026-11-09T23:20:49+00:00"
+  "generated_at": "2026-11-16T23:17:31+00:00"
 }

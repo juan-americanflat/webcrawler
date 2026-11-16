@@ -73,18 +73,18 @@
       "their_url": "https://www.arttoframe.com/"
     },
     {
-      "keyword": "picture frames 36 x 24",
-      "search_volume": 27100,
-      "their_position": 6,
-      "our_position": null,
-      "their_url": "https://www.arttoframe.com/36x24_picture_frames"
-    },
-    {
       "keyword": "24x36 photo frame",
       "search_volume": 27100,
       "their_position": 9,
       "our_position": null,
       "their_url": "https://www.arttoframe.com/24x36_picture_frames"
+    },
+    {
+      "keyword": "picture frames 36 x 24",
+      "search_volume": 27100,
+      "their_position": 6,
+      "our_position": null,
+      "their_url": "https://www.arttoframe.com/36x24_picture_frames"
     },
     {
       "keyword": "36x24 frame",
@@ -115,13 +115,6 @@
       "their_url": "https://www.arttoframe.com/shadowbox-frames"
     },
     {
-      "keyword": "custom frames",
-      "search_volume": 22200,
-      "their_position": 18,
-      "our_position": null,
-      "their_url": "https://www.arttoframe.com/"
-    },
-    {
       "keyword": "36x24 poster frame",
       "search_volume": 22200,
       "their_position": 3,
@@ -134,6 +127,13 @@
       "their_position": 14,
       "our_position": null,
       "their_url": "https://www.arttoframe.com/24x36_picture_frames"
+    },
+    {
+      "keyword": "custom frames",
+      "search_volume": 22200,
+      "their_position": 18,
+      "our_position": null,
+      "their_url": "https://www.arttoframe.com/"
     },
     {
       "keyword": "poster frame 24 x 36",
@@ -227,18 +227,18 @@
       "their_url": "https://www.arttoframe.com/8x10_picture_frames"
     },
     {
-      "keyword": "24 x 36 frame",
-      "search_volume": 9900,
-      "their_position": 7,
-      "our_position": null,
-      "their_url": "https://www.arttoframe.com/24x36_picture_frames"
-    },
-    {
       "keyword": "photo mat and frame",
       "search_volume": 9900,
       "their_position": 16,
       "our_position": null,
       "their_url": "https://www.arttoframe.com/photo_mats"
+    },
+    {
+      "keyword": "24 x 36 frame",
+      "search_volume": 9900,
+      "their_position": 7,
+      "our_position": null,
+      "their_url": "https://www.arttoframe.com/24x36_picture_frames"
     },
     {
       "keyword": "pic collage frames",
@@ -304,13 +304,6 @@
       "their_url": "https://www.arttoframe.com/picture-frames"
     },
     {
-      "keyword": "cheap picture frames",
-      "search_volume": 8100,
-      "their_position": 14,
-      "our_position": null,
-      "their_url": "https://www.arttoframe.com/picture-frames"
-    },
-    {
       "keyword": "picture frame for 8x10 photo",
       "search_volume": 8100,
       "their_position": 6,
@@ -323,6 +316,13 @@
       "their_position": 5,
       "our_position": null,
       "their_url": "https://www.arttoframe.com/8x10_picture_frames"
+    },
+    {
+      "keyword": "cheap picture frames",
+      "search_volume": 8100,
+      "their_position": 14,
+      "our_position": null,
+      "their_url": "https://www.arttoframe.com/picture-frames"
     },
     {
       "keyword": "artistic frame",
@@ -367,6 +367,13 @@
       "their_url": "https://www.arttoframe.com/picture-frames"
     },
     {
+      "keyword": "16x20 matted frame",
+      "search_volume": 6600,
+      "their_position": 11,
+      "our_position": null,
+      "their_url": "https://www.arttoframe.com/16x20-Satin-Black-collage-picture-frame--opening-Super-White-mat/custom-dm-16x20/FRBW26079"
+    },
+    {
       "keyword": "20x28 picture frame",
       "search_volume": 6600,
       "their_position": 8,
@@ -407,13 +414,6 @@
       "their_position": 7,
       "our_position": null,
       "their_url": "https://www.arttoframe.com/Black-Picture-Frames"
-    },
-    {
-      "keyword": "16x20 matted frame",
-      "search_volume": 6600,
-      "their_position": 11,
-      "our_position": null,
-      "their_url": "https://www.arttoframe.com/16x20-Satin-Black-collage-picture-frame--opening-Super-White-mat/custom-dm-16x20/FRBW26079"
     },
     {
       "keyword": "painting and frame",
@@ -481,20 +481,6 @@
       "their_url": "https://www.modernmemorydesign.com/blogs/news/common-frame-sizes-the-2026-guide-to-standard-picture-dimensions"
     },
     {
-      "keyword": "photo frames big",
-      "search_volume": 12100,
-      "their_position": 6,
-      "our_position": null,
-      "their_url": "https://www.modernmemorydesign.com/collections/large-picture-frames-sizes-big-picture-frames-for-wall"
-    },
-    {
-      "keyword": "photo frame big",
-      "search_volume": 12100,
-      "their_position": 14,
-      "our_position": null,
-      "their_url": "https://www.modernmemorydesign.com/collections/large-picture-frames-sizes-big-picture-frames-for-wall"
-    },
-    {
       "keyword": "photo frames large",
       "search_volume": 12100,
       "their_position": 14,
@@ -505,6 +491,20 @@
       "keyword": "big photo frame",
       "search_volume": 12100,
       "their_position": 11,
+      "our_position": null,
+      "their_url": "https://www.modernmemorydesign.com/collections/large-picture-frames-sizes-big-picture-frames-for-wall"
+    },
+    {
+      "keyword": "photo frames big",
+      "search_volume": 12100,
+      "their_position": 6,
+      "our_position": null,
+      "their_url": "https://www.modernmemorydesign.com/collections/large-picture-frames-sizes-big-picture-frames-for-wall"
+    },
+    {
+      "keyword": "photo frame big",
+      "search_volume": 12100,
+      "their_position": 14,
       "our_position": null,
       "their_url": "https://www.modernmemorydesign.com/collections/large-picture-frames-sizes-big-picture-frames-for-wall"
     },
@@ -572,9 +572,9 @@
       "their_url": "https://www.modernmemorydesign.com/products/picture-frame-glass-replacement"
     },
     {
-      "keyword": "frames for tvs",
+      "keyword": "frame for television",
       "search_volume": 3600,
-      "their_position": 10,
+      "their_position": 17,
       "our_position": null,
       "their_url": "https://www.modernmemorydesign.com/collections/custom-tv-frames-stylish-picture-frames-for-samsung-and-flat-screen-tvs"
     },
@@ -610,6 +610,13 @@
       "keyword": "frame for tv",
       "search_volume": 3600,
       "their_position": 18,
+      "our_position": null,
+      "their_url": "https://www.modernmemorydesign.com/collections/custom-tv-frames-stylish-picture-frames-for-samsung-and-flat-screen-tvs"
+    },
+    {
+      "keyword": "frames for tvs",
+      "search_volume": 3600,
+      "their_position": 10,
       "our_position": null,
       "their_url": "https://www.modernmemorydesign.com/collections/custom-tv-frames-stylish-picture-frames-for-samsung-and-flat-screen-tvs"
     },
