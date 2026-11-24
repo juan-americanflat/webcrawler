@@ -3,33 +3,33 @@
     {
       "domain": "americanflat.com",
       "rank": 353,
-      "backlinks": 3648,
-      "referring_domains": 424,
-      "referring_main_domains": 412,
+      "backlinks": 3655,
+      "referring_domains": 428,
+      "referring_main_domains": 415,
       "is_target": true
     },
     {
       "domain": "michaels.com",
       "rank": 477,
-      "backlinks": 808489,
-      "referring_domains": 63256,
-      "referring_main_domains": 59900,
+      "backlinks": 815772,
+      "referring_domains": 63498,
+      "referring_main_domains": 60126,
       "is_target": false
     },
     {
       "domain": "arttoframe.com",
-      "rank": 281,
-      "backlinks": 7095,
-      "referring_domains": 1425,
-      "referring_main_domains": 1255,
+      "rank": 282,
+      "backlinks": 7150,
+      "referring_domains": 1432,
+      "referring_main_domains": 1260,
       "is_target": false
     },
     {
       "domain": "modernmemorydesign.com",
-      "rank": 213,
-      "backlinks": 2242,
-      "referring_domains": 509,
-      "referring_main_domains": 452,
+      "rank": 214,
+      "backlinks": 2256,
+      "referring_domains": 517,
+      "referring_main_domains": 460,
       "is_target": false
     }
   ],
@@ -73,7 +73,7 @@
     {
       "domain": "loopabroad.com",
       "rank": 62,
-      "backlinks": 160,
+      "backlinks": 162,
       "first_seen": "2026-08-27"
     },
     {
@@ -299,6 +299,30 @@
       "first_seen": "2021-10-25"
     },
     {
+      "domain": "bestseocheckerfree.online",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-19"
+    },
+    {
+      "domain": "lsu.edu",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-17"
+    },
+    {
+      "domain": "salvagecoindy.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-17"
+    },
+    {
+      "domain": "bluestarfam.org",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-17"
+    },
+    {
       "domain": "theclintoncourier.net",
       "rank": 0,
       "backlinks": 1,
@@ -309,30 +333,6 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-11-16"
-    },
-    {
-      "domain": "theminee.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-15"
-    },
-    {
-      "domain": "contactout.com",
-      "rank": 0,
-      "backlinks": 2,
-      "first_seen": "2026-11-15"
-    },
-    {
-      "domain": "theeverythingdepot.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-13"
-    },
-    {
-      "domain": "bespoke-bride.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-12"
     }
   ],
   "anchors": [
@@ -348,7 +348,7 @@
     },
     {
       "anchor": "here",
-      "backlinks": 160,
+      "backlinks": 162,
       "referring_domains": 1
     },
     {
@@ -377,12 +377,12 @@
       "referring_domains": 31
     },
     {
-      "anchor": "Wall Art",
+      "anchor": "Picture Frames",
       "backlinks": 22,
       "referring_domains": 2
     },
     {
-      "anchor": "Picture Frames",
+      "anchor": "Wall Art",
       "backlinks": 22,
       "referring_domains": 2
     },
@@ -537,6 +537,30 @@
   ],
   "gained": [
     {
+      "domain": "bestseocheckerfree.online",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-19"
+    },
+    {
+      "domain": "lsu.edu",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-17"
+    },
+    {
+      "domain": "salvagecoindy.com",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-17"
+    },
+    {
+      "domain": "bluestarfam.org",
+      "rank": 0,
+      "backlinks": 1,
+      "first_seen": "2026-11-17"
+    },
+    {
       "domain": "theclintoncourier.net",
       "rank": 0,
       "backlinks": 1,
@@ -593,7 +617,7 @@
     {
       "domain": "filmizleten.com",
       "rank": 0,
-      "backlinks": 1,
+      "backlinks": 2,
       "first_seen": "2026-11-10"
     },
     {
@@ -661,33 +685,15 @@
       "rank": 0,
       "backlinks": 1,
       "first_seen": "2026-11-04"
-    },
-    {
-      "domain": "panoramanow.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-04"
-    },
-    {
-      "domain": "top-seo-service-high-rated.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-04"
-    },
-    {
-      "domain": "realarb.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-02"
-    },
-    {
-      "domain": "theysentit.com",
-      "rank": 0,
-      "backlinks": 1,
-      "first_seen": "2026-11-02"
     }
   ],
   "lost": [
+    {
+      "domain": "followmystep.com",
+      "rank": 0,
+      "backlinks": 1,
+      "lost_date": "2026-11-20"
+    },
     {
       "domain": "loopabroad.com",
       "rank": 0,
@@ -831,13 +837,7 @@
       "rank": 0,
       "backlinks": 2,
       "lost_date": "2026-08-18"
-    },
-    {
-      "domain": "adventuresfrugalmom.com",
-      "rank": 0,
-      "backlinks": 1,
-      "lost_date": "2026-08-16"
     }
   ],
-  "generated_at": "2026-11-16T23:17:31+00:00"
+  "generated_at": "2026-11-24T01:34:21+00:00"
 }
