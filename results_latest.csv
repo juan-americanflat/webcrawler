@@ -47,14 +47,14 @@ multi photo frame,core - brand,high,,Not ranked,,False,211,,2026-11-24T01:00:04.
 6x9 picture frame,size - small,medium,,Not ranked,,False,142,,2026-11-24T01:23:19.194702
 3x4 picture frame,size - small,medium,,Not ranked,,False,100,,2026-11-24T01:23:19.194704
 wallet size picture frame,size - small,medium,,Not ranked,,False,134,,2026-11-24T01:23:19.194706
-1x2 picture frame,size - small,low,,Not ranked,,False,145,,2026-11-16T23:17:36.170150
-2x6 picture frame,size - small,low,,Not ranked,,False,129,,2026-11-16T23:17:36.170162
-3x7 picture frame,size - small,low,,Not ranked,,False,97,,2026-11-16T23:17:36.170165
-4x10 picture frame,size - small,low,,Not ranked,,False,160,,2026-11-16T23:17:36.170167
-5x10 picture frame,size - small,low,,Not ranked,,False,107,,2026-11-16T23:17:36.170169
-5x20 picture frame,size - small,low,,Not ranked,,False,178000,,2026-11-16T23:17:36.170171
-6x4 picture frame,size - small,low,25,#25,https://americanflat.com/collections/4-x-6-picture-frames?srsltid=AYCX9vJ2ZpuBC-GGkB7qSZMMHUqRcZ5TUOiv4nVB288zj1bUS8ltnyhe,False,144,,2026-11-16T23:17:36.170174
-7x5 picture frame,size - small,low,21,#21,https://americanflat.com/collections/5-x-7-picture-frames?srsltid=AYCX9vKsdyyb2-CkfSGZL0sNBcq0GmLuuQEsRuAlIUjmQda1UxwuMPjb,False,144,,2026-11-16T23:17:36.170184
+1x2 picture frame,size - small,low,,Not ranked,,False,97,,2026-11-24T01:46:30.187596
+2x6 picture frame,size - small,low,,Not ranked,,False,92,,2026-11-24T01:46:30.187608
+3x7 picture frame,size - small,low,,Not ranked,,False,97,,2026-11-24T01:46:30.187611
+4x10 picture frame,size - small,low,,Not ranked,,False,244,,2026-11-24T01:46:30.187614
+5x10 picture frame,size - small,low,,Not ranked,,False,105,,2026-11-24T01:46:30.187616
+5x20 picture frame,size - small,low,,Not ranked,,False,231,,2026-11-24T01:46:30.187619
+6x4 picture frame,size - small,low,,Not ranked,,False,154,,2026-11-24T01:46:30.187621
+7x5 picture frame,size - small,low,,Not ranked,,False,111,,2026-11-24T01:46:30.187630
 10x10 picture frame,size - square/medium,high,,Not ranked,,False,143,,2026-11-24T01:00:04.004434
 12x12 picture frame,size - square/medium,high,,Not ranked,,False,104,,2026-11-24T01:00:04.004436
 8x8 picture frame,size - square/medium,medium,,Not ranked,,False,142,,2026-11-24T01:23:19.194708
@@ -90,10 +90,10 @@ wallet size picture frame,size - small,medium,,Not ranked,,False,134,,2026-11-24
 32x40 picture frame,size - extra large,medium,,Not ranked,,False,110,,2026-11-24T01:23:19.194752
 18x24 poster frame,size - extra large,medium,8,#8 ✅ Page 1,https://americanflat.com/collections/18x24-frames?srsltid=AYCX9vLoHscWy5h7i-2faFJ-P5FaESeZPTHSJDN3YfHp7Gtka-cPdSTT,False,203,,2026-11-24T01:23:19.194754
 20x28 picture frame,size - extra large,medium,,Not ranked,,False,126,,2026-11-24T01:23:19.194756
-36x36 picture frame,size - extra large,low,,Not ranked,,False,157,,2026-11-16T23:17:36.170186
-30x30 picture frame,size - extra large,low,,Not ranked,,False,176,,2026-11-16T23:17:36.170188
-36x24 picture frame,size - extra large,low,,Not ranked,,False,149,,2026-11-16T23:17:36.170191
-48x36 picture frame,size - extra large,low,,Not ranked,,False,141,,2026-11-16T23:17:36.170193
+36x36 picture frame,size - extra large,low,,Not ranked,,False,159,,2026-11-24T01:46:30.187633
+30x30 picture frame,size - extra large,low,,Not ranked,,False,126,,2026-11-24T01:46:30.187635
+36x24 picture frame,size - extra large,low,,Not ranked,,False,115,,2026-11-24T01:46:30.187637
+48x36 picture frame,size - extra large,low,,Not ranked,,False,197,,2026-11-24T01:46:30.187639
 odd size picture frames,size - odd/custom,medium,,Not ranked,,False,120,,2026-11-24T01:23:19.194758
 unusual size picture frames,size - odd/custom,medium,,Not ranked,,False,101,,2026-11-24T01:23:19.194760
 non standard picture frames,size - odd/custom,medium,,Not ranked,,False,100,,2026-11-24T01:23:19.194762
@@ -101,18 +101,18 @@ custom size picture frame,size - odd/custom,medium,,Not ranked,,False,106,,2026-
 odd shaped picture frames,size - odd/custom,medium,,Not ranked,,False,176,,2026-11-24T01:23:19.194766
 picture frame sizes chart,size - odd/custom,medium,12,#12 Page 2,https://americanflat.com/pages/picture-frame-sizes?srsltid=AYCX9vL_DdNzty774qOc_laX_6lpAj0CaAcEQfaoOrR2sLR0rSt6jiak,False,181,,2026-11-24T01:23:19.194768
 7x9 picture frame,size - odd/custom,medium,,Not ranked,,False,109,,2026-11-24T01:23:19.194770
-6x7 picture frame,size - odd/custom,low,,Not ranked,,False,159,,2026-11-16T23:17:36.170194
-7x10 picture frame,size - odd/custom,low,,Not ranked,,False,132,,2026-11-16T23:17:36.170196
-8x9 picture frame,size - odd/custom,low,,Not ranked,,False,119,,2026-11-16T23:17:36.170198
-9x10 picture frame,size - odd/custom,low,,Not ranked,,False,141,,2026-11-16T23:17:36.170200
-10x14 picture frame,size - odd/custom,low,,Not ranked,,False,150,,2026-11-16T23:17:36.170202
-10x15 picture frame,size - odd/custom,low,,Not ranked,,False,146,,2026-11-16T23:17:36.170204
-11x16 picture frame,size - odd/custom,low,,Not ranked,,False,148,,2026-11-16T23:17:36.170205
-12x14 picture frame,size - odd/custom,low,,Not ranked,,False,164,,2026-11-16T23:17:36.170207
-13x19 picture frame,size - odd/custom,low,20,#20 Page 2,https://americanflat.com/collections/13x19-frames?srsltid=AYCX9vL2FZVk-DxQu6HnCAARFWnhGu0KDZ8Nq1yt28ULdUNRSj0Gq_H5,False,216,,2026-11-16T23:17:36.170209
-14x20 picture frame,size - odd/custom,low,,Not ranked,,False,127,,2026-11-16T23:17:36.170211
-15x19 picture frame,size - odd/custom,low,,Not ranked,,False,170,,2026-11-16T23:17:36.170212
-15x21 picture frame,size - odd/custom,low,,Not ranked,,False,139,,2026-11-16T23:17:36.170214
+6x7 picture frame,size - odd/custom,low,,Not ranked,,False,159,,2026-11-24T01:46:30.187641
+7x10 picture frame,size - odd/custom,low,,Not ranked,,False,130,,2026-11-24T01:46:30.187643
+8x9 picture frame,size - odd/custom,low,,Not ranked,,False,140,,2026-11-24T01:46:30.187645
+9x10 picture frame,size - odd/custom,low,,Not ranked,,False,108,,2026-11-24T01:46:30.187646
+10x14 picture frame,size - odd/custom,low,,Not ranked,,False,150,,2026-11-24T01:46:30.187648
+10x15 picture frame,size - odd/custom,low,,Not ranked,,False,146,,2026-11-24T01:46:30.187650
+11x16 picture frame,size - odd/custom,low,,Not ranked,,False,145,,2026-11-24T01:46:30.187652
+12x14 picture frame,size - odd/custom,low,,Not ranked,,False,153,,2026-11-24T01:46:30.187653
+13x19 picture frame,size - odd/custom,low,,Not ranked,,False,149,,2026-11-24T01:46:30.187655
+14x20 picture frame,size - odd/custom,low,,Not ranked,,False,139,,2026-11-24T01:46:30.187657
+15x19 picture frame,size - odd/custom,low,,Not ranked,,False,122,,2026-11-24T01:46:30.187658
+15x21 picture frame,size - odd/custom,low,,Not ranked,,False,143,,2026-11-24T01:46:30.187660
 black picture frame,color/style,high,,Not ranked,,False,100,,2026-11-24T01:00:04.004454
 white picture frame,color/style,high,,Not ranked,,False,148,,2026-11-24T01:00:04.004456
 gold picture frame,color/style,high,10,#10 ✅ Page 1,https://americanflat.com/collections/gold-picture-frames?srsltid=AYCX9vIhpERUaInIf_6yrF9yyzM9t5CX2DckoJZlw1NDOe_AuSYb2iUC,False,195,,2026-11-24T01:00:04.004458
@@ -137,15 +137,15 @@ copper picture frame,color/style,medium,,Not ranked,,False,134,,2026-11-24T01:23
 antique gold picture frame,color/style,medium,,Not ranked,,False,107,,2026-11-24T01:23:19.194791
 brushed gold picture frame,color/style,medium,,Not ranked,,False,111,,2026-11-24T01:23:19.194792
 matte black picture frame,color/style,medium,,Not ranked,,False,194,,2026-11-24T01:23:19.194794
-glossy picture frame,color/style,low,,Not ranked,,False,147,,2026-11-16T23:17:36.170216
+glossy picture frame,color/style,low,,Not ranked,,False,103,,2026-11-24T01:46:30.187662
 acrylic picture frame,material,high,,Not ranked,,False,116,,2026-11-24T01:00:04.004476
 plastic picture frame,material,medium,,Not ranked,,False,106,,2026-11-24T01:23:19.194796
 metal picture frame,material,medium,,Not ranked,,False,152,,2026-11-24T01:23:19.194798
 aluminum picture frame,material,medium,,Not ranked,,False,134,,2026-11-24T01:23:19.194800
-lucite picture frame,material,low,,Not ranked,,False,135,,2026-11-16T23:17:36.170218
-resin picture frame,material,low,,Not ranked,,False,162,,2026-11-16T23:17:36.170219
-leather picture frame,material,low,,Not ranked,,False,138,,2026-11-16T23:17:36.170221
-velvet picture frame,material,low,,Not ranked,,False,213,,2026-11-16T23:17:36.170223
+lucite picture frame,material,low,,Not ranked,,False,216,,2026-11-24T01:46:30.187664
+resin picture frame,material,low,,Not ranked,,False,117,,2026-11-24T01:46:30.187666
+leather picture frame,material,low,,Not ranked,,False,171,,2026-11-24T01:46:30.187668
+velvet picture frame,material,low,,Not ranked,,False,186,,2026-11-24T01:46:30.187669
 gallery wall kit,gallery wall,high,,Not ranked,,False,101,,2026-11-24T01:00:04.004478
 gallery wall ideas,gallery wall,high,,Not ranked,,False,186,,2026-11-24T01:00:04.004480
 gallery wall frames set,gallery wall,high,,Not ranked,,False,143,,2026-11-24T01:00:04.004482
@@ -171,7 +171,7 @@ gallery wall 4 frames,gallery wall,medium,9,#9 ✅ Page 1,https://americanflat.c
 gallery wall 6 frames,gallery wall,medium,,Not ranked,,False,91,,2026-11-24T01:23:19.194835
 gallery wall 8 frames,gallery wall,medium,,Not ranked,,False,188,,2026-11-24T01:23:19.194837
 gallery wall 10 frames,gallery wall,medium,,Not ranked,,False,88,,2026-11-24T01:23:19.194839
-buy wall art frames,gallery wall,low,,Not ranked,,False,144,,2026-11-16T23:17:36.170225
+buy wall art frames,gallery wall,low,,Not ranked,,False,105,,2026-11-24T01:46:30.187671
 picture frame set of 3,multi-pack/sets,high,,Not ranked,,False,150,,2026-11-24T01:00:04.004500
 picture frame set of 4,multi-pack/sets,high,,Not ranked,,False,121,,2026-11-24T01:00:04.004502
 picture frame set of 5,multi-pack/sets,high,,Not ranked,,False,151,,2026-11-24T01:00:04.004504
@@ -351,13 +351,13 @@ what size frame for 8x10 print,educational,high,,Not ranked,,False,70,,2026-11-2
 what size frame for 11x14 print,educational,high,,Not ranked,,False,58,,2026-11-24T01:00:04.004646
 picture frame mat sizes,educational,medium,,Not ranked,,False,187,,2026-11-24T01:23:19.195027
 how to choose picture frame,educational,medium,,Not ranked,,False,59,,2026-11-24T01:23:19.195029
-frame vs no frame wall art,educational,low,,Not ranked,,False,145,,2026-11-16T23:17:36.170226
+frame vs no frame wall art,educational,low,,Not ranked,,False,92,,2026-11-24T01:46:30.187673
 how to style gallery wall,educational,medium,,Not ranked,,False,96,,2026-11-24T01:23:19.195031
 gallery wall ideas for living room,educational,medium,,Not ranked,,False,91,,2026-11-24T01:23:19.195033
 gallery wall ideas for bedroom,educational,medium,,Not ranked,,False,110,,2026-11-24T01:23:19.195035
 how to hang frames without nails,educational,medium,,Not ranked,,False,79,,2026-11-24T01:23:19.195037
-picture frame spacing guide,educational,low,,Not ranked,,False,137,,2026-11-16T23:17:36.170228
-picture frame mounting hardware,educational,low,,Not ranked,,False,197,,2026-11-16T23:17:36.170230
+picture frame spacing guide,educational,low,,Not ranked,,False,71,,2026-11-24T01:46:30.187675
+picture frame mounting hardware,educational,low,,Not ranked,,False,126,,2026-11-24T01:46:30.187676
 4x6 frame,size - standard,high,,Not ranked,,False,155,,2026-11-24T01:00:04.004648
 5x7 frame,size - standard,high,,Not ranked,,False,98,,2026-11-24T01:00:04.004650
 8x10 frame,size - standard,high,,Not ranked,,False,211,,2026-11-24T01:00:04.004652
@@ -403,8 +403,8 @@ picture frame mounting hardware,educational,low,,Not ranked,,False,197,,2026-11-
 8x10 light wood picture frame,size - standard,medium,,Not ranked,,False,116,,2026-11-24T01:23:19.195073
 11x14 light wood picture frame,size - standard,medium,,Not ranked,,False,98,,2026-11-24T01:23:19.195074
 16x20 light wood picture frame,size - standard,medium,,Not ranked,,False,163,,2026-11-24T01:23:19.195076
-panoramic frame,size - odd/custom,low,,Not ranked,,False,143,,2026-11-16T23:17:36.170231
-vertical 8x10 frame,size - odd/custom,low,,Not ranked,,False,143,,2026-11-16T23:17:36.170233
+panoramic frame,size - odd/custom,low,,Not ranked,,False,145,,2026-11-24T01:46:30.187678
+vertical 8x10 frame,size - odd/custom,low,4,#4 ✅ Page 1,https://americanflat.com/collections/8x10-picture-frames?page=2&srsltid=AYCX9vL-5RGW5tpe6vxelVaFe1SWdGYSrYQ-YZkeCx5G2GfmFTX_nDps,False,96,,2026-11-24T01:46:30.187682
 A4 picture frame,size - metric,medium,,Not ranked,,False,149,,2026-11-24T01:23:19.195078
 A4 frame,size - metric,medium,,Not ranked,,False,147,,2026-11-24T01:23:19.195080
 A3 picture frame,size - metric,medium,,Not ranked,,False,225,,2026-11-24T01:23:19.195082
